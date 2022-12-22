@@ -2,8 +2,8 @@ collections:
   our-story:
     output: true
     order:
-      - In the News.md
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Logo and Song.md
       - Achievements.md
+      - In the News.md
