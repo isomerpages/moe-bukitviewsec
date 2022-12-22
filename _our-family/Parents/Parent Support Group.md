@@ -31,6 +31,3 @@ To create a rewarding educational experience for our children that will inspire 
 <img src="/images/6psg.png" style="width:20%;margin-right:15px;" align = "left">
 <img src="/images/7psg.png" style="width:20%;margin-right:15px;" align = "left">
 <img src="/images/8psg.png" style="width:20%;margin-right:15px;" align = "left">
-
-
-		 
