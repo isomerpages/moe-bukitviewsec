@@ -2,4 +2,5 @@ collections:
   our-family:
     output: true
     order:
+      - Students/Jonathan Soh Kai Fong (Class of 2021).md
       - Students/.keep
