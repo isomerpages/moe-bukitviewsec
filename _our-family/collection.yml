@@ -2,10 +2,10 @@ collections:
   our-family:
     output: true
     order:
-      - Staff/All Staff.md
-      - Staff/Middle Managers.md
-      - Staff/School Leaders.md
       - Staff/.keep
+      - Staff/School Leaders.md
+      - Staff/Middle Managers.md
+      - Staff/All Staff.md
       - Students/.keep
       - Students/Jonathan Soh Kai Fong (Class of 2021).md
       - Students/Nur Edyrana Norisha Binte Abdullah (Class of 2021).md
