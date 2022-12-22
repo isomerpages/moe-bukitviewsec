@@ -2,6 +2,7 @@ collections:
   our-story:
     output: true
     order:
+      - Corporate Video.md
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Logo and Song.md
