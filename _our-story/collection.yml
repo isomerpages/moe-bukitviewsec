@@ -2,5 +2,6 @@ collections:
   our-story:
     output: true
     order:
+      - Logo and Song.md
       - Principal's Message.md
       - Vision, Mission, Values.md
