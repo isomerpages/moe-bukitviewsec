@@ -2,7 +2,6 @@ collections:
   our-story:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Logo and Song.md
@@ -10,3 +9,4 @@ collections:
       - In the News.md
       - Corporate Video.md
       - Virtual Open House.md
+      - Contact Us.md
