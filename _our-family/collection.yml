@@ -2,5 +2,6 @@ collections:
   our-family:
     output: true
     order:
+      - Students/Nur Edyrana Norisha Binte Abdullah (Class of 2021).md
       - Students/Jonathan Soh Kai Fong (Class of 2021).md
       - Students/.keep
