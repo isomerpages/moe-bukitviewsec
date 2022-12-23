@@ -41,3 +41,21 @@ third_nav_title: Staff
 |---|---|---|
 |  **Mrs Parvathi Kesavan**<br>HOD/Humanities | **Mr Chin Wey Thur**<br>HOD/PE & CCA  | **Mr Ng Wuay Boon**<br>HOD/Science  |
 |   |   |   |
+
+<img src="/images/elamaran.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/deborah.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/eugene.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+|   |   |   |
+|---|---|---|
+| **Mr Elamaran**<br>Discipline Master  |  **Ms Deborah Goh**<br>SH/CCA | **Mr Quake Eugene**<br>SH/CCE & VIA  |
+|   |   |   |
+
+<img src="/images/eiei.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/muhd.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/patirica.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+|   |   |   |
+|---|---|---|
+| **Mdm Chia Ei Ei**<br>SH/ECG  | **Mr Muhd Fadly**<br>SH/Lit & Drama  | **Miss Patricia Lye**<br>SH/Computing  |
+|   |   |   |
