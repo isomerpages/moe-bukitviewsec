@@ -16,3 +16,19 @@ We see our alumni as a reflection of our school’s past, a representation of it
   
 Click on the following images to learn more about some of our alumni and their recent work with our school.
 
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%;margin-right:15px;" align=left src="/images/mothertongue.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%;margin-right:15px;" align=left src="/images/mothertongue.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%;margin-right:15px;" align=left src="/images/mothertongue.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%;margin-right:15px;" align=left src="/images/mothertongue.jpg">
+</a></p>
+
