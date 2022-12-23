@@ -117,3 +117,22 @@ Selected students took part in the Singapore and Asian Schools Mathematics Olymp
 Four of our teachers conducted a **Teacher-Led Workshop** entitled “Revolutionising Homework in Mathematics’. Mr Liu Sijian, Mr Kenneth Khoo, Mr Wang Kangcheng and Mrs Kelly Chew.
 
 <img src="/images/Teacher-Led Workshop March 2022 via Zoom 2.jpeg" style="width:85%">
+
+<figure>
+<img src="/images/Teacher-Led Workshop March 2022 via Zoom.jpeg" style="width:90%">
+<figcaption>Teacher-Led Workshop March 2022
+ </figcaption>
+</figure>
+
+**West Zone Mathematics (Secondary) Webinar 2022**; sharing on’ Collaborative Learning of S1NT Area and Perimeter ‘. Mr Alex Chia, Mr Nur Illya and Mr Kenneth Khoo.  
+  
+**Academy Awards for Professions Development 2022** <br>
+Mr Liu Sijian (Facilitator of Workshops) <br>
+Mdm Quek Eng Chiew (Facilitator of Workshops) <br>
+Mr Wang Kangcheng (Researcher)
+
+#### Principles of Accounts
+
+In today’s business climate, accounting is about more than just crunching numbers. Our students not only acquire knowledge and understanding of fundamental accounting concepts, principles and procedures in the context of business aims and activities, they also develop the understanding of the role of accounting in providing an information system for monitoring and decision making.  
+  
+Students will develop skills and attitudes that are pertinent to the workforce such as accuracy, orderliness, logical thought and an appreciation of professional ethics.
