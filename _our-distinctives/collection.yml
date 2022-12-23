@@ -2,5 +2,5 @@ collections:
   our-distinctives:
     output: true
     order:
-      - JOULES (ALP).md
       - Positive Education.md
+      - JOULES (ALP).md
