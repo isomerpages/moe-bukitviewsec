@@ -69,3 +69,33 @@ The AlgeCards is a set of manipulatives developed from a Lesson Study project by
 ###### <u>Student Achievements</u>
 
 Selected students took part in the Singapore and Asian Schools Mathematics Olympiad (SASMO) and Singapore Mathematical Olympiad (SMO) Competition, 2 students achieved the Silver award, 7 achieved the Bronze award and 10 were given Honourable Mention for SASMO.  1 student achieved the Bronze award and 2 Honourable Mentions for SMO.
+
+|  SMO Competition (2022) |   |
+|---|---|
+|  Gibson Bong Hoong Nien (2G) |  Bronze |
+| Shawn Shayrhyzan (2F)  | Honourable Mention  |
+| Lee Zhi Hui, Shane (4F)  | Honourable Mention  |
+|   |   |
+
+|  SASMO Competition (2022) |   |
+|---|---|
+|  Gibson Bong Hoong Nien (2G) | Silver  |
+| Shawn Shayrhyzan (2F) |  Silver |
+| Jermaine Lee Zhixuan (1G)  |  Bronze |
+| Bae Junho (1H)  | Bronze  |
+| Peter Benny Liana Chrissy (2D)  |  Bronze |
+|  Gan Jing Yang (2F) | Bronze  |
+|  Amjathkhan Abeejith (2F) | Bronze  |
+|  Ng Ren Xu (3D) |  Bronze |
+|  Chloe Lim En Qi (4D) | Bronze  |
+|  Tan Pin Yuan(1C) | Honourable Mention  |
+| Gunasekaran Baranikumar (1D)  | Honourable Mention  |
+| Kim Joonsu (1E)  |  Honourable Mention |
+| Arun Kumar David Rachel David (2D)  |  Honourable Mention |
+| Ong Hao En Ethan (2G)  | Honourable Mention  |
+| Li Ee-Zhe (3F)  | Honourable Mention |
+| Fong Qi Ying Caden (3F) | Honourable Mention  |
+| Giam Yu Rong Marie  (4E)  | Honourable Mention  |
+|  Tan Kuan Chong, Brendan (4F) | Honourable Mention  |
+|  Charlyne Tan Sin Yen (4F) | Honourable Mention  |
+|   |   |
