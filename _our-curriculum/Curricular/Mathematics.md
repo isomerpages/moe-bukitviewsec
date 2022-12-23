@@ -24,3 +24,48 @@ The Mathematics Department believes that everyone can do Mathematics. No matter 
 |  Mr Wang Kangcheng |   |   |
 |   |   |   |
 
+#### Key Programmes and Achievements
+
+###### <u>Mathematical Modelling Projects</u>
+
+Secondary 3 students worked on a real-world problem “Bungee-Jumping”. Using data collated and Excel or Desmos, they were tasked to figure out a mathematical model for the given problem.Mathematical modelling (MM) uses mathematical approaches to understand and make decisions about real-world problems and is a powerful tool to nurture necessary mathematical thinking skills.
+
+<figure>
+<img src="/images/S3 Math Modelling Task 2022.jpeg" style="width:70%">
+<figcaption>Secondary 3 Math Modelling Task 2022
+ </figcaption>
+</figure>
+
+###### <u>S1 Amazing Race - “Math Mission: It’s Possible”</u>
+
+Secondary 1 students were tasked to solve mathematics problems that were placed around the school. Once solved, they will obtain clues to crack a code. Learning Experience (LE) focuses on learning as a process rather than an outcome and is student-centric, allowing a student to do something as part of his/her learning. LE contributes to the development of process (cognitive and metacognitive) as well as 21st century competencies.
+
+<img src="/images/Math Amazing Race 2022 pic 1.jpeg" style="width:85%"><br>
+
+<img src="/images/Math Amazing Race 2022 pic 2.jpg" style="width:85%"><br>
+
+<figure>
+<img src="/images/Math Amazing Race 2022 winners.jpg" style="width:90%">
+<figcaption>Math Amazing Race 2022
+ </figcaption>
+</figure>
+
+###### <u>Flipped Learning Resources</u>
+
+Our teachers are competent in many ICT tools and platforms that enable students to be empowered in their learning. We leverage on google classroom for resources, assignments and announcement, Kahoot and Quizziz for Assessment for Learning (AfL), video lessons recordings to complement learning tasks, DESMOS and SLS functions that enable self-directed and collaborative learning. The department has also incorporated Success Criteria and Self-Assessment checklist for each topic so that students can regulate and monitor their own learning. ‘Test My Understanding’ (TMU) assignments are also a novel way to carry out homework, one that empowers students and guides them to the next step.
+
+<img src="/images/Engaged Learning using ICT 1.jpeg" style="width:85%">
+
+<figure>
+<img src="/images/Engaged Learning Using ICT 2.jpeg" style="width:90%">
+<figcaption>Engaged Learning using ICT
+ </figcaption>
+</figure>
+
+###### <u>Innovation</u>
+
+The AlgeCards is a set of manipulatives developed from a Lesson Study project by the department in collaboration with Assistant Professor Dr Leong Yew Hoong from NIE-MME in 2009. It has been used school-wide in the teaching of algebraic concepts. Through this project, the department has developed ready-made lesson packages customised to our students’ learning needs.
+
+###### <u>Student Achievements</u>
+
+Selected students took part in the Singapore and Asian Schools Mathematics Olympiad (SASMO) and Singapore Mathematical Olympiad (SMO) Competition, 2 students achieved the Silver award, 7 achieved the Bronze award and 10 were given Honourable Mention for SASMO.  1 student achieved the Bronze award and 2 Honourable Mentions for SMO.
