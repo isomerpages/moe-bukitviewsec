@@ -2,6 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Curricular/Computing.md
-      - Curricular/Curricular.md
       - Curricular/.keep
+      - Curricular/Curricular.md
+      - Curricular/Computing.md
