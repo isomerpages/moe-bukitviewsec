@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curricular/NCC.md
       - Co Curricular/.keep
       - Co Curricular/CCAs.md
       - Co Curricular/NPCC.md
