@@ -66,3 +66,15 @@ Students would have the opportunity to experience the following:
  4 \.  Opportunities to be coached by actual practitioners
  
 Music is assessed twice a year. Assessments include research work, individual instrumental assessments, ensemble work and listening tests. Weightage for each component vary by year.
+
+<img src="/images/photo_2022-12-24_04-10-27.jpg" style="width:85%">
+
+**Key programmes**<br>
+1 \.  Amazing Race@Esplanade – Secondary 1<br>
+2 \.  SYF Celebrations – Illuminate! & Evolution!<br>
+3 \.  Lunchtime showcase – Secondary 2<br>
+4 \.  Attending concerts
+
+**Collaborations**<br>
+1 \.  Arts Jam @BVPS<br>
+2 \.  Joint collaboration with Mother Tongue department to teach local songs in the classroom
