@@ -2,12 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - Alumni/.keep
-      - Alumni/Alumni.md
-      - Alumni/Muhd Farid Marican Bin Abdullah.md
-      - Alumni/Saravanan.md
-      - Alumni/Siti Aisah Maduri.md
-      - Alumni/Johnson Lim.md
       - Students/.keep
       - Students/Jonathan Soh Kai Fong (Class of 2021).md
       - Students/Nur Edyrana Norisha Binte Abdullah (Class of 2021).md
@@ -22,3 +16,9 @@ collections:
       - Parents/Parent Support Group.md
       - Parents/Useful Links.md
       - School Advisory Committee.md
+      - Alumni/.keep
+      - Alumni/Alumni.md
+      - Alumni/Muhd Farid Marican Bin Abdullah.md
+      - Alumni/Saravanan.md
+      - Alumni/Siti Aisah Maduri.md
+      - Alumni/Johnson Lim.md
