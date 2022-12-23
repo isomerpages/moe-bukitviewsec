@@ -48,3 +48,16 @@ To create a rewarding educational experience for our children that will inspire 
 <img src="/images/Encouragement Board for Sec 4s  5s 2022 2.jpg" style="width:20%;margin-right:15px;" align = "left">
 <img src="/images/Encouragement Board for Sec 4s  5s 2022 3.jpg" style="width:20%;margin-right:15px;" align = "left">
 <img src="/images/Encouragement Board for Sec 4s  5s 2022 4.jpg" style="width:20%;margin-right:15px;" align = "left"><br clear=left><br>
+
+<img src="/images/Encouragement Board for Sec 4s  5s 2022 5.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/Encouragement Board for Sec 4s  5s 2022 6.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/Encouragement Board for Sec 4s  5s 2022 7.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/EB 8.png" style="width:20%;margin-right:15px;" align = "left"><br clear=left><br>
+
+<img src="/images/EB 9.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/EB 10.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/EB 11.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/EB 12.png" style="width:20%;margin-right:15px;" align = "left"><br clear=left><br>
+
+**PSG Meeting & Parenting Talk 28 May 2022**
+
