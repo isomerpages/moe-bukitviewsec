@@ -2,6 +2,7 @@ collections:
   our-distinctives:
     output: true
     order:
+      - Personalised Digital Learning Programme (PDLP).md
       - Positive Education.md
       - JOULES (ALP).md
       - Arts X Values (LLP).md
