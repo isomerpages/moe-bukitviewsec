@@ -9,6 +9,7 @@ third_nav_title: Staff
 <img src="/images/zanetye.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/angbeelee.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/siraju.jpg" style="width:31%;margin-right:15px;" align = "left">
+<br clear="left">
 
 |   |   |   |
 |---|---|---|
@@ -18,6 +19,7 @@ third_nav_title: Staff
 <img src="/images/gopal.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/waikamhoa.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/alexanderchia.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
 
 |   |   |   |
 |---|---|---|
@@ -27,6 +29,7 @@ third_nav_title: Staff
 <img src="/images/tohyeoktee.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/irnikaren.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/makmunheng.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
 
 |   |   |   |
 |---|---|---|
@@ -36,6 +39,7 @@ third_nav_title: Staff
 <img src="/images/parvathi.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/chinwey.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/wuayboon.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
 
 |   |   |   |
 |---|---|---|
@@ -45,6 +49,7 @@ third_nav_title: Staff
 <img src="/images/elamaran.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/deborah.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/eugene.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
 
 |   |   |   |
 |---|---|---|
@@ -54,6 +59,7 @@ third_nav_title: Staff
 <img src="/images/eiei.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/muhd.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/patirica.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
 
 |   |   |   |
 |---|---|---|
@@ -63,6 +69,7 @@ third_nav_title: Staff
 <img src="/images/marhaini.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/reena.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/sarah.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
 
 |   |   |   |
 |---|---|---|
