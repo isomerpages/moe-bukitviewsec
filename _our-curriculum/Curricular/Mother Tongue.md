@@ -60,3 +60,16 @@ Students who are keen to read the High Mother Tongue Language subjects can appro
 <img src="/images/IMG_6211.jpg" style="width:20%;margin-right:15px;" align = "left">
 <img src="/images/IMG_0523.jpg" style="width:20%;margin-right:15px;" align = "left">
 <br clear="left">
+
+**2022 Conversational Chinese and Malay Language Programme (CCM) - Learning Journey to Malay Heritage Centre**
+
+<img src="/images/ljmc1.jpeg" style="width:53%" align=left>
+<img src="/images/ljmc2.jpeg" style="width:40%" align=right>
+<br clear="left"><br>
+
+<img src="/images/ljmc3.jpeg" style="width:53%" align=left>
+<img src="/images/ljmc4.jpeg" style="width:40%" align=right>
+<br clear="left"><br>
+
+#### Collaboration and Staff Development
+
