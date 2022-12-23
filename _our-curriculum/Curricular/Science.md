@@ -67,3 +67,20 @@ Students should be able to  <br>
 | *   Flexibility and choice of Science subject combinations in upper secondary:<br>1 \.   Sec 2N(A) students can offer O-Level Science in Sec 3<br>2 \.   Sec 2E students can offer the following combinations in Sec 3:<br>>   triple Science (pure Physics, pure Chemistry and pure Biology)<br>>   double Science (pure Physics and pure Chemistry; or pure Chemistry and pure Biology)<br>>   Science (Physics, Chemistry) as a single subject  |   |
 |   |   |
 
+#### Pedagogy
+   
+**Inquiry-Based Learning**<br>
+The department provide opportunities for students to enjoy Science and value science as an important tool in helping them explore their natural and physical world through processes of inquiry.  
+
+ *   Interdisciplinary learning e.g. ALP – JOULES Programme
+ *   ICT skills through use of Google ChromeBooks and Google suite of applications, Scratch™ animation
+ *   Science Awareness Week
+ *   Enrichment programmes e.g. AEMs, NUS Chemistry Week, Learning Journey to Lee Kong Chian National History Museum, The Star Lecture
+
+<img src="/images/Science-1.jpg" style="width:49%" align=left>
+<img src="/images/Science-2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/Science-3.jpg" style="width:49%" align=left>
+<img src="/images/Science-4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
