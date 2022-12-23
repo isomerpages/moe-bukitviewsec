@@ -2,8 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - Parents/Parent Support Group.md
-      - Parents/.keep
       - Students/.keep
       - Students/Jonathan Soh Kai Fong (Class of 2021).md
       - Students/Nur Edyrana Norisha Binte Abdullah (Class of 2021).md
@@ -13,3 +11,5 @@ collections:
       - Staff/School Leaders.md
       - Staff/Middle Managers.md
       - Staff/All Staff.md
+      - Parents/.keep
+      - Parents/Parent Support Group.md
