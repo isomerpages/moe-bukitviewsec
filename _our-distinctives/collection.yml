@@ -1,4 +1,5 @@
 collections:
   our-distinctives:
     output: true
-    order: []
+    order:
+      - Positive Education.md
