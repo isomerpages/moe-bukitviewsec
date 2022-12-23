@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Alumni/Johnson Lim.md
       - Alumni/.keep
       - Alumni/Alumni.md
       - Alumni/Muhd Farid Marican Bin Abdullah.md
