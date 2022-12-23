@@ -49,3 +49,14 @@ Students who are keen to read the High Mother Tongue Language subjects can appro
 
 **2022 MTL Cultural Camp - The Rice Story**
 
+<img src="/images/IMG_0539.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/WhatsApp Image 2022-10-20 at 40210 PM.jpeg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/WhatsApp Image 2022-10-21 at 121207 PM 4.jpeg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/WhatsApp Image 2022-10-21 at 121207 PM.jpeg" style="width:20%;margin-right:15px;" align = "left">
+<br clear="left"><br>
+
+<img src="/images/IMG_0561.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/IMG_0563.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/IMG_6211.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/IMG_0523.jpg" style="width:20%;margin-right:15px;" align = "left">
+<br clear="left">
