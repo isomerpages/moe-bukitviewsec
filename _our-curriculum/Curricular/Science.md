@@ -137,3 +137,6 @@ The department has planned a suite of strategies to help students attain subject
  *   Formative assessment to monitor and chart students’ progress towards their goals.
  *   Revision Packages for O Level and N Level students.
 
+<img src="/images/scratchanima1.jpg" style="width:49%" align=left>
+<img src="/images/scratchanima1.jpg" style="width:49%" align=right>
+<br clear="left"><br>
