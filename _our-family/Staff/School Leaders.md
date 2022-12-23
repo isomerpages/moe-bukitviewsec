@@ -9,6 +9,7 @@ third_nav_title: Staff
 <img src="/images/photo_2022-12-24_02-26-45.jpg" style="width:30%">
 
 <img src="/images/photo_2022-12-24_02-27-45.jpg" style="width:30%" align=left>
-<img src="/images/photo_2022-12-24_02-27-59.jpg" style="width:35%" align=right>
+<img src="/images/photo_2022-12-24_02-27-59.jpg" style="width:35%" align=right><br clear=left>
+
 
 
