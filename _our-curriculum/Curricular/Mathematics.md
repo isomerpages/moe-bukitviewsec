@@ -99,3 +99,21 @@ Selected students took part in the Singapore and Asian Schools Mathematics Olymp
 |  Tan Kuan Chong, Brendan (4F) | Honourable Mention  |
 |  Charlyne Tan Sin Yen (4F) | Honourable Mention  |
 |   |   |
+
+<figure>
+<img src="/images/SASMO Winners 2022.jpeg" style="width:90%">
+<figcaption> SASMO Winners 2022
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/All Singapore Secondary Mathematics Competition for Normal Course Students 2020.jpg" style="width:90%">
+<figcaption>All Singapore Secondary Mathematics Competition for Normal Course Students 2020
+ </figcaption>
+</figure>
+
+###### <u>Teacher Accolades</u>
+
+Four of our teachers conducted a **Teacher-Led Workshop** entitled “Revolutionising Homework in Mathematics’. Mr Liu Sijian, Mr Kenneth Khoo, Mr Wang Kangcheng and Mrs Kelly Chew.
+
+<img src="/images/Teacher-Led Workshop March 2022 via Zoom 2.jpeg" style="width:85%">
