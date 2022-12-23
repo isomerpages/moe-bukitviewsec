@@ -59,3 +59,12 @@ third_nav_title: Staff
 |---|---|---|
 | **Mdm Chia Ei Ei**<br>SH/ECG  | **Mr Muhd Fadly**<br>SH/Lit & Drama  | **Miss Patricia Lye**<br>SH/Computing  |
 |   |   |   |
+
+<img src="/images/marhaini.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/reena.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/sarah.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+|   |   |   |
+|---|---|---|
+| **Mdm Marhaini**<br>SH/Malay & Tamil Language  | **Mrs Reena Lloyd**<br>LH/Science & ALP  | **Miss Sarah Lah Bifen**<br>SH/Biology  |
+|   |   |   |
