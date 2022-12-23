@@ -40,3 +40,14 @@ Secondary 1 students learnt how to code using an intuitive, block-based developm
 
 Secondary 2 students gained essential programming skills while engaged in fun activities using Minecraft, a highly popular video game. Microsoft has released an Education Edition which integrates a coding editor that supports block-based programming languages. This makes Minecraft a perfect environment for teaching computational thinking.
 
+<figure>
+<img src="/images/S2 enrichment_minecraft.jpeg" style="width:90%">
+<figcaption>Secondary 2 enrichment - Minecraft
+ </figcaption>
+</figure>
+
+**Enrichment for Computing students** <br>
+Students programmed on the micro:bit micro-controller using microPython on the mu Editor. The micro: bit is a programmable microcontroller that serves to introduce coding, electronics, and hands-on digital making. Students created “starry night” simulations on the LED display and various games including Reaction Game, Simon Says and Snap the Dot.  
+
+**Notable achievements**<br>
+Chow Li Shiuan Alina (S3-E), Htet Aung Hlaing (S3-F), Lim Kai Jie Cayden (S3-F), Leo Kang Jie, Louis (S3-F) and Javier Tan Tze Heng (S3-F) represented the school in the BBSS X SCOGA Campus Legend Competition. They emerged Champion out of 34 schools represented.
