@@ -35,3 +35,34 @@ We aim to excite and engage our learners through authentic learning experiences 
 
 **ART**
 
+<img src="/images/photo_2022-12-24_04-06-08.jpg" style="width:85%">
+
+**DESIGN & TECHNOLOGY**
+
+<img src="/images/photo_2022-12-24_04-07-23.jpg" style="width:85%">
+
+**NUTRITION & FOOD SCIENCE**
+
+<img src="/images/photo_2022-12-24_04-07-42.jpg" style="width:85%">
+
+#### Assessment
+
+Being coursework based subjects, the overall assessment is weighted towards the coursework component. Depending on the different levels and streams, the final assessment may include up to 70% of weighting for the coursework. This works towards meeting the following weighting criteria at the GCE national examination:
+
+*   D&T: 30% written paper, 70% coursework
+*   F&N: 40% written paper, 60% coursework
+*   Art: 40% drawing paper, 60% coursework
+
+Assessment for learning (AFL) is employed to help students learn effectively through the use of multiple bite-sized assessments such as quizzes. These help to identify students’ weaknesses and what teachers can do to help students address their areas of concern.
+
+**MUSIC**<br>
+Students would be able to experience a variety of music making opportunities with MTV routines to bring in authentic learning in music lessons. Through creative music making in the music classroom in various mediums, students would develop lifelong music skills and Socio-Emotional Competencies through the practice of Musicking. With reference to the 21st Century Competencies and Student Outcomes (Ministry Of Education, 2018), students would collaborate with each other to learn from one other in a school community setting.
+
+Students would have the opportunity to experience the following:  
+
+ 1 \.  Instrumental learning (Ukulele, Guitar, Drums, Keyboard)<br>
+ 2 \.  Local songs module<br>
+ 3 \.  Pop band module<br>
+ 4 \.  Opportunities to be coached by actual practitioners
+ 
+Music is assessed twice a year. Assessments include research work, individual instrumental assessments, ensemble work and listening tests. Weightage for each component vary by year.
