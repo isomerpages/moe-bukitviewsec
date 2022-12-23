@@ -2,6 +2,6 @@ collections:
   our-distinctives:
     output: true
     order:
-      - Arts X Values (LLP).md
       - Positive Education.md
       - JOULES (ALP).md
+      - Arts X Values (LLP).md
