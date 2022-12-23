@@ -47,5 +47,10 @@ With the support of HQ NCC, NCC encourages combined training across schools of t
 **Guardian of The City Card Game**
 
 <img src="/images/Guardian of The City Card Games.png" style="width:47%" align=left>
-<img src="/images/Army Open House.jpg" style="width:49%" align=right>
+<img src="/images/photo_2022-12-24_05-46-49.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+**Sports and Physical Activities**
+
+<img src="/images/Sports and Physical Activities.png" style="width:85%">
+
