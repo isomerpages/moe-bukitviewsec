@@ -91,5 +91,22 @@ With globalisation and rapid technological advancements, we are moving into a ne
  *   Sec 1: Clean energy and the science of designing a solar car
  *   Sec 2: Water testing and water robot
 
-[More information is also available on this link](https://bukitviewsec.moe.edu.sg/our-distinctives/joules-alp)
+[More information is also available on this link](/our-distinctives/joules-alp/)
 
+<img src="/images/Science-5.jpg" style="width:49%" align=left>
+<img src="/images/Science-8-e1509859321987.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/Science-6.jpg" style="width:30%" align=left>
+<img src="/images/Science-7.jpg" style="width:67%" align=right>
+<br clear="left"><br>
+
+**Thinking HATS (High Ability Talent in Science) Programme**<br>
+This talent development programme is developed based on the E2K (Singapore) Science curriculum in collaboration with Gifted Education Branch (GEB), MOE to stretch the ability of our high achievers in Science.
+
+The programme aims to:  
+
+ *   develop skills for scientific inquiry,
+ *   encourage creative and critical thinking,
+ *   use engaging storylines and scenarios to provide authentic context for the mastery of scientific concepts, and
+ *   promote collaboration and discussions in teams.
