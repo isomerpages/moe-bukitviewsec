@@ -73,3 +73,24 @@ Students who are keen to read the High Mother Tongue Language subjects can appro
 
 #### Collaboration and Staff Development
 
+|   |
+|---|
+| **Chinese Language**  |
+|  *   Shared during National Learning Committee 2019 （Mrs Charline Cheah）<br>*   Presented at Secondary School Chinese Language Teachers’ Seminar 2019 (Mdm Gao yi, Mdm Xu Wei, Mrs Tay -Lee Xinrui, Ms Chua Meiqi)<br>*   Assisted Singapore Centre for Chinese Language in hostingProfessor Jiao Jianli, Director of Future Education Research Centre at South China Normal University. Shared CL Department initiatives in using the Essay Guiding system(Mdm Gao Yi, Mdm Xu Wei, Mrs Tay-Lee Xinrui )<br>*   Shared at W4 Cluster Chinese Language Teaching and Learning Symposium 2019（Mrs Charline Cheah） |
+| **Malay Language**  |
+| *   Shared during National Malay Language Seminar 2019: Expository Writing using 1-1 Computing (Mdm Siti Aisah and Mdm Nur Atikah)<br>*   Participant in the MLLPC Overseas Immersion Programme to Melbourne for ML Curriculum Leaders\_Action for School-based Inquiry Project (Mdm Marhaini)<br>*   Harvard Graduate School of Education’s Professional Development Program on Visible Thinking (Mdm Siti Aisah and Mdm Nur Atikah)<br>*   Cluster Representative for ML Networking Group (Mdm Mastura)  |
+| **Tamil Language**  |
+| *   Cluster Level sharing on Designing Lessons using On-line platform (iMTL/SLS) (Mdm Kokila)<br>*   Collaborated with Master Teacher from Umar Pulavar Tamil Language Centre. (Mdm Kokila)<br>*   Invited to speak at various platforms regarding Tamil Culture, Tamil Language and Literary works.(Mr Ramsamy Stalin)<br>*   Harvard Graduate School of Education’s Professional Development Program on Visible Thinking (Mr Ramasamy Stalin and Mdm Kokila)  |
+|   |
+
+#### Enrichment Programmes
+
+|   |
+|---|
+|  **Chinese Language Department** |
+|  *   Theatre experience for students under the Cultural Performance Expose Scheme (CPES)<br>*   Lyric Writing Workshop with professional songwriter for Secondary 1 |
+|  **Malay Language Department** |
+| *   Debates Workshop for Secondary 3<br>*   Lyric Writing Workshop with prolific songwriter Mr Khir Abdul Rahman for Secondary 1<br>*   Learning Journey to Wisma Geylang Serai for Secondary 1  |
+|  **Tamil Language Department** |
+|  *   Journalism Workshop for Secondary 2 and Secondary 3 Higher Tamil at Singapore Press Holding, Tamil Murasu.<br>*   Tamil Language and Cultural Camp / Tamil Fest at Umar Pulavar Tamil Language Centre for Secondary 1. |
+|   |
