@@ -43,3 +43,12 @@ A unique feature of the JOULES programme is the provision of scholarships for Bu
 There are 2 components to the scholarship structure – Samwoh JOULES scholarship and Samwoh JOULES Award (Distinction/ Merit).  
 The scholarship and award are kindly sponsored by Samwoh Corporation.
 
+**Samwoh JOULES scholarship**
+
+Objectives:  
+  
+ 1 \.  To attract Primary School students who show keen interest in environment and sustainable energy to come to BVSS to further develop their knowledge and to contribute as student leaders as they progress in the JOULES programme.  <br><br>
+ 2 \.  To encourage BVSS students to further develop their knowledge and to contribute as student leaders as they progress in the JOULES programme.
+ 
+Criteria: For incoming Sec 1 students who
+ 
