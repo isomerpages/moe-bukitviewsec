@@ -51,3 +51,17 @@ Students programmed on the micro:bit micro-controller using microPython on the m
 
 **Notable achievements**<br>
 Chow Li Shiuan Alina (S3-E), Htet Aung Hlaing (S3-F), Lim Kai Jie Cayden (S3-F), Leo Kang Jie, Louis (S3-F) and Javier Tan Tze Heng (S3-F) represented the school in the BBSS X SCOGA Campus Legend Competition. They emerged Champion out of 34 schools represented.
+
+<figure>
+<img src="/images/campus_legend_competition.jpeg" style="width:90%">
+<figcaption>Champion Team - BBSS X SCOGA Campus Legend Competition 2022
+ </figcaption>
+</figure>
+
+Ho Li Shan (S2-E) represented the school in the Animation and Game Making Competition organised by CPDD Computing unit and achieved Platinum which the top three entries out of 82 entries.
+
+<figure>
+<img src="/images/Animation and Game making.jpeg" style="width:90%">
+<figcaption>Ho Li Shan (2E) at the Animation and Game Making Competition 2022
+ </figcaption>
+</figure>
