@@ -30,4 +30,21 @@ To create a rewarding educational experience for our children that will inspire 
 <img src="/images/5psg.png" style="width:20%;margin-right:15px;" align = "left">
 <img src="/images/6psg.png" style="width:20%;margin-right:15px;" align = "left">
 <img src="/images/7psg.png" style="width:20%;margin-right:15px;" align = "left">
-<img src="/images/8psg.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/8psg.png" style="width:20%;margin-right:15px;" align = "left"><br clear=left><br>
+
+<img src="/images/9psg.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/10psg.png" style="width:20%;margin-right:15px;" align = "left"><br clear=left>
+
+**Study Nights 21 Sep 2022 to 14 Oct 2022**
+
+<img src="/images/Study Nights 21 Sep 2022 to 14 Oct 2022 1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Study Nights 21 Sep 2022 to 14 Oct 2022 2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Study Nights 21 Sep 2022 to 14 Oct 2022 3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
+
+**Encouragement Board for Sec 4s & 5s 2022**
+
+<img src="/images/Encouragement Board for Sec 4s  5s 2022 1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/Encouragement Board for Sec 4s  5s 2022 2.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/Encouragement Board for Sec 4s  5s 2022 3.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/Encouragement Board for Sec 4s  5s 2022 4.jpg" style="width:20%;margin-right:15px;" align = "left"><br clear=left><br>
