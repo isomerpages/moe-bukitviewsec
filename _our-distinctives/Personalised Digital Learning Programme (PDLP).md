@@ -29,3 +29,4 @@ As part of its commitment to nurturing future-ready learners, the Ministry of Ed
   
 With the SLS, students will be able to learn better through the use of technology. Students will be able to learn anytime, anywhere, and at their own pace, whether independently or with their peers. Teachers will also be able to use the SLS to complement their classroom teaching, further enriching students’ learning experience. We believe such a learning experience is essential to help your child to become an active and confident user of technology.
 
+<iframe width="800" height="496" src="https://www.youtube.com/embed/F0FTP2FveSg" title="Singapore School Learning Space (SLS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
