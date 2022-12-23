@@ -51,4 +51,23 @@ Objectives:
  2 \.  To encourage BVSS students to further develop their knowledge and to contribute as student leaders as they progress in the JOULES programme.
  
 Criteria: For incoming Sec 1 students who
- 
+
+*   obtain A/A\* for Science at PSLE,
+*   select BVSS as 1st choice of school, and
+*   show keen interest in environment and sustainable energy.
+
+Criteria: For Sec 2 students who
+
+*   obtain A1, A2, B3 for Science in Sec 1,
+*   show keen interest in environment and sustainable energy.
+
+**Samwoh JOULES Award (Distinction/ Merit)**
+
+Objective: To motivate and encourage students who have contributed to the JOULES programme and show leadership in environment and sustainable energy 
+
+Criteria: For Secondary 4/ 5 students
+
+*   contribution to the JOULES programme
+*   leadership in environment and sustainable energy
+
+<img src="/images/photo_2022-12-24_03-31-30.jpg" style="width:85%">
