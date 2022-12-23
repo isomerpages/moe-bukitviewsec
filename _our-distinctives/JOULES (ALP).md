@@ -17,7 +17,7 @@ This distinctive Applied Learning Programme (ALP) provides Bukit Viewans with ex
 The programme also emphasizes on the development of environmental student leadership.  
 We hope that after going through the JOULES programme, Bukit Viewans will be keen to pursue STEM courses in institutes of higher education, especially in the area of environment and sustainable energy and thereby contribute to Singapore and the world. We also want Bukit Viewans to be ethical advocates who will pursue causes that benefit society, ensuring their values guide them as they make a difference beyond their school years.
 
-<b><u> Approach </b></u>
+###### <u>Approach</u>
 
 <img src="/images/Joules-framework-300x300.jpg" style="width:30%">
 
@@ -37,7 +37,7 @@ Some of these opportunities include:
 *   Conducting guided Eco-trails for Primary Schools (Sec 1 – 4)
 *   Advanced Elective Modules (Sec 2 – 4):
 
-<b><u> Scholarship </b></u>
+###### <u>Scholarship</u>
 
 A unique feature of the JOULES programme is the provision of scholarships for Bukit Viewans who show a keen interest in environment and sustainable energy as well as leadership potential in advocating and pursuing these areas.  
 There are 2 components to the scholarship structure – Samwoh JOULES scholarship and Samwoh JOULES Award (Distinction/ Merit).  
