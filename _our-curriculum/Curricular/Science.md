@@ -110,3 +110,30 @@ The programme aims to:
  *   encourage creative and critical thinking,
  *   use engaging storylines and scenarios to provide authentic context for the mastery of scientific concepts, and
  *   promote collaboration and discussions in teams.
+
+<img src="/images/Science-9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Science-10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Science-13.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left"><br>
+
+<img src="/images/Science-11.jpg" style="width:49%" align=left>
+<img src="/images/Science-12.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+**STEM Overseas Learning Trip to Hong Kong**<br>
+This study trips aim to provide our pupils with the opportunities to:  
+
+ *   generate greater awareness and interest in the fields of Science, Technology (Computing), Engineering and Mathematics.
+ *   develop a global mindset in students by helping them to understand how STEM education is developing in other countries around the world and how Singapore can continue to stay relevant in this area of development.
+ *   extend pupils’ learning and experiences beyond the classroom by arranging for them to interact with local students and develop in our students the 21st century competencies of global awareness and cross-cultural skills and sensitivities.
+
+21 Secondary Two and Three students and 6 teachers visited Hong Kong (HK) from 10 to 14 June 2018 to deepen their learning in the fields of Science, Technology (Computing), Engineering, Mathematics (STEM) and the Environment. 3 teachers also presented a paper at the HK Computational Thinking and Education International Conference 2018. The trip was an enriching and eye-opening learning experience for the students.
+
+<img src="/images/Science-1 (1).jpg" style="width:85%">
+
+**Mastery Learning**<br>
+The department has planned a suite of strategies to help students attain subject mastery in Science and to handle national examinations.  
+
+ *   Formative assessment to monitor and chart students’ progress towards their goals.
+ *   Revision Packages for O Level and N Level students.
+
