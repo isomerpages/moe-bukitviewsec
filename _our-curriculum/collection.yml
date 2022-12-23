@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Curricular/Physical Education (PE).md
       - Curricular/.keep
       - Curricular/Curricular.md
       - Curricular/Computing.md
@@ -12,3 +11,4 @@ collections:
       - Curricular/Mathematics.md
       - Curricular/Mother Tongue.md
       - Curricular/Science.md
+      - Curricular/Physical Education (PE).md
