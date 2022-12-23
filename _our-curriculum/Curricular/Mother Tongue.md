@@ -94,3 +94,15 @@ Students who are keen to read the High Mother Tongue Language subjects can appro
 |  **Tamil Language Department** |
 |  *   Journalism Workshop for Secondary 2 and Secondary 3 Higher Tamil at Singapore Press Holding, Tamil Murasu.<br>*   Tamil Language and Cultural Camp / Tamil Fest at Umar Pulavar Tamil Language Centre for Secondary 1. |
 |   |
+
+#### Competitions and Achievements
+
+|   |
+|---|
+| **Chinese Language Department**  |
+|  *   13th National Theatresports Championship 2019: Most Improving Group Award and Gold Award-Lin Jia Min (3D), Most Collaborative Group Award and Silver Award – Lim Yu Xing (3E), Bronze Award – Ang Zong Zhen (3D), Most Popular Group Award – Meagan Tan (3D)<br>*   6th Skit Seminar cum Competition for Secondary Schools on 20th September 2019 (2019年第六届“中学生短剧创作营” ) |
+| **Malay Language Department**  |
+| *   Malay Scrabble Competition 2019 (Piala Cendekia Sahibba 2019): Participation<br>*   Appointed 2 of our Secondary 3 students as Malay Language Ambassadors in conjunction with the National Malay Language Month  |
+| **Tamil Language Department**  |
+|  *   Drama Competition organized by Singapore Indian Artistes’ Association: 2ndPrize<br>*   National Level Budding Writers’ and Artiste’ Competition organized by TL Unit of the MTL Branch, CPDD, Ministry of Education: Silver Award in both Lower Secondary and Upper Secondary category.<br>*   West 4 Cluster Competitions 2019: 2ndPrize in Speech Competition, 1stPrize in Advertisement Making Competition, Consolation Prize in Short Story Writing Competition<br>*   Quiz Competition organized by Boon Lay Secondary School: 3rdPrize |
+|   |
