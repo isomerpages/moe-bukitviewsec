@@ -84,3 +84,12 @@ The department provide opportunities for students to enjoy Science and value sci
 <img src="/images/Science-3.jpg" style="width:49%" align=left>
 <img src="/images/Science-4.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+**Applied Learning Programme (ALP)**<br>
+With globalisation and rapid technological advancements, we are moving into a new phase of development as a nation where the emphasis is on learning throughout life. The ALP has been initiated to better prepare students to meet the demands of this new phase. With an emphasis on the application of thinking skills, connecting knowledge across subject disciplines and applying these in real-life settings, ALPs help every student appreciate the relevance and value of what they learn in class. This will provide stronger motivation and purpose to acquire knowledge and skills. Our ALP is a collaboration with STEM Inc. which is the educational unit of the Singapore Science Centre.  
+
+ *   Sec 1: Clean energy and the science of designing a solar car
+ *   Sec 2: Water testing and water robot
+
+[More information is also available on this link](https://bukitviewsec.moe.edu.sg/our-distinctives/joules-alp)
+
