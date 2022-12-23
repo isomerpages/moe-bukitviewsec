@@ -2,10 +2,10 @@ collections:
   our-family:
     output: true
     order:
-      - Alumni/Saravanan.md
       - Alumni/.keep
       - Alumni/Alumni.md
       - Alumni/Muhd Farid Marican Bin Abdullah.md
+      - Alumni/Saravanan.md
       - Students/.keep
       - Students/Jonathan Soh Kai Fong (Class of 2021).md
       - Students/Nur Edyrana Norisha Binte Abdullah (Class of 2021).md
