@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Sports and Games/Table Tennis.md
       - Sports and Games/Track & Field.md
       - Sports and Games/Volleyball.md
       - Sports and Games/.keep
