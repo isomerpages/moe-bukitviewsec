@@ -51,3 +51,31 @@ The track and field training programme focus on the following:·
 		<td> <img src="/images/T6.jpg"/></td>
 		<td> <img src="/images/T7.jpg"/></td>
 		<td> <img src="/images/T8.jpg"/></td>
+	</tr>
+</table>
+
+#### CCA TRAINING DAY(S)/ TIME
+
+| Day(s) | Time |
+| --- | --- | 
+| Wednesday | 3:00pm - 5:00pm |
+| Friday | 2:30pm - 5:00pm |
+| | |
+
+#### TEACHER-IN-CHARGE
+
+| | |
+| --- | --- |
+| Mr Elmaran s/o Kamalanathan | Ms Siti Nurhidayu |
+| Ms Toh Shao Ying | Mdm Li Yang |
+| | |
+
+#### EXECUTIVE COMMITTEE MEMBERS 
+
+| EXCO Positions | NAME | CLASS |
+| --- | --- | --- |
+| CCA Boys Captain | NAVIEN VIVEKANANDAN | 3 E |
+| CCA Boys Vice-Captain | KIERAN LIM YONG XIANG | 3 G |
+| CCA Girls Captain | CAI YAWEN | 3 E |
+| CCA Girls Vice-Captain | M NIVEDITA | 3 D |
+| | | |
