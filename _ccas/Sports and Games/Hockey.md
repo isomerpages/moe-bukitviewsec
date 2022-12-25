@@ -38,4 +38,67 @@ The Hockey CCA trains every Wednesday and Friday. The training venue will either
 <table>
 	<tr>
 		<td> <img src="/images/hockey-1-game-play-1024x768.jpg"/> <center> <b> Hockey 1. Game Play </b> </center> </td>
-		
+		<td> <img src="/images/hockey-2-tactics-session-1024x768.jpg"/> <center> <b> Hockey 2. Tactics Session </b> </center> </td>
+		<td> <img src="/images/hockey-3-team-talk-1024x768.jpg"/> <center> <b> Hockey 3. Team Talk </b> </center> </td> 
+	</tr>
+	<tr> 
+		<td> <img src="/images/hockey-4-ready-for-the-game-1024x768.jpg"/> <center> <b> Hockey 4. Ready For the Game </b> </center> </td> 
+		<td> <img src="/images/IMG_3677-300x169.jpg"/> </td>
+		<td> <img src="/images/IMG_3675-300x225.jpg"/> </td>
+	</tr>
+</table>
+
+#### CCA TRAINING DAY(S)/ TIME
+
+| Day(s) | Time |
+| --- | --- | 
+| Wednesday | 2:45 pm - 4:45 pm |
+| Friday | 2:45 pm - 4:45 pm |
+| | |
+
+#### TEACHER-IN-CHARGE
+
+| | |
+| --- | --- |
+| Mdm Siti Aisah | Mr Koh Si Yao |
+| | |
+
+#### EXECUTIVE COMMITTEE MEMBERS 
+
+<table>
+	<tr>
+		<th> EXCO Positions </th>
+		<th> NAME </th>
+		<th> CLASS </th>
+	</tr>
+	<tr>
+		<td> 'B' DIV captain </td>
+		<td> KIEL MC NEL MORANTE LABONERA </td>
+		<td> 3 A </td>
+	</tr>
+	<tr>
+		<td> 'B' DIV Logistics Manager </td>
+		<td> SUMIT S/O VIJAY BAHADUR </td>
+		<td> 4 A </td>
+	</tr>
+	<tr>
+		<td> 'C' DIV captain </td>
+		<td> PRAVIN S/O VELAYUDHAM </td>
+		<td> 2 E </td>
+	</tr>
+	<tr> 
+		<td> 'C' DIV vice-captain </td>
+		<td> MARIA JOHN VINCENT ABISHEK </td>
+		<td> 2 D </td>
+	</tr>
+	<tr> 
+		<td rowspan="2"> 'C' DIV Logistic Managers </td>
+		<td> TAHASAN AHMMED </td>
+		<td> 2 B </td>
+	</tr>
+	<tr>
+		<td> KOH ZHI HEAN </td>
+		<td> 2 C </td>
+	</tr>
+	<tr></tr>
+</table>
