@@ -10,22 +10,113 @@ CCAs are an integral part of Bukit Viewans’ holistic, well-rounded education. 
 
 #### Uniformed Groups
 
-| | | | |
-| --- | --- | --- | --- |
-| [![](/images/npcc.jpg) <center> NPCC </center>](/our-curriculum/co-curricular/ccas/uniformed-groups/npcc) | [![](/images/ncc.jpg) <center> NCC </center>](/our-curriculum/co-curricular/ccas/uniformed-groups/ncc) | [![](/images/girl%20brigade.jpg) <center> Girls' Brigade </center>](/our-curriculum/co-curricular/ccas/uniformed-groups/girls-brigade) | [![](/images/boy%20brigade.jpg) <center> Boys' Brigade </center>](/our-curriculum/co-curricular/ccas/uniformed-groups/boys-brigade) |
-| | | | |
+<table>
+	<tr>
+		<td width="25%">
+			<a href="/our-curriculum/co-curricular/ccas/uniformed-groups/npcc">
+				<img src="/images/npcc.jpg"/> <center> NPCC </center>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/our-curriculum/co-curricular/ccas/uniformed-groups/ncc">
+				<img src="/images/ncc.jpg"/> <center> NCC </center>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/our-curriculum/co-curricular/ccas/uniformed-groups/girls-brigade">
+				<img src="/images/girl%20brigade.jpg"/> <center> Girls' Brigade </center>
+			</a>
+		</td>
+		<td>
+			<a href=/our-curriculum/co-curricular/ccas/uniformed-groups/boys-brigade>
+				<img src="/images/boy%20brigade.jpg"/> <center> Boys' Brigade </center>
+			</a>
+		</td>
+	</tr>
+</table>
 
 #### Visual and Performing Arts
 
-| | | | |
-| --- | --- | --- | --- |
-| [![](/images/drama.jpg) <center> Drama Club </center>](/our-curriculum/co-curricular/ccas/visual-and-performing-arts/drama-club) | [![](/images/concert.jpg) <center> Concert Band </center>](/our-curriculum/co-curricular/ccas/visual-and-performing-arts/concert-band) | [![](/images/choir.jpg) <center> Choir </center>](/our-curriculum/co-curricular/ccas/visual-and-performing-arts/choir) | [![](/images/dance.jpg) <center> Dance Club </center>](/our-curriculum/co-curricular/ccas/visual-and-performing-arts/dance-club) |
-| [![](/images/media.jpg) <center> Media & Publicity </center>](/our-curriculum/co-curricular/ccas/visual-and-performing-arts/media-n-publicity)| | | | 
-| | | | | 
+<table>
+		<tr>
+		<td width="25%">
+			<a href="/our-curriculum/co-curricular/ccas/visual-and-performing-arts/drama-club">
+				<img src="/images/drama.jpg"/> <center> Drama Club </center>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/our-curriculum/co-curricular/ccas/visual-and-performing-arts/concert-band">
+				<img src="/images/concert.jpg"/> <center> Concert Band </center>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/our-curriculum/co-curricular/ccas/visual-and-performing-arts/choir">
+				<img src="/images/choir.jpg"/> <center> Choir </center>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/our-curriculum/co-curricular/ccas/visual-and-performing-arts/dance-club">
+				<img src="/images/dance.jpg"/> <center> Dance Club </center>
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td width="25%">
+			<a href="/our-curriculum/co-curricular/ccas/visual-and-performing-arts/media-n-publicity">
+				<img src="/images/media.jpg"/> <center> Media & Publicity </center>
+			</a>
+		</td>
+		<td width="25%">		</td>
+		<td width="25%">  	</td>
+		<td width="25%">		</td>
+	</tr>
+</table>
 
 #### Clubs and Societies 
 
-| | | | |
-| --- | --- | --- | --- |
-| [![](/images/environmental.jpg) <center> Environmental Club </center>](/our-curriculum/co-curricular/ccas/clubs-and-societies/environmental-club) | [ ![](/images/infocomm.jpg) <center> Infocomm Club </center>](/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club) | [
+<table>
+	<tr>
+		<td width="25%">
+			<a href="/our-curriculum/co-curricular/ccas/clubs-and-societies/environmental-club">
+				<img src="/images/environmental.jpg"/> <center> Environmental Club </center>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club">
+				<img src="/images/infocomm.jpg"/> <center> Infocomm Club </center>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club">
+				<img src="/images/youth%20flying.jpg"/> <center> Singapore Youth Flying Club </center>
+			</a>
+		</td>
+		<td width="25%">		</td>
+	</tr>
+</table>
+
 #### Sport and Games
+
+<table>
+	<tr>
+		<td width="25%">
+			<a href="link">
+				<img src="img"/> <center> text </center>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="link">
+				<img src="img"/> <center> text </center>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="link">
+				<img src="img"/> <center> text </center>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="link">
+				<img src="img"/> <center> text </center>
+			</a>
+		</td>
+	</tr>
