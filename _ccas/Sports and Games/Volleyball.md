@@ -58,11 +58,35 @@ We have many activities that provide the players with the opportunities to impro
 			<img src="/images/NSG%20Action%203.jpeg" style="width:62%"/>
 		</td>
 	</tr>
+	<tr>
 		<td>
 			<img src="/images/NSG%20Action%202.jpeg"/>
 		</td>
-	<tr>
-
 		<td></td>
 	</tr>
 </table>
+
+#### CCA TRAINING DAY(S)/ TIME
+
+| Day(s) | Time|
+| --- | --- |
+| Wednesday | 3:00pm - 5:30pm |
+| Friday | 1:00pm - 4:00pm |
+| | |
+
+#### TEACHERS-IN-CHARGE
+
+| | |
+| --- | --- |
+| Mrs Pang-Ong Lee Ling Susan | Mrs Foong Bee Yong |
+| Mdm Atikah | |
+| | |
+
+#### EXECUTIVE COMMITTEE MEMBERS
+
+| EXCO Positions | NAME | CLASS |
+| --- | --- | --- |
+| Sec 3 Level Reps | Guo Ninghui <br> Koo Kay Mie <br> Naw Karen <br> Lum Mun Wai | 3F <br> 3D <br> 3A <br> 3B |
+| Sec 2 Level Reps | Naw Keziah Hsay <br> Adeline Ong <br> Nur Shafinaz | 2B <br> 2B <br> 2C |
+| Sec 1 Level Reps | Richelle Hong <br> Crystal Ker <br> Haruka Chia | 1H <br> 1H <br> 1G |
+| | | |
