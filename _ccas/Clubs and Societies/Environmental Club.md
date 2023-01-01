@@ -40,3 +40,12 @@ The Environmental Club was formally started in 2005. We are a group of students 
 **Learning Journey:**<br>
 **NTU Green Campus, Old Police Academy at Fort Road, Singapore Garden Festival at Gardens By the Bay**
 
+**AWARDS AND ACHIEVEMENTS**
+
+|   |   |
+|---|---|
+| Green Schools @ South West CDC  | Gold Award  |
+|  SEC-StarHub School Green Awards (SGA) | Yellow Flame Award  |
+| Community-in-Bloom (CIB) Award organised by Nparks  | Platinum Award  |
+| School Green Awards  | Lotus Sustained Achievement Award  |
+|   |   |
