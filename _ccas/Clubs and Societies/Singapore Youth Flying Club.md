@@ -102,3 +102,18 @@ Established in 2012, our relatively young SYFC team has made our school proud by
 	</tr>
 	<tr></tr>
 </table>
+
+#### CCA TRAINING DAY(S)/ TIME
+
+| Day(s) | Time |
+| --- | --- | 
+| Wednesday | 2:30 pm - 5:30 pm |
+| | |
+
+#### TEACHER-IN-CHARGE
+
+| | |
+| --- | --- |
+| Mr Richard Lim | Mr Ong Soon Gee | 
+| Mrs Charline Cheah | |
+| | |
