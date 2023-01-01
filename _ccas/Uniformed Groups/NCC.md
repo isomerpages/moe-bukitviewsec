@@ -60,9 +60,8 @@ With the support of HQ NCC, NCC encourages combined training across schools of t
 
 #### CCA TRAINING DAY(S) / TIME
 
-|   |   |
-|---|---|
 | **Day(s)**  |  **Time** |
+|---|---|
 |  Friday |  2:30 pm – 5:30 pm |
 |   |   |
 
@@ -76,9 +75,8 @@ With the support of HQ NCC, NCC encourages combined training across schools of t
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
-|   |   |   |
-|---|---|---|
 |  **EXCO Positions** | **Name**  |  **Class** |
+|---|---|---|
 | Unit Sergeant Major  | Hayden Leong  | 3 G  |
 | Assistant Sergeant Major  |  Muhammad Haaziq Bin Mohamed Nazar | 3 E  |
 |   |   |   |
