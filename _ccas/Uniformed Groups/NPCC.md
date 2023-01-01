@@ -59,9 +59,8 @@ For further information, please visit our [www.npcc.gov.sg](http://www.npcc.gov
 
 #### CCA TRAINING DAY(S)/ TIME
 
-|   |   |
-|---|---|
 | **Day(s)**  |  **Time** |
+|---|---|
 | Friday  |  2:30 pm – 5:30 pm |
 |   |   |
 
@@ -75,9 +74,8 @@ For further information, please visit our [www.npcc.gov.sg](http://www.npcc.gov
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
-|   |   |   |
-|---|---|---|
 |  **EXCO Positions** | **Name**  | **Class**  |
+|---|---|---|
 |  Overall I/C |  Nur Syazliyarni Binte Zazali |  3 E |
 | Asst Overall IC  | Tan Chou Wen Rowan  | 3 A  |
 |  Unit Drill Instructors | Nur dini Izzati Binte Azhar 3E  | 3 E  |
