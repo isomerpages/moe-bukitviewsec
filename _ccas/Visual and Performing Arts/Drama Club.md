@@ -56,3 +56,11 @@ SYF Art Presentation 2019
 <img src="/images/NCS_1124.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/NCS_1126.jpg" style="width:30%;margin-right:15px;" align = "left">
 <br clear="left">
+
+#### CCA TRAINING DAY(S)/ TIME
+
+
+
+#### TEACHERS-IN-CHARGE
+
+#### EXECUTIVE COMMITTEE MEMBERS
