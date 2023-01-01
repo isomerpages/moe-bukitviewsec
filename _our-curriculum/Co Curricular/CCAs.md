@@ -23,7 +23,7 @@ CCAs are an integral part of Bukit Viewans’ holistic, well-rounded education. 
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/uniformed-groups/girls-brigade">
+			<a href="/ccas/Uniformed-Groups/gb/">
 				<img src="/images/girl%20brigade.jpg"/> <center> Girls' Brigade </center>
 			</a>
 		</td>
