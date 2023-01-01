@@ -48,6 +48,11 @@ For further information, please visit our [www.npcc.gov.sg](http://www.npcc.gov
 |  <img src="/images/1-NPCC-Inter-Unit-Drill-Comp-2-300x163.jpg" style="width:85%;margin-left:5px;"> <br>**Npcc Inter Unit Drill Comp 2** |  <img src="/images/BACKUP-1-NPCC-Salute-225x300.jpg" style="width:60%;margin-left:5px;"> <br>**Npcc Salute** |
 |   |   |
 
+|   |   |   |
+|---|---|---|
+|  <img src="/images/BACKUP-2-NPCC-Inter-Unit-Drill-Comp-1-1024x768.jpg" style="width:85%"> <br>Npcc Inter Unit Drill Comp 1| <img src="/images/3-NPCC-Annual-Unit-Camp-1024x768.jpg" style="width:83%"> <br>Npcc Annual Unit Camp  |  <img src="/images/2-NPCC-POP-Day-1024x768.jpg" style="width:89%"> <br>Npcc Pop Day |
+|   |   |   |
+
 #### RANK STRUCTURE
 
 <img src="/images/Capture (300 x 520).jpg" style="width:50%">
