@@ -59,15 +59,15 @@ The Club provides training in the various aspect of photography and videography 
 
 |  EXCO Positions | NAME  |  CLASS |
 |---|---|---|
-| President  |   |   |
-| Vice President  |   |   |
-| Vice President  |   |   |
-| Secretary  |   |   |
-| Head of Videography  |   |   |
-| Asst Head of Videography  |   |   |
-| Head of Photography  |   |   |
-| Asst Head of Photography  |   |   |
-| Head of Public Address  |   |   |
-| Asst Head of Public Address  |   |   |
-| Head of Logistics  |   |   |
+| President  | Koh Zhi Xuan Ilyssa  | 3 E  |
+| Vice President  | Li Ee-Zhe  | 3 E  |
+| Vice President  | Tan Hui Yun  | 3 D  |
+| Secretary  | Bhoovan Nadhini  | 3 A  |
+| Head of Videography  | Skyler Ong Shi Hui  | 3 F  |
+| Asst Head of Videography  | Seet Cui Ru, Rena  | 2 F  |
+| Head of Photography  |Yogarshine Ramesh   |3 B   |
+| Asst Head of Photography  | Emma Lee Ling Hui  | 2 G  |
+| Head of Public Address  | Nurina Alysha Binti Rosli  | 3 C  |
+| Asst Head of Public Address  |Nurul Asyiqin Binte Zakaria   | 2 B  |
+| Head of Logistics  | Sureshkumar Iniyavan  | 3 G  |
 |   |   |   |
