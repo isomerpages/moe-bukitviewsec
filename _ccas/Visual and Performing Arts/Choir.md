@@ -72,3 +72,15 @@ After many days of rehearsals for our upcoming concert, the Choir EXCO planned a
 <br clear="left">
 
 <u>**Farewell Party for Seniors**</u>
+
+<img src="/images/farewell1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/farewell2.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/farewell3.jpg" style="width:25%;margin-right:15px;" align = "left">
+<br clear="left"><br>
+
+<img src="/images/farewell4.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/farewell5.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/farewell6.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
+
+**Making of CNY video**
