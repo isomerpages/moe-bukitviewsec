@@ -128,6 +128,27 @@ After many days of rehearsals for our upcoming concert, the Choir EXCO planned a
 
 #### CCA TRAINING DAY(S)/ TIME
 
+| Day(s)  | Time  |
+|---|---|
+|  Wednesday | 2:30 pm – 5:30 pm  |
+|  Friday | 1:30 pm – 4:30 pm  |
+|   |   |
+
 #### TEACHERS-IN-CHARGE
 
+|   |   |
+|---|---|
+| Mdm Joy Chen  | Mrs-Koh Tan Hui Min  |
+|  Ms Seah Koon Lay |   |
+|   |   |
+
 #### EXECUTIVE COMMITTEE MEMBERS
+
+| EXCO Positions  | NAME  |  CLASS |
+|---|---|---|
+|  President |  Bernice Yuen Yi Ling | 3 C  |
+| Vice President  | Tan Hui Qi<br>Nur Syafiqah Abdul Rahim  | 3 E<br>3 G  |
+| Treasurer  | Ten Si Qi  | 2 G  |
+| Librarian  | Aw Kai Ling  | 2 F  |
+|   |   |   |
+
