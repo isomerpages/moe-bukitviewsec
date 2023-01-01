@@ -89,7 +89,7 @@ This club would not be complete if without positive accomplishment. As such, in 
 		<td> CLASS </td>
 	</tr>
 	<tr>
-		<td colspan="3"> Lower Secondary</td>
+		<th colspan="3"> Lower Secondary</th>
 	</tr>
 	<tr>
 		<td> Captain (C Division) </td>
@@ -102,7 +102,7 @@ This club would not be complete if without positive accomplishment. As such, in 
 		<td> 2 G </td>
 	</tr>
 	<tr>
-		<td colspan="3"> Upper Secondary </td>
+		<th colspan="3"> Upper Secondary </th>
 	</tr>
 	<tr> 
 		<td> Captain (B Division) </td>
