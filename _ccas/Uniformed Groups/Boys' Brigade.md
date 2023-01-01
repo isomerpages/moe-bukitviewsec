@@ -34,3 +34,15 @@ We seek to bring out the very best in every boy that comes under our charge. Our
 
 #### AWARDS AND ACHIEVEMENTS
 
+|   |   |
+|---|---|
+| JM Fraser Award  |  Bronze Award |
+|   |   |
+
+#### CCA TRAINING DAY(S)/ TIME
+
+| Day(s)  | Time  |
+|---|---|
+|   |   |
+|   |   |
+|   |   |
