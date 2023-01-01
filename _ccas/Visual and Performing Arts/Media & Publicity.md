@@ -41,3 +41,33 @@ The Club provides training in the various aspect of photography and videography 
 <img src="/images/6-150x150.png" style="width:30%;margin-right:90px;" align=right>
 <br clear="left"><br>
 
+#### CCA TRAINING DAY(S)/ TIME
+
+| Day(s)  |  Time |
+|---|---|
+|  Wednesday | 2:30 pm – 5:00 pm  |
+|   |   |
+
+#### TEACHERS-IN-CHARGE
+
+|   |   |
+|---|---|
+| Mr Kenneth Khoo  | Ms Chia Ei Ei  |
+|   |   |
+
+#### EXECUTIVE COMMITTEE MEMBERS
+
+|  EXCO Positions | NAME  |  CLASS |
+|---|---|---|
+| President  |   |   |
+| Vice President  |   |   |
+| Vice President  |   |   |
+| Secretary  |   |   |
+| Head of Videography  |   |   |
+| Asst Head of Videography  |   |   |
+| Head of Photography  |   |   |
+| Asst Head of Photography  |   |   |
+| Head of Public Address  |   |   |
+| Asst Head of Public Address  |   |   |
+| Head of Logistics  |   |   |
+|   |   |   |
