@@ -77,7 +77,7 @@ CCAs are an integral part of Bukit Viewans’ holistic, well-rounded education. 
 <table>
 	<tr>
 		<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/clubs-and-societies/environmental-club">
+			<a href="/ccas/Clubs-and-Societies/environmental/">
 				<img src="/images/environmental.jpg"/> <center> Environmental Club </center>
 			</a>
 		</td>
