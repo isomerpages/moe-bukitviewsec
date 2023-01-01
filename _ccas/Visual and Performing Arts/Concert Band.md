@@ -32,3 +32,11 @@ We, the Bukit View Military Band stand for:
 | SYF 2015 Arts Presentations  |  Certificate of Accomplishment |
 |   |   |
 
+|   |   |   |
+|---|---|---|
+| <img src="/images/IMG_0648-1024x683.jpg" style="width:85%"><center>**SYF**</center>  | <img src="/images/IMG_0622-1024x683.jpg" style="width:85%"><center>**SYF**</center>  | <img src="/images/IMG_0620-1024x683.jpg" style="width:85%"><center>**SYF**</center>  |
+| <img src="/images/SYF-2019-April--300x219.png" style="width:85%">  | <img src="/images/National-Day-Observance-Ceremony-Aug-300x223.png" style="width:85%">  | <img src="/images/CCA-Awareness-Day-Jan-300x227.png" style="width:85%">  |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
