@@ -39,3 +39,38 @@ We, the Bukit View Military Band stand for:
 |  <img src="/images/Band-POP-2019-June-300x225.png" style="width:85%"><center>**Band Pop 2019 (june)**</center> |  <img src="/images/Band-Camp-June-222x300.png" style="width:65%"><center>**Band Camp (june)**</center> |   |
 |   |   |   |
 
+#### CCA TRAINING DAY(S)/ TIME
+
+| Day(s)  |  Time |
+|---|---|
+| Wednesday  |  2:30 pm – 5:30 pm |
+| Friday  | 2:30 pm – 5:30 pm  |
+|   |   |
+
+_**Note: Secondary One members only practice on Wednesdays until they join the main band in Term 2.**_
+
+#### TEACHERS-IN-CHARGE
+
+|   |   |
+|---|---|
+| Mdm Geetha ( I/C)  |  Mdm Mastura |
+|  Mdm Zareena Beevi | Ms Leung Jyn Lem Cheryl  |
+|   |   |
+
+#### EXECUTIVE COMMITTEE MEMBERS
+
+|  EXCO Positions | Name  | Class  |
+|---|---|---|
+| Drum Major  |  JULIENNA JUWELLA BINTE JOHAR | 3 D  |
+| Band Major (Music)  |  LESTER LAI LOK XUAN |  3 F |
+| Band Major (Admin)  | NADEEYAH YASMIN BINTE MOHAMMAD ALI  | 3 E  |
+|  Recruit Officers | RATHNAYAKA MUDIYANSELAGE ISHUN SONU RATHNAYAKA<br>LIM YI CHEN GISELLE<br>MENESSA CHUNG HUISHAN  | 2 A<br><br>2 C<br>2 A  |
+| Librarian  | JAVIER KO JIE LE<br>NAZIHAH AMIRAH BINTE SAFARUDIN  | 3 A<br>3 A  |
+| Assistant Librarian  |  ANDREW SEBASTIEN LUKMAN<br>MOHAMED NAWFAL S/O ABDUL AZMIN |  2 C<br>2 C |
+|  Quarter master | TAY ZI WEI<br>ARIANTY BINTI MOHD ALI  | 3 D<br>3 D  |
+| Assistant Quarter Master  | HENDI WONG JIA MING<br>JOVAN CHAN ZHI EN  | 2 B<br>2 B  |
+| Uniform In-charge  | CHEONG JING WEN CALISTA  | 3 D  |
+|  Assistant Uniform In-charge | YU JIA CHENG JASON  | 2 B  |
+| Logistics In-charge  | RAYLAN GOH-CHIN KAR LOKE  |  3 A |
+| Section Leaders  | Flute : JULIENNA JUWELLA BINTE JOHAR<br>Clarinet : NADEEYAH YASMIN<br>Saxophone : TAY ZI WEILower woodwinds : NUR FIRZANAH<br>Trumpet : IRYAN HIDAYAT<br>French Horn: CHEONG JING WEN CALISTA<br>Trombone : NUR SYAHIRAH<br>Euphonium + Tuba : JAVIER KO JIE LE<br>String Bass : OH QI, ZEV<br>Percussion : LESTER LAI LOK XUAN  |   |
+|   |   |   |
