@@ -35,3 +35,40 @@ Moving forward, we hope to challenge the boundaries of our voices and minds and 
 #### HIGHLIGHT OF THE YEAR
 
 ##### KEY EXPERIENCES
+
+ <u>**2022**</u>
+
+ *   Sec 1 Welcome party (Jan 2022)   
+ *   Chinese New Year video performance (Jan 2022)   
+ *   Mr JJ De Souza (the composer of our school song) came to visit the school (April 2022)
+ *   Achieve and Excel video performance (April 2022)
+ *   Graduation party for seniors (May 2022) 
+ *   Vivo City Amazing Race (June 2022) 
+ *   Farewell party for the seniors (June 2022) 
+ *   Open-house showcase (Nov 2022)  
+ *   Concert @ NAFA\* (Nov 2022)  
+
+<u>**2021**</u>
+
+ *   Secret Santa (Jan 2021)
+ *   eCCA (Term 1 - 3) 
+ *   Achieve and Excel performance (April 2021) 
+ *   Singapore Youth Festival 2021 (April 2021)
+ *   Graduation party for seniors (Dec 2021) 
+ *   Amazing Race@BVSS (Dec 2021)
+
+<u>**Vivo City Amazing Race**</u>
+
+After many days of rehearsals for our upcoming concert, the Choir EXCO planned a bonding activity to let us have fun at Vivo City. We had to solve puzzles at various stations within the shortest time possible.
+
+<img src="/images/Amazing Race at Vivo City 1.jpeg" style="width:36%;margin-right:15px;" align = "left">
+<img src="/images/Amazing Race at Vivo City 2.jpeg" style="width:36%;margin-right:15px;" align = "left">
+<img src="/images/Doing our best for the Amazing Race - food challenge.jpeg" style="width:20%;margin-right:15px;" align = "left">
+<br clear="left"><br>
+
+<img src="/images/Amazing Race at Vivo City 3.jpeg" style="width:36%;margin-right:15px;" align = "left">
+<img src="/images/Amazing Race at Vivo City 5.jpeg" style="width:36%;margin-right:15px;" align = "left">
+<img src="/images/Amazing Race food challenge.jpeg" style="width:20%;margin-right:15px;" align = "left">
+<br clear="left">
+
+<u>**Farewell Party for Seniors**</u>
