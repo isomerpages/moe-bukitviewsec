@@ -49,10 +49,10 @@ SYF Art Presentation 2019
 
 <img src="/images/NCS_1103.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/NCS_1105.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/eng12.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/NCS_1110.jpg" style="width:30%;margin-right:15px;" align = "left">
 <br clear="left"><br>
 
-<img src="/images/eng10.jpeg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/eng11.jpeg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/eng12.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/NCS_1123.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/NCS_1124.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/NCS_1126.jpg" style="width:30%;margin-right:15px;" align = "left">
 <br clear="left">
