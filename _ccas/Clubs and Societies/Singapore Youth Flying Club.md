@@ -90,3 +90,15 @@ Established in 2012, our relatively young SYFC team has made our school proud by
 	<tr>
 		<td> Champion & 1st Runner Up for Electric Control Line (Junior Category) </td>
 	</tr>
+	<tr>
+		<td> Champion for Electric Control Line (Senior Category) </td>
+	</tr>
+	<tr>
+		<td rowspan="2"> Singapore Amazing Flying Machine Competition (SAFMC) </td>
+		<td> 1st Runner Up (Team) for Unpowered Gliders Category B1: Further Distance </td>
+	</tr>
+	<tr>
+		<td> 1st Runner Up (Team) for Unpowered Gliders Category B2: Longest Time Aloft </td>
+	</tr>
+	<tr></tr>
+</table>
