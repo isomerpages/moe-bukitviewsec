@@ -61,3 +61,27 @@ The Environmental Club was formally started in 2005. We are a group of students 
 
 <img src="/images/20160505_082827-1024x576.jpg" style="width:85%">
 
+#### CCA TRAINING DAY(S)/ TIME
+
+|Day(s)   |  Time |
+|---|---|
+| Friday |  2:30 pm – 5:30 pm |
+|   |   |
+
+#### TEACHERS-IN-CHARGE
+
+|   |   |
+|---|---|
+| Mrs Toh Kai Poh  |  Mrs Reena Lloyd |
+| Ms Chun Kai Xin  |   |
+|   |   |
+
+#### EXECUTIVE COMMITTEE MEMBERS
+
+| EXCO Positions  | NAME  | CLASS  |
+|---|---|---|
+| Chairperson  |  Samantha Huang Xuan | 3 D  |
+| Vice-chairperson  | Chin Kuan Yau  | 3 D  |
+|   |   |   |
+
+**For further information, please visit our [Environmental Club Facebook Page](http://www.facebook.com/pages/LIGERS-Environmental-Club-Bukit-View-Sec-School/327352081861)**
