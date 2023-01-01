@@ -117,3 +117,9 @@ Established in 2012, our relatively young SYFC team has made our school proud by
 | Mr Richard Lim | Mr Ong Soon Gee | 
 | Mrs Charline Cheah | |
 | | |
+
+#### EXECUTIVE COMMITTEE MEMBERS
+
+![](/images/SYFC%20BVSS%20EXCO%202022%20rev%202-01.png)
+
+**For further information, please visit [www.syfc.sg](www.syfc.sg)**
