@@ -41,8 +41,35 @@ We seek to bring out the very best in every boy that comes under our charge. Our
 
 #### CCA TRAINING DAY(S)/ TIME
 
-| Day(s)  | Time  |
+|   |   |
 |---|---|
+|  **Day(s)** | **Time**  |
+| Friday  | 2:00 pm – 5:00 pm  |
 |   |   |
+
+#### TEACHERS-IN-CHARGE
+
 |   |   |
+|---|---|
+| Mr Felix Wong (Teacher Overall I/C)  | Mr Aren Tang (Captain)  |
+|  Mr Tan Huong | Mr Ethan Lau (Officer)  |
 |   |   |
+
+#### EXECUTIVE COMMITTEE MEMBERS
+
+|   |   |   |
+|---|---|---|
+|  **EXCO Positions** | **Name**  |  **Class** |
+| Company Sergeant Major  |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
