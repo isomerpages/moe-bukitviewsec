@@ -2,10 +2,10 @@ collections:
   ccas:
     output: true
     order:
-      - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/.keep
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/NCC.md
+      - Uniformed Groups/Girls' Brigade.md
       - Clubs and Societies/Infocomm Club.md
       - Clubs and Societies/Singapore Youth Flying Club.md
       - Clubs and Societies/.keep
