@@ -26,7 +26,7 @@ Our GB Programmme comprises four aspects – physical, educational, values and s
 
 |   |   |
 |---|---|
-| <img src="/images/Team-Building.jpg" style="width:75%;margin-left:5px;"> <br>Team Building  | <img src="/images/Drill-1-e1623030887635.png" style="width:94%;margin-left:5px;"> <br>Drill  |
+| <img src="/images/Team-Building.jpg" style="width:75%"> <center>Team Building</center>  | <img src="/images/Drill-1-e1623030887635.png" style="width:94%"> <center>Drill</center>  |
 |   |   |
 
 <img src="/images/Slide2.jpg" style="width:49%" align=left>
