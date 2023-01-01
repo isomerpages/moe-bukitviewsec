@@ -84,9 +84,9 @@ This club would not be complete if without positive accomplishment. As such, in 
 
 <table>
 	<tr>
-		<td> EXCO Positions </td>
-		<td> NAME </td>
-		<td> CLASS </td>
+		<th> EXCO Positions </th>
+		<th> NAME </th>
+		<th> CLASS </th>
 	</tr>
 	<tr>
 		<th colspan="3"> Lower Secondary</th>
