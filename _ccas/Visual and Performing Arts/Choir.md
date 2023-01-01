@@ -23,3 +23,15 @@ The BV Choir’s hard work and tenacity was also showcased in Voices Of Singapor
 <iframe width="800" height="439" src="https://www.youtube.com/embed/lzHuMJds-Vc" title="Voices of Singapore BVSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The Choir is currently preparing for our concert that is being held on 26 November at Lee Foundation
+
+<img src="/images/Copy of Thank you for the music_FINAL.png" style="width:30%" align=left>
+
+Theatre at the Nanyang Academy of Fine Arts.<br>
+We hope to be able to sing to a full audience during the concert and share our love of singing with you. <br>
+Tickets are free of charge, you can email Ms Joy Chen at [chen\_hsiu\_cheun\_joy@schools.gov.sg](mailto:chen_hsiu_cheun_joy@schools.gov.sg) by 24 November 2022, if you would like to join us. <br>
+Tickets can be collected at the reception counter. <br clear=left>
+Moving forward, we hope to challenge the boundaries of our voices and minds and remain faithful to the friendships forged by our shared experience of singing together.
+
+#### HIGHLIGHT OF THE YEAR
+
+##### KEY EXPERIENCES
