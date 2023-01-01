@@ -50,7 +50,7 @@ CCAs are an integral part of Bukit Viewans’ holistic, well-rounded education. 
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/visual-and-performing-arts/choir">
+			<a href="/ccas/Visual-and-Performing-Arts/Choir/">
 				<img src="/images/choir.jpg"/> <center> Choir </center>
 			</a>
 		</td>
