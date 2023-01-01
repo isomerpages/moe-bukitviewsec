@@ -49,3 +49,15 @@ The Environmental Club was formally started in 2005. We are a group of students 
 | Community-in-Bloom (CIB) Award organised by Nparks  | Platinum Award  |
 | School Green Awards  | Lotus Sustained Achievement Award  |
 |   |   |
+
+<iframe width="800" height="515" src="https://www.youtube.com/embed/rV2fPgIim0o" title="ECV Year  2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="/images/en1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/en2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/en3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
+
+#### Our Ecogarden
+
+<img src="/images/20160505_082827-1024x576.jpg" style="width:85%">
+
