@@ -83,7 +83,7 @@ Established in 2012, the Bukit View floorball team is an all-girls team. Through
 		<td> NURUL SHAKIRA </td>
 		<td> S2-A </td>
 	</tr>
-	<tr> </tr>
+	<tr> <td colspan="3"></td></tr>
 	<tr>
 		<td rowspan="2"> Upper Seconday Quarter Mistresses </td>
 		<td> GERMAINE THAM RUI EN </td>
