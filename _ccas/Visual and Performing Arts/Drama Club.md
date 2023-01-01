@@ -39,3 +39,20 @@ To cultivate and nurture a love and appreciation for mass media and the arts, wh
 | SYF 2015 Arts Presentations  | Certificate of Distinction  |
 |   |   |
 
+|   |   |
+|---|---|
+| <img src="/images/SYF-2019-300x225.jpeg" style="width:85%"> <center>**Syf 2019**</center>  | <img src="/images/rehersal.jpeg" style="width:85%"><center>**Syf Rehearsal**</center>  |
+| <img src="/images/@sota.jpeg" style="width:85%"><center>**Drama Club @ Sota**</center>  |  <img src="/images/teambonding.jpeg" style="width:85%"><center>**Team Bonding**</center> |
+|   |   |
+
+SYF Art Presentation 2019
+
+<img src="/images/NCS_1103.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/NCS_1105.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/eng12.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left"><br>
+
+<img src="/images/eng10.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/eng11.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/eng12.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
