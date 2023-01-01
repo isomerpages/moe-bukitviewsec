@@ -31,13 +31,15 @@ Our GB Programmme comprises four aspects – physical, educational, values and s
 
 <img src="/images/Slide2.jpg" style="width:49%" align=left>
 <img src="/images/Slide2.jpg" style="width:49%" align=right>
-<br clear="left"><br>
+<br clear="left">
 
 **Pioneer Brigadier Brooch Winners: KAROLYN PEY XIN YING and TANIA FONG YAAN KEI.**
 
-<img src="/images/photo_2022-12-24_05-55-04.jpg" style="width:85%">
-
-<img src="/images/photo_2022-12-24_05-55-40.jpg" style="width:85%">
+|   |   |
+|---|---|
+| <img src="/images/Slide3.jpg" style="width:85%">  | <img src="/images/Slide5.jpg" style="width:85%">  |
+| <img src="/images/Slide4.jpg" style="width:85%">  |  <img src="/images/Slide6.jpg" style="width:85%"> |
+|   |   |
 
 #### AWARDS AND ACHIEVEMENTS
 
