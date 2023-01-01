@@ -41,9 +41,8 @@ We seek to bring out the very best in every boy that comes under our charge. Our
 
 #### CCA TRAINING DAY(S)/ TIME
 
-|   |   |
+|  **Day(s)** |  **Time** |
 |---|---|
-|  **Day(s)** | **Time**  |
 | Friday  | 2:00 pm – 5:00 pm  |
 |   |   |
 
@@ -57,19 +56,20 @@ We seek to bring out the very best in every boy that comes under our charge. Our
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
-|   |   |   |
-|---|---|---|
 |  **EXCO Positions** | **Name**  |  **Class** |
-| Company Sergeant Major  |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|---|---|---|
+| Company Sergeant Major  | Jareth Kong  |  3 F |
+|  Assistant Company Sergeant Major | Joshua Santhanara  | 3 D  |
+| Programmes IC  | Javier Tan  | 3 F  |
+|  People IC |  Elkan Ng | 3 D  |
+|  Drill IC | Zhu Jing Honglu  |  3 A  |
+| Adventure IC  | Caleb Lai  |  3 C  |
+| PT & Sports IC  |  Javier Tan | 3 F  |
+|  Communications IC |  Elkan Ng |  3 D |
+|  Squad Leader |  Periya Ramaswamy |  3 E |
+| Squad Leader  | Niteesh Sakthivel  | 3 G  |
+| Squad Leader  |  Prabhu Saravanan |  3 G |
+| Quartermaster  | Dilliaous Ho  |  3 C  |
+| Awards IC  | Ng Zi Han  |   3 G |
+| Asst Squad Leaders  | Clifford Chua<br>Maran Mugilan<br>Paul Raymond  | 2 B<br>2 F<br>2 F  |
 |   |   |   |
