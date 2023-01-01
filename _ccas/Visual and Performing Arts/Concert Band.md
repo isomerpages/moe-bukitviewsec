@@ -72,5 +72,5 @@ _**Note: Secondary One members only practice on Wednesdays until they join the m
 | Uniform In-charge  | CHEONG JING WEN CALISTA  | 3 D  |
 |  Assistant Uniform In-charge | YU JIA CHENG JASON  | 2 B  |
 | Logistics In-charge  | RAYLAN GOH-CHIN KAR LOKE  |  3 A |
-| Section Leaders  | Flute : JULIENNA JUWELLA BINTE JOHAR<br>Clarinet : NADEEYAH YASMIN<br>Saxophone : TAY ZI WEILower woodwinds : NUR FIRZANAH<br>Trumpet : IRYAN HIDAYAT<br>French Horn: CHEONG JING WEN CALISTA<br>Trombone : NUR SYAHIRAH<br>Euphonium + Tuba : JAVIER KO JIE LE<br>String Bass : OH QI, ZEV<br>Percussion : LESTER LAI LOK XUAN  |   |
+| Section Leaders  | Flute : JULIENNA JUWELLA BINTE JOHAR<br>Clarinet : NADEEYAH YASMIN<br>Saxophone : TAY ZI WEILower woodwinds : NUR FIRZANAH<br>Trumpet : IRYAN HIDAYAT<br>French Horn: CHEONG JING WEN CALISTA<br>Trombone : NUR SYAHIRAH<br>Euphonium + Tuba : JAVIER KO JIE LE<br>String Bass : OH QI, ZEV<br>Percussion : LESTER LAI LOK XUAN  |  3 D<br>3 E<br>3 D<br>3 D<br>3 F<br>3 D<br>3 A<br>3 A<br>3 D<br>3 F |
 |   |   |   |
