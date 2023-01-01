@@ -59,8 +59,35 @@ SYF Art Presentation 2019
 
 #### CCA TRAINING DAY(S)/ TIME
 
-
+| Day(s)  | Time  |
+|---|---|
+| Wednesday  | 2:30 pm – 4:30 pm  |
+|  Friday | 3:00 pm – 6:00 pm  |
+|   |   |
 
 #### TEACHERS-IN-CHARGE
 
+|   |   |
+|---|---|
+| Mr Muhd Fadly  |  Miss Nur Syazwani Binte Shoffie |
+| Ms Chi Ei Ei  |   |
+|   |   |
+
 #### EXECUTIVE COMMITTEE MEMBERS
+
+|   |   |   |
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
