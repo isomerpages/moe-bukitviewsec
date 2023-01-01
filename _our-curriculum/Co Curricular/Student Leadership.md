@@ -8,7 +8,7 @@ third_nav_title: Co Curricular
 
 |   |   |
 |---|---|
-| **Student Council Board**  |   |
-| **Sports Leaders**  |   |
-| **Peer Support Leaders**  |   |
+| **Student Council Board**  | [Student Council Board](/student-leadership/scb/)  |
+| **Sports Leaders**  | [Sports Leader](/student-leadership/sportsldr/)  |
+| **Peer Support Leaders**  | [Peer Support Leaders](/student-leadership/psl/)  |
 |   |   |
