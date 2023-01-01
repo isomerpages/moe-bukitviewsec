@@ -36,7 +36,7 @@ Moving forward, we hope to challenge the boundaries of our voices and minds and 
 
 ##### KEY EXPERIENCES
 
- <u>**2022**</u>
+ **2022**
 
  *   Sec 1 Welcome party (Jan 2022)   
  *   Chinese New Year video performance (Jan 2022)   
@@ -48,7 +48,7 @@ Moving forward, we hope to challenge the boundaries of our voices and minds and 
  *   Open-house showcase (Nov 2022)  
  *   Concert @ NAFA\* (Nov 2022)  
 
-<u>**2021**</u>
+**2021**
 
  *   Secret Santa (Jan 2021)
  *   eCCA (Term 1 - 3) 
@@ -57,7 +57,7 @@ Moving forward, we hope to challenge the boundaries of our voices and minds and 
  *   Graduation party for seniors (Dec 2021) 
  *   Amazing Race@BVSS (Dec 2021)
 
-<u>**Vivo City Amazing Race**</u>
+**Vivo City Amazing Race**
 
 After many days of rehearsals for our upcoming concert, the Choir EXCO planned a bonding activity to let us have fun at Vivo City. We had to solve puzzles at various stations within the shortest time possible.
 
@@ -71,7 +71,7 @@ After many days of rehearsals for our upcoming concert, the Choir EXCO planned a
 <img src="/images/Amazing Race food challenge.jpeg" style="width:20%;margin-right:15px;" align = "left">
 <br clear="left">
 
-<u>**Farewell Party for Seniors**</u>
+**Farewell Party for Seniors**
 
 <img src="/images/farewell1.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/farewell2.jpeg" style="width:30%;margin-right:15px;" align = "left">
@@ -151,4 +151,3 @@ After many days of rehearsals for our upcoming concert, the Choir EXCO planned a
 | Treasurer  | Ten Si Qi  | 2 G  |
 | Librarian  | Aw Kai Ling  | 2 F  |
 |   |   |   |
-
