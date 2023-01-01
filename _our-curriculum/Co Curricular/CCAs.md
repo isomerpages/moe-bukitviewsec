@@ -62,7 +62,7 @@ CCAs are an integral part of Bukit Viewans’ holistic, well-rounded education. 
 	</tr>
 	<tr>
 		<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/visual-and-performing-arts/media-n-publicity">
+			<a href="/ccas/Visual-and-Performing-Arts/media/">
 				<img src="/images/media.jpg"/> <center> Media & Publicity </center>
 			</a>
 		</td>
