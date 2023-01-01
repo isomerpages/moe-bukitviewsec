@@ -84,3 +84,21 @@ After many days of rehearsals for our upcoming concert, the Choir EXCO planned a
 <br clear="left">
 
 **Making of CNY video**
+
+<img src="/images/Copy of IMG_0015.jpg" style="width:85%">
+
+**Bonding with new sec ones**
+
+<img src="/images/bonding1.jpg" style="width:49%" align=left>
+<img src="/images/bonding2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+|   |   |   |
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
