@@ -49,3 +49,31 @@ The objectives of BVSS Dance Club are to nurture the love for dance as a perform
 <br clear="left"><br>
 
 <img src="/images/dance7.png" style="width:85%">
+
+#### CCA TRAINING DAY(S)/ TIME
+
+|  Day(s) | Time  |
+|---|---|
+| Wednesday  | 2:30 pm – 4:30 pm  |
+| Friday  |  1:30 pm – 3:30 pm |
+|   |   |
+
+#### TEACHERS-IN-CHARGE
+
+|   |   |
+|---|---|
+| Mrs Dharani Dinesh  |  Mdm Marhaini |
+| Ms Sarah Lah  |   |
+|   |   |
+
+#### EXECUTIVE COMMITTEE MEMBERS
+
+|  EXCO Positions | Name  |  Class |
+|---|---|---|
+| President  | Denice Ng Zhenwei  | S3 -D  |
+|  Vice-President | Nur Fatin Izzati Binte Rosli  | S3 -D  |
+|  Secretary | Isabelle Nong Sok Qi  | S3 -F  |
+|  Head of Lower Sec | Agnes Ang Xing  | S3 -F  |
+| Head of Welfare  | Malli Suresh Rishika<br>Tan Xi Jie  | S3 -F<br>S3 -F  |
+| Wardrobe IC  | Tan Pei Yu<br>Yap Qian Min Germaine  | S3 -D<br>S3 -B  |
+|   |   |   |
