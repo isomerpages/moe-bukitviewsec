@@ -55,7 +55,7 @@ CCAs are an integral part of Bukit Viewans’ holistic, well-rounded education. 
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/visual-and-performing-arts/dance-club">
+			<a href="/ccas/Visual-and-Performing-Arts/dance/">
 				<img src="/images/dance.jpg"/> <center> Dance Club </center>
 			</a>
 		</td>
