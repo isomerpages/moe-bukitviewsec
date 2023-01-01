@@ -75,19 +75,17 @@ SYF Art Presentation 2019
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
-|   |   |   |
+| EXCO Positions  | Name  |  Class |
 |---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| President  | HARCHANA SIVARAJASINGAM  | 3 A  |
+| Vice-President  | PARAMESWARAN SRIVATHSAN  | 3 D  |
+| Head of Drama  | SENTHIL PRASAD ARULPRASATH  | 3 F  |
+| Assistant Head of Drama  | NUR SYASYA BINTE MOHAMED RAMLI  | 2 D  |
+| Secretary  |  TAN JUN YEW | 3 A  |
+| Stage Manager  | THADDEUS LEONG KA-WAI  | 3 D  |
+|  Head of Logistics | NUR SABRINA BINTE MOHD HELMI  | 3 A  |
+|  Head of Welfare | MUHAMMED ILYAS BIN THAJUDEEN  | 3 B  |
+| Sec 3 Level Coordinator  | THIRUMAL NARAYANAN HEMAALATCHEMI  |  3 E |
+|  Sec 2 Level Coordinator | JOVAN CHIANG ZUO EN  | 2 B  |
+|  Sec 1 Level Coordinator | MARTHA MARIE LIM QIAO RU  | 1 E  |
 |   |   |   |
