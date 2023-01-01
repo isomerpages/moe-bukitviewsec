@@ -53,9 +53,8 @@ Our GB Programmme comprises four aspects – physical, educational, values and s
 
 #### CCA TRAINING DAY(S)/ TIME
 
-|   |   |
-|---|---|
 |  **Day(s)** | **Time**  |
+|---|---|
 | Friday  | 2:30 pm – 5:30 pm  |
 |   |   |
 
@@ -69,9 +68,8 @@ Our GB Programmme comprises four aspects – physical, educational, values and s
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
-|   |   |   |
-|---|---|---|
 | **EXCO Positions**  | **Name**  | **Class**  |
+|---|---|---|
 | Company Leader  |  Wong Min Xuan Carina |  3 F |
 | Assistant Company Leader  |  Tan Jingwen Cherisal | 3 F  |
 |   |  Samiksha Vishnuprasad | 3 F  |
