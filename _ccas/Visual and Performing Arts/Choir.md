@@ -101,7 +101,30 @@ After many days of rehearsals for our upcoming concert, the Choir EXCO planned a
 
 #### AWARDS AND ACHIEVEMENTS
 
+|   |   |
+|---|---|
+| SYF 2021 Arts Presentations  |  Certificate of Accomplishment |
+| SYF 2017 Arts Presentations  | Certificate of Accomplishment  |
+|   |   |
+
 #### PERFORMANCE
+
+|   |
+|---|
+| **2022**  |
+| “Thank You For The Music” - Concert at Lee Foundation Theatre, NAFA<br>  |
+| Achieve and Excel e-performance  |
+| Chinese New Year e-performance  |
+| **2020**  |
+|  Values-In-Action activity for Arts@Kismis |
+| National Day e-performance  |
+|  Voices of Singapore e-performance |
+| **2019**  |
+| You Are My Sunshine” - Concert at The Arts House  |
+| Voices of Singapore performance  |
+| **2018**  |
+|  “Feels Good” - Concert at The Arts House |
+|   |
 
 #### CCA TRAINING DAY(S)/ TIME
 
