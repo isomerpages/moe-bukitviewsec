@@ -13,7 +13,7 @@ CCAs are an integral part of Bukit Viewans’ holistic, well-rounded education. 
 <table>
 	<tr>
 		<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/uniformed-groups/npcc">
+			<a href="/ccas/Uniformed-Groups/npcc/">
 				<img src="/images/npcc.jpg"/> <center> NPCC </center>
 			</a>
 		</td>
