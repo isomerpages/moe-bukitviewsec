@@ -45,7 +45,7 @@ CCAs are an integral part of Bukit Viewans’ holistic, well-rounded education. 
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/visual-and-performing-arts/concert-band">
+			<a href="/ccas/Visual-and-Performing-Arts/concertb/">
 				<img src="/images/concert.jpg"/> <center> Concert Band </center>
 			</a>
 		</td>
