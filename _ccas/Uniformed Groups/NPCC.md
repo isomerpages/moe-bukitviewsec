@@ -42,9 +42,11 @@ For further information, please visit our [www.npcc.gov.sg](http://www.npcc.gov
 |  Best Unit Cadet | Gold Award ( Tham Mun Fai , 4 E2) |
 |   |   |
 
-<img src="/images/photo_2022-12-24_05-34-07.jpg" style="width:85%">
-
-<img src="/images/photo_2022-12-24_05-34-46.jpg" style="width:85%">
+|   |   |
+|---|---|
+|  <img src="/images/BACKUP-3-NPCC-Promotion-Ceremony-front-300x225.jpg" style="width:85%;margin-left:5px;"> <br>**Npcc Promotion Ceremony (front)** | <img src="/images/4-NPCC-Promotion-Ceremony-back-300x225.jpg" style="width:85%;margin-left:5px;"> <br>**4 Npcc Promotion Ceremony (back)** |
+|  <img src="/images/1-NPCC-Inter-Unit-Drill-Comp-2-300x163.jpg" style="width:85%;margin-left:5px;"> <br>**Npcc Inter Unit Drill Comp 2** |  <img src="/images/BACKUP-1-NPCC-Salute-225x300.jpg" style="width:60%;margin-left:5px;"> <br>**Npcc Salute** |
+|   |   |
 
 #### RANK STRUCTURE
 
