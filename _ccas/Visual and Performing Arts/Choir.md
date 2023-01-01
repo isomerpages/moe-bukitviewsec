@@ -99,3 +99,12 @@ After many days of rehearsals for our upcoming concert, the Choir EXCO planned a
 | **IMAGE NOT FOUND**<br>**Arts House Performance (2019)**  |  **Exco Member Being Emcee For Our Voices Of Singapore E Concert Showcase.** | **A choir President Featured In Moe Teachers Day Tribute Video**  |
 |   |   |   |
 
+#### AWARDS AND ACHIEVEMENTS
+
+#### PERFORMANCE
+
+#### CCA TRAINING DAY(S)/ TIME
+
+#### TEACHERS-IN-CHARGE
+
+#### EXECUTIVE COMMITTEE MEMBERS
