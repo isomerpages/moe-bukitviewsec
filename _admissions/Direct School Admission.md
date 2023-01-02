@@ -44,11 +44,20 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 
 #### BVSS DSA-Sec Talent Areas
 
-|   |   |
+| **DSA Main Category**  | **DSA Talent Area**  |
 |---|---|
+| Leadership and Uniformed Groups  | * Leadership  |
+| Performing Arts  | * Choir<br> * Concert Band<br> * Modern Dance<br> * English Drama  |
+| Science, Technology, Engineering and Mathematics  | * Coding<br> * Environmental Science<br> * STEM - Aerospace and Aviation  |
+| Sports and Games  | * Volleyball (Girls)<br> * Table Tennis  |
 |   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+
+#### Leadership
+
+| **Programmes, activities and opportunities**  |
+|---|
+| Students will be equipped with leadership skills, competencies and knowledge. They will be developed to serve as student leaders (councillor / peer support leader / CCA leader), and be given opportunities and platforms to apply their leadership skills. Students may also be selected as ambassadors to represent the school during the School Open House.<br><br>  |
+|   |
+|   |
+|   |
+
