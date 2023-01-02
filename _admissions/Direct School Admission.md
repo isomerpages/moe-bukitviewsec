@@ -56,8 +56,10 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 
 | **Programmes, activities and opportunities**  |
 |---|
-| Students will be equipped with leadership skills, competencies and knowledge. They will be developed to serve as student leaders (councillor / peer support leader / CCA leader), and be given opportunities and platforms to apply their leadership skills. Students may also be selected as ambassadors to represent the school during the School Open House.<br><br>  |
-|   |
-|   |
+| Students will be equipped with leadership skills, competencies and knowledge. They will be developed to serve as student leaders (councillor / peer support leader / CCA leader), and be given opportunities and platforms to apply their leadership skills. Students may also be selected as ambassadors to represent the school during the School Open House.<br><br> For more information, please refer to the [Student Leadership webpage](/our-curriculum/Co-Curricular/sl/). |
 |   |
 
+| **Prerequisites**  |  **Selection Criteria** |   |
+|---|---|---|
+| Held key appointment in student leadership bodies and/or demonstrated leadership in school-related activities.  | Shortlisted candidates will be assessed based on their leadership qualities and skills through an interview.  | <img src="/images/NCC-300x200.jpg" style="width:100%">  |
+|   |   |   |
