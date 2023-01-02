@@ -116,7 +116,7 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 
 | **Programmes, activities and opportunities**  |
 |---|
-|  Students will learn computational thinking skills using different programming languages including Scratch, Microsoft MakeCode and MicroPython. They will also learn to harness the power of the micro:bit by working with accelerometers, temperature sensors, LEDs, and other components that form the building blocks of modern Internet of Things (IoT) and smart cities. They will have the opportunities to represent the school in various competitions like Microsoft Imagine Cup Junior Challenge, Singapore Energy Grand Challenge (Youth) and 3D-tronics micro:bit Asia Challenge. <br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club).  |
+|  Students will learn computational thinking skills using different programming languages including Scratch, Microsoft MakeCode and MicroPython. They will also learn to harness the power of the micro:bit by working with accelerometers, temperature sensors, LEDs, and other components that form the building blocks of modern Internet of Things (IoT) and smart cities. They will have the opportunities to represent the school in various competitions like Microsoft Imagine Cup Junior Challenge, Singapore Energy Grand Challenge (Youth) and 3D-tronics micro:bit Asia Challenge. <br><br>For more information, please refer to the [CCA webpage](/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club/).  |
 |   |
 
 | **Prerequisites**  | **Selection Criteria**  | **Example of Image for Infocomm Club**  |
@@ -128,7 +128,7 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 
 | **Programmes, activities and opportunities**  |
 |---|
-|  Students will learn to be environmentally conscious, to be aware of issues like sustainability and conservation. Their learning will be supported by the school’s outdoor learning facilities such as the Environmental Gallery, Eco Garden, and Smart Centre. The students will also conduct a biodiversity audit in the school and develop their capacities as Environmental Ambassadors, able to conduct Eco Trails for other schools’ students and visitors. They are also exposed to environmental projects organised by external agencies.   <br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/environmental-club).  |
+|  Students will learn to be environmentally conscious, to be aware of issues like sustainability and conservation. Their learning will be supported by the school’s outdoor learning facilities such as the Environmental Gallery, Eco Garden, and Smart Centre. The students will also conduct a biodiversity audit in the school and develop their capacities as Environmental Ambassadors, able to conduct Eco Trails for other schools’ students and visitors. They are also exposed to environmental projects organised by external agencies.   <br><br>For more information, please refer to the [CCA webpage](/ccas/Clubs-and-Societies/environmental/).  |
 |   |
 
 | **Prerequisites**  | **Selection Criteria**  | **Example of Image for Environmental Science**  |
@@ -140,7 +140,7 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 
 | **Programmes, activities and opportunities**  |
 |---|
-|  Students will have opportunities to join the Singapore Youth Flying Club and experience a range of aviation related activities, such as:<br><br>* Attending lectures to improve aviation knowledge<br>* Experiencing joyrides on various RSAF aircraft under the Flight Experience Program (FEP<br> * Building and flying of model aircraft<br><br>They will also have opportunities to represent the school in aviation and aerospace competitions such as Singapore Amazing Flying Machine Competition (SAFMC), Drone Odyssey Challenge, and other competitions. <br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club).  |
+|  Students will have opportunities to join the Singapore Youth Flying Club and experience a range of aviation related activities, such as:<br><br>* Attending lectures to improve aviation knowledge<br>* Experiencing joyrides on various RSAF aircraft under the Flight Experience Program (FEP<br> * Building and flying of model aircraft<br><br>They will also have opportunities to represent the school in aviation and aerospace competitions such as Singapore Amazing Flying Machine Competition (SAFMC), Drone Odyssey Challenge, and other competitions. <br><br>For more information, please refer to the [CCA webpage](/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club/).  |
 |   |
 
 | **Prerequisites**  | **Selection Criteria**  | **Example of Image for Aerospace and Aviation**  |
@@ -152,7 +152,7 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 
 | **Programmes, activities and opportunities**  |
 |---|
-|  Students will have a holistic experience through the training program, focusing not just on knowledge and skills acquisition of the sport at a higher level, but also in the areas of character building, leadership and teamwork. They will be able to enhance their repertoire of skills during trainings, and have the opportunity to participate in friendly matches and National School Games (NSG) competitions.<br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball).  |
+|  Students will have a holistic experience through the training program, focusing not just on knowledge and skills acquisition of the sport at a higher level, but also in the areas of character building, leadership and teamwork. They will be able to enhance their repertoire of skills during trainings, and have the opportunity to participate in friendly matches and National School Games (NSG) competitions.<br><br>For more information, please refer to the [CCA webpage](/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/).  |
 |   |
 
 | **Prerequisites**  | **Selection Criteria**  | **Example of Image for Volleyball**  |
@@ -164,7 +164,7 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 
 | **Programmes, activities and opportunities**  |
 |---|
-|  Students will have the opportunity to hone their table tennis skills under experienced teachers and instructors. They will be developed holistically in the areas of leadership, sportsmanship and teamwork, gaining experience in the planning and facilitation of CCA events such as the Sports Camp and the School Open House. Students will also represent the school in the annual National School Games (NSG) Table Tennis Championship (Team). Selected students would participate in the individual category of the NSG Table Tennis Championship.<br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis).  |
+|  Students will have the opportunity to hone their table tennis skills under experienced teachers and instructors. They will be developed holistically in the areas of leadership, sportsmanship and teamwork, gaining experience in the planning and facilitation of CCA events such as the Sports Camp and the School Open House. Students will also represent the school in the annual National School Games (NSG) Table Tennis Championship (Team). Selected students would participate in the individual category of the NSG Table Tennis Championship.<br><br>For more information, please refer to the [CCA webpage](/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis/).  |
 |   |
 
 | **Prerequisites**  | **Selection Criteria**  | **Example of Image for Table Tennis**  |
