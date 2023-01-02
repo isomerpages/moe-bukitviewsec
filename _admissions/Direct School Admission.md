@@ -80,5 +80,17 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 
 | **Programmes, activities and opportunities**  |
 |---|
-|  Students will be given opportunities to perform in public concerts and the Singapore Youth Festival (SYF) Arts Presentation. They will also be given opportunities to hone their leadership and organization skills through weekly practices and engaging activities. In school, students get to showcase their musical talent during events like National Day Parade, Teacher’s Day celebrations.<br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/visual-and-performing-arts/concert-band).  |
+|  Students will be given opportunities to perform in public concerts and the Singapore Youth Festival (SYF) Arts Presentation. They will also be given opportunities to hone their leadership and organization skills through weekly practices and engaging activities. In school, students get to showcase their musical talent during events like National Day Parade, Teacher’s Day celebrations.<br><br>For more information, please refer to the [CCA webpage](/ccas/Visual-and-Performing-Arts/concertb/).  |
+|   |
+
+| **Prerequisites**  |  **Selection Criteria** | **Example of Image for Concert Band**  |
+|---|---|---|
+| Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.  | Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Concert Band through the following criteria:<br><br>1.  Prepared items for showcase<br>2.  Performance tasks<br>3.  Interview component  | <img src="/images/Band-300x184.png" style="width:100%">  |
+|   |   |   |
+
+#### Modern Dance
+
+| **Programmes, activities and opportunities**  |
+|---|
+| Students will be trained in techniques associated with various dance genres. They will have the opportunity to perform at various school events such as the Chinese New Year concert, school National Day celebrations, Teachers’ Day and Open House. There will also be opportunities to perform outside of school, for instance, at the Gardens by the Bay, Bukit Batok CC and other schools. Students will also be trained to perform at the Singapore Youth Festival (SYF) Arts Presentation.<br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/visual-and-performing-arts/dance-club).  |
 |   |
