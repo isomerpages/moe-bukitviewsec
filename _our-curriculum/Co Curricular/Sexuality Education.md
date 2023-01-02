@@ -68,3 +68,25 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 |   | 1B<br>(60 mins)  | *   Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.  <br><br>*   Know that a decision to end a relationship will have consequences on oneself and others.  <br><br>*   Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.  <br><br>*   Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.  | Term 2 Week 6  |
 |   | 2<br>(60 mins)  |  *   Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.  <br><br>*   Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 3 Week 1  |
 |   |   |   |   |
+
+<center><b>SECONDARY 4</b></center>
+
+| **UNIT**  | **LESSONS / DURATION**  | **Lesson Objectives**<br>**At the end of the lesson, students will be able to:**  | **TIME PERIOD**<br>**(e.g. Term 1 Week 2)**  |
+|---|---|---|---|
+|  Respectful Relationships & Safety | 1  | *   Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.  <br><br>*   Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.  <br><br>*   Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.  | Term 1 Week 4  |
+|   | 2<br>(60 mins)  | *   Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.  <br><br>*   Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.  <br><br>*   Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.  <br><br>*   Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.  | Term 1 Week 6  |
+|   | 3<br>(60 mins)  | *   Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.    <br><br>*   Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.  <br><br>*   Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.  |  Term 1 Week 9 |
+|   |  4<br>(60 mins) |  *   Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 2 Week 2  |
+|   |   |   |   |
+
+<center><b>SECONDARY 5</b></center>
+
+| **UNIT**  | **LESSONS / DURATION**  | **Lesson Objectives**<br>**At the end of the lesson, students will be able to:**  | **TIME PERIOD**<br>**(e.g. Term 1 Week 2)**  |
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
