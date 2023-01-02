@@ -63,3 +63,6 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 |---|---|---|
 | Held key appointment in student leadership bodies and/or demonstrated leadership in school-related activities.  | Shortlisted candidates will be assessed based on their leadership qualities and skills through an interview.  | <img src="/images/NCC-300x200.jpg" style="width:100%">  |
 |   |   |   |
+
+#### Choir
+
