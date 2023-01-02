@@ -2,7 +2,7 @@ collections:
   admissions:
     output: true
     order:
-      - Returning Singaporeans.md
       - Direct School Admission.md
       - Virtual Open House.md
       - Student Transfers.md
+      - Returning Singaporeans.md
