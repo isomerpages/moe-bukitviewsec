@@ -66,3 +66,8 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 
 #### Choir
 
+| **Programmes, activities and opportunities**  |
+|---|
+|  Students will learn how to use their voice for singing, projection, presentation effectively. There will be an emphasis on articulation, pronunciation and clarity of sound. Listening and ensemble-ship skills will be honed. As the Choir is a group activity, it is important for members to listen, respond and adapt their singing in order to achieve an overall blended sound.<br><br> Students will be given opportunities to express themselves through singing songs from different time periods and genres ranging from Renaissance music to Contemporary Pop. Students will also be given opportunities to perform in school for various school-based events, attend performances put up by notable local or international choirs, sing at public venues such as The Arts House or other performance venues, and take part in Singapore Youth Festival (SYF) Arts Presentation for Choir when the opportunity arises. <br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/visual-and-performing-arts/choir). |
+|   |
+|   |
