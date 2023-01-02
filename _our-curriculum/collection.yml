@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Home Based Learning.md
       - Curricular/.keep
       - Curricular/Curricular.md
       - Curricular/Computing.md
@@ -21,3 +20,4 @@ collections:
       - Co Curricular/Cyber Wellness.md
       - Co Curricular/Education Career Guidance.md
       - Full Subject Based Banding.md
+      - Home Based Learning.md
