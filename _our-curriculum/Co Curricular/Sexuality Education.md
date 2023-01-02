@@ -44,3 +44,10 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 <center><b>SECONDARY 1</b></center>
 
+| **UNIT**  | **LESSONS / DURATION**  | **Lesson Objectives**<br>**At the end of the lesson, students will be able to:**  | **TIME PERIOD**<br>**(e.g. Term 1 Week 2)**  |
+|---|---|---|---|
+| Respectful Relationships & Safety  | 1<br>(60 mins)  | *   Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles  <br><br>*   Recognise that there are different forms of love (e.g. familial, platonic, romantic love)  <br><br>*   Recognise the importance and understand what builds healthy and supportive relationships, both online and offline   <br><br>*   Understand what dating is, and recognise that the readiness and interest in dating vary among individuals  | Term 2 Week 5  |
+|   |  2<br>(60 mins) |  *   Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept | Term 2 Week 9  |
+|   | 3<br>(60 mins)  | *   Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences  <br><br>*   Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)  | Term 3 Week 2  |
+|   |   |   |   |
+
