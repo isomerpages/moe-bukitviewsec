@@ -136,3 +136,26 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 | Demonstrated keen interest in the area of environment and sustainable energy and participated actively in related activities and projects.  | Shortlisted candidates will be assessed based on their abilities, qualities and potential in Environmental Science through the following criteria:  <br><br>1.  Performance tasks<br>2.  Interview component  | <img src="/images/Environmental-300x200.jpg" style="width:100%">  |
 |   |   |   |
 
+#### STEM – Aerospace and Aviation
+
+| **Programmes, activities and opportunities**  |
+|---|
+|  Students will have opportunities to join the Singapore Youth Flying Club and experience a range of aviation related activities, such as:<br><br>* Attending lectures to improve aviation knowledge<br>* Experiencing joyrides on various RSAF aircraft under the Flight Experience Program (FEP<br> * Building and flying of model aircraft<br><br>They will also have opportunities to represent the school in aviation and aerospace competitions such as Singapore Amazing Flying Machine Competition (SAFMC), Drone Odyssey Challenge, and other competitions. <br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club).  |
+|   |
+
+| **Prerequisites**  | **Selection Criteria**  | **Example of Image for Aerospace and Aviation**  |
+|---|---|---|
+| Demonstrated strong interest in aerospace and aviation and participated actively in a related CCA. As successful applicants would join the Singapore Youth Flying Club (SYFC), applicants must hold Singapore Citizenship (SYFC requirement).   <br><br>Note: Non-Singapore Citizens may be exempt from the Flight Experience Program depending on security clearance granted by the airport.  | Shortlisted candidates will be assessed based on prior knowledge and interest in aviation through the following criteria:  <br><br>1.  Performance tasks<br>2.  Interview component  <br><br>Note: The SYFC CCA entails physical activities such as building and flying aeromodels. During building, students can be exposed to wood dust, etc, and while flying, students can be expected to be out in the sun. Student must be physically fit enough to take part in such activities. Students who are asthmatic, with skin conditions, or have physical impairments will not be suitable.  | <img src="/images/Aviation-300x206.png" style="width:100%">  |
+|   |   |   |
+
+#### Volleyball (Girls)
+
+| **Programmes, activities and opportunities**  |
+|---|
+|  Students will have a holistic experience through the training program, focusing not just on knowledge and skills acquisition of the sport at a higher level, but also in the areas of character building, leadership and teamwork. They will be able to enhance their repertoire of skills during trainings, and have the opportunity to participate in friendly matches and National School Games (NSG) competitions.<br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball).  |
+|   |
+
+| **Prerequisites**  | **Selection Criteria**  | **Example of Image for Volleyball**  |
+|---|---|---|
+| Demonstrated strong interest and passion in Sports and participated actively in relevant Sports CCA.  | Shortlisted candidates will be assessed based on their Sports abilities, qualities and potential in respective Sports areas through the following criteria:  <br><br>1.  Performance tasks<br>2.  Interview component  | <img src="/images/Volleyball-300x200.jpg" style="width:100%">  |
+|   |   |   |
