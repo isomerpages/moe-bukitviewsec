@@ -59,7 +59,7 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 | Students will be equipped with leadership skills, competencies and knowledge. They will be developed to serve as student leaders (councillor / peer support leader / CCA leader), and be given opportunities and platforms to apply their leadership skills. Students may also be selected as ambassadors to represent the school during the School Open House.<br><br> For more information, please refer to the [Student Leadership webpage](/our-curriculum/Co-Curricular/sl/). |
 |   |
 
-| **Prerequisites**  |  **Selection Criteria** |   |
+| **Prerequisites**  |  **Selection Criteria** | **Example of Image for Leadership**  |
 |---|---|---|
 | Held key appointment in student leadership bodies and/or demonstrated leadership in school-related activities.  | Shortlisted candidates will be assessed based on their leadership qualities and skills through an interview.  | <img src="/images/NCC-300x200.jpg" style="width:100%">  |
 |   |   |   |
@@ -68,6 +68,10 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 
 | **Programmes, activities and opportunities**  |
 |---|
-|  Students will learn how to use their voice for singing, projection, presentation effectively. There will be an emphasis on articulation, pronunciation and clarity of sound. Listening and ensemble-ship skills will be honed. As the Choir is a group activity, it is important for members to listen, respond and adapt their singing in order to achieve an overall blended sound.<br><br> Students will be given opportunities to express themselves through singing songs from different time periods and genres ranging from Renaissance music to Contemporary Pop. Students will also be given opportunities to perform in school for various school-based events, attend performances put up by notable local or international choirs, sing at public venues such as The Arts House or other performance venues, and take part in Singapore Youth Festival (SYF) Arts Presentation for Choir when the opportunity arises. <br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/visual-and-performing-arts/choir). |
+|  Students will learn how to use their voice for singing, projection, presentation effectively. There will be an emphasis on articulation, pronunciation and clarity of sound. Listening and ensemble-ship skills will be honed. As the Choir is a group activity, it is important for members to listen, respond and adapt their singing in order to achieve an overall blended sound.<br><br> Students will be given opportunities to express themselves through singing songs from different time periods and genres ranging from Renaissance music to Contemporary Pop. Students will also be given opportunities to perform in school for various school-based events, attend performances put up by notable local or international choirs, sing at public venues such as The Arts House or other performance venues, and take part in Singapore Youth Festival (SYF) Arts Presentation for Choir when the opportunity arises. <br><br>For more information, please refer to the [CCA webpage](/ccas/Visual-and-Performing-Arts/Choir/). |
 |   |
-|   |
+
+| **Prerequisites**  |  **Selection Criteria** |  **Example of Image for Choir**  |
+|---|---|---|
+| Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.  | Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:<br><br>1.  Prepared items for showcase<br>2.  Performance tasks<br>3.  Interview component  | <img src="/images/NCC-300x200.jpg" style="width:100%">  |
+|   |   |   |
