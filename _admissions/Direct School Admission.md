@@ -73,5 +73,12 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 
 | **Prerequisites**  |  **Selection Criteria** |  **Example of Image for Choir**  |
 |---|---|---|
-| Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.  | Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:<br><br>1.  Prepared items for showcase<br>2.  Performance tasks<br>3.  Interview component  | <img src="/images/NCC-300x200.jpg" style="width:100%">  |
+| Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.  | Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:<br><br>1.  Prepared items for showcase<br>2.  Performance tasks<br>3.  Interview component  | <img src="/images/Choir-300x200.png" style="width:100%">  |
 |   |   |   |
+
+#### Concert Band
+
+| **Programmes, activities and opportunities**  |
+|---|
+|  Students will be given opportunities to perform in public concerts and the Singapore Youth Festival (SYF) Arts Presentation. They will also be given opportunities to hone their leadership and organization skills through weekly practices and engaging activities. In school, students get to showcase their musical talent during events like National Day Parade, Teacher’s Day celebrations.<br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/visual-and-performing-arts/concert-band).  |
+|   |
