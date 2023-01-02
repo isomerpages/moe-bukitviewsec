@@ -92,7 +92,7 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 
 | **Programmes, activities and opportunities**  |
 |---|
-| Students will be trained in techniques associated with various dance genres. They will have the opportunity to perform at various school events such as the Chinese New Year concert, school National Day celebrations, Teachers’ Day and Open House. There will also be opportunities to perform outside of school, for instance, at the Gardens by the Bay, Bukit Batok CC and other schools. Students will also be trained to perform at the Singapore Youth Festival (SYF) Arts Presentation.<br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/visual-and-performing-arts/dance-club).  |
+| Students will be trained in techniques associated with various dance genres. They will have the opportunity to perform at various school events such as the Chinese New Year concert, school National Day celebrations, Teachers’ Day and Open House. There will also be opportunities to perform outside of school, for instance, at the Gardens by the Bay, Bukit Batok CC and other schools. Students will also be trained to perform at the Singapore Youth Festival (SYF) Arts Presentation.<br><br>For more information, please refer to the [CCA webpage](/ccas/Visual-and-Performing-Arts/dance/).  |
 |   |
 
 | **Prerequisites**  | **Selection Criteria**  | **Example of Image for Modern Band**  |
@@ -104,10 +104,22 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 
 | **Programmes, activities and opportunities**  |
 |---|
-|  Students will learn a variety of acting, direction and stage management skills. They will have opportunities to apply what they have learnt and be part of drama performances for school events and external competitions as well as representing the school in the Singapore Youth Festival (SYF) Arts Presentation.  <br><br>As the Drama Club is the 2nd Tier of the school’s Learning for Life Programme (LLP), students will be given opportunities to participate in events like learning journeys to theatres and attending Drama Careers Fair organised by institutions of higher learning. Drama Club students will also have the opportunity to participate in collaborative workshops or performances with other schools that offer Drama LLP. <br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/visual-and-performing-arts/drama-club).  |
+|  Students will learn a variety of acting, direction and stage management skills. They will have opportunities to apply what they have learnt and be part of drama performances for school events and external competitions as well as representing the school in the Singapore Youth Festival (SYF) Arts Presentation.  <br><br>As the Drama Club is the 2nd Tier of the school’s Learning for Life Programme (LLP), students will be given opportunities to participate in events like learning journeys to theatres and attending Drama Careers Fair organised by institutions of higher learning. Drama Club students will also have the opportunity to participate in collaborative workshops or performances with other schools that offer Drama LLP. <br><br>For more information, please refer to the [CCA webpage](/ccas/Visual-and-Performing-Arts/drama/).  |
 |   |
 
 | **Prerequisites**  | **Selection Criteria**  | **Example of Image for English Drama**  |
 |---|---|---|
 | Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.  | Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the English Drama through the following criteria:  <br><br>1.  Prepared items for showcase<br>2.  Performance tasks<br>3.  Interview component  | <img src="/images/Drama-271x300.png" style="width:100%">  |
+|   |   |   |
+
+#### Coding
+
+| **Programmes, activities and opportunities**  |
+|---|
+|  Students will learn computational thinking skills using different programming languages including Scratch, Microsoft MakeCode and MicroPython. They will also learn to harness the power of the micro:bit by working with accelerometers, temperature sensors, LEDs, and other components that form the building blocks of modern Internet of Things (IoT) and smart cities. They will have the opportunities to represent the school in various competitions like Microsoft Imagine Cup Junior Challenge, Singapore Energy Grand Challenge (Youth) and 3D-tronics micro:bit Asia Challenge. <br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club).  |
+|   |
+
+| **Prerequisites**  | **Selection Criteria**  | **Example of Image for Infocomm Club**  |
+|---|---|---|
+| Demonstrated strong interest in coding and participated actively in related CCA, competitions and projects.  | Shortlisted candidates will be assessed based on their abilities, qualities and potential in coding through the following criteria:  <br><br>1.  Performance tasks<br>2.  Interview component  | <img src="/images/infocomm.jpg" style="width:100%">  |
 |   |   |   |
