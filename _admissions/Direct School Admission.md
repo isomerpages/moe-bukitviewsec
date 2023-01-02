@@ -20,7 +20,7 @@ The Bukit View Secondary School (BVSS) DSA Exercise 2022 invites students in Pri
 Students who are successfully admitted to BVSS via DSA are expected to honour their commitment to the school by participating in the activities related to the talent they are selected for.  
 
 If you have any queries about admission to BVSS via DSA, please contact us [**here**](https://form.gov.sg/#!/5e7bfcf334d8b200113b7c07) or scan the QR code below.  
-Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/virtual-open-house) for information on BVSS.
+Please also visit our [**Virtual Open House**](/admissions/voh/) for information on BVSS.
 
 <img src="/images/download.png" style="width:20%" align=left>
 <br clear="left">
