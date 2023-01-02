@@ -159,3 +159,15 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 |---|---|---|
 | Demonstrated strong interest and passion in Sports and participated actively in relevant Sports CCA.  | Shortlisted candidates will be assessed based on their Sports abilities, qualities and potential in respective Sports areas through the following criteria:  <br><br>1.  Performance tasks<br>2.  Interview component  | <img src="/images/Volleyball-300x200.jpg" style="width:100%">  |
 |   |   |   |
+
+#### Table Tennis
+
+| **Programmes, activities and opportunities**  |
+|---|
+|  Students will have the opportunity to hone their table tennis skills under experienced teachers and instructors. They will be developed holistically in the areas of leadership, sportsmanship and teamwork, gaining experience in the planning and facilitation of CCA events such as the Sports Camp and the School Open House. Students will also represent the school in the annual National School Games (NSG) Table Tennis Championship (Team). Selected students would participate in the individual category of the NSG Table Tennis Championship.<br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis).  |
+|   |
+
+| **Prerequisites**  | **Selection Criteria**  | **Example of Image for Table Tennis**  |
+|---|---|---|
+| Demonstrated strong interest and passion in Sports and participated actively in relevant Sports CCA.  | Shortlisted candidates will be assessed based on their Sports abilities, qualities and potential in respective Sports areas through the following criteria:  <br><br>1.  Performance tasks<br>2.  Interview component  | <img src="/images/Table-Tennis-300x185.png" style="width:100%">  |
+|   |   |   |
