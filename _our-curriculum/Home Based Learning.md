@@ -39,3 +39,24 @@ The timetable will be class based to ensure lessons are customised and will be 
 
 **To view lesson details of each subject, please click on the links below.**
 
+[Term 3 Week 1 (Sec 3)](https://drive.google.com/open?id=17gF8j73MuCmrjmDzmRNUZ1zG3zNzuCyL)
+
+[Term 3 Week 2 (Sec 1 & Sec 2)](https://drive.google.com/open?id=1HD_Ie_Ms_mEFYCsZPJW89jPJT08Y_uUd)
+
+[Term 3 Week 3 (Sec 3)](https://drive.google.com/open?id=1KarR5nauAsfy2QBGgvJXtt7jB84gEygA)
+
+[Term 3 Week 4 (Sec 1 & Sec 2)](https://drive.google.com/drive/folders/1W6R42Luo4M7PF1algy5NE54nSHsFnPz_?usp=sharing)
+
+**\[You may only view when you log in to your BTVSS account\]** (to be updated on the weekend before the following week’s lessons)
+<br><br>
+**Parent Kits for HBL**
+
+MOE has prepared a series of Parent Kits to provide tips on how to approach HBL. The Parent Kits have been disseminated via Parents Gateway progressively since the start of HBL, and are attached below for your easy reference.
+
+[Parent Kit – Don’t Worry, Be Steady! (Part 1)](/files/Parent%20Kit%20%20Dont%20Worry%20Be%20Steady%20Part%201.pdf)
+
+[Parent Kit – Don’t Worry, Be Steady! (Part 2)](/files/Parent%20Kit%20%20Dont%20Worry%20Be%20Steady%20Part%202.pdf)
+
+[Parent Kit – Stay Home, Stay Safe, Stay Curious! (Part 3)](/files/Parent-Kit-Stay-Home-Stay-Safe-Stay-Curious-Part-3.pdf)
+
+[Parent Kit – Stay Home, Stay Safe, Stay Curious! (Part 4)](/files/Parent-Kit-Stay-Home-Stay-Safe-Stay-Curious-Part-4.pdf)
