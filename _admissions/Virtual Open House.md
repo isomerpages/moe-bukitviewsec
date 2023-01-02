@@ -29,4 +29,4 @@ description: ""
 
 #### 2021 Open House Live Panel
 
-Please watch a recording of our Live Panel that happened on 20 Nov 2021 [**here**](https://go.gov.sg/bvsslivepanel2021)**.**
+Please watch a recording of our Live Panel that happened on 20 Nov 2021 **[here](https://go.gov.sg/bvsslivepanel2021)**.
