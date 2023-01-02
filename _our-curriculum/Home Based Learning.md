@@ -60,3 +60,13 @@ MOE has prepared a series of Parent Kits to provide tips on how to approach HBL.
 [Parent Kit – Stay Home, Stay Safe, Stay Curious! (Part 3)](/files/Parent-Kit-Stay-Home-Stay-Safe-Stay-Curious-Part-3.pdf)
 
 [Parent Kit – Stay Home, Stay Safe, Stay Curious! (Part 4)](/files/Parent-Kit-Stay-Home-Stay-Safe-Stay-Curious-Part-4.pdf)
+
+[Parent Kit – School Holiday Edition (Part 5)](/files/Parent-Kit-School-Holiday-Edition-Part-5.pdf)
+
+[Parent Kit – Transitioning Back To School (Part 6)](/files/Parent-Kit-Transitioning-Back-To-School-Part-6.pdf)
+
+**Google Account**
+
+Do ensure that you’re **logged on to your BTVSS Google account**, which will allow you to access the [Student Google Site](https://sites.google.com/a/btvss.moe.edu.sg/learn/home?authuser=1) **PAGE NOT FOUND**, Google Classroom and the different Google sharing folders that has been set up by your Form Teacher or Subject Teachers.
+
+If you’re having problems to log into your BTVSS account or you have forgotten your password, you may contact your form teachers to reset the password.
