@@ -21,3 +21,34 @@ Students who are successfully admitted to BVSS via DSA are expected to honour th
 
 If you have any queries about admission to BVSS via DSA, please contact us [**here**](https://form.gov.sg/#!/5e7bfcf334d8b200113b7c07) or scan the QR code below.  
 Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/virtual-open-house) for information on BVSS.
+
+<img src="/images/download.png" style="width:20%" align=left>
+<br clear="left">
+
+#### Application Procedure
+
+*   Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec.](https://www.moe.gov.sg/dsa-sec.)
+*   Only shortlisted candidates will be invited for interviews.
+*   The school’s decision on the offer is final. All applicants will be informed of the results of their application (confirmed / waiting list / not successful) by 12 September 2022.
+*   Please contact Mr Ho Wen Yang (Tel: 6566 1990, email: [HO\_Wen\_Yang@schools.gov.sg](mailto:HO_Wen_Yang@schools.gov.sg) if you have further enquiries.
+
+#### Schedule for 2022 DSA Exercise
+
+| **Process**  | **Date/Time**  |
+|---|---|
+| Application Period (via DSA-Sec Portal)  | 5 May 2022, 11am to 1 Jun 2022, 3pm  |
+| Selection Period (Interviews/Trials)  | 27 Jun 2022 to 12 Sep 2022  |
+| Application Outcome  | By 12 Sep 2022  |
+| School Preference Period  | 31 Oct 2022 to 4 Nov 2022  |
+|   |   |
+
+#### BVSS DSA-Sec Talent Areas
+
+|   |   |
+|---|---|
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
