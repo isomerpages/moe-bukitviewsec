@@ -123,3 +123,16 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 |---|---|---|
 | Demonstrated strong interest in coding and participated actively in related CCA, competitions and projects.  | Shortlisted candidates will be assessed based on their abilities, qualities and potential in coding through the following criteria:  <br><br>1.  Performance tasks<br>2.  Interview component  | <img src="/images/infocomm.jpg" style="width:100%">  |
 |   |   |   |
+
+#### Environmental Science
+
+| **Programmes, activities and opportunities**  |
+|---|
+|  Students will learn to be environmentally conscious, to be aware of issues like sustainability and conservation. Their learning will be supported by the school’s outdoor learning facilities such as the Environmental Gallery, Eco Garden, and Smart Centre. The students will also conduct a biodiversity audit in the school and develop their capacities as Environmental Ambassadors, able to conduct Eco Trails for other schools’ students and visitors. They are also exposed to environmental projects organised by external agencies.   <br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/environmental-club).  |
+|   |
+
+| **Prerequisites**  | **Selection Criteria**  | **Example of Image for Environmental Science**  |
+|---|---|---|
+| Demonstrated keen interest in the area of environment and sustainable energy and participated actively in related activities and projects.  | Shortlisted candidates will be assessed based on their abilities, qualities and potential in Environmental Science through the following criteria:  <br><br>1.  Performance tasks<br>2.  Interview component  | <img src="/images/Environmental-300x200.jpg" style="width:100%">  |
+|   |   |   |
+
