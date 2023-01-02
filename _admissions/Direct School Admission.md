@@ -9,7 +9,7 @@ description: ""
 
 (For admission to Sec One in 2023)
 
-<b><u>Introduction</b></u>
+<u><b>Introduction</u></b>
   
 The DSA-Sec Exercise was introduced by the Ministry of Education in 2004. It seeks to promote holistic education and provide students an opportunity to demonstrate a more diverse range of achievements and talents in seeking admission to a secondary school.  
   
