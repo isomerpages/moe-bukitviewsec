@@ -80,3 +80,11 @@ If you’re having problems to log into your BTVSS account or you have forgotten
 **Student Learning Space**
 
 1 \. Do try to self reset your own password first, by clicking on the forget password
+
+<img src="/images/Self-reset-password.jpg" style="width:60%">
+
+2 \. If you faced any technical difficulties or need help to reset your password, please approach your subject teachers.
+
+3 \. Finally, if your subject teacher is not contactable, you may contact the School-based Helpline.
+
+<img src="/images/SLS-Support-for-Home-Based-Learning.jpg" style="width:85%">
