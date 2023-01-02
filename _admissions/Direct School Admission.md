@@ -94,3 +94,20 @@ Please also visit our [**Virtual Open House**](https://bukitviewsec.moe.edu.sg/
 |---|
 | Students will be trained in techniques associated with various dance genres. They will have the opportunity to perform at various school events such as the Chinese New Year concert, school National Day celebrations, Teachers’ Day and Open House. There will also be opportunities to perform outside of school, for instance, at the Gardens by the Bay, Bukit Batok CC and other schools. Students will also be trained to perform at the Singapore Youth Festival (SYF) Arts Presentation.<br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/visual-and-performing-arts/dance-club).  |
 |   |
+
+| **Prerequisites**  | **Selection Criteria**  | **Example of Image for Modern Band**  |
+|---|---|---|
+| Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.  | Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Modern Dance through the following criteria:<br><br>1.  Prepared items for showcase<br>2.  Performance tasks<br>3.  Interview component  | <img src="/images/md.jpeg" style="width:100%">  |
+|   |   |   |
+
+#### English Drama
+
+| **Programmes, activities and opportunities**  |
+|---|
+|  Students will learn a variety of acting, direction and stage management skills. They will have opportunities to apply what they have learnt and be part of drama performances for school events and external competitions as well as representing the school in the Singapore Youth Festival (SYF) Arts Presentation.  <br><br>As the Drama Club is the 2nd Tier of the school’s Learning for Life Programme (LLP), students will be given opportunities to participate in events like learning journeys to theatres and attending Drama Careers Fair organised by institutions of higher learning. Drama Club students will also have the opportunity to participate in collaborative workshops or performances with other schools that offer Drama LLP. <br><br>For more information, please refer to the [CCA webpage](https://bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/visual-and-performing-arts/drama-club).  |
+|   |
+
+| **Prerequisites**  | **Selection Criteria**  | **Example of Image for English Drama**  |
+|---|---|---|
+| Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.  | Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the English Drama through the following criteria:  <br><br>1.  Prepared items for showcase<br>2.  Performance tasks<br>3.  Interview component  | <img src="/images/Drama-271x300.png" style="width:100%">  |
+|   |   |   |
