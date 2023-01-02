@@ -70,3 +70,13 @@ MOE has prepared a series of Parent Kits to provide tips on how to approach HBL.
 Do ensure that you’re **logged on to your BTVSS Google account**, which will allow you to access the [Student Google Site](https://sites.google.com/a/btvss.moe.edu.sg/learn/home?authuser=1) **PAGE NOT FOUND**, Google Classroom and the different Google sharing folders that has been set up by your Form Teacher or Subject Teachers.
 
 If you’re having problems to log into your BTVSS account or you have forgotten your password, you may contact your form teachers to reset the password.
+
+**PASSWORD Reset**
+
+**Students should always self reset password first.** Only after you’re unable to do so, you may refer to the following table for help.
+
+<img src="/images/Password-reset.jpg" style="width:85%">
+
+**Student Learning Space**
+
+1 \. Do try to self reset your own password first, by clicking on the forget password
