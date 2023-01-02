@@ -33,3 +33,9 @@ We seek your understanding that there are differences between learning from home
 *   The teacher does not have full control of the learning environment and is unable to intervene spontaneously during the learning process.
 *   Students’ learning cannot be monitored and evaluated onsite.
 
+**Home-Based Learning Timetable**
+
+The timetable will be class based to ensure lessons are customised and will be **sent to all parents through Parents Gateway**.
+
+**To view lesson details of each subject, please click on the links below.**
+
