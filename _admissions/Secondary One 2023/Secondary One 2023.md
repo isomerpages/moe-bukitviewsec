@@ -21,18 +21,18 @@ To know more about Strengthening Digital Literacy and Full Subject Based Banding
 **Full Subject Based Banding**<br>
 [https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/admissions/Secondary-One-2023/sm/">
 <img style="width:45%" align="left" src="/images/studentmatters.png">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/admissions/Secondary-One-2023/booksnuniform/">
 <img style="width:45%" align="right" src="/images/booksnuniform.png">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/admissions/Secondary-One-2023/fas/">
 <img style="width:45%" align="left" src="/images/fasapplication.png">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/admissions/Secondary-One-2023/studtransfer/">
 <img style="width:45%" align="right" src="/images/studenttransfers.png">
 </a></p>
