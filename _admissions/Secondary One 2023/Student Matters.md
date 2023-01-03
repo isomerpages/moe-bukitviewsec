@@ -45,3 +45,39 @@ The objectives of Parents’ Day are for parents to:
 *   Consider deepening your partnership with us in the education of your child/ward through the school’s activities and membership in the Parents’ Support Group.
 
 S1 Parents' Day will be held on **Friday 6 Jan 2022 from 4.00 pm to 6.15 pm in the school hall.**
+
+#### Students Management Matters
+
+Please click on the link below to learn about our school attire and grooming.
+
+[School attire and grooming Info for Sec 1 parents 2023.pdf](/files/School%20attire%20and%20grooming%20Info%20for%20Sec%201%20parents%202023.pdf)
+
+#### Personalised Digital Learning Programme (PDLP)
+
+As part of the National Digital Literacy Programme, to enhance teaching and learning through e-pedagogy and personalising students' learning experience, PDLP was launched from 2020.   
+  
+All Secondary 1 students will need to procure their own Chromebooks. More details on the PDLP and procurement will be shared during the S1 Parents Day on 6 January.
+
+#### FSBB Phase 1 2023
+
+As part of the pilot, our school has implemented reorganised form classes at Secondary 1 since 2022.    
+  
+**This will also be applicable to Secondary 1 students entering our school in 2023.**    
+  
+2023 Secondary 1 students will be grouped in mixed form classes, comprising students from all courses of study. The class size will be smaller than the usual, approximately 34 students.  Students will attend lessons in the form classes for the following subjects: Art, Design & Technology, Character and Citizenship Education, Food and Consumer Education, Music, as well as Physical Education.  
+For the academic subjects, namely English, Mother Tongue Language, Mathematics, Science, and the Humanities, students will be attending lessons based on their subject classes.  The subject classes will be organised based on their respective courses at the N(T), N(A) or Express levels.    
+  
+The common learning experience through the mixed form classes helps to facilitate positive relationships, strengthening the bonds between teachers and students and among peers to establish a strong sense of class identity and belonging to the school community, empowering students to develop a healthy self-concept and grow to the best of their abilities.
+
+#### Subject-Based Banding (SBB)
+
+Every student is unique and possesses different strengths. Taking subjects at a more demanding level can help students nurture their strengths and gain them more opportunities throughout their educational journey, so that they are more engaged in learning.
+
+For students posted to the Normal(A) or Normal(T) course, they have the flexibility to take subjects at a more demanding level, if they meet the SBB-Sec eligibility criteria as follows
+
+| **Option to take a subject at**  | **PSLE Subject Grade under the AL system**  |
+|---|---|
+| Express Level  | AL 5 or better in a Standard level subject  |
+| Normal (A) Level  | AL 6 or better in a Standard level subject or, AL A in a Foundation level subject  |
+|   |   |
+
