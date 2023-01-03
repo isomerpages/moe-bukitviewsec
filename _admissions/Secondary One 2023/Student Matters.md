@@ -81,3 +81,21 @@ For students posted to the Normal(A) or Normal(T) course, they have the flexibil
 | Normal (A) Level  | AL 6 or better in a Standard level subject or, AL A in a Foundation level subject  |
 |   |   |
 
+The subjects offered are English, Mathematics, Mother Tongue and Science. 
+
+SBB Offer Letter for eligible students will be sent via Parents Gateway (PG) on **22 December 2022.**
+
+**Deadline for submission is Tuesday 27 December 2022.**   
+
+For parents whose children are eligible, and have no PG/Internet access, SBB Offer Letters would be ready for collection during school opening hours. Please call the school for more information.
+
+#### Info regarding Mother Tongue Matters
+
+| **Mother Tongue Subjects**  | **Eligibility Criteria**  |
+|---|---|
+| Higher Mother Tongue (HMT)  | Eligibility criteria to offer HMT for students offer Express or N(A) course: <br>AL1 or 2 in Standard MTL or D/M/P in HMTL   <br><br>HMT Offer Letters will be sent via PG on **22 December 2022.** Parents are advised to read the “Important Information” on the Offer Letters carefully before making a decision. <br><br>Please indicate your response via PG by **Tuesday 27 December 2022.**   <br><br>For parents whose children are eligible, and have no PG/Internet access, the Offer Letters would be ready for collection during school opening hours. Please call the school for more information.  |
+| Mother Tongue Language ‘B’ Syllabus (MTLB)  | Eligibility criteria to offer MTLB for students offered Express or N(A) course:  <br>AL7 or 8 in Standard MTL or AL B or C in Foundation MTL    <br><br>MTLB Offer Letters will be sent via PG on **22 December 2022**. Parents are advised to read the “Important Information” on the Offer Letters carefully before making a decision.  <br><br>Please indicate your response via PG by **Tuesday 27 December 2022**.    <br><br>For parents whose children are eligible, and have no PG/Internet access, the Offer Letters would be ready for collection during school opening hours. Please call the school for more information.  |
+| Third Languages (L3)  | Students who have indicated L3 choices will receive results  of your applications and registration matters for successful applicants via PG on **22 December 2022**.   <br><br>For parents whose children had selected L3, and have no PG/Internet access, please call the school for the application results.  |
+| Asian Languages /Foreign Languages / Non-Tamil Indian Languages as MTL in-lieu (AsL /FL/NTIL)  | Students who have obtained approval at the primary level are not required to re-apply. They are required to continue offering the approved AsL/FL/NTIL at secondary and pre-university levels.   <br><br>The only exception is for Secondary 1 FL students who would like to be on the waiting list to be considered for admission to the MOE Language Centre (MOELC). Should vacancies arise at MOELC, students will be informed to sit for a readiness test. Admission to MOELC is subject to students passing the test. Students who have not been notified to sit for the readiness test or did not pass the test are required to continue with their private study arrangements.    <br><br>AsL/FL students will need to provide documentation (eg: marked assignments, result slip, payment receipt) that indicate their private study to their Form Teachers every May. They are to take AsL/FL papers at GCE O Level examinations.  |
+| MTL Exemption  | Students granted MTL exemption from the primary level are not required to submit a re-application.  |
+|   |   |
