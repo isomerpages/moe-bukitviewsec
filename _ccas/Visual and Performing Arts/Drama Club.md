@@ -41,8 +41,8 @@ To cultivate and nurture a love and appreciation for mass media and the arts, wh
 
 |   |   |
 |---|---|
-| <img src="/images/SYF-2019-300x225.jpeg" style="width:85%"> <center>**Syf 2019**</center>  | <img src="/images/rehersal.jpeg" style="width:85%"><center>**Syf Rehearsal**</center>  |
-| <img src="/images/@sota.jpeg" style="width:85%"><center>**Drama Club @ Sota**</center>  |  <img src="/images/teambonding.jpeg" style="width:85%"><center>**Team Bonding**</center> |
+| <img src="/images/SYF-2019-300x225.jpeg" style="width:85%"> <center>Syf 2019</center>  | <img src="/images/rehersal.jpeg" style="width:85%"><center>Syf Rehearsal</center>  |
+| <img src="/images/@sota.jpeg" style="width:85%"><center>Drama Club @ Sota</center>  |  <img src="/images/teambonding.jpeg" style="width:85%"><center>Team Bonding</center> |
 |   |   |
 
 SYF Art Presentation 2019
