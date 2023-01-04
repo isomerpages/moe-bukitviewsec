@@ -5,14 +5,14 @@ description: ""
 ---
 ## Vision, Mission, Values
 
-##### <center> Our Vision </center>
-<center> Engaged Learners. Empathetic Citizens. Ethical Advocates. </center>
+#### <center> Our Vision </center>
+###### <center> Engaged Learners. Empathetic Citizens. Ethical Advocates. </center>
 
-##### <center> Our Mission </center>
-<center>  A dynamic institution that adds value to all by valuing learners, valuing learning and learning values. </center>
+#### <center> Our Mission </center>
+###### <center>  A dynamic institution that adds value to all by valuing learners, valuing learning and learning values. </center>
 
-##### <center> Our Values </center>
-<center>  Zest. Grit. Gratitude. </center>
+#### <center> Our Values </center>
+###### <center>  Zest. Grit. Gratitude. </center>
 
 At Bukit View Secondary, we provide a vibrant, caring and nurturing environment to develop our students holistically. As a dynamic institution that adds value to our students, we provide a student-centric, values-driven education which cultivates the joy of learning, builds character and inculcates values, and encourages entrepreneurial dare.  
   
