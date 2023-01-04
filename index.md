@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: Sec 1 Registration 2023
-          url: ""
+          url: /admissions/Secondary-One-2023/sec12023/
   - infopic:
       subtitle: WARM WELCOME TO OUR BVSS!
       description: We look forward to welcoming your child/guardian to our school on
