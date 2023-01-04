@@ -43,7 +43,7 @@ The LLP curriculum is delivered in two Tiers.
   
 Tier 1 is for all students in Sec 1 and 2 while Tier 2 is targeted at students with Drama CCA and others who display strong passion in pursuing drama at an advanced level.  
   
-<u>_All students undergo **Tier 1 Learning** where they are exposed to and experience drama in the classroom._</u>
+<u>_All students undergo Tier 1 Learning where they are exposed to and experience drama in the classroom._</u>
 
 #### LLP lessons
 
