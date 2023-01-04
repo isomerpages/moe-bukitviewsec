@@ -8,6 +8,6 @@ third_nav_title: Students
 
 |   |   |
 |---|---|
-|  **Home Based Learning** |  link isomer |
-|  **Information on LEAPS 2.0** | link isomer  |
+|  **Home Based Learning** |  [Home-Based Learning](/our-curriculum/hbl/) |
+|  **Information on LEAPS 2.0** | [information on leaps2.0](/our-curriculum/Co-Curricular/informationleaps/)  |
 |   |   |
