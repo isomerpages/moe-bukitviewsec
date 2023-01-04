@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/photo_2023-01-04_18-55-20.jpg
+      key_highlights:
+        - title: Announcement
+          description: Sec 1 Registration 2023
+          url: ""
   - infopic:
       subtitle: WARM WELCOME TO OUR BVSS!
       description: We look forward to welcoming your child/guardian to our school on
