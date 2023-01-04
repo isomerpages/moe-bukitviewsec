@@ -73,4 +73,4 @@ is targeted at students who display strong passion and/or are interested in purs
 
 **If you would like to know more about the LLP**, please email [muhammad\_fadly\_bin\_asmawi@moe.edu.sg](mailto:muhammad_fadly_bin_asmawi@moe.edu.sg).
 
-If you are **interested in applying** for a **Direct School Admission (DSA)** to Bukit View Secondary School for Drama, Please click [here](https://bukitviewsec.moe.edu.sg/admissions/direct-school-admission) **link isomer**.
+If you are **interested in applying** for a **Direct School Admission (DSA)** to Bukit View Secondary School for Drama, Please click [here](/admissions/dsa/) .
