@@ -4,24 +4,24 @@ permalink: /our-family/Staff/tl/
 description: ""
 third_nav_title: Staff
 ---
+## Teacher Leaders
 
-## Lead Teachers/Senior Teachers
-
-<img src="/images/mohdnazar.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/anglaykheng.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/arthurkok.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/mohdnazar.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/engchiew.jpg" style="width:30%;margin-right:15px;" align = "left">
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-|  **Mr Mohd Nazar**<br>LT/Social Studies |  **Miss Ang Lay Kheng**<br>LT/Nutrition & Food Science | **Mr Arthur Kok**<br>LT/English Language  |
+|  **Mr Arthur Kok**<br>LT/English Language |  **Mr Mohd Nazar**<br>LT/Social Studies | **Mdm Quek Eng Chiew**<br>ST/POA  |
 |   |   |   |
 
-<img src="/images/engchiew.jpg" style="width:30%;margin-right:90px;" align = "left">
-<img src="/images/gaoyi.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/liusijian.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/lokepuay.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/ramasayu.jpg" style="width:30%;margin-right:15px;" align = "left">
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-|  **Mdm Quek Eng Chiew**<br>ST/POA | **Mdm Gao Yi**<br>ST/Chinese Language  |   |
+|  **Mr Liu Sijian**<br>ST/Maths | **Miss Loke Puay Yin**<br>ST/Art  | **Mr Ramasamy Stalin**<br>ST/Tamil Language  |
 |   |   |   |
