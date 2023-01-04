@@ -7,7 +7,7 @@ description: ""
 
 Student transfers are subject to the availability of vacancies and are therefore not guaranteed. 
 
-In general, transfer requests are processed at the end of the year to facilitate integration and learning for students. <br>Secondary 1 transfer requests (after the S1 Posting Exercise) will be considered if the student has met the [Cut-Off Point for that year](https://bukitviewsec.moe.edu.sg/admissions/secondary-one-2023/student-transfers)**link isomer**.  
+In general, transfer requests are processed at the end of the year to facilitate integration and learning for students. <br>Secondary 1 transfer requests (after the S1 Posting Exercise) will be considered if the student has met the [Cut-Off Point for that year](/admissions/Secondary-One-2023/studtransfer/) .  
 
 Transfer requests to Secondary 4 and 5 will generally not be accepted, in view of the short runway to the national examinations.
 
