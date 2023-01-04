@@ -17,7 +17,7 @@ This consistent exposure and engagement in the Arts over the course of 4 or 5 ye
 
 Bukit View’s Learning for Life Programme, titled **_Learning the Arts, Living the Values,_** supports the learning of values, and developing socio and emotional competencies in our students through **drama**.  
   
-If you are interested in applying for a **Direct School Admission (DSA)** to Bukit View Secondary School, Please click [here](https://bukitviewsec.moe.edu.sg/admissions/direct-school-admission) **link isomer**.
+If you are interested in applying for a **Direct School Admission (DSA)** to Bukit View Secondary School, Please click [here](/admissions/dsa/) .
 
 <img src="/images/Drama.jpg" style="width:85%">
 
