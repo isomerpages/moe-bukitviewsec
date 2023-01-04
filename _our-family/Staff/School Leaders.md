@@ -8,7 +8,7 @@ third_nav_title: Staff
 
 |   |
 |---|
-| <img src="/images/Mr Singh.png" style="width:20%"><br> <center>**Mr Jaswant Singh**<br>Principal</center>  |
+| <img src="/images/Mr Singh.png" style="width:20%"> <center>**Mr Jaswant Singh**<br>Principal</center>  |
 |   |
 
 |   |   |   |
