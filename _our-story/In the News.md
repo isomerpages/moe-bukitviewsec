@@ -56,4 +56,4 @@ Students and teachers from Bukit View Secondary School used their mobile phones 
 
 <img src="/images/image-1.png" style="width:85%"><br>
 
-<img src="/images/IMG-20181218-WA0008.png" style="width:85%">
+<img src="/images/news2.jpg" style="width:85%">
