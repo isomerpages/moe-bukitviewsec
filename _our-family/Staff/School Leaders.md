@@ -6,10 +6,12 @@ third_nav_title: Staff
 ---
 ## School Leaders
 
-<img src="/images/photo_2022-12-24_02-26-45.jpg" style="width:30%">
+|   |
+|---|
+| <img src="/images/Mr Singh.png" style="width:20%"> <center>**Mr Jaswant Singh**<br>Principal</center>  |
+|   |
 
-<img src="/images/photo_2022-12-24_02-27-45.jpg" style="width:30%" align=left>
-<img src="/images/photo_2022-12-24_02-27-59.jpg" style="width:35%" align=right><br clear=left>
-
-
-
+|   |   |   |
+|---|---|---|
+| <img src="/images/Mrs Lee.png" style="width:75%"><center>**Mrs Shirley Lee** <br>Vice-Principal </center> | <img src="/images/Mr Mak.png" style="width:75%"> <center>**Mr Mak Yew Chong**<br> Vice-Principal </center> | <img src="/images/Mr Neo 1.png" style="width:55%"> <center>**Mr Justin Neo** <br>Vice-Principal (Administration)</center>  |
+|   |   |   |
