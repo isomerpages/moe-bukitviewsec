@@ -10,6 +10,6 @@ sections:
       background: /images/photo_2023-01-04_18-55-20.jpg
       key_highlights:
         - title: Announcement
-          description: Sec 1 Registration 2023
-          url: /admissions/Secondary-One-2023/sec12023/
+          description: ""
+          url: ""
 ---
