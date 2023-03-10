@@ -16,13 +16,12 @@ The Mathematics Department believes that everyone can do Mathematics. No matter 
 |---|---|---|
 | **Mathematics**  |   | **Principles of Accounts (POA)**  |
 | Mr Alexander Chia  <br>(HOD Ed-Tech)  | Miss Patricia Lye (SH/Computing)  | Mdm Quek Eng Chiew (ST)  |
-| Mrs Kelly Chew  | Mr Liu Sijian  | Mdm Chia Ei Ei  <br>(SH/ECG)  |
+| Mrs Kelly Chew  | Mr Liu Sijian (ST)  |  |
 |  Ms Kumutha Maniam | Mr Khoo Jun Yee Kenneth  |   |
 | Ms Illya Nafiza  | Mrs Leong Wee Choo  |   |
-| Mr Jonathan Ng Jun Kit  |  Mr Eugene Lim |   |
+| Mr Jonathan Ng Jun Kit  |  Mr Chin Kwek Siong|   |
 |  Ms Lee Poh Tin |  Mr Tan Chong Han |   |
-|  Mr Wang Kangcheng |   |   |
-|   |   |   |
+
 
 #### Key Programmes and Achievements
 
