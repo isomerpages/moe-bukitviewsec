@@ -13,7 +13,7 @@ third_nav_title: Staff
 
 |   |   |   |
 |---|---|---|
-|  **Mr Arthur Kok**<br>LT/English Language |  **Mr Mohd Nazar**<br>LT/Social Studies | **Mdm Quek Eng Chiew**<br>ST/POA  |
+|  **Mr Arthur Kok**<br>LT/English Language |  **Mr Mohd Nazar**<br>ST/Social Studies | **Mdm Quek Eng Chiew**<br>ST/POA  |
 |   |   |   |
 
 <img src="/images/liusijian.jpg" style="width:30%;margin-right:15px;" align = "left">
