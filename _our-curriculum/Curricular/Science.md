@@ -18,12 +18,12 @@ third_nav_title: Curricular
 | **Level Head**  |  **Mrs Reena Lloyd** |   |
 | **Chemistry**  |  **Physics** | **Biology**  |
 |  Mdm Lock Oi Leng | Mr Aw Kang Foong  | Ms Sarah Lah (SH/Biology)  |
-|  Mrs Foong Bee Yong |  Mr Eugene Quake |Ms Deborah Goh (SH/CCA)   |
-|  Mr Tan Chong Han | Mr Michael Ho  | Mr Johnathan Cheah  |
-|  Ms Kumutha Maniam | Mr Khoo Jin Yee Kenneth |   |
-| Mr Liu Sijian  | Mr Wang Kang Cheng  |   |
-|  Ms Bernice Chen |   |   |
-|   |   |   |
+|  Mrs Foong Bee Yong |  Mr Eugene Quake | Ms Shivali Jadhav
+|  Mr Tan Chong Han | Mr Michael Ho  | Mdm Eliza Low
+|  Ms Kumutha Maniam | Mr Khoo Jin Yee Kenneth |  Mdm Fatimah Begum |
+| Mr Liu Sijian  | Mr Chin Kwek Siong  | Mr Muhd Na'im 
+
+
 
 #### Curriculum
 
