@@ -6,46 +6,46 @@ third_nav_title: Curricular
 ---
 ## Humanities
 
-<img style="width:85%" src="/images/HUMANITIES DEPARTMENT.jpg">
+<img src="/images/HUMANITIES DEPARTMENT.jpg" style="width:85%">
 
 #### Title
 
 **Social Studies comes ALIVE!** <br>
 Our teachers also believe in providing authentic opportunities to help our students understand the importance and value of Social Studies by exposing them to various competitions, seminars and even learning journeys!
 
-<img align="left" style="width:49%" src="/images/Secondary 3 students attending Parliamentary Sitting.jpg">
-<img align="right" style="width:49%" src="/images/2022 Humanities 9.jpeg">
+<img src="/images/Secondary 3 students attending Parliamentary Sitting.jpg" style="width:49%" align="left">
+<img src="/images/2022 Humanities 9.jpeg" style="width:49%" align="right">
 <br clear="left"><br>
 
 <center>Secondary 3 students attending Parliamentary Sitting</center>
 
 <figure>
-<img style="width:90%" src="/images/Secondary 3 students attending IMUN conference.jpg">
+<img src="/images/Secondary 3 students attending IMUN conference.jpg" style="width:90%">
 <figcaption>Secondary 3 student attending IMUN conference
  </figcaption>
 </figure>
 
 <figure>
-<img style="width:60%" src="/images/2022 Humanities 12.jpeg">
+<img src="/images/2022 Humanities 12.jpeg" style="width:60%">
 <figcaption>Students presenting at ASEAN Conference
  </figcaption>
 </figure>
 
-<img style="width:85%" src="/images/2022 Humanities 15.jpg">
+<img src="/images/2022 Humanities 15.jpg" style="width:85%">
 
 <figure>
-<img style="width:90%" src="/images/2022 Humanities 1.png">
+<img src="/images/2022 Humanities 1.png" style="width:90%">
 <figcaption>Hosting Swedish Ambassador for a dialogue with our students, EU@ Schools
  </figcaption>
 </figure>
 
 <figure>
-<img style="width:90%" src="/images/2022 Humanities 7.jpeg">
+<img src="/images/2022 Humanities 7.jpeg" style="width:90%">
 <figcaption>Learning Journey to Kyushu
  </figcaption>
 </figure>
 
-<img style="width:85%" src="/images/2022 Humanities 13.jpeg">
+<img src="/images/2022 Humanities 13.jpeg" style="width:85%">
 
 <center><b>Special Mention : NUS Geography Challenge 2022</b><br>Our Secondary 3 Geography Students attained the Bronze Award for the Geography Challenge organized by NUS.</center>
 
@@ -58,7 +58,7 @@ Head of Department:  Mrs Nalini Ram
 | Mr Tan Wei Chung  | Mr Mohamad Zulkefly  |
 |  Mr Tan Huong | Mdm V Geetha  |
 | Mrs Ng Kia Mien  | Ms Tan Hui Min  |
-| Ms Esther Tan  |  Ms Seah Koon Lay |
+| Ms Esther Tan  |  Ms Seah Koon Lay | Mr Guo Hefang
 |   |   |
 
 #### Pedagogy &amp; Programmes
@@ -74,16 +74,16 @@ Every humanities lesson is an exercise in inquiry. Students will develop critica
 
 **Geographical Enquiry (GI) @ BVSS**
 
-<img src="/images/GI at BVSS.jpg" style="width:85%"><br>
+<img style="width:85%" src="/images/GI at BVSS.jpg"><br>
 
-<img src="/images/GI at BVSS 2.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/GI at BVSS 3.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/2022 Humanities 5.jpeg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/GI at BVSS 2.jpg">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/GI at BVSS 3.jpg">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/2022 Humanities 5.jpeg">
 <br clear="left">
 
 **Historical Investigation (HI) @ BVSS**
 
-<img src="/images/2022 Humanities 10.jpeg" style="width:85%"><br>
+<img style="width:85%" src="/images/2022 Humanities 10.jpeg"><br>
 
-<img src="/images/HI at BVSS.jpg" style="width:23%" align="left">
-<img src="/images/2022 Humanities 8.jpeg" style="width:66%" align="right">
+<img align="left" style="width:23%" src="/images/HI at BVSS.jpg">
+<img align="right" style="width:66%" src="/images/2022 Humanities 8.jpeg">
