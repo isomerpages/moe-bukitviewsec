@@ -15,13 +15,13 @@ third_nav_title: Curricular
 | Head of Department:  |  **Ms Mak Mun Heng** |   |
 |---|---|---|
 |  **Chinese Language** |  **Malay Language** |  **Tamil Language** |
-| Mdm Gao Yi (ST)  | Mdm Marhaini (SH ML/TL)  | Mdm Zareena Beevi  |
-|  Mdm Charline Ang | Mdm Mastura | Mr Ramasamy Stalin  |
+| Mdm Gao Yi   | Mdm Marhaini (SH ML/TL)  | Mdm Zareena Beevi  |
+|  Mdm Charline Ang | Mdm Mastura | Mr Ramasamy Stalin (ST)  |
 | Ms Bai Qiao Ling  | Mdm Siti Aisah  | Mdm Kokila  |
 |  Ms Chun Kai Xin | Ms Nur Atikah  |   |
-|  Ms Ng Jou Min |   |   |
-|  Mdm Shen Lili |   |   |
-|   |   |   |
+|  Mdm Shen Lili|   |   |
+|  |   |   |
+
 
 #### Mission & Core Curriculum
 
