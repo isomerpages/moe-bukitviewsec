@@ -13,9 +13,9 @@ third_nav_title: Curricular
 | Head of Department:  |   |  Mr. Wai Kam Hoa |   |
 |---|---|---|---|
 | **Design & Technologies**  | **Nutrition & Food Science**  |  **Art** |  **Music** |
-| Mr. Sirajutheen  <br>(Year Head)  | Ms. Ang Lay Kheng  <br>(Lead Teacher)  | Ms May Loke  | Mdm Joy Chen  |
+| Mr. Sirajutheen  <br>(Year Head)  | Ms Yap Xiu Feng | Ms May Loke (ST)  | Mdm Joy Chen  |
 |  Mrs. Toh- Liang Kai Poh | Mdm Tan Jee Niang  | Ms. Siti Nurhidayu  | Ms Cheryl Leung  |
-|  Mr. Richard Lim | Ms. Liyana  |   |   |
+|  Mr. Richard Lim |   |   |   |
 | Mr. Ong Soon Gee  |   |   |   |
 |   |   |   |   |
 
