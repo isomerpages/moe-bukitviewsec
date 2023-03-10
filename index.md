@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/photo_2023-01-04_18-55-20.jpg
       key_highlights:
-        - title: Announcement
+        - title: ""
           description: ""
           url: ""
 ---
