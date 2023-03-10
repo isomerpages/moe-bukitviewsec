@@ -36,34 +36,34 @@ third_nav_title: Staff
 | **Mdm Toh Yeok Tee**<br>HOD/English Language  |  **Mrs Irni Karen**<br>HOD/Mathematics |  **Ms Mak Mun Heng**<br>HOD/Mother Tongue Language |
 |   |   |   |
 
-<img src="/images/parvathi.jpg" style="width:30%;margin-right:15px;" align = "left">
+
 <img src="/images/chinwey.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/wuayboon.jpg" style="width:30%;margin-right:15px;" align = "left">
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-|  **Mrs Parvathi Kesavan**<br>HOD/Humanities | **Mr Chin Wey Thur**<br>HOD/PE & CCA  | **Mr Ng Wuay Boon**<br>HOD/Science  |
+| **Mr Chin Wey Thur**<br>HOD/PE & CCA  | **Mr Ng Wuay Boon**<br>HOD/Science  |  **Mrs Nalini Ram**<br>HOD/Humanities
 |   |   |   |
 
 <img src="/images/elamaran.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/deborah.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/eugene.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/muhd.jpg" style="width:30%;margin-right:15px;" align = "left"> 
+
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-| **Mr Elamaran**<br>Discipline Master  |  **Ms Deborah Goh**<br>SH/CCA | **Mr Quake Eugene**<br>SH/CCE & VIA  |
+| **Mr Elamaran**<br>Discipline Master  |   **Mr Muhd Fadly**<br>SH/Lit & Drama  | **Mr Felix Wong**<br>SH/Student Management |
 |   |   |   |
 
-<img src="/images/eiei.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/muhd.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+
 <img src="/images/patirica.jpg" style="width:30%;margin-right:15px;" align = "left">
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-| **Mdm Chia Ei Ei**<br>SH/ECG  | **Mr Muhd Fadly**<br>SH/Lit & Drama  | **Miss Patricia Lye**<br>SH/Computing  |
+|  **Miss Patricia Lye**<br>SH/Computing  |
 |   |   |   |
 
 <img src="/images/marhaini.jpg" style="width:30%;margin-right:15px;" align = "left">
