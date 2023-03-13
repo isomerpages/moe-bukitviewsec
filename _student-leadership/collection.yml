@@ -1,0 +1,7 @@
+collections:
+  student-leadership:
+    output: true
+    order:
+      - Student Council Board.md
+      - Sports Leaders.md
+      - Peer Support Leaders.md
