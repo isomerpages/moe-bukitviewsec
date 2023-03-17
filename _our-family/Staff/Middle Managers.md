@@ -39,6 +39,7 @@ third_nav_title: Staff
 
 <img src="/images/chinwey.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/wuayboon.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/NaliniRam1.jpg" style="width:30%;margin-right:15px;" align = "left">
 <br clear="left">
 
 |   |   |   |
@@ -48,12 +49,13 @@ third_nav_title: Staff
 
 <img src="/images/elamaran.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/muhd.jpg" style="width:30%;margin-right:15px;" align = "left"> 
+<img src="/images/Felix.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-| **Mr Elamaran**<br>Discipline Master  |   **Mr Muhd Fadly**<br>SH/Lit & Drama  | **Mr Felix Wong**<br>SH/Student Management |
+| **Mr Elamaran**<br>Discipline Master  |   **Mr Muhd Fadly**<br>SH/Lit & Drama  |      **Mr Felix Wong**<br>SH/Student Management |
 |   |   |   |
 
 
@@ -73,5 +75,5 @@ third_nav_title: Staff
 
 |   |   |   |
 |---|---|---|
-| **Mdm Marhaini**<br>SH/Malay & Tamil Language  | **Mrs Reena Lloyd**<br>LH/Science & ALP  | **Miss Sarah Lah Bifen**<br>SH/Biology  |
+| **Mdm Marhaini**<br>SH/Malay & Tamil Language  | **Mrs Reena Lloyd**<br>LH/Science & ALP  | **Miss Sarah Lah Xin Ying**<br>SH/Biology  |
 |   |   |   |
