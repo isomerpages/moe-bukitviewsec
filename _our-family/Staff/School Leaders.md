@@ -8,10 +8,10 @@ third_nav_title: Staff
 
 |   |
 |---|
-| <img src="/images/Mr Singh.png" style="width:20%"> <center>Mr Jaswant Singh<br>Principal</center>  |
+| <img src="/images/Mr%20Jaswant%20Singh.jpg" style="width:35%"> <center>Mr Jaswant Singh<br>Principal</center>  |
 |   |
 
 |   |   |   |
 |---|---|---|
-| <img src="/images/Mrs Lee.png" style="width:75%"><center>Mrs Shirley Lee <br>Vice-Principal </center> | <img src="/images/Mr Mak.png" style="width:75%"> <center>Mr Mak Yew Chong<br> Vice-Principal </center> | <img src="/images/Mr Neo 1.png" style="width:55%"> <center>Mr Justin Neo <br>Vice-Principal (Administration)</center>  |
+| <img src="/images/Mr%20Mak%20Yew%20Chong2.jpg" style="width:75%"> <center>Mr Mak Yew Chong<br> Vice-Principal </center> | <img src="/images/Mr%20Justin%20Neo.jpg" style="width:70%"> <center>Mr Justin Neo <br>Vice-Principal (Administration)</center>  |
 |   |   |   |
