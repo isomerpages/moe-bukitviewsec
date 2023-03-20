@@ -5,7 +5,7 @@ description: ""
 ---
 ## Principal's Message
 
-<img src="/images/Mr Singh.jpg" style="width:20%" align=right>
+<img src="/images/Mr%20Jaswant%20Singh.jpg" style="width:30%" align=right>
 We are 37!
 
 The BVSS Curriculum is anchored on the tenets of Positive Education, namely Positive Relationships, Positive Emotions, Positive Health, Positive Engagement, Positive Accomplishment, and Positive Purpose.
@@ -24,4 +24,3 @@ As the BVSS Brand turns 37 this year, we stride forward to nurture every learner
 Mr Jaswant Singh <br>
 Principals<br>
 Bukit View Secondary School<br>
-
