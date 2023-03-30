@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/322121888_1331491804371498_686499686661412855_n.jpg
+      background: /images/BVSS-01-01.jpg
       key_highlights:
         - title: JOULES (ALP)
           description: ""
