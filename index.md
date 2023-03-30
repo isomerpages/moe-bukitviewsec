@@ -9,7 +9,10 @@ sections:
   - hero:
       background: /images/photo_2023-01-04_18-55-20.jpg
       key_highlights:
-        - title: ""
+        - title: JOULES (ALP)
           description: ""
-          url: ""
+          url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/joules-alp/
+        - title: Arts X Values (LLP)
+          description: ""
+          url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/llp/
 ---
