@@ -5,10 +5,6 @@ description: ""
 ---
 ## Virtual Open House
 
-#### Principal’s Welcome
-
-<iframe width="800" height="358" src="https://www.youtube.com/embed/TdOv19umTUw" title="Principal's Welcome" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #### JOULES ALP
 
 <iframe width="800" height="358" src="https://www.youtube.com/embed/BEvkO7dKSg0" title="Bukit View Secondary Applied Learning Programme Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
