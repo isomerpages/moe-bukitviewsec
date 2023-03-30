@@ -22,5 +22,5 @@ As the BVSS Brand turns 37 this year, we stride forward to nurture every learner
 *New Heights We Scale Everyday*
 
 Mr Jaswant Singh <br>
-Principals<br>
+Principal<br>
 Bukit View Secondary School<br>
