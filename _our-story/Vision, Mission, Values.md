@@ -3,7 +3,7 @@ title: Vision, Mission, Values
 permalink: /our-story/vmv/
 description: ""
 ---
-## Vision, Mission, Values
+## Vision, Mission, Values, Motto
 
 #### <center> Our Vision </center>
 ###### <center> Engaged Learners. Empathetic Citizens. Ethical Advocates. </center>
@@ -13,6 +13,9 @@ description: ""
 
 #### <center> Our Values </center>
 ###### <center>  Zest. Grit. Gratitude. </center>
+
+#### <center> Our Motto </center>
+###### <center>  Care & Share, Achieve & Excel </center>
 
 At Bukit View Secondary, we provide a vibrant, caring and nurturing environment to develop our students holistically. As a dynamic institution that adds value to our students, we provide a student-centric, values-driven education which cultivates the joy of learning, builds character and inculcates values, and encourages entrepreneurial dare.  
   
