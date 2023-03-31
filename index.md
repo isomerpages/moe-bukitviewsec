@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2023 web banner 3.jpg
+      background: /images/Hero Images/2023 bvss web banner 6.png
       key_highlights:
         - title: JOULES (ALP)
           description: ""
