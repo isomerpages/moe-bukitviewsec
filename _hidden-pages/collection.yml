@@ -2,4 +2,5 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Secondary One 2023.md
       - Virtual Open House.md
