@@ -2,5 +2,6 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Student Matters.md
       - Secondary One 2023.md
       - Virtual Open House.md
