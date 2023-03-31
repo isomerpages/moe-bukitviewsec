@@ -2,6 +2,7 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Virtual Open House (Videos).md
       - Financial Assistance Scheme (FAS) Application.md
       - Student Transfers.md
       - Purchase of Books and Uniforms.md
