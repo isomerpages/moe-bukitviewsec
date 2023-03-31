@@ -2,7 +2,6 @@
 title: Student Transfers
 permalink: /admissions/Secondary-One-2023/studtransfer/
 description: ""
-third_nav_title: Secondary One 2023
 ---
 ## Student Transfers
 
@@ -12,8 +11,8 @@ For students posted to BVSS but are seeking transfer out due to serious medical 
 
 #### For students requesting to transfer into BVSS
 
-Students seeking transfer may complete this online [Transfer Form](https://form.gov.sg/633397664d988800120474a4), with softcopy supporting documents.  
-Please note that our transfer appeal period is open until 28 Dec 2022 11.59 pm. 
+Students seeking transfer may complete this online&nbsp;[Transfer Form](https://form.gov.sg/633397664d988800120474a4), with softcopy supporting documents.  
+Please note that our transfer appeal period is open until 28 Dec 2022 11.59 pm.&nbsp;
 
 We will contact you by 6 Jan 2023 if your child has been shortlisted. If you do not hear from us by 6 Jan 2023, your transfer appeal is likely to be unsuccessful.  
   

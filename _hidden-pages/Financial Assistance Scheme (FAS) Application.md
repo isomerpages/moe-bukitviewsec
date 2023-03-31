@@ -2,7 +2,6 @@
 title: Financial Assistance Scheme (FAS) Application
 permalink: /admissions/Secondary-One-2023/fas/
 description: ""
-third_nav_title: Secondary One 2023
 ---
 ## Financial Assistance Scheme (FAS) Application
 
@@ -10,9 +9,9 @@ third_nav_title: Secondary One 2023
 
 [MOE FAS Pamphlet.pdf](/files/MOE%20FAS%20Pamphlet.pdf)
 
-If your FAS application has already been approved by your child’s Primary School, please contact our school’s General Office (6566 1990) to make an appointment for book and uniform collection.         
+If your FAS application has already been approved by your child’s Primary School, please contact our school’s General Office (6566 1990) to make an appointment for book and uniform collection. &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  
   
-If you wish to apply for FAS, you may obtain a copy of the application form from the General Office. Upon completion, please submit the application form and the required supporting documents to the General Office. If your documents are in order, we will be able to process your application between 7 to 10 working days and we will notify you of the status accordingly. If not, we will process your application when the documents are completed.
+If you wish to apply for FAS, you may obtain a copy of the application form from the General Office. Upon completion, please submit the application form and the required supporting documents to the General Office.&nbsp;If your documents are in order, we will be able to process your application between 7 to 10 working days and we will notify you of the status accordingly. If not, we will process your application when the documents are completed.
 
 #### Eligibility Criteria
 
@@ -42,7 +41,7 @@ iv. Family with more than 3 grandparents in the household
 
 Application form to be submitted directly to school, together with copies of the supporting documents as indicated in the form.
 
-**Clarifications & Enquiry**
+**Clarifications &amp; Enquiry**
 
 For any clarification, do contact the school General Office at 65661990.
 

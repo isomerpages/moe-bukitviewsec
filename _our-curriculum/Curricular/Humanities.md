@@ -8,7 +8,6 @@ third_nav_title: Curricular
 
 <img src="/images/HUMANITIES DEPARTMENT.jpg" style="width:85%">
 
-#### Title
 
 **Social Studies comes ALIVE!** <br>
 Our teachers also believe in providing authentic opportunities to help our students understand the importance and value of Social Studies by exposing them to various competitions, seminars and even learning journeys!

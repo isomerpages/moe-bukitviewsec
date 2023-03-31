@@ -2,15 +2,14 @@
 title: Secondary One 2023
 permalink: /admissions/Secondary-One-2023/sec12023/
 description: ""
-third_nav_title: Secondary One 2023
 ---
 ### <center>A very warm welcome to our BVSS Family!</center>
 
-As announced by MOE, Secondary 1 students (2023) are not required to physically report to school on Thursday, 22 December 2022. We look forward to welcoming your child/guardian to our school on the first day of school on Tuesday 3 January 2023.
+As announced by MOE, Secondary 1 students (2023) are&nbsp;not&nbsp;required to physically report to school on Thursday, 22 December 2022. We look forward to welcoming your child/guardian to our school on the first day of school on Tuesday 3 January 2023.
 
 Parents/Guardians of newly posted Secondary 1 students will receive a welcome message via Parents Gateway (PG) by our Secondary 1 Year Head, Miss Ang Bee Lee. This welcome message will provide details on our orientation programme in 2023.
 
-<iframe width="800" height="315" src="https://www.youtube.com/embed/ulmz0KKYQ-o" title="Welcome to BVSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 For further information regarding matters pertaining to Secondary 1 enrolment, please click on the icons below. For parents who require assistance, please contact the school for further clarification.
 
