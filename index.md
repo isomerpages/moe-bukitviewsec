@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/322121888_1331491804371498_686499686661412855_n.jpg
+      background: /images/BVSS-01-01.jpg
       key_highlights:
         - title: JOULES (ALP)
           description: ""
@@ -15,4 +15,7 @@ sections:
         - title: Arts X Values (LLP)
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/llp/
+        - title: Positive Education
+          description: ""
+          url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
 ---

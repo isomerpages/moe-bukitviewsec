@@ -1,0 +1,5 @@
+collections:
+  hidden-pages:
+    output: true
+    order:
+      - Virtual Open House.md
