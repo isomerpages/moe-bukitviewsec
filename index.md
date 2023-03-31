@@ -15,4 +15,7 @@ sections:
         - title: Arts X Values (LLP)
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/llp/
+        - title: Positive Education
+          description: ""
+          url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
 ---
