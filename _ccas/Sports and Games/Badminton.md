@@ -6,7 +6,7 @@ third_nav_title: Sports and Games
 ---
 ## BADMINTON
 
-<img src="/images/BADMINTON%20BOYS%20-%20Formal.jpg" style="widht:85%"/>
+<img src="/images/BADMINTON%20BOYS%20-%20Formal.jpg" style="widht:85%">
 
 #### BACKGROUND
 
@@ -21,6 +21,22 @@ This club would not be complete if without positive accomplishment. As such, in 
 *   Inculcate compassion, integrity, perseverance, respect and responsibility among the members.
 *   Instruct and train our students with the skills and techniques of playing badminton.
 *   Create the awareness about the importance of having physical activities in daily life
+
+#### CCA TRAINING DAY(S)/ TIME
+
+| Day(s) | Time |
+| --- | --- | 
+| Wednesday | 2:30 pm - 4:30 pm |
+| Friday | 2:00 pm - 4:00 pm |
+| | |
+
+#### TEACHER-IN-CHARGE
+
+| | |
+| --- | --- |
+| Mr Mohammad Zulkefly B Idrus | Mdm Tan Jee Niang |
+Mr Guo Feng
+| | |
 
 #### HIGHLIGHTS OF THE YEAR
 
@@ -41,49 +57,34 @@ This club would not be complete if without positive accomplishment. As such, in 
 | | | 
 
 <table>
-	<tr>
+	<tbody><tr>
 		<td>
-			<img src="/images/C%20Division%20Boys.png"/> <br> <center> C division Boys </center>
+			<img src="/images/C%20Division%20Boys.png"> <br> <center> C division Boys </center>
 		</td>
 		<td> 
-			<img src="/images/Training%20By%20Coach.png"/> <br> <center> Training By Coach </center>
+			<img src="/images/Training%20By%20Coach.png"> <br> <center> Training By Coach </center>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="/images/In%20Action%20During%20Competitive.png"/> <br> <center> In Action During Competitive Match </center>
+			<img src="/images/In%20Action%20During%20Competitive.png"> <br> <center> In Action During Competitive Match </center>
 		</td>
 		<td> 
-			<img src="/images/Getting%20Ready%20for%20Competitive%20Match.png"/> <center> Getting Ready for Competitive Match </center>
+			<img src="/images/Getting%20Ready%20for%20Competitive%20Match.png"> <center> Getting Ready for Competitive Match </center>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="/images/Donovan%20received%20the%20NSG%20Sportsmanship%20Award%202022%20from%20Mr%20Ang%20Our%20Principal.png"/> <br> <center> Donovan received the NSG Sportsmanship Award 2022 from Mr Ang (Our Principal) </center>
+			<img src="/images/Donovan%20received%20the%20NSG%20Sportsmanship%20Award%202022%20from%20Mr%20Ang%20Our%20Principal.png"> <br> <center> Donovan received the NSG Sportsmanship Award 2022 from Mr Ang (Our Principal) </center>
 		</td>
 		<td></td>
 	</tr>
-</table>
-
-#### CCA TRAINING DAY(S)/ TIME
-
-| Day(s) | Time |
-| --- | --- | 
-| Wednesday | 2:30 pm - 4:30 pm |
-| Friday | 2:00 pm - 4:00 pm |
-| | |
-
-#### TEACHER-IN-CHARGE
-
-| | |
-| --- | --- |
-| Mr Mohammad Zulkefly B Idrus | Mdm Tan Jee Niang |
-| | |
+</tbody></table>
 
 #### EXECUTIVE COMMITTEE MEMBERS 
 
 <table>
-	<tr>
+	<tbody><tr>
 		<th> EXCO Positions </th>
 		<th> NAME </th>
 		<th> CLASS </th>
@@ -115,4 +116,4 @@ This club would not be complete if without positive accomplishment. As such, in 
 		<td> 3 D </td>
 	</tr>
 	<tr></tr>
-</table>
+</tbody></table>
