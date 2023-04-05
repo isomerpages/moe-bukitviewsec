@@ -6,9 +6,9 @@ third_nav_title: Clubs and Societies
 ---
 ## Singapore Youth Flying Club
 
-<img src="/images/rwimage_1%20(600%20x%20202).jpg"  style="width:60%"/>
+<img src="/images/rwimage_1%20(600%20x%20202).jpg" style="width:60%">
 <br>
-<img src="/images/YOUTH%20FLYING%20CLUB%20-%20Formal.jpg" style="width:85%"/>
+<img src="/images/YOUTH%20FLYING%20CLUB%20-%20Formal.jpg" style="width:85%">
 
 #### BACKGROUND
 
@@ -20,6 +20,21 @@ Established in 2012, our relatively young SYFC team has made our school proud by
 * To develop leadership qualities in pupils
 * To mould pupils in character development
 
+#### CCA TRAINING DAY(S)/ TIME
+
+| Day(s) | Time |
+| --- | --- | 
+| Wednesday | 2:30 pm - 5:30 pm |
+| | |
+
+#### TEACHER-IN-CHARGE
+
+| | |
+| --- | --- |
+| Mr Richard Lim | Mr Chin Kwek Siong | 
+| Mrs Charline Cheah | Mr Ong Soon Gee|
+| | |
+
 #### HIGHLIGHT OF THE YEAR
 
 * Annual Inter-school competitions held at SYFC-HQ 
@@ -30,24 +45,24 @@ Established in 2012, our relatively young SYFC team has made our school proud by
 * Singapore Amazing Flying Machine Competition (SAFMC) @ Singapore Science Centre
 
 <table>
-	<tr> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+	<tbody><tr> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
 	<tr>
 		<td colspan="3">
-			<img src="/images/Student-practising-flying-the-electric-control-line-model.png"/> <br> <center> Student Practising Flying the Electric Control Line Model </center>
+			<img src="/images/Student-practising-flying-the-electric-control-line-model.png"> <br> <center> Student Practising Flying the Electric Control Line Model </center>
 		</td>
 		<td colspan="3">
-			<img src="/images/EL-Training.jpg"/> <br> <center> El Training </center>
+			<img src="/images/EL-Training.jpg"> <br> <center> El Training </center>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="2">
-			<img src="/images/Kugan-Launch-Glider-SAFMC-2021-768x1024.jpg"/> <br> <center> Launch Glider </center>
+			<img src="/images/Kugan-Launch-Glider-SAFMC-2021-768x1024.jpg"> <br> <center> Launch Glider </center>
 		</td>
 		<td colspan="2">
-			<img src="/images/Sec-3-Jolin-and-Jacinth-1024x768.jpeg"/> <br> <center> Flight Simulator </center>
+			<img src="/images/Sec-3-Jolin-and-Jacinth-1024x768.jpeg"> <br> <center> Flight Simulator </center>
 		</td>
 		<td colspan="2">
-			<img src="/images/Min-Htet-Aligning-Glider-1024x768.jpg"/> <br> <center> Making Glider </center>
+			<img src="/images/Min-Htet-Aligning-Glider-1024x768.jpg"> <br> <center> Making Glider </center>
 		</td>
 	</tr>
 	<tr>
@@ -57,19 +72,19 @@ Established in 2012, our relatively young SYFC team has made our school proud by
 	</tr>
 	<tr>
 		<td colspan="3" width="50%">
-			<img src="/images/Unpowered-Glider-Category-B2-Longest-Time-Aloft.jpg"/> <br> <center> Unpowered Glider Category B2: Longest Time Aloft Team Fastar3 (L-R): 1st Runner Up Thayallen s/o Sevakumar, Hari Krishna, Soorya Rajasekaran, Jarrett Ng </center>
+			<img src="/images/Unpowered-Glider-Category-B2-Longest-Time-Aloft.jpg"> <br> <center> Unpowered Glider Category B2: Longest Time Aloft Team Fastar3 (L-R): 1st Runner Up Thayallen s/o Sevakumar, Hari Krishna, Soorya Rajasekaran, Jarrett Ng </center>
 		</td>
 		<td colspan="3">
-			<img src="/images/Unpowered-Glider-Category-B1-Furthest-Distance.jpg"/> <br> <center> Unpowered Glider Category B1: Furthest Distance Team Fastar (L-R): 1st Runner-Up Alexey Cher, Seah Hao Guang, Kaelyn Lee, Clement Tan, Chai Wen Qiang </center>
+			<img src="/images/Unpowered-Glider-Category-B1-Furthest-Distance.jpg"> <br> <center> Unpowered Glider Category B1: Furthest Distance Team Fastar (L-R): 1st Runner-Up Alexey Cher, Seah Hao Guang, Kaelyn Lee, Clement Tan, Chai Wen Qiang </center>
 		</td>
 	</tr>
 	<tr></tr>
-</table>
+</tbody></table>
 
 #### AWARDS AND ACHIEVEMENTS
 
 <table>
-	<tr>
+	<tbody><tr>
 		<td rowspan="2"> 2020 </td>
 		<td rowspan="2"> Drone Odyssey Challenge </td>
 		<td> Certificate of Distinction (Secondary) for Coding Challenge </td>
@@ -88,7 +103,7 @@ Established in 2012, our relatively young SYFC team has made our school proud by
 		<td> 2nd Runner up for Overall School Champion </td>
 	</tr>
 	<tr>
-		<td> Champion & 1st Runner Up for Electric Control Line (Junior Category) </td>
+		<td> Champion &amp; 1st Runner Up for Electric Control Line (Junior Category) </td>
 	</tr>
 	<tr>
 		<td> Champion for Electric Control Line (Senior Category) </td>
@@ -101,22 +116,8 @@ Established in 2012, our relatively young SYFC team has made our school proud by
 		<td> 1st Runner Up (Team) for Unpowered Gliders Category B2: Longest Time Aloft </td>
 	</tr>
 	<tr></tr>
-</table>
+</tbody></table>
 
-#### CCA TRAINING DAY(S)/ TIME
-
-| Day(s) | Time |
-| --- | --- | 
-| Wednesday | 2:30 pm - 5:30 pm |
-| | |
-
-#### TEACHER-IN-CHARGE
-
-| | |
-| --- | --- |
-| Mr Richard Lim | Mr Ong Soon Gee | 
-| Mrs Charline Cheah | |
-| | |
 
 #### EXECUTIVE COMMITTEE MEMBERS
 

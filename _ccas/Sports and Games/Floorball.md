@@ -8,7 +8,7 @@ third_nav_title: Sports and Games
 
 ##### "A team above all. Above all a team."
 
-<img src="/images/FLOORBALL%20-%20Formal.jpg" style="width:85%"/>
+<img src="/images/FLOORBALL%20-%20Formal.jpg" style="width:85%">
 
 #### BACKGROUND
 
@@ -19,20 +19,36 @@ Established in 2012, the Bukit View floorball team is an all-girls team. Through
 *   We aim to instill values that will help Floorball girls become a responsible, confident and disciplined team-player.
 *   We hope to increase people’s appreciation for Floorball and encourage our students to stay healthy and active through sports while learning the values of sportsmanship, leadership and zest.
 
+#### CCA TRAINING DAY(S)/ TIME
+
+| Day(s) | Time |
+| --- | --- | 
+| Wednesday | 3:30 pm - 5:30 pm |
+| Friday | 1:30 pm - 3:30 pm |
+| | |
+
+#### TEACHER-IN-CHARGE
+
+| | |
+| --- | --- |
+| Mrs Ng-Sim Kia Mien | Ms Tan Hui Min |
+Ms Nur Illya Nafiza
+| | |
+
 #### HIGHLIGHT OF THE YEAR
 
-##### ACHIEVEMENT(S) & PARTICIPATION
+##### ACHIEVEMENT(S) &amp; PARTICIPATION
 
 * National School Games 'B' Division Floorball Championships
 * National School Games 'C' Division Floorball Championships
 
 <table>
-	<tr>
+	<tbody><tr>
 		<td width="55%">
-			<img src="/images/C-Division-Team-cheering-as-a-team-before-the-second-period.jpg"/> <br> <center>C Division Team Cheering As A Team Before The Second Period </center>
+			<img src="/images/C-Division-Team-cheering-as-a-team-before-the-second-period.jpg"> <br> <center>C Division Team Cheering As A Team Before The Second Period </center>
 		</td>
 		<td> 
-			<img src="/images/WhatsApp-Image-2019-11-23-at-83704-AM.jpeg"/> <br> <center>CCA Awareness Day </center>
+			<img src="/images/WhatsApp-Image-2019-11-23-at-83704-AM.jpeg"> <br> <center>CCA Awareness Day </center>
 		</td>
 	</tr>
 	<tr>
@@ -40,30 +56,15 @@ Established in 2012, the Bukit View floorball team is an all-girls team. Through
 			<img src="/images/B-Div-Team-photo-2.jpg"> <br> <center>B Div Team</center>
 		</td>
 		<td>
-			<img src="/images/B-Div-Tournament-with-Sec-1-supporters-and-Mr-Kevin-Ang.jpg"/> <br> <center> B Div Tournament with Sec 1 Supporters and Mr Kevin Ang </center>
+			<img src="/images/B-Div-Tournament-with-Sec-1-supporters-and-Mr-Kevin-Ang.jpg"> <br> <center> B Div Tournament with Sec 1 Supporters and Mr Kevin Ang </center>
 		</td>
 	</tr>
-</table>
-
-#### CCA TRAINING DAY(S)/ TIME
-
-| Day(s) | Time |
-| --- | --- | 
-| Monday | 3:00 pm - 5:30 pm |
-| Friday | 3:00 pm - 5:30 pm |
-| | |
-
-#### TEACHER-IN-CHARGE
-
-| | |
-| --- | --- |
-| Mrs Ng-Sim Kia Mien | Mdm Lock Oi Leng |
-| | |
+</tbody></table>
 
 #### EXECUTIVE COMMITTEE MEMBERS 
 
 <table>
-	<tr>
+	<tbody><tr>
 		<th> EXCO Positions </th>
 		<th> NAME </th>
 		<th> CLASS </th>
@@ -103,4 +104,4 @@ Established in 2012, the Bukit View floorball team is an all-girls team. Through
 		<td> S2-F </td>
 	</tr>
 	<tr></tr>
-</table>
+</tbody></table>

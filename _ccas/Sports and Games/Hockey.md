@@ -6,13 +6,30 @@ third_nav_title: Sports and Games
 ---
 ## Hockey 
 
-<img src="/images/HOCKEY%20-%20Formal.jpg" style="width:85%"/>
+<img src="/images/HOCKEY%20-%20Formal.jpg" style="width:85%">
 
 #### MISSION
 
 The hockey team aims to promote a culture of sporting excellence in school. Student athletes in hockey are given opportunities to compete in various platforms to strengthen their physical fitness, technical expertise and tactical awareness. Through the rigorous training, CCA members are nurtured to develop their character such as self-discipline and sportsmanship, as well as other 21st Century Competencies.  
   
 The Hockey CCA trains every Wednesday and Friday. The training venue will either be in school at the Indoor Sports Hall (ISH) rooftop or at external pitches. Professional hockey coaches are engaged to conduct the trainings. The student athletes will undergo a systematic training programme to help them build up their individual competencies and team dynamics.
+
+#### CCA TRAINING DAY(S)/ TIME
+
+| Day(s) | Time |
+| --- | --- | 
+| Wednesday | 2:45 pm - 4:45 pm |
+| Friday | 2:00 pm - 4:45 pm |
+| | |
+
+#### TEACHER-IN-CHARGE
+
+| | |
+| --- | --- |
+| Mdm Siti Aisah | Mr Koh Si Yao |
+Mr Felix Wong
+| | |
+
 
 #### HIGHLIGHT OF THE YEAR
 
@@ -36,37 +53,22 @@ The Hockey CCA trains every Wednesday and Friday. The training venue will either
 | | |
 
 <table>
-	<tr>
-		<td> <img src="/images/hockey-1-game-play-1024x768.jpg"/> <center> <b> Hockey 1. Game Play </b> </center> </td>
-		<td> <img src="/images/hockey-2-tactics-session-1024x768.jpg"/> <center> <b> Hockey 2. Tactics Session </b> </center> </td>
-		<td> <img src="/images/hockey-3-team-talk-1024x768.jpg"/> <center> <b> Hockey 3. Team Talk </b> </center> </td> 
+	<tbody><tr>
+		<td> <img src="/images/hockey-1-game-play-1024x768.jpg"> <center> <b> Hockey 1. Game Play </b> </center> </td>
+		<td> <img src="/images/hockey-2-tactics-session-1024x768.jpg"> <center> <b> Hockey 2. Tactics Session </b> </center> </td>
+		<td> <img src="/images/hockey-3-team-talk-1024x768.jpg"> <center> <b> Hockey 3. Team Talk </b> </center> </td> 
 	</tr>
 	<tr> 
-		<td> <img src="/images/hockey-4-ready-for-the-game-1024x768.jpg"/> <center> <b> Hockey 4. Ready For the Game </b> </center> </td> 
-		<td> <img src="/images/IMG_3677-300x169.jpg"/> </td>
-		<td> <img src="/images/IMG_3675-300x225.jpg"/> </td>
+		<td> <img src="/images/hockey-4-ready-for-the-game-1024x768.jpg"> <center> <b> Hockey 4. Ready For the Game </b> </center> </td> 
+		<td> <img src="/images/IMG_3677-300x169.jpg"> </td>
+		<td> <img src="/images/IMG_3675-300x225.jpg"> </td>
 	</tr>
-</table>
-
-#### CCA TRAINING DAY(S)/ TIME
-
-| Day(s) | Time |
-| --- | --- | 
-| Wednesday | 2:45 pm - 4:45 pm |
-| Friday | 2:45 pm - 4:45 pm |
-| | |
-
-#### TEACHER-IN-CHARGE
-
-| | |
-| --- | --- |
-| Mdm Siti Aisah | Mr Koh Si Yao |
-| | |
+</tbody></table>
 
 #### EXECUTIVE COMMITTEE MEMBERS 
 
 <table>
-	<tr>
+	<tbody><tr>
 		<th> EXCO Positions </th>
 		<th> NAME </th>
 		<th> CLASS </th>
@@ -101,4 +103,4 @@ The Hockey CCA trains every Wednesday and Friday. The training venue will either
 		<td> 2 C </td>
 	</tr>
 	<tr></tr>
-</table>
+</tbody></table>

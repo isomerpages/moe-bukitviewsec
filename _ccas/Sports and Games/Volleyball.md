@@ -6,11 +6,11 @@ third_nav_title: Sports and Games
 ---
 ## Volleyball
 
-<img style="width:85%" src="/images/VOLLEYBALL%20-%20Formal.jpg"/>
+<img style="width:85%" src="/images/VOLLEYBALL%20-%20Formal.jpg">
 
 #### BACKGROUND
 
-<img src="/images/Volleyball-Logo-300x220.jpg" style="width:35%"/>
+<img src="/images/Volleyball-Logo-300x220.jpg" style="width:35%">
 
 The Bukit View Secondary School (BVSS) Volleyball team is dedicated to fostering a culture that provides our athletes the mental and physical training necessary to help them reach their highest potential on the court as individuals and team players. We stress the importance of self-discipline, positive relationships between athletes and coach, and individual goals and aspirations.  
   
@@ -27,50 +27,11 @@ We have many activities that provide the players with the opportunities to impro
 *   To create and maintain an environment that develops character and promotes leadership, responsibility and accountability among all Volleyball members.
 *   Through these rigorous training, the girls are taught the importance of perseverance and teamwork, dedication and commitment, skills necessary for success both on the court and in life.
 
-#### HIGHLIGHT OF THE YEAR 
-
-##### PARTICIPATION / ACHIEVEMENT(S)
-
-*   The B Division girls managed to participate in the National School Games West Zone Volleyball Championship this year. Changes were made to the competition format due to the COVID-19 situation – the playing format was changed from 6V6 to 3V3, with each school sending in 3 teams. Although the girls faced many strong teams in our grouping, they persevered and fought hard in every game they played, and emerged victorious in some of the matches they played in.
-
-<table>
-	<tr>
-		<td>
-			<img src="/images/NSG%20B%20Div%20Girls.jpeg"/> <center> National School Games - 'B' Division Girls </center>
-		</td>
-		<td> 
-			<img src="/images/NSG%20C%20Div%20Girls.jpeg" style="width:75.5%"/> <center> National School Games - 'C' Division Girls </center>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/NSG%20Action.jpeg"/> <center> National School Games 2022 </center>
-		</td>
-		<td>
-			<img src="/images/NSG%20Action%201.jpeg"/> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/NSG%20Action%204.jpeg" style="width:60%"/>
-		</td>
-		<td>
-			<img src="/images/NSG%20Action%203.jpeg" style="width:62%"/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/NSG%20Action%202.jpeg"/>
-		</td>
-		<td></td>
-	</tr>
-</table>
-
 #### CCA TRAINING DAY(S)/ TIME
 
 | Day(s) | Time|
 | --- | --- |
-| Wednesday | 3:00pm - 5:30pm |
+| Wednesday | 3:00pm - 5:40pm |
 | Friday | 1:00pm - 4:00pm |
 | | |
 
@@ -78,9 +39,48 @@ We have many activities that provide the players with the opportunities to impro
 
 | | |
 | --- | --- |
-| Mrs Pang-Ong Lee Ling Susan | Mrs Foong Bee Yong |
-| Mdm Atikah | |
+| Mrs Pang-Ong Lee Ling Susan |Mdm Atikah |
+Mrs Foong Bee Yong  |
 | | |
+
+#### HIGHLIGHT OF THE YEAR 
+
+##### PARTICIPATION / ACHIEVEMENT(S)
+
+*   The B Division girls managed to participate in the National School Games West Zone Volleyball Championship this year. Changes were made to the competition format due to the COVID-19 situation – the playing format was changed from 6V6 to 3V3, with each school sending in 3 teams. Although the girls faced many strong teams in our grouping, they persevered and fought hard in every game they played, and emerged victorious in some of the matches they played in.
+
+<table>
+	<tbody><tr>
+		<td>
+			<img src="/images/NSG%20B%20Div%20Girls.jpeg"> <center> National School Games - 'B' Division Girls </center>
+		</td>
+		<td> 
+			<img src="/images/NSG%20C%20Div%20Girls.jpeg" style="width:75.5%"> <center> National School Games - 'C' Division Girls </center>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/NSG%20Action.jpeg"> <center> National School Games 2022 </center>
+		</td>
+		<td>
+			<img src="/images/NSG%20Action%201.jpeg"> 
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/NSG%20Action%204.jpeg" style="width:60%">
+		</td>
+		<td>
+			<img src="/images/NSG%20Action%203.jpeg" style="width:62%">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/NSG%20Action%202.jpeg">
+		</td>
+		<td></td>
+	</tr>
+</tbody></table>
 
 #### EXECUTIVE COMMITTEE MEMBERS
 

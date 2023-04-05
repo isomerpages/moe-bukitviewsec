@@ -21,6 +21,22 @@ To cultivate and nurture a love and appreciation for mass media and the arts, wh
  *   We dream to encourage students to develop a passion for drama and debating.
  *   We also hope inculcate an appreciation of the arts and mass media in members and the general school population.
  *   Keep Calm and Drama on!
+ 
+#### CCA TRAINING DAY(S)/ TIME
+
+| Day(s)  | Time  |
+|---|---|
+| Wednesday  | 2:30 pm – 4:00 pm  |
+|  Friday | 2:30 pm – 5:30 pm  |
+|   |   |
+
+#### TEACHERS-IN-CHARGE
+
+|   |   |
+|---|---|
+| Ms Nur Syazwani |  Mr John Praveen |
+| Miss Shivali Popat Jadhav | Miss Lycia Ho  |
+|   |   |
 
 #### HIGHLIGHT OF THE YEAR
 
@@ -47,31 +63,16 @@ To cultivate and nurture a love and appreciation for mass media and the arts, wh
 
 SYF Art Presentation 2019
 
-<img src="/images/NCS_1103.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/NCS_1105.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/NCS_1110.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/NCS_1103.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/NCS_1105.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/NCS_1110.jpg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left"><br>
 
-<img src="/images/NCS_1123.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/NCS_1124.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/NCS_1126.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/NCS_1123.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/NCS_1124.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/NCS_1126.jpg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left">
 
-#### CCA TRAINING DAY(S)/ TIME
-
-| Day(s)  | Time  |
-|---|---|
-| Wednesday  | 2:30 pm – 4:30 pm  |
-|  Friday | 3:00 pm – 6:00 pm  |
-|   |   |
-
-#### TEACHERS-IN-CHARGE
-
-|   |   |
-|---|---|
-| Mr Muhd Fadly  |  Miss Nur Syazwani Binte Shoffie |
-| Ms Chi Ei Ei  |   |
-|   |   |
 
 #### EXECUTIVE COMMITTEE MEMBERS
 

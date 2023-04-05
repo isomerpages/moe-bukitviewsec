@@ -17,9 +17,26 @@ The Band seeks to bring out the best in all our members. Our members are given o
 The Band seeks to bring out the very best in every student that comes under our charge.  
 We, the Bukit View Military Band stand for:  
 
- *   **INTEGRITY:** Doing the right thing all the time
- *   **UNITY:** Lasting friendships that drive common goals
- *   **EXCELLENCE:** Exceeding expectations in all endeavours in our Musical Journey.
+ *   **INTEGRITY:**&nbsp;Doing the right thing all the time
+ *   **UNITY:**&nbsp;Lasting friendships that drive common goals
+ *   **EXCELLENCE:**&nbsp;Exceeding expectations in all endeavours in our Musical Journey.
+#### CCA TRAINING DAY(S)/ TIME
+
+| Day(s)  |  Time |
+|---|---|
+| Wednesday  |  2:30 pm – 5:30 pm |
+| Friday  | 1:30 pm – 4:30 pm  |
+|   |   |
+
+_**Note: Secondary One members only practice on Wednesdays until they join the main band in Term 2.**_
+
+#### TEACHERS-IN-CHARGE
+
+|   |   |
+|---|---|
+| Mdm Geetha ( I/C)  |  Ms Leung Jyn Lem Cheryl |
+|  Mdm Athinamilagi Kokila|   |
+|   |   |
 
 #### AWARDS AND ACHIEVEMENTS
 
@@ -38,24 +55,6 @@ We, the Bukit View Military Band stand for:
 | <img src="/images/SYF-2019-April--300x219.png" style="width:85%"><center>Syf 2019 (april )</center>  | <img src="/images/National-Day-Observance-Ceremony-Aug-300x223.png" style="width:85%"><center>National Day Observance Ceremony (aug)</center>  | <img src="/images/CCA-Awareness-Day-Jan-300x227.png" style="width:85%"><center>Cca Awareness Day (jan)</center>  |
 |  <img src="/images/Band-POP-2019-June-300x225.png" style="width:85%"><center>Band Pop 2019 (june)</center> |  <img src="/images/Band-Camp-June-222x300.png" style="width:65%"><center>Band Camp (june)</center> |   |
 |   |   |   |
-
-#### CCA TRAINING DAY(S)/ TIME
-
-| Day(s)  |  Time |
-|---|---|
-| Wednesday  |  2:30 pm – 5:30 pm |
-| Friday  | 2:30 pm – 5:30 pm  |
-|   |   |
-
-_**Note: Secondary One members only practice on Wednesdays until they join the main band in Term 2.**_
-
-#### TEACHERS-IN-CHARGE
-
-|   |   |
-|---|---|
-| Mdm Geetha ( I/C)  |  Mdm Mastura |
-|  Mdm Zareena Beevi | Ms Leung Jyn Lem Cheryl  |
-|   |   |
 
 #### EXECUTIVE COMMITTEE MEMBERS
 

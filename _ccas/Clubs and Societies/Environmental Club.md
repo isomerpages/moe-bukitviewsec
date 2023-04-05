@@ -29,7 +29,20 @@ The Environmental Club was formally started in 2005. We are a group of students 
  *   Students will be equipped with basic life skills e.g communication skills, team work, leadership skills and ability to plan an event.
  *   Students will be learn advanced skills e.g research skills
  *   Students will become more aware of the applications of science leadership
+ 
+#### CCA TRAINING DAY(S)/ TIME
 
+|Day(s)   |  Time |
+|---|---|
+| Friday |  2:30 pm – 5:30 pm |
+|   |   |
+
+#### TEACHERS-IN-CHARGE
+
+|   |   |
+|---|---|
+| Mrs Toh Kai Poh  |  Mrs Reena Lloyd |
+|   |
 #### HIGHLIGHT OF THE YEAR
 
 ##### PARTICIPATION
@@ -50,31 +63,18 @@ The Environmental Club was formally started in 2005. We are a group of students 
 | School Green Awards  | Lotus Sustained Achievement Award  |
 |   |   |
 
-<iframe width="800" height="515" src="https://www.youtube.com/embed/rV2fPgIim0o" title="ECV Year  2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="515" src="https://www.youtube.com/embed/rV2fPgIim0o" title="ECV Year  2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<img src="/images/en1.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/en2.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/en3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/en1.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/en2.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/en3.jpg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left">
 
 #### Our Ecogarden
 
 <img src="/images/20160505_082827-1024x576.jpg" style="width:85%">
 
-#### CCA TRAINING DAY(S)/ TIME
 
-|Day(s)   |  Time |
-|---|---|
-| Friday |  2:30 pm – 5:30 pm |
-|   |   |
-
-#### TEACHERS-IN-CHARGE
-
-|   |   |
-|---|---|
-| Mrs Toh Kai Poh  |  Mrs Reena Lloyd |
-| Ms Chun Kai Xin  |   |
-|   |   |
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
@@ -84,4 +84,4 @@ The Environmental Club was formally started in 2005. We are a group of students 
 | Vice-chairperson  | Chin Kuan Yau  | 3 D  |
 |   |   |   |
 
-**For further information, please visit our [Environmental Club Facebook Page](http://www.facebook.com/pages/LIGERS-Environmental-Club-Bukit-View-Sec-School/327352081861)**
+**For further information, please visit our&nbsp;[Environmental Club Facebook Page](http://www.facebook.com/pages/LIGERS-Environmental-Club-Bukit-View-Sec-School/327352081861)**
