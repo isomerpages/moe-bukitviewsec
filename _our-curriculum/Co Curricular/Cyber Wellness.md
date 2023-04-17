@@ -8,7 +8,16 @@ third_nav_title: Co Curricular
 
 <img src="/images/Cyber wellness framework_img.jpeg" style="width:25%">
 
+The aim of the Cyber Wellness programme is to develop Bukit Viewans into empathetic citizens and ethical advocates who demonstrate responsible use of ICT and take care of their well-being when engaging with others in the cyber world.
+
 More information are available at the MOE Cyber Wellness Portal.
+
+Parents play a key role in their children’s growth. To help your child stay safe and have positive experiences online, you can:
+
+* Activate parental controls on your home devices (PLD/ Handphones/Internet Accessibility).
+* Model good digital habits for your child. (e.g. not using the phone when having dinner)
+* Set ground rules for internet use.
+* Navigate the internet together to understand their usage.
 
 ##### CYBER WELLNESS SAFETY TIPS TO ALL PARENTS
 
@@ -18,18 +27,12 @@ Do you have difficulties keeping your children safe in the virtual world? Well, 
 
 <img src="/images/CYBER WELLNESS SAFETY TIPS TO ALL PARENTS_Page_2.jpg" style="width:85%">
 
-#### C-Quest – A Mobile App Game to Promote Conversations About Cyber Wellness Between Parents and Children
 
-“Parents play a critical role in shaping their children’s values, as well as in guiding their online behaviour, and monitoring their computer use. Through playing the game with their children, MOE hopes that the App will serve as a tool to encourage conversations between parents and their children on cyber wellness.”  
-Mr Wong Siew Hoong Deputy Director-General of Education (Curriculum)  
-  
-Parents can now download a new mobile game app, C-Quest, and have conversations on cyber wellness with their children. Developed by the Ministry of Education and **targeted at parents with children aged 10 to 14**, C-Quest is specially designed to facilitate meaningful parent-child conversations on their online experiences. Through the game, students will also **learn to be safe, respectful, and responsible users of Information and Communication Technology** (ICT).
+Parents can also take a look at the following parent kit prepared by MOE which contains useful tips on how to guide your child to behave responsibly online and enhance their digital literacy skills.
 
-<img src="/images/C-Quest for parents.jpg" style="width:85%">
 
-For parents without smartphones, a browser-based version is accessible via this link.  
-  
-C-Quest, in facilitating conversation between parents and their children, complements the Cyber Wellness curriculum in schools, where cyber wellness based on the principles of “**Respect for Self and Others**” and “**Safe and Responsible Use**” of technology are taught through Citizenship and Character Education (CCE) to reinforce the **positive values** and **social emotional competencies needed for our students to navigate the cyber space skilfully and safely**.
+[Source: https://www.moe.gov.sg/education-in-sg/our-programmes/ cyber-wellness](http://schoolbag.sg/story/safeguarding-your-child-online)
+
 
 #### Safeguarding your child online
 
@@ -39,7 +42,7 @@ Retired principal Mrs Jenny Yeo shares her thoughts about a global issue of incr
   
 Has your child been spending a lot of time glued to his computer and smart devices? Do you know what he is doing online? What signs of concern should you look out for and is your child aware of issues like cyber bullying  
   
-According to the [Media Literacy Council](http://www.medialiteracycouncil.sg/online-safety/Pages/cyber-bullying.aspx), “Cyber bullying is the use of electronic media – especially mobile phones and the internet – to intimidate, threaten or upset someone.” As our children engage more in online activities, cyber bullying can become a concern. Often, children who are cyber bullied may show one or all of these symptoms:  
+According to the&nbsp;[Media Literacy Council](http://www.medialiteracycouncil.sg/online-safety/Pages/cyber-bullying.aspx), “Cyber bullying is the use of electronic media – especially mobile phones and the internet – to intimidate, threaten or upset someone.” As our children engage more in online activities, cyber bullying can become a concern. Often, children who are cyber bullied may show one or all of these symptoms:  
 
  *   Fall in self-esteem and feelings of insecurity
  *   Withdrawn interaction with family and friends
@@ -64,8 +67,8 @@ Parents with children aged 10 to 14 years old can try out a new mobile game app,
 
 C-Quest App Download  
 
- *   [Android devices](https://bukitviewsec.moe.edu.sg/play.google.com/store/apps/details?id=com.moe.cquest&hl=en) **PAGE NOT FOUND**
+ *   [Android devices](https://bukitviewsec.moe.edu.sg/play.google.com/store/apps/details?id=com.moe.cquest&amp;hl=en) **PAGE NOT FOUND**
  *   [Apple devices](https://itunes.apple.com/sg/app/c-quest/id929403922?mt=8)
 
 
-Source: [http://schoolbag.sg/story/safeguarding-your-child-online](http://schoolbag.sg/story/safeguarding-your-child-online)
+Source:&nbsp;[http://schoolbag.sg/story/safeguarding-your-child-online](http://schoolbag.sg/story/safeguarding-your-child-online)
