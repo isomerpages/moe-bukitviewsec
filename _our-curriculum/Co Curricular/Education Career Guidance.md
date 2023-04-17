@@ -31,5 +31,3 @@ Examples of ECG experiences are:
 
 <img src="/images/IMG-20200302-WA0023-225x300.jpg" style="width:45%">
 
-For more information on ECG, visit our google site  
-[https://sites.google.com/btvss.moe.edu.sg/bvss-ecg/announcements](https://sites.google.com/btvss.moe.edu.sg/bvss-ecg/announcements) **PAGE NOT FOUND**
