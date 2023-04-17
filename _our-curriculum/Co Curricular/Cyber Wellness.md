@@ -31,7 +31,7 @@ Do you have difficulties keeping your children safe in the virtual world? Well, 
 Parents can also take a look at the following parent kit prepared by MOE which contains useful tips on how to guide your child to behave responsibly online and enhance their digital literacy skills.
 
 
-[Source: https://www.moe.gov.sg/education-in-sg/our-programmes/ cyber-wellness](http://schoolbag.sg/story/safeguarding-your-child-online)
+Source: [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 
 
 #### Safeguarding your child online
