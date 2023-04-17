@@ -61,13 +61,3 @@ As parents, you too can play a role in helping your child to handle or avoid cyb
  *   Save evidence of the cyber bullying incident and report it to the school staff.
 
 The key is to establish a strong relationship with your child. Chat with them regularly and encourage them to share about their online activities. You, too, can share your experiences in using the Internet and over time, your child will be more ready to share with you should they encounter issues in their online activities.  
-  
-Parents with children aged 10 to 14 years old can try out a new mobile game app, C-Quest, developed and released today by the Ministry of Education. Through this app, parents can hold meaningful conversations with their child on their online experiences and guide them to be safe, respectful, and responsible in their online activities.
-
-C-Quest App Download  
-
- *   [Android devices](https://bukitviewsec.moe.edu.sg/play.google.com/store/apps/details?id=com.moe.cquest&amp;hl=en) **PAGE NOT FOUND**
- *   [Apple devices](https://itunes.apple.com/sg/app/c-quest/id929403922?mt=8)
-
-
-Source:&nbsp;[http://schoolbag.sg/story/safeguarding-your-child-online](http://schoolbag.sg/story/safeguarding-your-child-online)
