@@ -47,9 +47,3 @@ The DMA software consists of the following three components:
 
 For parents' who would like to change their DMA Options, you may click the following link:
 **[BVSS Parent ICT Service Request Form](https://go.gov.sg/ictserviceparent)**
-
-
-
-
-
-
