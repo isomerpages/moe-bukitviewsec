@@ -10,8 +10,6 @@ third_nav_title: Co Curricular
 
 The aim of the Cyber Wellness programme is to develop Bukit Viewans into empathetic citizens and ethical advocates who demonstrate responsible use of ICT and take care of their well-being when engaging with others in the cyber world.
 
-More information are available at the MOE Cyber Wellness Portal.
-
 Parents play a key role in their children’s growth. To help your child stay safe and have positive experiences online, you can:
 
 * Activate parental controls on your home devices (PLD/ Handphones/Internet Accessibility).
@@ -30,6 +28,7 @@ Do you have difficulties keeping your children safe in the virtual world? Well, 
 
 Parents can also take a look at the following parent kit prepared by MOE which contains useful tips on how to guide your child to behave responsibly online and enhance their digital literacy skills.
 
+[Parent Kit: Cyber Wellness for your child ](/files/cyber-wellness-for-your-child.pdf)
 
 Source: [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 
