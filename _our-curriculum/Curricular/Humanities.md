@@ -8,6 +8,24 @@ third_nav_title: Curricular
 
 <img src="/images/HUMANITIES DEPARTMENT.jpg" style="width:85%">
 
+#### Mission
+
+The Humanities Department aims to make every Bukit Viewan a concerned citizen through the learning of the Humanities. In Bukit View Secondary, our Humanities lessons are centred on the main pedagogical approach of Inquiry-Based Learning, with the teachers facilitating students’ learning through e-pedagogy, differentiated instructions and assessment for learning. We hope that Bukit Viewans will develop critical thinking skills, co-construct knowledge and be future-ready citizens who are concerned about sustainability and the current affairs.
+
+Our Humanities teachers harness the use of ICT in the teaching and learning of the Humanities. Tapping on tools such as StoryMaps and Virtual Reality, we bring authentic learning experiences to the classroom and explicate the links between the Humanities curriculum to the real-world context. We create flipped learning resources, such as mind maps and podcasts to allow students to consolidate their learning at their own pace.
+
+#### Our Teachers
+
+Head of Department:  Mrs Nalini Ram
+| Mr Mohamed Nazar (Senior Teacher)  |  
+| Mr Tan Wei Chung  | Mr Mohamad Zulkefly  |
+|  Mr Tan Huong | Mdm V Geetha  |
+| Mrs Ng Kia Mien  | Ms Tan Hui Min  |
+| Ms Esther Tan  |  Ms Seah Koon Lay | Mr Guo Hefang
+|   |   |
+
+
+
 
 **Social Studies comes ALIVE!** <br>
 Our teachers also believe in providing authentic opportunities to help our students understand the importance and value of Social Studies by exposing them to various competitions, seminars and even learning journeys!
@@ -50,15 +68,7 @@ Our teachers also believe in providing authentic opportunities to help our stude
 
 
 
-#### Our Teachers
 
-Head of Department:  Mrs Nalini Ram
-| Mr Mohamed Nazar (Senior Teacher)  |  
-| Mr Tan Wei Chung  | Mr Mohamad Zulkefly  |
-|  Mr Tan Huong | Mdm V Geetha  |
-| Mrs Ng Kia Mien  | Ms Tan Hui Min  |
-| Ms Esther Tan  |  Ms Seah Koon Lay | Mr Guo Hefang
-|   |   |
 
 #### Pedagogy &amp; Programmes
 
