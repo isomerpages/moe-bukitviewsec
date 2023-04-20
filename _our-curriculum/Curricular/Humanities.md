@@ -20,7 +20,7 @@ Our Humanities teachers harness the use of ICT in the teaching and learning of t
 
 | Head of Department: | Mrs Nalini Ram |
 | -------- | -------- | 
-| Text     | Text     | 
+| Ms Toh Shao Ying (SH/ Geography)     | Text     | 
 
 
 | Head of Department:  Mrs Nalini Ram
