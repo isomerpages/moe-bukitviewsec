@@ -16,7 +16,14 @@ Our Humanities teachers harness the use of ICT in the teaching and learning of t
 
 #### Our Teachers
 
-Head of Department:  Mrs Nalini Ram
+
+
+| Head of Department: | Mrs Nalini Ram |
+| -------- | -------- | 
+| Text     | Text     | 
+
+
+| Head of Department:  Mrs Nalini Ram
 | Mr Mohamed Nazar (Senior Teacher)  |  
 | Mr Tan Wei Chung  | Mr Mohamad Zulkefly  |
 |  Mr Tan Huong | Mdm V Geetha  |
