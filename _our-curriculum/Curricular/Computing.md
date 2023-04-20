@@ -8,6 +8,10 @@ third_nav_title: Curricular
 
 <img src="/images/COMPUTING DEPARTMENT.jpg" style="width:85%">
 
+#### Mission
+To provide students with COmputational Thinking skills to participate in a rapidly changing technological environment. 
+
+
 #### Our Teachers
 
 |   |   |
