@@ -54,5 +54,3 @@ Through the various learning journeys, Bukit Viewans also have the opportunity t
 #### Achievements
 
 Given the robust Humanities learning experiences offered, Bukit Viewans have been performing well in the various fields of Humanities. In 2022 for example, our students attained the Bronze Medal Award for the Individual Component of the NUS Geography Challenge. Students also actively participate and present in Model United Nations Conferences where they engage in &nbsp;discussions on current affairs with like-minded students from other schools.
-
-	
