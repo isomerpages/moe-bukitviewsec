@@ -32,7 +32,7 @@ Our Humanities teachers harness the use of ICT in the teaching and learning of t
 **Geographical Investigation** <br>
 Geographical Investigation allows students to have authentic learning experiences. Students are exposed to a variety of methods of data collection and analysis, allowing them to dive deep into exploring the themes and issues in their Geography curricula. Secondary 1 and 2 Bukit Viewans explore Bukit Batok’s nature parks and the neighbourhood, while Secondary 4 students venture out to Gardens by the Bay to examine tourism facilities. Our Geography team also leverages on 360° photographs and interactive maps to complement students’ field experience.
 
-*(insert pics)*
+
 
 **Historical Investigation** <br>
 Historical Investigation (HI) in Bukit View is designed to create authentic learning experiences for students in their inquiry of significant historical events. The four stages of Historical Inquiry (Asking questions, Gathering Data, Analysing sources, Drawing conclusions) come alive in HI, where students visit the National Museum of Singapore (NMS) to interact with historical sources. HI also taps on alternative assessments such as the creation of comics strips or collective diary to allow the outflow of students’ creativity as they demonstrate their understanding of historical events and concepts. In Bukit View, we also leverage on the use of virtual reality and Google Classroom to increase students’ interests and deepen their understanding of history.
