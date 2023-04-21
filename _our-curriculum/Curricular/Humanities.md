@@ -8,81 +8,67 @@ third_nav_title: Curricular
 
 <img src="/images/HUMANITIES DEPARTMENT.jpg" style="width:85%">
 
+#### Mission
 
-**Social Studies comes ALIVE!** <br>
-Our teachers also believe in providing authentic opportunities to help our students understand the importance and value of Social Studies by exposing them to various competitions, seminars and even learning journeys!
+The Humanities Department aims to make every Bukit Viewan a concerned citizen through the learning of the Humanities. In Bukit View Secondary, our Humanities lessons are centred on the main pedagogical approach of Inquiry-Based Learning, with the teachers facilitating students’ learning through e-pedagogy, differentiated instructions and assessment for learning. We hope that Bukit Viewans will develop critical thinking skills, co-construct knowledge and be future-ready citizens who are concerned about sustainability and the current affairs.
 
-<img src="/images/Secondary 3 students attending Parliamentary Sitting.jpg" style="width:49%" align="left">
-<img src="/images/2022 Humanities 9.jpeg" style="width:49%" align="right">
-<br clear="left"><br>
-
-<center>Secondary 3 students attending Parliamentary Sitting</center>
-
-<figure>
-<img src="/images/Secondary 3 students attending IMUN conference.jpg" style="width:90%">
-<figcaption>Secondary 3 student attending IMUN conference
- </figcaption>
-</figure>
-
-<figure>
-<img src="/images/2022 Humanities 12.jpeg" style="width:60%">
-<figcaption>Students presenting at ASEAN Conference
- </figcaption>
-</figure>
-
-<img src="/images/2022 Humanities 15.jpg" style="width:85%">
-
-<figure>
-<img src="/images/2022 Humanities 1.png" style="width:90%">
-<figcaption>Hosting Swedish Ambassador for a dialogue with our students, EU@ Schools
- </figcaption>
-</figure>
-
-<figure>
-<img src="/images/2022 Humanities 7.jpeg" style="width:90%">
-<figcaption>Learning Journey to Kyushu
- </figcaption>
-</figure>
-
-<img src="/images/2022 Humanities 13.jpeg" style="width:85%">
-
-<center><b>Special Mention : NUS Geography Challenge 2022</b><br>Our Secondary 3 Geography Students attained the Bronze Award for the Geography Challenge organized by NUS.</center>
-
-
+Our Humanities teachers harness the use of ICT in the teaching and learning of the Humanities. Tapping on tools such as StoryMaps and Virtual Reality, we bring authentic learning experiences to the classroom and explicate the links between the Humanities curriculum to the real-world context. We create flipped learning resources, such as mind maps and podcasts to allow students to consolidate their learning at their own pace.
 
 #### Our Teachers
 
-Head of Department:  Mrs Nalini Ram
-| Mr Mohamed Nazar (Senior Teacher)  |  
-| Mr Tan Wei Chung  | Mr Mohamad Zulkefly  |
-|  Mr Tan Huong | Mdm V Geetha  |
-| Mrs Ng Kia Mien  | Ms Tan Hui Min  |
-| Ms Esther Tan  |  Ms Seah Koon Lay | Mr Guo Hefang
-|   |   |
 
-#### Pedagogy &amp; Programmes
+|  Head of Department: | Mrs Nalini Ram  |
+|---|---|
+| Ms Toh Shao Ying (SH/Geography)  | Mr Mohamed Nazar (ST)  |
+| Mr Tan Wei Chung |  Mr Mohamad Zulkefly |
+|  Mr Tan Huong|  Mdm V Geetha |
+| Mrs Ng Kia Mien  | Mrs Koh-Tan Hui Min (SH/ED-Tech) |
+| Ms Esther Tan  |  Ms Seah Koon Lay |
+| Mr Guo Hefang
+| |
 
-Every humanities lesson is an exercise in inquiry. Students will develop critical thinking skills through questioning and data analysis while attaining subject mastery. ICT skills will also be embedded in the teaching and learning of Humanities at Bukit View Secondary. We aim to make every learner a concerned citizen by exposing students to a variety of themes and in-depth discussions of current affairs as part of our lessons.
+#### Key Programmes
 
-*   Use of Visible Thinking routines to help students draw connections to what they are learning.
-*   Use of Assessment Literacy in the classroom to stimulate critical and analytical thinking, as well as articulate their views and opinions.
-*   Information and Communications Technology (ICT) is harnessed to further both self-directed and collaborative learning.
-*   Mind mapping as an essential learning tool for organisation of core ideas and facilitating content mastery.
-*   Geographical Investigation (GI) and Historical Investigation (HI) allow students to apply their theoretical knowledge in practical situations.
-*   Local and overseas learning journeys inject excitement and add realism in the study of the Humanities.
+**Geographical Investigation** <br>
+Geographical Investigation allows students to have authentic learning experiences. Students are exposed to a variety of methods of data collection and analysis, allowing them to dive deep into exploring the themes and issues in their Geography curricula. Secondary 1 and 2 Bukit Viewans explore Bukit Batok’s nature parks and the neighbourhood, while Secondary 4 students venture out to Gardens by the Bay to examine tourism facilities. Our Geography team also leverages on 360° photographs and interactive maps to complement students’ field experience.
 
-**Geographical Enquiry (GI) @ BVSS**
+<figure>
+<img src="/images/Department%20photos/humans3.jpg" style="width:49%" align="left"> 
+<img src="/images/Department%20photos/humans4.jpg" style="width:49%" align="right">
+</figure>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<img style="width:85%" src="/images/GI at BVSS.jpg"><br>
-
-<img align="left" style="width:30%;margin-right:15px;" src="/images/GI at BVSS 2.jpg">
-<img align="left" style="width:30%;margin-right:15px;" src="/images/GI at BVSS 3.jpg">
-<img align="left" style="width:30%;margin-right:15px;" src="/images/2022 Humanities 5.jpeg">
-<br clear="left">
-
-**Historical Investigation (HI) @ BVSS**
+**Historical Investigation** <br>
+Historical Investigation (HI) in Bukit View is designed to create authentic learning experiences for students in their inquiry of significant historical events. The four stages of Historical Inquiry (Asking questions, Gathering Data, Analysing sources, Drawing conclusions) come alive in HI, where students visit the National Museum of Singapore (NMS) to interact with historical sources. HI also taps on alternative assessments such as the creation of comics strips or collective diary to allow the outflow of students’ creativity as they demonstrate their understanding of historical events and concepts. In Bukit View, we also leverage on the use of virtual reality and Google Classroom to increase students’ interests and deepen their understanding of history.
 
 <img style="width:85%" src="/images/2022 Humanities 10.jpeg"><br>
 
-<img align="left" style="width:23%" src="/images/HI at BVSS.jpg">
-<img align="right" style="width:66%" src="/images/2022 Humanities 8.jpeg">
+**Learning Journeys** <br>
+Through the various learning journeys, Bukit Viewans also have the opportunity to see the relevance of Humanities to the real world. Visits to Parliamentary Sittings for example allow Bukit Viewans to understand the functions and roles of a government. Our overseas learning journeys also seek to allow students to have authentic learning experiences of History and Geography beyond what is offered in Singapore.
+
+<figure>
+<img src="/images/2022 Humanities 7.jpeg" style="width:49%" align="left">
+<img src="/images/2022 Humanities 9.jpeg" style="width:49%" align="right"><br><br>
+	
+</figure>
+<br>
+<br>
+<br>
+
+#### Achievements
+
+Given the robust Humanities learning experiences offered, Bukit Viewans have been performing well in the various fields of Humanities. In 2022 for example, our students attained the Bronze Medal Award for the Individual Component of the NUS Geography Challenge. Students also actively participate and present in Model United Nations Conferences where they engage in &nbsp;discussions on current affairs with like-minded students from other schools.
+
+<img src="/images/Department%20photos/humans1.jpg" style="width:49%" align="left">
+<img src="/images/Department%20photos/humans2.jpg" style="width:40%" align="right">
