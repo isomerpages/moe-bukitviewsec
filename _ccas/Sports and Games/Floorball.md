@@ -32,7 +32,7 @@ Established in 2012, the Bukit View floorball team is an all-girls team. Through
 | | |
 | --- | --- |
 | Mrs Ng-Sim Kia Mien | Ms Tan Hui Min |
-Ms Nur Illya Nafiza
+Ms Nur Illya Nafiza |
 | | |
 
 #### HIGHLIGHT OF THE YEAR
