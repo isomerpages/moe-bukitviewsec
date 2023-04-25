@@ -35,7 +35,7 @@ As the only uniformed youth group to enjoy close affiliation with the SPF, Bukit
 |   |   |
 |---|---|
 |  Mr Norafiq Ismail (I/C ) | Mdm Mastura Ashari |
-|  Mr Jonathan Ng Jun Kit |
+|  Mr Jonathan Ng Jun Kit | |
 |   |   |
 #### HIGHLIGHTS OF THE YEAR
 
