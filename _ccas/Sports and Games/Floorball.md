@@ -42,9 +42,9 @@ Ms Nur Illya Nafiza |
 * National School Games 'B' Division Floorball Championships
 * National School Games 'C' Division Floorball Championships
 
-<table>
+<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Floorball/farewell%20for%20sec%204.png"><br><center> Farewell for Sec 4 </center><table>
 	<tbody><tr>
-		<td width="55%">
+		<td width="50%">
 			<img src="/images/C-Division-Team-cheering-as-a-team-before-the-second-period.jpg"> <br> <center>C Division Team Cheering As A Team Before The Second Period </center>
 		</td>
 		<td> 
@@ -52,13 +52,16 @@ Ms Nur Illya Nafiza |
 		</td>
 	</tr>
 	<tr>
-		<td>
-			<img src="/images/B-Div-Team-photo-2.jpg"> <br> <center>B Div Team</center>
+		<td width="50%">
+			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Floorball/2023%20b%20div%20nsg%202.png"> <br> <center>B Div Team</center>
 		</td>
-		<td>
-			<img src="/images/B-Div-Tournament-with-Sec-1-supporters-and-Mr-Kevin-Ang.jpg"> <br> <center> B Div Tournament with Sec 1 Supporters and Mr Kevin Ang </center>
+		<td width="50%">
+				<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Floorball/2023%20b%20div%20nsg.png"> <br> <center> B Div NSG Tournament </center>
 		</td>
 	</tr>
+		<tr>
+			  
+			</tr>
 </tbody></table>
 
 #### EXECUTIVE COMMITTEE MEMBERS 
