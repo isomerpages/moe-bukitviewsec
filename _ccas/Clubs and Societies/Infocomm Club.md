@@ -40,31 +40,30 @@ The Infocomm Club aims to :
 Members have the opportunities to learn computational thinking through coding using the following:  
 
 *   Scratch
-*   Spheros
-*   Unity game engine
+*   Robotics
 *   Halocode with mBlock
 
   
-Members have the opportunities to take part in the following competitions/ activities in 2022:  
+Members have the opportunities to take part in the following competitions/ activities in 2022/2023:  
 
 *   Bebras International Challenge on Informatics and Computational Thinking
 *   BBSS X SCOGA Campus Legend Competition
-*   Chatbot and Web App Creation Workshop
 *   Design Thinking with Robotics and Computational Thinking International Competition (DrCT)
 *   Digital for Life Youth Awards 2022
-*   Infocomm Media Club Student Leadership Conference
+*   Learning Journey to Art Science Museum
 *   National Software Competition
-*   National Youth Upcycling Movement (NYUM) 2022
 *   Young Catalyst Microbit Competition
 
-| | | | | 
-| --- | --- | --- | --- | 
-| ![](/images/2021-scratch-1-287x300.png) <br> <center>Scratch</center> | ![](/images/2021-spheros-1-300x169.jpg) <br> <center>Spheros</center> | ![](/images/2021-App-inventor-1-300x169.jpg) <br> <center> App Inventor </center> | ![](/images/2021-microbit-1-300x225.jpg) <br> <center> Microbit with Micropython </center> |
-| ![](/images/mgs%20microbit.jpeg) <br> <center> Young Catalyst Microbit Competition </center> | ![](/images/DrCT.jpeg) <br> <center> Design Thinking with Robotics and Computational Thinking International Competition </center> | ![](/images/bebras.jpeg) <br> <center> Bebras International Challenge on Informatics and Computational Thinking </center> | ![](/images/IMDAleadership.jpg) <br> <center> Infocomm Media Club Student Leadership Conference </center> |
+| | | 
+| --- | --- |
+| ![](/images/2021-scratch-1-287x300.png) <br> <center>Scratch</center> | ![](/images/2021-spheros-1-300x169.jpg) <br> <center>Spheros</center> 
+| ![](/images/2021-App-inventor-1-300x169.jpg) <br> <center> App Inventor </center> | ![](/images/2021-microbit-1-300x225.jpg) <br> <center> Microbit with Micropython </center> 
+| ![](/images/mgs%20microbit.jpeg) <br> <center> Young Catalyst Microbit Competition </center> | ![](/images/DrCT.jpeg) <br> <center> Design Thinking with Robotics and Computational Thinking International Competition </center> 
+| ![](/images/bebras.jpeg) <br> <center> Bebras International Challenge on Informatics and Computational Thinking </center> | ![](/images/Infocomm%20Media%20Club%20Youth%20Awards%202022.jpeg)<br><center> InfoComm Media Club Youth Awards 2022 </center>
+|![](/images/CCA%20Page/Clubs%20and%20Societies/Infocomm%20Club/infocomm%20img_4320.jpg)<br><center>Learning Journey to Art Science Museum </center>|
 | | | | |
 
-<img src="/images/Infocomm%20Media%20Club%20Youth%20Awards%202022.jpeg" style="width:70%">
-<center> InfoComm Media Club Youth Awards 2022 </center>
+
 
 #### AWARDS AND ACHIEVEMENTS
 
