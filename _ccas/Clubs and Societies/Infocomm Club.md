@@ -31,7 +31,7 @@ The Infocomm Club aims to :
 
 | | |
 | --- | --- |
-| Mrs Patricia Lye | Miss Lee Poh Tin |
+| Ms Patricia Lye | Miss Lee Poh Tin |
 | Mr Tan Chong Han |
 | | |
 
