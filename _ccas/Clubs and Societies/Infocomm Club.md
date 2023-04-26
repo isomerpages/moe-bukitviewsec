@@ -83,34 +83,32 @@ Members have the opportunities to take part in the following competitions/ activ
 	</tr>
 	<tr>
 		<td> Chairperson </td>
-		<td> NG YING JIE, NATALIE </td>
+		<td>LIEW XING YING, SHERMAINE </td>
 		<td> S3-G </td>
 	</tr>
 	<tr> 
 		<td rowspan="2"> Vice- Chairperson </td>
-		<td> VITUS ONG XUAN RUI </td>
-		<td> S3-E </td>
+		<td> KHAMBHATI MOIZ HUZEFA </td>
+		<td> S3-G </td>
 	</tr>
 	<tr>
-		<td> OKITH NETHULA HAPUARACHCHI </td>
+		<td> GUO XIN ER</td>
+		<td> S3-G </td>
+	</tr>
+			<tr>
+		<td> Tech for Good Champion </td>
+		<td>JANELLE CRISTABEL ONG </td>
 		<td> S3-D </td>
 	</tr>
-	<tr>
-		<td rowspan="4"> EXCO Members </td>
-		<td> YANG SHU ZHI </td>
-		<td> S3-E </td>
+		<tr>
+	<td> Admin and Logistics</td>
+		<td>GIBSON BONG HOONG NIEN </td>
+		<td> S3-G </td>
 	</tr>
-	<tr>
-		<td> FONG QI YING CADEN </td>
-		<td> S3-F </td>
-	</tr>
-	<tr> 
-		<td> RYAN ONG JUN RONG </td>
-		<td> S3-A </td>
-	</tr>
-	<tr> 
-		<td> HOO LE MIN </td>
-		<td> S3-E </td>
+				<tr>
+	<td> Media and Communications</td>
+		<td>MAHAASHREE D/O GUNASEGARAN </td>
+		<td> S3-D </td>
 	</tr>
 	<tr></tr>
 </tbody></table>
