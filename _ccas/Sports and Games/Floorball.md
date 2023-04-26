@@ -70,38 +70,66 @@ Ms Nur Illya Nafiza |
 		<th> CLASS </th>
 	</tr>
 	<tr>
+		<td> Upper Sec Captain </td>
+		<td> NUDHAIRATUL HILMI BINTE MUHAMMAD NIDZAMUDDIN </td>
+		<td> S3-C </td>
+	</tr>
+	<tr>
 		<td> Upper Sec Vice-Captain </td>
-		<td> CLARIS SIEW YU SUEN </td>
-		<td> S3-D </td>
+		<td> NURUL SHAKIRA BINTE MUHAMMAD SANI</td>
+		<td> S3-C </td>
 	</tr>
 	<tr>
 		<td> Lower Sec CCA Captain </td>
-		<td> NUDHAIRATUL HILMI </td>
-		<td> S2-A </td>
+		<td> LEONG YI CHENG </td>
+		<td> S2-H </td>
 	</tr>
-	<tr>
+<tr>
 		<td> Lower Sec Vice-Captain </td>
-		<td> NURUL SHAKIRA </td>
-		<td> S2-A </td>
+		<td> LIM ZHI XUAN </td>
+		<td> S2-C </td>
 	</tr>
 	<tr> <td colspan="3"></td></tr>
 	<tr>
-		<td rowspan="2"> Upper Seconday Quarter Mistresses </td>
-		<td> GERMAINE THAM RUI EN </td>
-		<td> S3-A </td>
+		<td rowspan="4"> Upper Seconday Quarter Mistresses </td>
+		<td> IRA NATASYA BINTE MUHAMMAD FADHLI </td>
+		<td> S3-B </td>
 	</tr>
 	<tr>
-		<td> LU ZIJIE ELICIA </td>
-		<td> S3-C </td>
+		<td> GOH JIA EN ABIGAIL </td>
+		<td> S3-B </td>
 	</tr>
-	<tr> 
-		<td rowspan="2"> Lower Secondary Quarter Mistresses </td>
-		<td> IRA NATASYA </td>
-		<td> S2-C </td>
+<tr>
+		<td> LEONG SEE KAY ABIGAIL </td>
+		<td> S3-E </td>
+	</tr>
+<tr>
+		<td> GENEVIEVE MARIE LEE </td>
+		<td> S3-G </td>
+	</tr>
+<tr> 
+		<td rowspan="5"> Lower Secondary Quarter Mistresses </td>
+		<td> JAENA TAN LI EN</td>
+		<td> S2-D </td>
 	</tr>
 	<tr>
-		<td> VEERACHAMY HIRANMAYI </td>
+		<td> JOLIE PHOON DUANGDUEAN </td>
 		<td> S2-F </td>
 	</tr>
+<tr>
+		<td> MARSYA BINTE MOHAMED FAIZAL </td>
+		<td> S2-C </td>
+	</tr>
+
+<tr>
+		<td> RAJARAM JOSHIKA SRI </td>
+		<td> S1-A </td>
+	</tr>
+
+<tr>
+		<td> IFFAH RUFAYDA BINTE MOHAMAD HERMAN </td>
+		<td> S1-C </td>
+	</tr>
+		<tr></tr>
 	<tr></tr>
 </tbody></table>
