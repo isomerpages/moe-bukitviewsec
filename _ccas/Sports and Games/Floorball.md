@@ -32,7 +32,7 @@ Established in 2012, the Bukit View floorball team is an all-girls team. Through
 | | |
 | --- | --- |
 | Mrs Ng-Sim Kia Mien | Ms Tan Hui Min |
-Ms Nur Illya Nafiza
+Ms Nur Illya Nafiza |
 | | |
 
 #### HIGHLIGHT OF THE YEAR
@@ -42,9 +42,9 @@ Ms Nur Illya Nafiza
 * National School Games 'B' Division Floorball Championships
 * National School Games 'C' Division Floorball Championships
 
-<table>
+<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Floorball/farewell%20for%20sec%204.png"><br><center> Farewell for Sec 4 </center><table>
 	<tbody><tr>
-		<td width="55%">
+		<td width="50%">
 			<img src="/images/C-Division-Team-cheering-as-a-team-before-the-second-period.jpg"> <br> <center>C Division Team Cheering As A Team Before The Second Period </center>
 		</td>
 		<td> 
@@ -52,13 +52,16 @@ Ms Nur Illya Nafiza
 		</td>
 	</tr>
 	<tr>
-		<td>
-			<img src="/images/B-Div-Team-photo-2.jpg"> <br> <center>B Div Team</center>
+		<td width="50%">
+			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Floorball/2023%20b%20div%20nsg%202.png"> <br> <center>B Div Team</center>
 		</td>
-		<td>
-			<img src="/images/B-Div-Tournament-with-Sec-1-supporters-and-Mr-Kevin-Ang.jpg"> <br> <center> B Div Tournament with Sec 1 Supporters and Mr Kevin Ang </center>
+		<td width="50%">
+				<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Floorball/2023%20b%20div%20nsg.png"> <br> <center> B Div NSG Tournament </center>
 		</td>
 	</tr>
+		<tr>
+			  
+			</tr>
 </tbody></table>
 
 #### EXECUTIVE COMMITTEE MEMBERS 
@@ -70,38 +73,66 @@ Ms Nur Illya Nafiza
 		<th> CLASS </th>
 	</tr>
 	<tr>
+		<td> Upper Sec Captain </td>
+		<td> NUDHAIRATUL HILMI BINTE MUHAMMAD NIDZAMUDDIN </td>
+		<td> S3-C </td>
+	</tr>
+	<tr>
 		<td> Upper Sec Vice-Captain </td>
-		<td> CLARIS SIEW YU SUEN </td>
-		<td> S3-D </td>
+		<td> NURUL SHAKIRA BINTE MUHAMMAD SANI</td>
+		<td> S3-C </td>
 	</tr>
 	<tr>
 		<td> Lower Sec CCA Captain </td>
-		<td> NUDHAIRATUL HILMI </td>
-		<td> S2-A </td>
+		<td> LEONG YI CHENG </td>
+		<td> S2-H </td>
 	</tr>
-	<tr>
+<tr>
 		<td> Lower Sec Vice-Captain </td>
-		<td> NURUL SHAKIRA </td>
-		<td> S2-A </td>
+		<td> LIM ZHI XUAN </td>
+		<td> S2-C </td>
 	</tr>
 	<tr> <td colspan="3"></td></tr>
 	<tr>
-		<td rowspan="2"> Upper Seconday Quarter Mistresses </td>
-		<td> GERMAINE THAM RUI EN </td>
-		<td> S3-A </td>
+		<td rowspan="4"> Upper Seconday Quarter Mistresses </td>
+		<td> IRA NATASYA BINTE MUHAMMAD FADHLI </td>
+		<td> S3-B </td>
 	</tr>
 	<tr>
-		<td> LU ZIJIE ELICIA </td>
-		<td> S3-C </td>
+		<td> GOH JIA EN ABIGAIL </td>
+		<td> S3-B </td>
 	</tr>
-	<tr> 
-		<td rowspan="2"> Lower Secondary Quarter Mistresses </td>
-		<td> IRA NATASYA </td>
-		<td> S2-C </td>
+<tr>
+		<td> LEONG SEE KAY ABIGAIL </td>
+		<td> S3-E </td>
+	</tr>
+<tr>
+		<td> GENEVIEVE MARIE LEE </td>
+		<td> S3-G </td>
+	</tr>
+<tr> 
+		<td rowspan="5"> Lower Secondary Quarter Mistresses </td>
+		<td> JAENA TAN LI EN</td>
+		<td> S2-D </td>
 	</tr>
 	<tr>
-		<td> VEERACHAMY HIRANMAYI </td>
+		<td> JOLIE PHOON DUANGDUEAN </td>
 		<td> S2-F </td>
 	</tr>
+<tr>
+		<td> MARSYA BINTE MOHAMED FAIZAL </td>
+		<td> S2-C </td>
+	</tr>
+
+<tr>
+		<td> RAJARAM JOSHIKA SRI </td>
+		<td> S1-A </td>
+	</tr>
+
+<tr>
+		<td> IFFAH RUFAYDA BINTE MOHAMAD HERMAN </td>
+		<td> S1-C </td>
+	</tr>
+		<tr></tr>
 	<tr></tr>
 </tbody></table>

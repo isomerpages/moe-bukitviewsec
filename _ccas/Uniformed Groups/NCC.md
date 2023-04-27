@@ -45,8 +45,8 @@ With the support of HQ NCC, NCC encourages combined training across schools of t
 
 |   |   |
 |---|---|
-|  **Inter-Sch Best Unit Competition** | Gold Award (2011 – 2017)  <br>Distinction Award (2018 – 2021)  |
-|  **Outstanding Cadet Award 2022** |  NG WEE CHUAN (4F) |
+|  **Inter-Sch Best Unit Competition** | Gold Award <br>(2011 – 2017) <br>Distinction Award <br>(2018 – 2022)  |
+|  **Outstanding Cadet Award 2022** | Ng Wee Chuan (4F) |
 |   |   |
 
 <img src="/images/photo_2022-12-24_05-42-07.jpg" style="width:85%">
@@ -77,6 +77,6 @@ With the support of HQ NCC, NCC encourages combined training across schools of t
 
 |  **EXCO Positions** | **Name**  |  **Class** |
 |---|---|---|
-| Unit Sergeant Major  | Hayden Leong  | 3 G  |
-| Assistant Sergeant Major  |  Muhammad Haaziq Bin Mohamed Nazar | 3 E  |
+| Unit Sergeant Major  | Muhammad Nadhir Hilmi Bin Muhammad Nidzamuddin| 3 C  |
+| Assistant Sergeant Major  | Mohamed Sheldon Bin Abdul Manaf | 3 B  |
 |   |   |   |
