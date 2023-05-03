@@ -132,7 +132,7 @@ Shortlisted candidates will be assessed based on their abilities, qualities and 
 2.	Interview component
 
 **Environmental Science**
-![](/images/DSA/environmental%20science.jpg)
+![](/images/Environmental-300x200.jpg)
 <br>
 <u><b>Programmes, activities and opportunities</b></u><br>
 Students will learn to be environmentally conscious, to be aware of issues like sustainability and conservation. Their learning will be supported by the school’s outdoor learning facilities such as the Environmental Gallery, Eco Garden, and Smart Centre. The students will also conduct a biodiversity audit in the school and develop their capacities as Environmental Ambassadors, able to conduct Eco Trails for other schools’ students and visitors. They are also exposed to environmental projects organised by external agencies. 
@@ -191,7 +191,7 @@ Shortlisted candidates will be assessed based on their Sports abilities, qualiti
 2.	Interview component
 
 **Table Tennis**
-![](/images/DSA/table%20tennis%202.png)
+![](/images/Table-Tennis-300x185.png)
 <br>
 <u><b>Programmes, activities and opportunities</b></u><br>
 Students will have the opportunity to hone their table tennis skills under experienced teachers and instructors. They will be developed holistically in the areas of leadership, sportsmanship and teamwork, gaining experience in the planning and facilitation of CCA events such as the Sports Camp and the School Open House. Students will also represent the school in the annual National School Games (NSG) Table Tennis Championship (Team). Selected students would participate in the individual category of the NSG Table Tennis Championship. 
@@ -207,7 +207,7 @@ Shortlisted candidates will be assessed based on their Sports abilities, qualiti
 2.	Interview component
 
 **Volleyball (Girls)**
-![](/images/DSA/volleyball.jpg)
+![](/images/volleyball(girl).jpg)
 <br>
 <u><b>Programmes, activities and opportunities</b></u><br>
 Students will have a holistic experience through the training program, focusing not just on knowledge and skills acquisition of the sport at a higher level, but also in the areas of character building, leadership and teamwork. They will be able to enhance their repertoire of skills during trainings, and have the opportunity to participate in friendly matches and National School Games (NSG) competitions.
