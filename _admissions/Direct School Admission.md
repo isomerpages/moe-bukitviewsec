@@ -97,3 +97,20 @@ Shortlisted candidates will be assessed based on their artistic abilities, quali
 2.	Performance tasks
 3.	Interview component
 
+**English Drama**
+<br>
+<u><b>Programmes, activities and opportunities</b></u><br>
+Students will learn a variety of acting, direction and stage management skills. They will have opportunities to apply what they have learnt and be part of drama performances for school events and external competitions as well as representing the school in the Singapore Youth Festival (SYF) Arts Presentation.
+
+As the Drama Club is the 2nd Tier of the school’s Learning for Life Programme (LLP), students will be given opportunities to participate in events like learning journeys to theatres and attending Drama Careers Fair organised by institutions of higher learning. Drama Club students will also have the opportunity to participate in collaborative workshops or performances with other schools that offer Drama LLP. 
+
+For more information, please refer to the [CCA webpage](https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/drama/).
+
+<u><b>Prerequisites</b></u><br>
+Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.
+
+<u><b>Selection Criteria</b></u><br>
+Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:
+1.	Prepared items for showcase
+2.	Performance tasks
+3.	Interview component
