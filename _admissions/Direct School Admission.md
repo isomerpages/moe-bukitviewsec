@@ -34,13 +34,32 @@ Students who are successfully admitted to BVSS via DSA are expected to honour th
 **Leadership**
 <br>
 ![](/images/DSA/37th%20scb%20psl%20exco.jpeg)
-<u>**Programmes, activities and opportunities** </u><br>
+<u><b>Programmes, activities and opportunities</b></u><br>
 Students will be equipped with leadership skills, competencies and knowledge. They will be developed to serve as student leaders (councillor / peer support leader / CCA leader), and be given opportunities and platforms to apply their leadership skills. Students may also be selected as ambassadors to represent the school during the School Open House, Sec 1 Orientation and Student Environmental Leadership Conference.
 
 For more information, please refer to the [webpage.](https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/)
 
-<u>**Prerequisites**</u><br>
+<u><b>Prerequisites</b></u><br>
 Held key appointment in student leadership bodies and/or demonstrated leadership in school-related activities. 
 
-<u>**Selection Criteria**</u><br>
+<u><b>Selection Criteria</b></u><br>
 Shortlisted candidates will be assessed based on their leadership qualities and skills through an interview.
+
+**Choir**
+<br>
+![](/images/DSA/37th%20scb%20psl%20exco.jpeg)
+<u><b>Programmes, activities and opportunities</b></u><br>
+Students will learn how to use their voice for singing, projection, presentation effectively. There will be an emphasis on articulation, pronunciation and clarity of sound. Listening and ensemble-ship skills will be honed. As the Choir is a group activity, it is important for members to listen, respond and adapt their singing in order to achieve an overall blended sound. 
+
+Students will be given opportunities to express themselves through singing songs from different time periods and genres ranging from Renaissance music to Contemporary Pop. Students will also be given opportunities to perform in school for various school-based events, attend performances put up by notable local or international choirs, sing at public venues such as The Arts House or other performance venues, and take part in Singapore Youth Festival (SYF) Arts Presentation for Choir when the opportunity arises. 
+
+For more information, please refer to the CCA webpage.
+
+<u>**Prerequisites**</u><br>
+Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.
+
+<u>**Selection Criteria**</u><br>
+Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:
+1.	Prepared items for showcase
+2.	Performance tasks
+3.	Interview component
