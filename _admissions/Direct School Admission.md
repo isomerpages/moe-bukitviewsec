@@ -53,12 +53,12 @@ Students will learn how to use their voice for singing, projection, presentation
 
 Students will be given opportunities to express themselves through singing songs from different time periods and genres ranging from Renaissance music to Contemporary Pop. Students will also be given opportunities to perform in school for various school-based events, attend performances put up by notable local or international choirs, sing at public venues such as The Arts House or other performance venues, and take part in Singapore Youth Festival (SYF) Arts Presentation for Choir when the opportunity arises. 
 
-For more information, please refer to the CCA webpage.
+For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/Choir/).
 
-<u>**Prerequisites**</u><br>
+<u><b>Prerequisites</b></u><br>
 Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.
 
-<u>**Selection Criteria**</u><br>
+<u><b>Selection Criteria</b></u><br>
 Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:
 1.	Prepared items for showcase
 2.	Performance tasks
