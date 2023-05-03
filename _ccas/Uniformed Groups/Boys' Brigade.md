@@ -30,9 +30,10 @@ We seek to bring out the very best in every boy that comes under our charge. Our
 
 |   |   |
 |---|---|
-|  Mr Tan Huong (Teacher Overall I/C)  | Ms Yap Xiu Feng | 
-|  Mr Aren Tang (Captain)| Mr Ethan Lau (Officer)  |
-|   |   |
+|  Mr Tan Huong (Teacher Overall I/C) | Ms Yap Xiu Feng | 
+|  Mr Aren Tang (Captain)| Mr Ethan Lau (Officer)|
+|   |   |   |
+
 #### HIGHLIGHTS OF THE YEAR
 
  *   Weekly parades consisting of drills, badgework, like-skill lessons, fitness routines and games
