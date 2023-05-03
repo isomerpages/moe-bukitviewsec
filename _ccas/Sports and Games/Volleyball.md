@@ -60,7 +60,7 @@ Mrs Foong Bee Yong  |
 
 | EXCO Positions | NAME | CLASS |
 | --- | --- | --- |
-| Sec 3 Level Reps | Guo Ninghui <br> Koo Kay Mie <br> Naw Karen <br> Lum Mun Wai | 3F <br> 3D <br> 3A <br> 3B |
-| Sec 2 Level Reps | Naw Keziah Hsay <br> Adeline Ong <br> Nur Shafinaz | 2B <br> 2B <br> 2C |
-| Sec 1 Level Reps | Richelle Hong <br> Crystal Ker <br> Haruka Chia | 1H <br> 1H <br> 1G |
+| Sec 3 Level Reps | Naw Keziah Hsay<br> Adeline Ong <br> Tsai Min En | 3F <br> 3G <br> 3E |
+| Sec 2 Level Reps |  Richelle Hong  <br> Crystal Ker <br>Haruka Chia | 2H <br> 2H <br> 2G |
+| Sec 1 Level Reps | Elise Tay | 1C |
 | | | |
