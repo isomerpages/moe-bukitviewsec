@@ -47,13 +47,30 @@ Shortlisted candidates will be assessed based on their leadership qualities and 
 
 **Choir**
 <br>
-![](/images/DSA/37th%20scb%20psl%20exco.jpeg)
+![](/images/DSA/choir%20dsa%20edited.jpg)
 <u><b>Programmes, activities and opportunities</b></u><br>
 Students will learn how to use their voice for singing, projection, presentation effectively. There will be an emphasis on articulation, pronunciation and clarity of sound. Listening and ensemble-ship skills will be honed. As the Choir is a group activity, it is important for members to listen, respond and adapt their singing in order to achieve an overall blended sound. 
 
 Students will be given opportunities to express themselves through singing songs from different time periods and genres ranging from Renaissance music to Contemporary Pop. Students will also be given opportunities to perform in school for various school-based events, attend performances put up by notable local or international choirs, sing at public venues such as The Arts House or other performance venues, and take part in Singapore Youth Festival (SYF) Arts Presentation for Choir when the opportunity arises. 
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/Choir/).
+
+<u><b>Prerequisites</b></u><br>
+Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.
+
+<u><b>Selection Criteria</b></u><br>
+Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:
+1.	Prepared items for showcase
+2.	Performance tasks
+3.	Interview component
+
+**Concert Band**
+<br>
+![](/images/DSA/concert%20band%20dsa.jpeg)
+<u><b>Programmes, activities and opportunities</b></u><br>
+Students will be given opportunities to perform in public concerts and the Singapore Youth Festival (SYF) Arts Presentation. They will also be given opportunities to hone their leadership and organization skills through weekly practices and engaging activities. In school, students get to showcase their musical talent during events like National Day Parade, Teacher’s Day celebrations. 
+
+For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/concertb/).
 
 <u><b>Prerequisites</b></u><br>
 Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.
