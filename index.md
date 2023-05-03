@@ -24,8 +24,4 @@ sections:
       url: https://www.bukitviewsec.moe.edu.sg/admissions/dsa/
       image: /images/322121888_1331491804371498_686499686661412855_n.jpg
       alt: Image alt text
-  - infobar:
-      description: Bukit View Secondary's Direct School Admission selection criteria
-      button: Click here
-      url: https://www.bukitviewsec.moe.edu.sg/admissions/dsa/
 ---
