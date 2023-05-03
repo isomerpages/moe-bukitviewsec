@@ -18,4 +18,8 @@ sections:
         - title: Positive Education
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
+  - infobar:
+      description: Bukit View Secondary's Direct School Admission selection criteria
+      button: Click here
+      url: https://www.bukitviewsec.moe.edu.sg/admissions/dsa/
 ---
