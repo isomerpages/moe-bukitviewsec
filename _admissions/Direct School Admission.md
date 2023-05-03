@@ -80,3 +80,20 @@ Shortlisted candidates will be assessed based on their artistic abilities, quali
 1.	Prepared items for showcase
 2.	Performance tasks
 3.	Interview component
+
+**Modern Dance**
+<br>
+![](/images/DSA/modern%20dance%20dsa.jpeg)
+<u><b>Programmes, activities and opportunities</b></u><br>
+Students will be trained in techniques associated with various dance genres. They will have the opportunity to perform at school events such as the Chinese New Year concert, school National Day celebrations, Teachers’ Day, Open House and Singapore Youth Festival (SYF) Arts Presentation. There will also be opportunities for students to hone their leadership skills and further their passion in the arts through immersion programmes and workshops with various institutions. 
+For more information, please refer to the [ CCA webpage.](https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/dance/)
+
+<u><b>Prerequisites</b></u><br>
+Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.
+
+<u><b>Selection Criteria</b></u><br>
+Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:
+1.	Prepared items for showcase
+2.	Performance tasks
+3.	Interview component
+
