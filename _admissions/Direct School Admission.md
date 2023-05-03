@@ -28,4 +28,19 @@ Students who are successfully admitted to BVSS via DSA are expected to honour th
 | Science, Technology, Engineering and Mathematics  | * Coding<br> * Environmental Science<br> * STEM - Aerospace and Aviation  |
 | Sports and Games  | * Badminton (Boys) <br>* Volleyball (Girls)<br> * Table Tennis  |
 |   |   |
+      
+##### BVSS DSA Selection Criteria
 
+**Leadership**
+<br>
+![](/images/DSA/37th%20scb%20psl%20exco.jpeg)
+<u>**Programmes, activities and opportunities** </u><br>
+Students will be equipped with leadership skills, competencies and knowledge. They will be developed to serve as student leaders (councillor / peer support leader / CCA leader), and be given opportunities and platforms to apply their leadership skills. Students may also be selected as ambassadors to represent the school during the School Open House, Sec 1 Orientation and Student Environmental Leadership Conference.
+
+For more information, please refer to the [webpage.](https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/)
+
+<u>**Prerequisites**</u><br>
+Held key appointment in student leadership bodies and/or demonstrated leadership in school-related activities. 
+
+<u>**Selection Criteria**</u><br>
+Shortlisted candidates will be assessed based on their leadership qualities and skills through an interview.
