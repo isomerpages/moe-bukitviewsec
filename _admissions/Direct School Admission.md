@@ -98,6 +98,7 @@ Shortlisted candidates will be assessed based on their artistic abilities, quali
 3.	Interview component
 
 **English Drama**
+![](/images/DSA/drama_edited.jpg)
 <br>
 <u><b>Programmes, activities and opportunities</b></u><br>
 Students will learn a variety of acting, direction and stage management skills. They will have opportunities to apply what they have learnt and be part of drama performances for school events and external competitions as well as representing the school in the Singapore Youth Festival (SYF) Arts Presentation.
@@ -173,3 +174,50 @@ Shortlisted candidates will be assessed based on prior knowledge and interest in
 
 (Note: The SYFC CCA entails physical activities, i.e building and flying aeromodels. During model building, students can be exposed to wood dust, etc, and while flying, students can be expected to be out in the sun. Student must be physically fit enough to take part in such activities. Students who are asthmatic, with skin conditions such as eczema, or have physical impairments will not be suitable
 
+**Badminton (Boys)**
+![](/images/DSA/badminton%20dsa_edited.jpg)
+<br>
+<u><b>Programmes, activities and opportunities</b></u><br>
+Students will have the platform to develop their passion, interest and skills in Badminton. They will be developed holistically in the areas of leadership, sportsmanship and teamwork as they undergo weekly CCA training sessions under the guidance of experienced coaches and teachers. Students will also represent the school in the annual National School Games (NSG) Competitions. 
+
+For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/badminton/)
+
+<u><b>Prerequisites</b></u><br>
+Demonstrated strong interest and passion in Sports and participated actively in relevant Sports CCA.
+
+<u><b>Selection Criteria</b></u><br>
+Shortlisted candidates will be assessed based on their Sports abilities, qualities and potential in respective Sports areas through the following criteria:
+1.	Performance tasks and
+2.	Interview component
+
+**Table Tennis**
+![](/images/DSA/table%20tennis%202.png)
+<br>
+<u><b>Programmes, activities and opportunities</b></u><br>
+Students will have the opportunity to hone their table tennis skills under experienced teachers and instructors. They will be developed holistically in the areas of leadership, sportsmanship and teamwork, gaining experience in the planning and facilitation of CCA events such as the Sports Camp and the School Open House. Students will also represent the school in the annual National School Games (NSG) Table Tennis Championship (Team). Selected students would participate in the individual category of the NSG Table Tennis Championship. 
+
+For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis/).
+
+<u><b>Prerequisites</b></u><br>
+Demonstrated strong interest and passion in Sports and participated actively in relevant Sports CCA.
+
+<u><b>Selection Criteria</b></u><br>
+Shortlisted candidates will be assessed based on their Sports abilities, qualities and potential in respective Sports areas through the following criteria:
+1.	Performance tasks and
+2.	Interview component
+
+**Volleyball (Girls)**
+![](/images/DSA/volleyball.jpg)
+<br>
+<u><b>Programmes, activities and opportunities</b></u><br>
+Students will have a holistic experience through the training program, focusing not just on knowledge and skills acquisition of the sport at a higher level, but also in the areas of character building, leadership and teamwork. They will be able to enhance their repertoire of skills during trainings, and have the opportunity to participate in friendly matches and National School Games (NSG) competitions.
+
+For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/).
+
+<u><b>Prerequisites</b></u><br>
+Demonstrated strong interest and passion in Sports and participated actively in relevant Sports CCA.
+
+<u><b>Selection Criteria</b></u><br>
+Shortlisted candidates will be assessed based on their Sports abilities, qualities and potential in respective Sports areas through the following criteria:
+1.	Performance tasks and
+2.	Interview component
