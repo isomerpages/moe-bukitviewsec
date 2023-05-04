@@ -23,7 +23,7 @@ Students who are successfully admitted to BVSS via DSA are expected to honour th
 
 | **DSA Main Category**  | **DSA Talent Area**  |
 |---|---|
-| Leadership and Uniformed Groups  | * Leadership  |
+| Leadership and Uniformed Groups  | <a href="#Leadeship">Leadership </a>|
 | Performing Arts  | * Choir<br> * Concert Band<br> * Modern Dance<br> * English Drama  |
 | Science, Technology, Engineering and Mathematics  | * Coding<br> * Environmental Science<br> * STEM - Aerospace and Aviation  |
 | Sports and Games  | * Badminton (Boys) <br>* Volleyball (Girls)<br> * Table Tennis  |
@@ -47,9 +47,11 @@ Students who are successfully admitted to BVSS via DSA are expected to honour th
 
 
 ##### BVSS DSA Selection Criteria
-
+<a id="Leadership">
 **Leadership**
+	</a>
 <br>
+
 ![](/images/DSA/37th%20scb%20psl%20exco.jpeg)
 <u><b>Programmes, activities and opportunities</b></u><br>
 Students will be equipped with leadership skills, competencies and knowledge. They will be developed to serve as student leaders (councillor / peer support leader / CCA leader), and be given opportunities and platforms to apply their leadership skills. Students may also be selected as ambassadors to represent the school during the School Open House, Sec 1 Orientation and Student Environmental Leadership Conference.
