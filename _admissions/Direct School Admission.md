@@ -23,7 +23,7 @@ Students who are successfully admitted to BVSS via DSA are expected to honour th
 
 | **DSA Main Category**  | **DSA Talent Area**  |
 |---|---|
-| Leadership and Uniformed Groups  | * Leadership  |
+| Leadership and Uniformed Groups  | * Leadership |
 | Performing Arts  | * Choir<br> * Concert Band<br> * Modern Dance<br> * English Drama  |
 | Science, Technology, Engineering and Mathematics  | * Coding<br> * Environmental Science<br> * STEM - Aerospace and Aviation  |
 | Sports and Games  | * Badminton (Boys) <br>* Volleyball (Girls)<br> * Table Tennis  |
@@ -33,15 +33,15 @@ Students who are successfully admitted to BVSS via DSA are expected to honour th
 
 *   Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm . For more details, please refer to MOE website –&nbsp;[https://www.moe.gov.sg/dsa-sec.](https://www.moe.gov.sg/dsa-sec.)
 *   Only shortlisted candidates will be invited for interviews.
-*   The school’s decision on the offer is final. All applicants will be informed of the results of their application (confirmed / waiting list / not successful) by 11 September 2023.
+*   The school’s decision on the offer is final. All applicants will be informed of the results of their application (confirmed / waiting list / not successful) by 14 September 2023.
 
 #### Schedule for 2023 DSA Exercise
 
 | **Process**  | **Date/Time**  |
 |---|---|
 | Application Period (via DSA-Sec Portal)  | 4 May 2023, 11am to 31 May 2023, 3pm  |
-| Selection Period (Interviews/Trials)  | 27 Jun 2023 to 11 Sep 2023  |
-| Application Outcome  | By 11 Sep 2023  |
+| Selection Period (Interviews/Trials)  | 26 Jun 2023 to 11 Sep 2023  |
+| Application Outcome  | By 14 Sep 2023  |
 | School Preference Period  | Mon, 23 Oct to Fri, 27 Oct 2023|
 |   |   |
 
@@ -50,6 +50,7 @@ Students who are successfully admitted to BVSS via DSA are expected to honour th
 
 **Leadership**
 <br>
+
 ![](/images/DSA/37th%20scb%20psl%20exco.jpeg)
 <u><b>Programmes, activities and opportunities</b></u><br>
 Students will be equipped with leadership skills, competencies and knowledge. They will be developed to serve as student leaders (councillor / peer support leader / CCA leader), and be given opportunities and platforms to apply their leadership skills. Students may also be selected as ambassadors to represent the school during the School Open House, Sec 1 Orientation and Student Environmental Leadership Conference.
@@ -61,6 +62,7 @@ Held key appointment in student leadership bodies and/or demonstrated leadership
 
 <u><b>Selection Criteria</b></u><br>
 Shortlisted candidates will be assessed based on their leadership qualities and skills through an interview.
+	
 
 **Choir**
 <br>
