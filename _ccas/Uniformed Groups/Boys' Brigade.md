@@ -30,15 +30,16 @@ We seek to bring out the very best in every boy that comes under our charge. Our
 
 |   |   |
 |---|---|
-|  Mr Tan Huong (Teacher Overall I/C)  | Ms Yap Xiu Feng | 
-|  Mr Aren Tang (Captain)| Mr Ethan Lau (Officer)  |
-|   |   |
+|  Mr Tan Huong (Teacher Overall I/C) | Ms Yap Xiu Feng | 
+|  Mr Aren Tang (Captain)| Mr Ethan Lau (Officer)|
+|   |   |   |
+
 #### HIGHLIGHTS OF THE YEAR
 
- *   Weekly parades consisting of Drill, badgework, Lifeskill lessons and games.
- *   Activities organised throughout the year include camps (Adventure Camp and Leadership Camp), laser tag and first aid lessons.
+ *   Weekly parades consisting of drills, badgework, like-skill lessons, fitness routines and games
+ *   Activities organised throughout the year include camps (Adventure Camp and Leadership Camp), friendly sports matches with other, laser tag and first aid lessons.
  *   Community service activities such as BB Cares, BB Sharity Giftbox and The Orchard Road Christmas light-up.
- *   National competitions such as BB Adventure Quest and BB Character Quest.
+ *   National competitions such as BB Adventure Quest, BB Blaze and BB Character Quest.
 
 <iframe width="800" height="558" src="https://www.youtube.com/embed/4DilPIoBmIU" title="The Boys’ Brigade in Singapore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -57,18 +58,11 @@ We seek to bring out the very best in every boy that comes under our charge. Our
 
 |  **EXCO Positions** | **Name**  |  **Class** |
 |---|---|---|
-| Company Sergeant Major  | Jareth Kong  |  3 F |
-|  Assistant Company Sergeant Major | Joshua Santhanara  | 3 D  |
-| Programmes IC  | Javier Tan  | 3 F  |
-|  People IC |  Elkan Ng | 3 D  |
-|  Drill IC | Zhu Jing Honglu  | &nbsp;3 A  |
-| Adventure IC  | Caleb Lai  | &nbsp;3 C  |
-| PT &amp; Sports IC  |  Javier Tan | 3 F  |
-|  Communications IC |  Elkan Ng |  3 D |
-|  Squad Leader |  Periya Ramaswamy |  3 E |
-| Squad Leader  | Niteesh Sakthivel  | 3 G  |
-| Squad Leader  |  Prabhu Saravanan |  3 G |
-| Quartermaster  | Dilliaous Ho  | &nbsp;3 C  |
-| Awards IC  | Ng Zi Han  |  &nbsp;3 G |
-| Asst Squad Leaders  | Clifford Chua<br>Maran Mugilan<br>Paul Raymond  | 2 B<br>2 F<br>2 F  |
+| Company Sergeant Major  | Paul Raymonnd |  3 F |
+|  Assistant Company Sergeant Major | Jonathan Ang Kai En  | 3 G  |
+|  Squad Leader |  Maran Mugilan |  3 G |
+| Squad Leader / Drill IC | Chua Kai Loong Clifford | 3 E  |
+| Squad Leader  |  Liu Cheng Xuan |  3 F |
+| Awards IC| Fong Cheng Siang Zachary | 3 F  |
+| Sports IC / Quarter Master| Liew Yi Hui David  | 3 A  |
 |   |   |   |

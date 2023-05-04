@@ -47,46 +47,20 @@ Mrs Foong Bee Yong  |
 
 ##### PARTICIPATION / ACHIEVEMENT(S)
 
-*   The B Division girls managed to participate in the National School Games West Zone Volleyball Championship this year. Changes were made to the competition format due to the COVID-19 situation – the playing format was changed from 6V6 to 3V3, with each school sending in 3 teams. Although the girls faced many strong teams in our grouping, they persevered and fought hard in every game they played, and emerged victorious in some of the matches they played in.
+*   The B Division girls managed to participate in the National School Games West Zone Volleyball Championship this year. The playing format was reverted to 6v6. Although the girls faced many strong teams in our grouping, they persevered and fought hard in every game they played.
 
 <table>
-	<tbody><tr>
-		<td>
-			<img src="/images/NSG%20B%20Div%20Girls.jpeg"> <center> National School Games - 'B' Division Girls </center>
+	<tbody>
+		<tr><td>
+			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Volleyball/volleyball.jpg"> <center> National School Games - 'B' Division Girls </center>
 		</td>
-		<td> 
-			<img src="/images/NSG%20C%20Div%20Girls.jpeg" style="width:75.5%"> <center> National School Games - 'C' Division Girls </center>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/NSG%20Action.jpeg"> <center> National School Games 2022 </center>
-		</td>
-		<td>
-			<img src="/images/NSG%20Action%201.jpeg"> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/NSG%20Action%204.jpeg" style="width:60%">
-		</td>
-		<td>
-			<img src="/images/NSG%20Action%203.jpeg" style="width:62%">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/NSG%20Action%202.jpeg">
-		</td>
-		<td></td>
-	</tr>
-</tbody></table>
+</tr></tbody></table>
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
 | EXCO Positions | NAME | CLASS |
 | --- | --- | --- |
-| Sec 3 Level Reps | Guo Ninghui <br> Koo Kay Mie <br> Naw Karen <br> Lum Mun Wai | 3F <br> 3D <br> 3A <br> 3B |
-| Sec 2 Level Reps | Naw Keziah Hsay <br> Adeline Ong <br> Nur Shafinaz | 2B <br> 2B <br> 2C |
-| Sec 1 Level Reps | Richelle Hong <br> Crystal Ker <br> Haruka Chia | 1H <br> 1H <br> 1G |
+| Sec 3 Level Reps | Naw Keziah Hsay<br> Adeline Ong <br> Tsai Min En | 3F <br> 3G <br> 3E |
+| Sec 2 Level Reps |  Richelle Hong  <br> Crystal Ker <br>Haruka Chia | 2H <br> 2H <br> 2G |
+| Sec 1 Level Reps | Elise Tay | 1C |
 | | | |
