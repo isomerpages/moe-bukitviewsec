@@ -14,29 +14,50 @@ third_nav_title: Uniformed Groups
 
 <img src="/images/npcclogo.jpg" style="width:30%">
 
-BVSS NPCC Unit was formed in 1986 when the school first started. Over the years, BVSS NPCC unit has slowly made its progress and is becoming one of the most popular CCA in the school. Currently, we have six teacher officers who are very dedicated in the unit. We participated in competitions like the campcraft competitions, shooting competition and the others inter-unit competition.  
-  
-As the only uniformed youth group to enjoy close affiliation with the SPF, Bukit View NPCC cadets are actively engaged in activities organised in collaboration with the SPF. We hope to instil a greater sense of leadership and social responsibility among our cadets. This is in line with our vision to develop our cadets into future leaders imbued with sound values.
+The BVSS NPCC Unit was formed back in 1986, making it one of the school's pioneer uniformed groups with a rich and storied history. 
 
-#### MISSION
+Bukit View NPCC cadets are actively engaged in activities that aim to develop their potential as youth-leaders who are imbued with sound values and a strong moral compass. As the only youth organization in Singapore with a deep relationship and historic ties to the Singapore Police Force, we aim to achieve the following:
 
- *   To develop our members to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.
- *   To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.
- 
-#### CCA TRAINING DAY(S)/ TIME
+#### OUR CORPS MISSION &amp; VISION
+
+To develop our members to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe. 
+
+To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.
+#### OUR UNIT GOAL
+To empower each cadet to scale new heights through a quality CCA experience.
+
+#### OUR UNIT VALUES
+Grit: To succeed 
+Zest: To learn 
+Gratitude: In thriving
+PERSEVERING FORWARD BOUND
+
+ #### CCA TRAINING DAY(S)/ TIME
 
 | **Day(s)**  |  **Time** |
 |---|---|
+| Wednesdays  |  3:00 pm – 5:30 pm |
 | Friday  |  2:00 pm – 5:30 pm |
 |   |   |
 
-#### TEACHERS-IN-CHARGE
+*Cadets will be informed of any additional/make-up training days through Unit Routine Orders
+
+#### TEACHER OFFICERS &amp; UG TEACHERS
 
 |   |   |
 |---|---|
-|  Mr Norafiq Ismail (I/C ) | Mdm Mastura Ashari |
-|  Mr Jonathan Ng Jun Kit | |
+| Officer in Command | A/ASP (NPCC) Afiq Ismail
+|  UG Teacher &amp; Squad Officer (Sec 1) | Mr. Png See Kit|
+|  UG Teacher &amp; Squad Officer (Sec 2) | Ms. Vianne Tan|
+|  UG Teacher &amp; Squad Officer (Sec 3) | Mdm. Mastura Ashari|
+|  UG Teacher &amp; Squad Officer (Sec 4) | Mr. Jonathan Ng|
 |   |   |
+
+|   |   |
+|---|---|
+| Volunteer Adult Leaders/Non-Teachers (Honorary Officers)| H/INSP (NPCC) Nurul Syafikah 
+|   |   |
+
 #### HIGHLIGHTS OF THE YEAR
 
  *   Infused physical training such as foot drill, pistol shooting competition, camp craft, orienteering and others with character building so as to achieve a holistic development of our cadets.
