@@ -12,7 +12,7 @@ third_nav_title: Uniformed Groups
 
 #### BACKGROUND
 
-<img src="/images/npcclogo.jpg" style="width:30%">
+![](/images/CCA%20Page/Uniformed%20Groups/NPCC/npcc12.jpg)
 
 The BVSS NPCC Unit was formed back in 1986, making it one of the school's pioneer uniformed groups with a rich and storied history. 
 
@@ -64,16 +64,20 @@ PERSEVERING FORWARD BOUND
 -	Cadets can look forward to various learning experiences designed to engage their critical thinking, reflection and team-building skills.
 -	Activities range from drills, outdoor skillsets like campcraft and field cooking, to community crime prevention discussions and advocacy.
 
+![](/images/CCA%20Page/Uniformed%20Groups/NPCC/01npcc1.jpg)
+
 **BVSS Joint National Uniform Group Camp**
 -	NPCC cadets together with their NCC counterparts bonded through activities designed to challenge them physically and mentally in a spirit of learning and sharing.
 -	NPCC cadets shared the basic skills of Crime Scene Investigation with their NCC peers.
+
+![](/images/CCA%20Page/Uniformed%20Groups/NPCC/02npcc2.jpg)
 
 **Community Safety &amp; Security Program &amp; Police Youth Ambassador Program**
 -	Sec 2 &amp; 3 NPCC cadets engage in community advocacy to raise awareness of crime prevention to their schoolmates &amp; to the wider community.
 -	Sec 2 Cadets this year are raising awareness on cyberbullying &amp; its implications on teenage substance abuse
 -	Sec 3 Cadets are sharing with Bukit Batok residents about the pitfalls of online frauds, by working in partnership with Singapore Police Force officers from Bukit Batok Neighborhood Police Centre
-
-**Annual Crime Scene Investigation Competition **
+![](/images/CCA%20Page/Uniformed%20Groups/NPCC/03npcc3.jpg)
+**Annual Crime Scene Investigation Competition**
 -	Organized by NPCC HQ, BVSS Sec 3 Cadets put their heads together in a battle of wits to solve a crime in a race against time in a simulation
 
 To learn more, please visit our unit website at:
