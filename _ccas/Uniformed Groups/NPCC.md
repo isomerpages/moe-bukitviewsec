@@ -60,44 +60,54 @@ PERSEVERING FORWARD BOUND
 
 #### HIGHLIGHTS OF THE YEAR
 
- *   Infused physical training such as foot drill, pistol shooting competition, camp craft, orienteering and others with character building so as to achieve a holistic development of our cadets.
- *   Engaged in many adventurous and fun-filled activities such as rock climbing, canoeing, dragon boating, high rope elements etc.
- *   Participated in supported the Bukit Batok Community Centre in the Emergency Preparedness Excercise &amp; National Day Observance Ceremony
- *   Collaborated with the Bukit Batok NPC in the launch of the Community Policing System
- *   Cadets participated Enhanced Interactive CSI Course and Basic Introductory CSI
- *   Shared at the NPCC Workplan Seminar 2017, our very own Community Safety &amp; Security Program (CSSP) and Police Youth Ambassador (PYA) website. Please visit it here at:&nbsp;[https://sway.com/q6uULKwOIUWfBQ4d](https://sway.com/q6uULKwOIUWfBQ4d)
+ **Experiential Learning Experiences**
+-	Cadets can look forward to various learning experiences designed to engage their critical thinking, reflection and team-building skills.
+-	Activities range from drills, outdoor skillsets like campcraft and field cooking, to community crime prevention discussions and advocacy.
 
-For further information, please visit our&nbsp;[www.npcc.gov.sg](http://www.npcc.gov.sg/) **SITE NOT FOUND**&nbsp;/&nbsp;[http://connect.bukitviewsec.net/npcc](http://connect.bukitviewsec.net/npcc) **SITE NOT FOUND**
+**BVSS Joint National Uniform Group Camp**
+-	NPCC cadets together with their NCC counterparts bonded through activities designed to challenge them physically and mentally in a spirit of learning and sharing.
+-	NPCC cadets shared the basic skills of Crime Scene Investigation with their NCC peers.
+
+**Community Safety &amp; Security Program &amp; Police Youth Ambassador Program**
+-	Sec 2 &amp; 3 NPCC cadets engage in community advocacy to raise awareness of crime prevention to their schoolmates &amp; to the wider community.
+-	Sec 2 Cadets this year are raising awareness on cyberbullying &amp; its implications on teenage substance abuse
+-	Sec 3 Cadets are sharing with Bukit Batok residents about the pitfalls of online frauds, by working in partnership with Singapore Police Force officers from Bukit Batok Neighborhood Police Centre
+
+**Annual Crime Scene Investigation Competition **
+-	Organized by NPCC HQ, BVSS Sec 3 Cadets put their heads together in a battle of wits to solve a crime in a race against time in a simulation
+
+To learn more, please visit our unit website at:
+[https://sites.google.com/moe.edu.sg/bvss-npcc/home](https://sites.google.com/moe.edu.sg/bvss-npcc/home)
+
+or our Instagram account at:
+[https://www.instagram.com/bvssnpcc/](https://www.instagram.com/bvssnpcc/)
+
+
 
 #### AWARDS AND ACHIEVEMENTS
 
-|   |   |
-|---|---|
-| Overall Proficiency Award  |  Bronze Award (2019) |
-|  Best Unit Cadet | Gold Award ( Tham Mun Fai , 4 E2) |
-|   |   |
-
-|   |   |
-|---|---|
-|  <img src="/images/BACKUP-3-NPCC-Promotion-Ceremony-front-300x225.jpg" style="width:85%;margin-left:5px;"> <br>**Npcc Promotion Ceremony (front)** | <img src="/images/4-NPCC-Promotion-Ceremony-back-300x225.jpg" style="width:85%;margin-left:5px;"> <br>**4 Npcc Promotion Ceremony (back)** |
-|  <img src="/images/1-NPCC-Inter-Unit-Drill-Comp-2-300x163.jpg" style="width:85%;margin-left:5px;"> <br>**Npcc Inter Unit Drill Comp 2** |  <img src="/images/BACKUP-1-NPCC-Salute-225x300.jpg" style="width:60%;margin-left:5px;"> <br>**Npcc Salute** |
-|   |   |
-
-|   |   |   |
-|---|---|---|
-|  <img src="/images/BACKUP-2-NPCC-Inter-Unit-Drill-Comp-1-1024x768.jpg" style="width:85%"> <br>Npcc Inter Unit Drill Comp 1| <img src="/images/3-NPCC-Annual-Unit-Camp-1024x768.jpg" style="width:83%"> <br>Npcc Annual Unit Camp  |  <img src="/images/2-NPCC-POP-Day-1024x768.jpg" style="width:89%"> <br>Npcc Pop Day |
-|   |   |   |
-
-#### RANK STRUCTURE
-
-<img src="/images/Capture (300 x 520).jpg" style="width:50%">
-
+|  |  |
+| -------- | -------- | 
+| <b>2022 Unit Overall Proficiency Award:</b>      | Distinction   | 
+| <b>2022 Promotions to Station Inspector (NPCC):</b>      | -	Station Inspector (NPCC) Nur Rayhanna <br>-	Station Inspector (NPCC) Damien Swee| 
+| <b>2022 SPF-NPCC Badge: </b>      | -	Station Inspector (NPCC) Damien Swee<br>-	Staff Sergeant (NPCC) Hrethekesh S/O Thevan| 
+| <b>Best Unit Cadet (Female): </b>      | Staff Sergeant (NPCC): Shafwah Mustaffa   | 
+| <b>Best Unit Cadet (Male): </b>      | Staff Sergeant (NPCC): Hrethekesh S/O Thevan | 
+	 
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
 |  **EXCO Positions** | **Name**  | **Class**  |
 |---|---|---|
-|  Overall I/C |  Nur Syazliyarni Binte Zazali |  3 E |
-| Asst Overall IC  | Tan Chou Wen Rowan  | 3 A  |
-|  Unit Drill Instructors | Nur dini Izzati Binte Azhar 3E  | 3 E  |
+|Unit Chief| CPL (NPCC) Tammy Yong |	3F|
+| Deputy Chief: Head (Training &amp; Discipline) | CPL (NPCC) Naw Htee Moo Khu, Augustina| 3F|
+| Deputy Chief: Head (Operations &amp; Administration) | CPL (NPCC) Harijit V.R| 3G|
+| Squad Leader (Sec 1) | CPL (NPCC) Daanya Bte Zaini | 3B|
+| Squad Leader (Sec 1) | CPL (NPCC) Ramona Shaymaa Martin | 3C|
+| Squad Leader (Sec 2) | CPL (NPCC) Tan Han Cong Bean |  3A| 
+| Squad Leader (Sec 2) | CPL (NPCC) Vidhula Deivasigamani | 3E|
+| Cadet Well-being &amp; Safety Specialist| CPL (NPCC) Nikky Nadhatul Azriani| 3C |
+| Cadet Well-being &amp; Safety Specialist| CPL (NPCC) Tan Jing Heng| 3C |
+| Communications, Media &amp; Outreach Specialist	| CPL (NPCC) Shaikh Khidir Bin Yasir| 3C |
+| Quartermaster |  CPL (NPCC) Madeline Koh| 3C |
 |   |   |   |
