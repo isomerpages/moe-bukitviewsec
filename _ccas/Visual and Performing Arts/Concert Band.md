@@ -50,12 +50,12 @@ _**Note: Secondary One members only practice on Wednesdays until they join the m
 
 #### HIGHLIGHTS OF THE YEAR 
 
-|   |   |   |
-|---|---|---|
-| <img src="/images/IMG_0648-1024x683.jpg" style="width:85%"><center>SYF</center>  | <img src="/images/IMG_0622-1024x683.jpg" style="width:85%"><center>SYF</center>  | <img src="/images/IMG_0620-1024x683.jpg" style="width:85%"><center>SYF</center>  |
-| <img src="/images/SYF-2019-April--300x219.png" style="width:85%"><center>Syf 2019 (april )</center>  | <img src="/images/National-Day-Observance-Ceremony-Aug-300x223.png" style="width:85%"><center>National Day Observance Ceremony (aug)</center>  | <img src="/images/CCA-Awareness-Day-Jan-300x227.png" style="width:85%"><center>Cca Awareness Day (jan)</center>  |
-|  <img src="/images/Band-POP-2019-June-300x225.png" style="width:85%"><center>Band Pop 2019 (june)</center> |  <img src="/images/Band-Camp-June-222x300.png" style="width:65%"><center>Band Camp (june)</center> |   |
-|   |   |   |
+|   |   |  
+|---|---|
+|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/cca%20awareness.jpg)|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/cca%20awareness%202.jpg)|
+|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/music%20exchange%20with%20monfort%20sec.png)|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/music%20exchange%20with%20pasir%20ris%20sec.png)|
+|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/syf%202023%201.jpg)|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/syf%202023%202.jpg)|
+|   |   |
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
