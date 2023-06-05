@@ -75,5 +75,5 @@ _**Note: Secondary One members only practice on Wednesdays until they join the m
 | Assistant Uniform-in-charge|	JIN MINSEO	| 3F|
 | Publicity 	| THO XIN YUE	| 4D|
 | Assistant Publicity|	JU YESOL|	3D|
-| Section Leaders|	Flute : WONG XIAO HAN<br>Clarinet : ALEXANDRA KAILI WIGHT<br>Saxophone : TAN XIN NING <br>Lower woodwinds : AARON GWEE <br>Trumpet : SOH YONG KAI<br>French Horn: NG MIN YI NATALIE<br>Trombone : ONG YU HENG AIDEN<br>Euphonium: NG JUN JAY (HUANG JUN) <br>Tuba : THANGARAJU PRADEEP<br>String Bass : JU HYUNTAE<br>Percussion : THO XIN YUE<br>|	4B<br>4E<br><br>4A<br>3F<br><br>4C<br>4F<br><br>4G<br><br>3G<br><br>4F<br><br>4F<br>4F<br>|
+| Section Leaders|	Flute : WONG XIAO HAN<br>Clarinet : ALEXANDRA KAILI WIGHT<br>Saxophone : TAN XIN NING <br>Lower woodwinds : AARON GWEE <br>Trumpet : SOH YONG KAI<br>French Horn: NG MIN YI NATALIE<br>Trombone : ONG YU HENG AIDEN<br>Euphonium: NG JUN JAY (HUANG JUN) <br>Tuba : THANGARAJU PRADEEP<br>String Bass : JU HYUNTAE<br>Percussion : THO XIN YUE<br>|	4B<br>4E<br>4A<br>3F<br>4C<br>4F<br>4G<br>3G<br>4F<br>4F<br>4F<br>|
 |   |   |   |
