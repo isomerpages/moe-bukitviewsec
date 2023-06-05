@@ -48,6 +48,14 @@ The Club provides training in the various aspect of photography and videography 
  *   2022 Learning Journey to Bloomr.SG
  *   2022 Learning Journey to TheSmartLocal
 
+
+
+|  | | |
+| -------- | -------- | -------- |
+| ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%202.jpeg)     | ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%2024.jpeg)     | ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%203.jpeg)     |
+| ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-0123.jpeg)     | ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01.jpeg)     | ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%201.jpeg)    |
+| ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%20ea3.jpeg)    | ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%20at%20ea1.jpeg)     | ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%20ea.jpeg)    |
+
 #### EXECUTIVE COMMITTEE MEMBERS
 
 |  EXCO Positions | NAME  |  CLASS |
