@@ -58,13 +58,9 @@ The objectives of BVSS Dance Club are to nurture the love for dance as a perform
 |  SYF 2019 Arts Presentations (Dance – Chinese) | Certificate of Accomplishment  |
 |   |   |  |
 
-**SYF 2019 Arts Presentations**
 
-<img src="/images/dance1.jpg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/dance2.jpg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/dance3.jpg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/dance4.jpg" style="width:20%;margin-right:15px;" align="left">
-<br clear="left"><br>
+|   |   |
+|---|---|
 
 <img src="/images/dance5.png" style="width:49%" align="left">
 <img src="/images/dance6.png" style="width:49%" align="right">
