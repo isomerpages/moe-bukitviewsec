@@ -47,10 +47,13 @@ The objectives of the Bukit View Secondary School's Youth Flying Club are threef
 
 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+| ![](/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/group%20photo%20@safmc.jpg) | ![](/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/launch%20glider.jpg) | 
+| -------- | -------- |
+| Group photo at SAFMC  | Launch glider     |
+![](/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/make%20glider.jpg)|![](/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/practise%20flight%20simulator.jpg)|
+|Make Glider|Practise flight simulator|
+|![](/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/graduates%20of%20swift%20(syfc%20work-up%20and%20introduction%20to%20flight%20training)%20course.jpg)|![](/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/swift%20course%20badge.jpg)|
+|Graduates of SWIFT (SYFC Work-up and Introduction to Flight Training) course |Swift course badge|
 
 #### AWARDS AND ACHIEVEMENTS
 
