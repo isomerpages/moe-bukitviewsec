@@ -10,17 +10,18 @@ third_nav_title: Sports and Games
 
 #### BACKGROUND
 
-In Bukit View Secondary School, Badminton Club was established about ten years ago. From a small club with only about 10 members, it has been gaining from strength to strength. Currently, we have a total of more than 60 badminton members.  
-  
-In line with our school emphasis on Positive Education, the main aim of our club is to inculcate positive purpose in students. We would like the spirit of sportsmanship and zest to be internalized among the students. Our training is tailored to cater to the students’ well-being so that they value the positive engagement with their teammates and coaches during the practice sessions. Through coaching session, Badminton Club promotes the awareness of good health and positive emotion during workout and physical activities.  
-  
-This club would not be complete if without positive accomplishment. As such, in 2018, our CCA had achieved a major breakthrough in the National Inter-School Badminton Championship. Our B Division players overcame the odds to reach the second round to become the eventual one of the Top 8 schools in West Zone of the championship. We hope the spirit and the legacy of this club will continue so as to serve and nurture all our Bukit Viewans to be engaged learners, empathetic citizens and ethical advocates.
+In Bukit View Secondary School, Badminton Club was established about ten years ago. From a small club with only about 10 members, it has been gaining from strength to strength. Currently, we have a total of more than 50 badminton members.
+
+In line with our school emphasis on Positive Education, the main aim of our club is to inculcate positive purpose and engagement in students. We would like the spirit of sportsmanship, zest and perseverance to be internalised by our students. Our training is tailored to cater to the students’ well-being so that they value the positive engagement with their teammates and coaches during the practice sessions. Through the training sessions, Badminton Club promotes the awareness of good health and positive emotion during the workouts and physical activities.
+
+This club would not be complete if without positive accomplishment. In 2018, our CCA had achieved a major breakthrough in the National Inter-School Badminton Championship. Our B Division players overcame the odds to reach the second round to become the eventual one of the Top 8 schools in West Zone of the Championship. We hope the spirit and the legacy of this club will continue, so as to serve and nurture all our Bukit Viewan members to be engaged learners, empathetic citizens and ethical advocates.
+
 
 #### MISSION
 
 *   Inculcate compassion, integrity, perseverance, respect and responsibility among the members.
-*   Instruct and train our students with the skills and techniques of playing badminton.
-*   Create the awareness about the importance of having physical activities in daily life
+*  Instruct and train our students with the skills and techniques of playing badminton competently, and develop a positive spirit of sportsmanship.
+*   Create an awareness about the importance of engaging in physical activities in our students’ daily life.
 
 #### CCA TRAINING DAY(S)/ TIME
 
@@ -45,8 +46,8 @@ Mr Guo Feng
 
 ##### PARTICIPATION
 
-*   Boys B division in west zone for National Inter-School Badminton Championship 2022
-*   Boys C division in west zone for National Inter-School Badminton Championship 2022
+*   Boys B division in west zone for National Inter-School Badminton Championship 2023
+*   Boys C division in west zone for National Inter-School Badminton Championship 2023
 
 ##### ACHIEVEMENT(S)
 
@@ -59,23 +60,25 @@ Mr Guo Feng
 <table>
 	<tbody><tr>
 		<td>
-			<img src="/images/C%20Division%20Boys.png"> <br> <center> C division Boys </center>
+			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/c%20div%20badminton%20boys.jfif"> <br> <center> C division Boys </center>
 		</td>
 		<td> 
-			<img src="/images/Training%20By%20Coach.png"> <br> <center> Training By Coach </center>
+			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/b%20div%20badminton%20boys.jfif"> <br> <center> B division Boys</center>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="/images/In%20Action%20During%20Competitive.png"> <br> <center> In Action During Competitive Match </center>
+			<img src="/images/Training%20By%20Coach.png"> <br> <center> Training By Coach  </center>
 		</td>
+		<td> 
+			<img src="/images/In%20Action%20During%20Competitive.png"> <center> In Action During Competitive Match  </center>
+		</td>
+	</tr>
+	<tr>
 		<td> 
 			<img src="/images/Getting%20Ready%20for%20Competitive%20Match.png"> <center> Getting Ready for Competitive Match </center>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/Donovan%20received%20the%20NSG%20Sportsmanship%20Award%202022%20from%20Mr%20Ang%20Our%20Principal.png"> <br> <center> Donovan received the NSG Sportsmanship Award 2022 from Mr Ang (Our Principal) </center>
+		</td><td>
+			<img src="/images/Donovan%20received%20the%20NSG%20Sportsmanship%20Award%202022%20from%20Mr%20Ang%20Our%20Principal.png"> <br> <center> Donovan received the NSG Sportsmanship Award 2022 from Mr Ang (ex-Principal) </center>
 		</td>
 		<td></td>
 	</tr>
@@ -90,30 +93,30 @@ Mr Guo Feng
 		<th> CLASS </th>
 	</tr>
 	<tr>
-		<th colspan="3"> Lower Secondary</th>
+		<th colspan="3">Upper Secondary</th>
 	</tr>
 	<tr>
+		<td> Captain (B Division) </td>
+		<td> Raakesh P Naidu</td>
+		<td> 4 F </td>
+	</tr>
+	<tr>
+		<td> Vice-Chairperson (b Division) </td>
+		<td> Ong Soon Wei Brandon </td> 
+		<td> 4 D </td>
+	</tr>
+	<tr>
+		<th colspan="3"> Lower Secondary </th>
+	</tr>
+	<tr> 
 		<td> Captain (C Division) </td>
 		<td> Dylan Jun Wu Prakash </td>
-		<td> 2 G </td>
+		<td> 3 E </td>
 	</tr>
 	<tr>
 		<td> Vice-Chairperson (C Division) </td>
-		<td> Ong Hao En Ethan </td> 
-		<td> 2 G </td>
-	</tr>
-	<tr>
-		<th colspan="3"> Upper Secondary </th>
-	</tr>
-	<tr> 
-		<td> Captain (B Division) </td>
-		<td> Raakesh P Naidu </td>
-		<td> 3 F </td>
-	</tr>
-	<tr>
-		<td> Vice-Chairperson (B Division) </td>
-		<td> Ong Soon Wei Brandon </td>
-		<td> 3 D </td>
+		<td> Ong Hao En Ethan</td>
+		<td> 3 G </td>
 	</tr>
 	<tr></tr>
 </tbody></table>
