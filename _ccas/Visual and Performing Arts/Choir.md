@@ -120,18 +120,15 @@ After many days of rehearsals for our upcoming concert, the Choir EXCO planned a
 <img src="/images/bonding2.jpg" style="width:49%" align="right">
 <br clear="left"><br>
 
-|   |   |   |
-|---|---|---|
-| <img src="/images/SYF-2019-1.jpeg" style="width:85%">  | **Bvss Choir Showcased For Voices Of Singapore E Concert In September 2020**  | **Performance Of We Will Get There For In House Ndp 2020**  |
-| <br>**Arts House Performance (2019)**  |  **Exco Member Being Emcee For Our Voices Of Singapore E Concert Showcase.** | **A choir President Featured In Moe Teachers Day Tribute Video**  |
-|   |   |   |
+
 
 #### AWARDS AND ACHIEVEMENTS
 
 |   |   |
 |---|---|
+| SYF 2023 Arts Presentations  |  Certificate of Accomplishment |
 | SYF 2021 Arts Presentations  |  Certificate of Accomplishment |
-| SYF 2017 Arts Presentations  | Certificate of Accomplishment  |
+| SYF 2019 Arts Presentations  | Certificate of Commendation   |
 |   |   |
 
 #### PERFORMANCE
