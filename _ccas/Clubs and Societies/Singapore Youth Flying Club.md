@@ -59,42 +59,42 @@ The objectives of the Bukit View Secondary School's Youth Flying Club are threef
 
 <table>
 	<tbody><tr>
-		<td rowspan="2"> 2020 </td>
+		<td rowspan="4"> 2020 </td>
 		<td rowspan="2"> Drone Odyssey Challenge </td>
 		<td> Certificate of Distinction (Secondary) for Coding Challenge </td>
 	</tr>
 	<tr>
 		<td> Certificate of Participation for Performance Challenge </td>
-	</tr>
+	</tr>	
+		<tr><td> Singapore Amazing Flying Machine Competition </td><td>Participated</td></tr>
+		<tr><td> Inter-School Aero-modelling Competition </td><td>Participated</td></tr>
 	<tr>
-		<td> 2019 </td>
+		<td rowspan="2"> 2021 </td>
 		<td> Singapore Amazing Flying Machine Competition </td>
-		<td> Certificate of Participation </td>
-	</tr>
+	<td>Participated</td>
+	</tr><tr><td> Inter-School Aero-modelling Competition </td><td>Participated</td></tr>
+	
 	<tr> 
-		<td rowspan="5"> 2018 </td>
-		<td rowspan="3"> Inter-School Aero-modelling Competition </td>
-		<td> 2nd Runner up for Overall School Champion </td>
-	</tr>
-	<tr>
-		<td> Champion &amp; 1st Runner Up for Electric Control Line (Junior Category) </td>
-	</tr>
-	<tr>
-		<td> Champion for Electric Control Line (Senior Category) </td>
-	</tr>
-	<tr>
-		<td rowspan="2"> Singapore Amazing Flying Machine Competition (SAFMC) </td>
-		<td> 1st Runner Up (Team) for Unpowered Gliders Category B1: Further Distance </td>
-	</tr>
-	<tr>
-		<td> 1st Runner Up (Team) for Unpowered Gliders Category B2: Longest Time Aloft </td>
-	</tr>
-	<tr></tr>
+		<td rowspan="2"> 2022 </td>
+		<td> Singapore Amazing Flying Machine Competition </td>
+	<td>Participated</td>
+	</tr><tr><td> Inter-School Aero-modelling Competition </td>
+		<td>Participated</td></tr>
 </tbody></table>
 
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
-![](/images/SYFC%20BVSS%20EXCO%202022%20rev%202-01.png)
+
+
+|EXCO Positions|	Full Name|	Class|
+| -------- | -------- | -------- |
+|President	|Cheong Ji Hao	|3F|
+|Vice-President|	Gan Jing Yang|	3E|
+|Logistics and Admin IC	|Jarrell Ng Jun Yu |	3B|
+|Safety IC|	Dominick Chew Xu En|	3D|
+
+
+
 
 **For further information, please visit [www.syfc.sg](www.syfc.sg)**
