@@ -43,6 +43,7 @@ The objectives of BVSS Dance Club are to nurture the love for dance as a perform
  *   Dance Camp and SEP Enrichment – Rollerblading
  *   Virtual Concert organised by JUMP Productions 
  *   Leadership Summit organised by JUMP Productions
+
 ##### (2023)
 
  *   Performed at various school events, e.g. Chinese New Year Celebrations, Achieve &amp; Excel Day.
