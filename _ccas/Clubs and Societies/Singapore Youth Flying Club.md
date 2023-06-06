@@ -12,13 +12,14 @@ third_nav_title: Clubs and Societies
 
 #### BACKGROUND
 
-Established in 2012, our relatively young SYFC team has made our school proud by winning many prestigious awards. We managed to forge very close ties with our HQ staff in SYFC by being by pro-active and supportive in all HQ organised activities. Students are given opportunities to experience free flights on our SAF military planes.
+The Youth Flying Club in Bukit View Secondary school, which was founded in 2012, has fostered a strong partnership with Singapore Youth Flying Club by being proactive and supportive towards all HQ-organised activities. Through engaging in activities such as aviation knowledge, simulator flying and aeromodelling, students have gained valuable insights into the world of flying.
 
-#### MISSION
+#### OBJECTIVES
 
-* To promote aviation and inculcate a strong passion for flying among our pupils.
-* To develop leadership qualities in pupils
-* To mould pupils in character development
+The objectives of the Bukit View Secondary School's Youth Flying Club are threefold:
+* To foster a deep interest in flying and aviation among club members.
+* To cultivate leadership skills among club members.
+* To assist in the character development of students who participate in the club’s activities
 
 #### CCA TRAINING DAY(S)/ TIME
 
