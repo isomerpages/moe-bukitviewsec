@@ -10,27 +10,22 @@ third_nav_title: Visual and Performing Arts
 
 #### BACKGROUND
 
-In 2022, the BVSS Choir finally had the chance to interact face to face with the new Secondary One members after a period of having online Co-Curricular Activities (e-CCA) due to COVID. Some bonding games included Blow Wind Blow, Dog and Bone, Card games and the highlight of the year, an Amazing Race at Vivo City.&nbsp;
+Since 2022, the BVSS Choir finally had the chance to interact face to face with the new Secondary One members after a period of having online Co-Curricular Activities (e-CCA) due to COVID. Some bonding games included Blow Wind Blow, Dog and Bone, Card games and the highlight of the year, an Amazing Race at Vivo City. 
 
-We attended face to face rehearsals in our beloved Music Room and learnt together as a whole Choir. We filmed a unique Malay-Chinese song entitled “Ceria Xi Yang Yang” to celebrate Chinese New Year 2022 and “All Things Bright And Beautiful” for our school’s Achieve and Excel Day. We enjoyed the company of our friends whom we had missed tremendously in the previous year.
+We attended face to face rehearsals in our beloved Music Room and learnt together as a whole Choir. We enjoyed singing in the company of our friends and seniors in preparation of our Choir concert at the Lee Foundation Theatre in Nov 2022. 
 
-Please enjoy a snippet of our song “All Things Bright and Beautiful”.
+Since the start of 2023, we have been busy preparing for our Arts Presentation for Singapore Youth Festival (SYF) 2023. We overcame various challenges and did our best on stage, making Bukit View Secondary School proud by achieving a Certificate of Achievement in our attempt.
+
+Moving forward, we hope to challenge the boundaries of our voices and minds and remain faithful to the friendships forged by our shared experience of singing together.
+
+Please enjoy “I Got Rhythm” from our November 2022 concert.
+
+
+
+Next, please enjoy our version of “All Things Bright and Beautiful” – made during our time in e-CCA. 
 
 <iframe width="800" height="462" src="https://www.youtube.com/embed/lVjn9tfxAes" title="Achieve and Excel 2022 Choir performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-The BV Choir’s hard work and tenacity was also showcased in Voices Of Singapore’s Virtual choir concert (Day 1). We sang “You are My Sunshine”, which was the title song for our concert last year. Please view our performance here. 🙂
-
-<iframe width="800" height="439" src="https://www.youtube.com/embed/lzHuMJds-Vc" title="Voices of Singapore BVSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-The Choir is currently preparing for our concert that is being held on 26 November at Lee Foundation
-
-<img src="/images/Copy of Thank you for the music_FINAL.png" style="width:30%" align="left">
-
-Theatre at the Nanyang Academy of Fine Arts.<br>
-We hope to be able to sing to a full audience during the concert and share our love of singing with you.&nbsp;<br>
-Tickets are free of charge, you can email Ms Joy Chen at [chen\_hsiu\_cheun\_joy@schools.gov.sg](mailto:chen_hsiu_cheun_joy@schools.gov.sg) by 24 November 2022, if you would like to join us.&nbsp;<br>
-Tickets can be collected at the reception counter. <br clear="left">
-Moving forward, we hope to challenge the boundaries of our voices and minds and remain faithful to the friendships forged by our shared experience of singing together.
 
 #### CCA TRAINING DAY(S)/ TIME
 
