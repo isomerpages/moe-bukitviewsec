@@ -20,10 +20,10 @@ Moving forward, we hope to challenge the boundaries of our voices and minds and 
 
 Please enjoy “I Got Rhythm” from our November 2022 concert.
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UzJx_YJ0IyU" height="462" width="800"></iframe>
 
 
 Next, please enjoy our version of “All Things Bright and Beautiful” – made during our time in e-CCA. 
-
 <iframe width="800" height="462" src="https://www.youtube.com/embed/lVjn9tfxAes" title="Achieve and Excel 2022 Choir performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
@@ -47,26 +47,42 @@ Next, please enjoy our version of “All Things Bright and Beautiful” – made
 
 ##### KEY EXPERIENCES
 
- **2022**
+ **2023**
 
- *   Sec 1 Welcome party (Jan 2022)&nbsp;  
- *   Chinese New Year video performance (Jan 2022)&nbsp;  
- *   Mr JJ De Souza (the composer of our school song) came to visit the school (April 2022)
- *   Achieve and Excel video performance (April 2022)
- *   Graduation party for seniors (May 2022)&nbsp;
- *   Vivo City Amazing Race (June 2022)&nbsp;
- *   Farewell party for the seniors (June 2022)&nbsp;
- *   Open-house showcase (Nov 2022)  
- *   Concert @ NAFA\* (Nov 2022)  
+* Sec 1 Welcome party (Feb 2023) 
+* Attended Philippines Madrigal Singers (MADZ) choral workshop and performance at the Esplanade (Feb 2023)
+* Singapore Youth Festival Arts Presentation (April 2023) 
+* Achieve and Excel live performance (April 2023) 
+* Farewell part for seniors (April 2023) 
+* 2D1N Camp and Amazing Race (June 2023) 
+* Values-In-Action activity (June/ July 2023) 
+* Choir exchanges with other schools (tbc) 
+* Open House showcase (Nov 2023) 
+* Choir Concert (Nov 2023 – TBC) 
+  
+
+**2022**
+
+* Sec 1 Welcome party (Jan 2022) 
+* Chinese New Year video performance (Jan 2022) 
+* Mr JJ De Souza (the composer of our school song) came to visit the school (April 2022)
+* Achieve and Excel video performance (April 2022)
+* Graduation party for seniors (May 2022) 
+* Vivo City Amazing Race (June 2022) 
+* Farewell party for the seniors (June 2022) 
+* Open-house showcase (Nov 2022)
+* Concert @ NAFA* (Nov 2022)
 
 **2021**
 
- *   Secret Santa (Jan 2021)
- *   eCCA (Term 1 - 3)&nbsp;
- *   Achieve and Excel performance (April 2021)&nbsp;
- *   Singapore Youth Festival 2021 (April 2021)
- *   Graduation party for seniors (Dec 2021)&nbsp;
- *   Amazing Race@BVSS (Dec 2021)
+* Secret Santa (Jan 2021)
+* eCCA (Term 1 - 3) 
+* Achieve and Excel performance (April 2021) 
+* Singapore Youth Festival 2021 (April 2021)
+* Graduation party for seniors (Dec 2021) 
+* Amazing Race@BVSS (Dec 2021)
+
+
 
 **Vivo City Amazing Race**
 
