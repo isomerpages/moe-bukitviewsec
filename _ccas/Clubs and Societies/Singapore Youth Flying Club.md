@@ -45,42 +45,12 @@ The objectives of the Bukit View Secondary School's Youth Flying Club are threef
 * Drone Odyssey Challenge @ Singapore Science Centre
 * Singapore Amazing Flying Machine Competition (SAFMC) @ Singapore Science Centre
 
-<table>
-	<tbody><tr> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-	<tr>
-		<td colspan="3">
-			<img src="/images/Student-practising-flying-the-electric-control-line-model.png"> <br> <center> Student Practising Flying the Electric Control Line Model </center>
-		</td>
-		<td colspan="3">
-			<img src="/images/EL-Training.jpg"> <br> <center> El Training </center>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<img src="/images/Kugan-Launch-Glider-SAFMC-2021-768x1024.jpg"> <br> <center> Launch Glider </center>
-		</td>
-		<td colspan="2">
-			<img src="/images/Sec-3-Jolin-and-Jacinth-1024x768.jpeg"> <br> <center> Flight Simulator </center>
-		</td>
-		<td colspan="2">
-			<img src="/images/Min-Htet-Aligning-Glider-1024x768.jpg"> <br> <center> Making Glider </center>
-		</td>
-	</tr>
-	<tr>
-		<th colspan="6">
-			SAFMC2018 @ Science Center Awards Winners
-		</th>
-	</tr>
-	<tr>
-		<td colspan="3" width="50%">
-			<img src="/images/Unpowered-Glider-Category-B2-Longest-Time-Aloft.jpg"> <br> <center> Unpowered Glider Category B2: Longest Time Aloft Team Fastar3 (L-R): 1st Runner Up Thayallen s/o Sevakumar, Hari Krishna, Soorya Rajasekaran, Jarrett Ng </center>
-		</td>
-		<td colspan="3">
-			<img src="/images/Unpowered-Glider-Category-B1-Furthest-Distance.jpg"> <br> <center> Unpowered Glider Category B1: Furthest Distance Team Fastar (L-R): 1st Runner-Up Alexey Cher, Seah Hao Guang, Kaelyn Lee, Clement Tan, Chai Wen Qiang </center>
-		</td>
-	</tr>
-	<tr></tr>
-</tbody></table>
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
 
 #### AWARDS AND ACHIEVEMENTS
 
