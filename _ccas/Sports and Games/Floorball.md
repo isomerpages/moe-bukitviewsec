@@ -6,7 +6,7 @@ third_nav_title: Sports and Games
 ---
 ## **Floorball**
 
-##### "A team above all. Above all a team."
+##### *"A team above all. Above all a team."*
 
 <img src="/images/FLOORBALL%20-%20Formal.jpg" style="width:85%">
 
@@ -59,9 +59,6 @@ Ms Nur Illya Nafiza |
 				<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Floorball/2023%20b%20div%20nsg.png"> <br> <center> B Div NSG Tournament </center>
 		</td>
 	</tr>
-		<tr>
-			  
-			</tr>
 </tbody></table>
 
 #### EXECUTIVE COMMITTEE MEMBERS 
