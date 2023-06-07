@@ -37,7 +37,7 @@ Ms Nur Illya Nafiza |
 
 #### HIGHLIGHT OF THE YEAR
 
-##### ACHIEVEMENT(S) &amp; PARTICIPATION
+##### | **ACHIEVEMENT(S) &amp; PARTICIPATION**
 
 * National School Games 'B' Division Floorball Championships
 * National School Games 'C' Division Floorball Championships
