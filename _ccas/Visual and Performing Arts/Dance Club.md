@@ -4,7 +4,7 @@ permalink: /ccas/Visual-and-Performing-Arts/dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-## Dance Club
+## **Dance Club**
 
 <img src="/images/DANCE CLUB - Formal.jpg" style="width:85%">
 
@@ -35,7 +35,7 @@ The objectives of BVSS Dance Club are to nurture the love for dance as a perform
 |   |   |
 
 #### HIGHLIGHT OF THE YEAR <br>
-##### PARTICIPATIONS <br>(2022)
+##### | **PARTICIPATIONS**<br><br> **||** 2022
 
  *   Performed at various school events, e.g. Chinese New Year Celebrations, Achieve &amp; Excel Day, National Day Celebrations.
  *   Invited to perform at Bukit View Primary School for their National Day Celebrations.
@@ -44,7 +44,7 @@ The objectives of BVSS Dance Club are to nurture the love for dance as a perform
  *   Virtual Concert organised by JUMP Productions 
  *   Leadership Summit organised by JUMP Productions
 
-##### (2023)
+##### **||** 2023
 
  *   Performed at various school events, e.g. Chinese New Year Celebrations, Achieve &amp; Excel Day.
  *   Singapore Youth Festival Arts Presentation
