@@ -4,7 +4,7 @@ permalink: /ccas/Uniformed-Groups/gb/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-## Girls' Brigade
+## **Girls' Brigade**
 
 <img src="/images/GIRLSS BRIGADE - Formal.jpg" style="width:85%">
 
