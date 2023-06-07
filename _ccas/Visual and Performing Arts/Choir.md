@@ -4,7 +4,7 @@ permalink: /ccas/Visual-and-Performing-Arts/Choir/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-## Choir
+## **Choir**
 
 <img src="/images/CHOIR - Formal.jpg" style="width:85%">
 
@@ -44,10 +44,8 @@ Next, please enjoy our version of “All Things Bright and Beautiful” – made
 |   |   |
 
 #### HIGHLIGHT OF THE YEAR
-
-##### KEY EXPERIENCES
-
- **2023**
+##### | **KEY EXPERIENCES**
+##### **||** 2023
 
 * Sec 1 Welcome party (Feb 2023) 
 * Attended Philippines Madrigal Singers (MADZ) choral workshop and performance at the Esplanade (Feb 2023)
@@ -60,8 +58,7 @@ Next, please enjoy our version of “All Things Bright and Beautiful” – made
 * Open House showcase (Nov 2023) 
 * Choir Concert (Nov 2023 – TBC) 
   
-
-**2022**
+##### **||** 2022
 
 * Sec 1 Welcome party (Jan 2022) 
 * Chinese New Year video performance (Jan 2022) 
@@ -73,7 +70,7 @@ Next, please enjoy our version of “All Things Bright and Beautiful” – made
 * Open-house showcase (Nov 2022)
 * Concert @ NAFA* (Nov 2022)
 
-**2021**
+##### **||**  2021
 
 * Secret Santa (Jan 2021)
 * eCCA (Term 1 - 3) 
@@ -84,7 +81,7 @@ Next, please enjoy our version of “All Things Bright and Beautiful” – made
 
 
 
-**Vivo City Amazing Race**
+##### | **Vivo City Amazing Race** |
 
 After many days of rehearsals for our upcoming concert, the Choir EXCO planned a bonding activity to let us have fun at Vivo City. We had to solve puzzles at various stations within the shortest time possible.
 
@@ -98,7 +95,7 @@ After many days of rehearsals for our upcoming concert, the Choir EXCO planned a
 <img src="/images/Amazing Race food challenge.jpeg" style="width:20%;margin-right:15px;" align="left">
 <br clear="left">
 
-**Farewell Party for Seniors**
+##### | **Farewell Party for Seniors** |
 
 <img src="/images/farewell1.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/farewell2.jpeg" style="width:30%;margin-right:15px;" align="left">
@@ -110,11 +107,11 @@ After many days of rehearsals for our upcoming concert, the Choir EXCO planned a
 <img src="/images/farewell6.jpeg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left">
 
-**Making of CNY video**
+##### | **Making of CNY video** |
 
 <img src="/images/Copy of IMG_0015.jpg" style="width:85%">
 
-**Bonding with new sec ones**
+##### | **Bonding with new sec ones** |
 
 <img src="/images/bonding1.jpg" style="width:49%" align="left">
 <img src="/images/bonding2.jpg" style="width:49%" align="right">
