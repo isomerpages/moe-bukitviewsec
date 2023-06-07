@@ -4,7 +4,7 @@ permalink: /our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-yout
 description: ""
 third_nav_title: Clubs and Societies
 ---
-## Singapore Youth Flying Club
+## **Singapore Youth Flying Club**
 
 <img src="/images/rwimage_1%20(600%20x%20202).jpg" style="width:60%">
 <br>
@@ -73,7 +73,6 @@ The objectives of the Bukit View Secondary School's Youth Flying Club are threef
 		<td> Singapore Amazing Flying Machine Competition </td>
 	<td>Participated</td>
 	</tr><tr><td> Inter-School Aero-modelling Competition </td><td>Participated</td></tr>
-	
 	<tr> 
 		<td rowspan="2"> 2022 </td>
 		<td> Singapore Amazing Flying Machine Competition </td>
