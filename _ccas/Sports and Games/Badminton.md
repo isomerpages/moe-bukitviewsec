@@ -44,17 +44,17 @@ Mr Guo Feng
 *   Every training begins with physical session which includes stretching, push-up and agility training. Subsequently, coaches will train the students with strokes, drop shot, net play and so on. Training is tailored to each student based on their needs and understanding.
 *   Our training is divided into the senior division and the junior division. The seniors have their training every Friday while the juniors have theirs on Wednesday. The students are very enthusiastic about the sport. They are actively engaged during training. The culture of playing badminton is evident in Bukit View Secondary School as many students will play badminton in open areas of the school. Our goals is to inculcate the school’s values into this sport while engaging the students in meaningful and healthy activities for their all-round development.
 
-##### PARTICIPATION
+##### | **PARTICIPATION** |
 
 *   Boys B division in west zone for National Inter-School Badminton Championship 2023
 *   Boys C division in west zone for National Inter-School Badminton Championship 2023
 
-##### ACHIEVEMENT(S)
+#### AWARDS AND ACHIEVEMENTS
 
 | | | 
 | --- | --- |
-| NSG Sportsmanship Award 2022 | DONOVAN LYE (4F) |
-| Top 8 in West Zone for the National Inter-School Badminton Championship 2018 | B division boys (Qualify for second round) |
+| **NSG Sportsmanship Award 2022** | DONOVAN LYE (4F) |
+| **Top 8 in West Zone for the National Inter-School Badminton Championship 2018** | B division boys (Qualify for second round) |
 | | | 
 
 <table>
