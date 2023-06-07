@@ -4,7 +4,7 @@ permalink: /ccas/Uniformed-Groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-## NCC
+## **NCC**
 
 <img src="/images/NCC - Formal.jpg" style="width:85%">
 
@@ -35,7 +35,7 @@ With the support of HQ NCC, NCC encourages combined training across schools of t
 
 #### HIGHLIGHTS OF THE YEAR
 
-##### PARTICIPATION
+##### | **PARTICIPATION**
 
 *   The weekly training programme consists of learning foot drills, arm drills, Navigation, Individual Field Craft (IFC), physical trainings, and Sports and Games. These activities prepare cadets mentally, physically and emotionally for the National Service and future endeavours.
 *   Cadet Leaders also got the first-hand experiences to visit and participate in the military-related event, Army Open House 2022 as part of their annual initiative and enjoyed the various display of army platform, experienced the battle rides and obstacle course with many other interactive stations.
@@ -51,25 +51,25 @@ With the support of HQ NCC, NCC encourages combined training across schools of t
 
 <img src="/images/photo_2022-12-24_05-42-07.jpg" style="width:85%">
 
-**CCA Awareness Day**
+##### | **CCA Awareness Day**|
 
 <img src="/images/CCA Awareness Day.png" style="width:85%">
 
-**NCC Annual Camp**
+##### | **NCC Annual Camp**|
 
 <img src="/images/NCC Annual Camp.png" style="width:85%">
 
-**Guardian of The City Card Game**
+##### | **Guardian of The City Card Game**|
 
 <img src="/images/Guardian of The City Card Games.png" style="width:47%" align="left">
 <img src="/images/photo_2022-12-24_05-46-49.jpg" style="width:49%" align="right">
 <br clear="left"><br>
 
-**Sports and Physical Activities**
+##### | **Sports and Physical Activities**|
 
 <img src="/images/Sports and Physical Activities.png" style="width:85%">
 
-**NCC Sports Championship**
+##### | **NCC Sports Championship**|
 
 <img src="/images/NCC Sports Championship.jpg" style="width:85%">
 
