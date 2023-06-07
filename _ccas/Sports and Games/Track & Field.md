@@ -1,10 +1,10 @@
 ---
-title: Track &amp; Field
+title: Track & Field
 permalink: /our-curriculum/co-curricular/ccas/sport-and-games/track-n-field/
 description: ""
 third_nav_title: Sports and Games
 ---
-## Track &amp; Field
+## **Track &amp; Field**
 
 <img src="/images/TRACK%20%20FIELD%20-%20Formal.jpg" style="width:85%">
 
