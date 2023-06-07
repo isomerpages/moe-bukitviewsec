@@ -4,7 +4,7 @@ permalink: /ccas/Visual-and-Performing-Arts/drama/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-## Drama Club
+## **Drama Club**
 
 <img src="/images/DRAMA CLUB - Formal.jpg" style="width:85%">
 
