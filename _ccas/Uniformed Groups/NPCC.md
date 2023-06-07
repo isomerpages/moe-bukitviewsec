@@ -105,10 +105,8 @@ or our Instagram account at:
 |Unit Chief| CPL (NPCC) Tammy Yong |	3F|
 | Deputy Chief: Head (Training &amp; Discipline) | CPL (NPCC) Naw Htee Moo Khu, Augustina| 3F|
 | Deputy Chief: Head (Operations &amp; Administration) | CPL (NPCC) Harijit V.R| 3G|
-| Squad Leader (Sec 1) | CPL (NPCC) Daanya Bte Zaini | 3B|
-| Squad Leader (Sec 1) | CPL (NPCC) Ramona Shaymaa Martin | 3C|
-| Squad Leader (Sec 2) | CPL (NPCC) Tan Han Cong Bean |  3A| 
-| Squad Leader (Sec 2) | CPL (NPCC) Vidhula Deivasigamani | 3E|
+| Squad Leader (Sec 1) | CPL (NPCC) Daanya Bte Zaini <br><br>CPL (NPCC) Ramona Shaymaa Martin | 3B<br><br> 3C|
+| Squad Leader (Sec 2) | CPL (NPCC) Tan Han Cong Bean <br><br>CPL (NPCC) Vidhula Deivasigamani|  3A <br><br> 3E| 
 | Cadet Well-being &amp; Safety Specialist| CPL (NPCC) Nikky Nadhatul Azriani| 3C |
 | Cadet Well-being &amp; Safety Specialist| CPL (NPCC) Tan Jing Heng| 3C |
 | Communications, Media &amp; Outreach Specialist	| CPL (NPCC) Shaikh Khidir Bin Yasir| 3C |
