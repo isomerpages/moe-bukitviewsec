@@ -4,7 +4,7 @@ permalink: /our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-## Infocomm Club
+## **Infocomm Club**
 
 <img src="/images/INFOCOMM%20CLUB%20%20-%20Formal.jpg" style="width:85%">
 
@@ -66,11 +66,11 @@ Members have the opportunities to take part in the following competitions/ activ
 
 
 #### AWARDS AND ACHIEVEMENTS
-
-| Competitions | Awards |
-| DrCT Competition 2022 | 2 Gold, 2 Silver, 3 Bronze and 1 Honorable Mention |
-| Bebras 2022 | 3 Exemplary, 3 Commendable, 2 Outstanding, 3 Honorable Mention |
-| The Young Catalyst Microbit Competition | Most Creative Presentation |
+|Competitions |Awards | 
+| --- | --- |
+| **DrCT Competition 2022**| 2 Gold, 2 Silver, 3 Bronze and 1 Honorable Mention |
+| **Bebras 2022** | 3 Exemplary, 3 Commendable, 2 Outstanding, 3 Honorable Mention |
+| **The Young Catalyst Microbit Competition** | Most Creative Presentation |
 | | |
 
 #### EXECUTIVE COMMITTEE MEMBERS 
