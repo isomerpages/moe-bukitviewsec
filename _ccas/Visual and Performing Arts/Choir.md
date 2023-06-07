@@ -152,10 +152,27 @@ After many days of rehearsals for our upcoming concert, the Choir EXCO planned a
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
-| EXCO Positions  | NAME  |  CLASS |
+| EXCO Positions  | Name  | Class |
 |---|---|---|
-|  President |  Bernice Yuen Yi Ling | 3 C  |
-| Vice President  | Tan Hui Qi<br>Nur Syafiqah Abdul Rahim  | 3 E<br>3 G  |
-| Treasurer  | Ten Si Qi  | 2 G  |
-| Librarian  | Aw Kai Ling  | 2 F  |
-|   |   |   |
+|  President |  Siti Zakiyah Binte Sharin | 3 E  |
+|  Vice-President | Ten Si Qi | 3 F  |
+|  Vice-President | Neyveli Sethuraman Samyuktha | 3 D  |
+|Secretary| Tan Emma Xin Ping| 2 G  |
+
+##### | **Choir Commitee** |
+
+|Positions  | Name| Class |
+|---|---|---|
+|Welfare Head 	|Muhammad Qadir Alif <br> Lim Ming Ying |3C <br> 3C|
+|Concert Manager|	Tan Si Xi Eleanor <br> Mungara Pujith Sai <br> Lek Zi Ying Celeste |3E <br> 2G <br> 2F|
+|Librarian|	Aw Kai Ling <br> Brielle Lem Xinyu	|3D <br> 2B |
+|Treasurer &amp; Pianist|	Ching Ya Xian (Zhuang Yaxian)	|2A|
+|Treasurer 	|Mahalingam Mahathi	|2F|
+
+##### | **Sectional Leaders** |
+
+|Positions  | Name| Class |
+|---|---|---|
+|Soprano Sectional Leader |	Lim Hsin Yin|	3E |
+|Alto Sectional Leader |	Tay Yu Tong|	3E|
+|Tenor/ Bass Sectional Leader|	Muhammad Qadir Alif <br> Yove Vasa|	3C <br> 2H |
