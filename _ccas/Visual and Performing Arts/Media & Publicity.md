@@ -4,7 +4,7 @@ permalink: /ccas/Visual-and-Performing-Arts/media/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-## Media &amp; Publicity
+## **Media &amp; Publicity**
 
 <img src="/images/Mediapub1.png" style="width:85%"><br>
 
@@ -33,15 +33,15 @@ The Club provides training in the various aspect of photography and videography 
 
 #### HIGHLIGHT OF THE YEAR
 
-##### PARTICIPATION  
+##### |**PARTICIPATION**
 
-**Competitions**
+##### **||** Competitions
 
  *   Lions Home for the Elders School Video Competition 2022
  *   SYFgoesOnline! Pixel Perfect 2022
  *   Our Schools, Our Stories 2022
    
-**Enrichment Programmes**
+##### **||** Enrichment Programmes
 
  *   2023 Basic Photography (Event Photography Focus) Workshops 
  *   2022 Feature Videography Course with EMOStudios
@@ -61,18 +61,13 @@ The Club provides training in the various aspect of photography and videography 
 |  EXCO Positions | NAME  |  CLASS |
 |---|---|---|
 | President | Emma Lee Ling Hui|	3D|
-| Vice-President| Seet Cui Ru, Rena|	3G|
-| Vice-President| Arul Sri Vigneshwari|	3G|
+| Vice-President| Seet Cui Ru, Rena<br>Arul Sri Vigneshwari|	3G<br>3G|
 | Secretary and Head of Publicity | Poh Jing Xuan | 3F|
 | Head of Logistics| Shawn Shayrhyzan bin Sofian | 3F|
 | Head of Photography	| Senthil Nathan Mruthulan | 3F|
-| Asst Head of Photography|	Phoebe Sun Min’en| 3D|
-| Asst Head of Photography	| Mattias Goh|	2G|
+| Asst Head of Photography|	Phoebe Sun Min’en <br>Mattias Goh| 3D<br>2G|
 | Head of Videography|	Patrick Jade Pablo Rayo	| 3F|
-| Asst Head of Videography| Albert Chai Buo Shen | 3C|
-| Asst Head of Videography| Ng Jun Shuo| 2A|
+| Asst Head of Videography| Albert Chai Buo Shen<br>Ng Jun Shuo | 3C<br>2A|
 | Head of Public Address| Nurul Asyiqin binte Zakaria|	3E|
-| Asst Head of Public Address|	Genelia Vaishnavi Chandran|	3E|
-| Asst Head of Public Address| Lakshmi Narasimhan Sandhya| 2C|
-| Asst Head of Public Address|	Muzzamil bin Shahul Hameed	| 2C|
+| Asst Head of Public Address|	Genelia Vaishnavi Chandran<br>Lakshmi Narasimhan Sandhya<br>Muzzamil bin Shahul Hameed|	3E<br> 2C<br> 2C|
 |   |   |   |
