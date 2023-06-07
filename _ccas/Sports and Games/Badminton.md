@@ -4,7 +4,7 @@ permalink: /our-curriculum/co-curricular/ccas/sport-and-games/badminton/
 description: ""
 third_nav_title: Sports and Games
 ---
-## BADMINTON
+## **BADMINTON**
 
 <img src="/images/BADMINTON%20BOYS%20-%20Formal.jpg" style="widht:85%">
 
