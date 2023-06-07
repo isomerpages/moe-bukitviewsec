@@ -79,7 +79,22 @@ Next, please enjoy our version of “All Things Bright and Beautiful” – made
 * Graduation party for seniors (Dec 2021) 
 * Amazing Race@BVSS (Dec 2021)
 
+##### | **Singapore Youth Festival 2023** |
 
+<img src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%201.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%204.jpeg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%205.jpeg" style="width:30%;margin-right:15px;" align="left">
+<br clear="left"><br>
+
+##### | **Lee Foundation Theatre Concert Nov 2022** |
+<img src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20016_blf.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20085_blf.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20198_blf.jpg" style="width:30%;margin-right:15px;" align="left">
+
+<img src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20040_blf.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20139_blf.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20163_blf.jpg" style="width:30%;margin-right:15px;" align="left">
+<br clear="left"><br>
 
 ##### | **Vivo City Amazing Race** |
 
@@ -90,22 +105,14 @@ After many days of rehearsals for our upcoming concert, the Choir EXCO planned a
 <img src="/images/Doing our best for the Amazing Race - food challenge.jpeg" style="width:20%;margin-right:15px;" align="left">
 <br clear="left"><br>
 
-<img src="/images/Amazing Race at Vivo City 3.jpeg" style="width:36%;margin-right:15px;" align="left">
-<img src="/images/Amazing Race at Vivo City 5.jpeg" style="width:36%;margin-right:15px;" align="left">
-<img src="/images/Amazing Race food challenge.jpeg" style="width:20%;margin-right:15px;" align="left">
-<br clear="left">
+
 
 ##### | **Farewell Party for Seniors** |
 
-<img src="/images/farewell1.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/farewell2.jpeg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/farewell3.jpg" style="width:25%;margin-right:15px;" align="left">
+<img src="/images/farewell1.jpg" style="width:36%;margin-right:15px;" align="left">
+<img src="/images/farewell6.jpeg" style="width:36%;margin-right:15px;" align="left">
+<img src="/images/farewell3.jpg" style="width:20%;margin-right:15px;" align="left">
 <br clear="left"><br>
-
-<img src="/images/farewell4.jpeg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/farewell5.jpeg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/farewell6.jpeg" style="width:30%;margin-right:15px;" align="left">
-<br clear="left">
 
 ##### | **Making of CNY video** |
 
@@ -116,8 +123,6 @@ After many days of rehearsals for our upcoming concert, the Choir EXCO planned a
 <img src="/images/bonding1.jpg" style="width:49%" align="left">
 <img src="/images/bonding2.jpg" style="width:49%" align="right">
 <br clear="left"><br>
-
-
 
 #### AWARDS AND ACHIEVEMENTS
 
