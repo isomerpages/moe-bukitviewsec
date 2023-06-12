@@ -41,7 +41,7 @@ The Environmental Club was formally started in 2005. We are a group of students 
 | | |
 | --- | --- |
 |Mrs Toh Kai Poh  | Mrs Reena Lloyd|
-| |
+| | |
 
 #### HIGHLIGHT OF THE YEAR
 
