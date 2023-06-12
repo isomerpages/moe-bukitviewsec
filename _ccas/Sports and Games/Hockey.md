@@ -27,7 +27,7 @@ The Hockey CCA trains every Wednesday and Friday. The training venue will either
 | | |
 | --- | --- |
 | Mdm Siti Aisah | Mr Koh Si Yao |
-Mr Felix Wong
+|Mr Felix Wong|
 | | |
 
 
