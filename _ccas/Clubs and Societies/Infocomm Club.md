@@ -61,7 +61,7 @@ Members have the opportunities to take part in the following competitions/ activ
 | ![](/images/mgs%20microbit.jpeg) <br> <center> Young Catalyst Microbit Competition </center> | ![](/images/DrCT.jpeg) <br> <center> Design Thinking with Robotics and Computational Thinking International Competition </center> 
 | ![](/images/bebras.jpeg) <br> <center> Bebras International Challenge on Informatics and Computational Thinking </center> | ![](/images/Infocomm%20Media%20Club%20Youth%20Awards%202022.jpeg)<br><center> InfoComm Media Club Youth Awards 2022 </center>
 |![](/images/CCA%20Page/Clubs%20and%20Societies/Infocomm%20Club/infocomm%20img_4320.jpg)<br><center>Learning Journey to Art Science Museum </center>|
-| | | | |
+| | | 
 
 
 
