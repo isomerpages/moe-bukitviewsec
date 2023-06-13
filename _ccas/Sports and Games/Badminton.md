@@ -36,7 +36,7 @@ This club would not be complete if without positive accomplishment. In 2018, our
 | | |
 | --- | --- |
 | Mr Mohammad Zulkefly B Idrus | Mdm Tan Jee Niang |
-Mr Guo Feng
+|Mr Guo Feng|
 | | |
 
 #### HIGHLIGHTS OF THE YEAR
