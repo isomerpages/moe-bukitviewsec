@@ -4,7 +4,7 @@ permalink: /ccas/Clubs-and-Societies/environmental/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-## Environmental Club
+## **Environmental Club**
 
 <img src="/images/ENVIRONMENTAL CLUB - Formal.jpg" style="width:85%">
 
@@ -14,16 +14,16 @@ third_nav_title: Clubs and Societies
 
 The Environmental Club was formally started in 2005. We are a group of students who are involved in protecting the Environment as well as serving the Community through VIA. We applied what we have learnt in Science and has produced many green products such as organic soap, orange oil, candle in the jar and mostly recently hydroponic vegetables. The skills that we have learnt were put into good use and we were able to attain the Gold Award and the Most Earth-friendly Enterprise at the National Youth Business Challenge organised by Fraser Centrepoint Malls and Ngee Ann Polytechnic. Our other achievements includes the Lotus Sustained Achievement Award at the School Green Awards and the Gold award for the Green Schools @ South West CDC. Currently, we are embarking on several projects: Green School for Biodiversity organized by NParks, Urban farming and Aquaponics and worm-tea making. We also conduct our brand of ecotrail – Ecolibrium to Primary School Students.
 
-#### MISSION
+##### | **MISSION**
 
  *   To enrich students’ education through involvement in our activities.
  *   To provide an all-rounded education for our students
 
-#### VISION
+##### | **VISION**
 
  *   Leaders for a more sustainable world
 
-#### OBJECTIVES
+##### | **OBJECTIVES**
 
  *   Students will be involved in protecting the Environment, as well as serving the Community through CIP
  *   Students will be equipped with basic life skills e.g communication skills, team work, leadership skills and ability to plan an event.
@@ -40,29 +40,29 @@ The Environmental Club was formally started in 2005. We are a group of students 
 #### TEACHERS-IN-CHARGE
 | | |
 | --- | --- |
-|Mrs Toh Kai Poh  | Mrs Reena Lloyd|
-| |
+|Mrs Toh Kai Poh  | Mrs Reena Lloyd |
+| | |
 
 #### HIGHLIGHT OF THE YEAR
 
-##### PARTICIPATION
+##### | **PARTICIPATION**
 
-**Opportunities:**<br>
-**Student Environmental Leadership Conference (SELC), Presentations at Festival of Biodiversity, Singapore World Water Day, Youth for the Environment Day, Earth Hour, Green Wave**  
+##### **||** Opportunities:
+Student Environmental Leadership Conference (SELC), Presentations at Festival of Biodiversity, Singapore World Water Day, Youth for the Environment Day, Earth Hour, Green Wave**  
 
-**Learning Journey:**<br>
-**NTU Green Campus, Old Police Academy at Fort Road, Singapore Garden Festival at Gardens By the Bay**
+##### **||** Learning Journey:
+NTU Green Campus, Old Police Academy at Fort Road, Singapore Garden Festival at Gardens By the Bay**
 
-**AWARDS AND ACHIEVEMENTS**
-
+#### AWARDS AND ACHIEVEMENTS
 |   |   |
 |---|---|
-| Green Schools @ South West CDC  | Gold Award  |
-|  SEC-StarHub School Green Awards (SGA) | Yellow Flame Award  |
-| Community-in-Bloom (CIB) Award organised by Nparks  | Platinum Award  |
-| School Green Awards  | Lotus Sustained Achievement Award  |
+| **Green Schools @ South West CDC**  | Gold Award  |
+|  **SEC-StarHub School Green Awards (SGA)** | Yellow Flame Award  |
+| **Community-in-Bloom (CIB) Award organised by Nparks** | Platinum Award  |
+| **School Green Awards**  | Lotus Sustained Achievement Award  |
 |   |   |
 
+<br>
 <iframe width="800" height="515" src="https://www.youtube.com/embed/rV2fPgIim0o" title="ECV Year  2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <img src="/images/en1.jpg" style="width:30%;margin-right:15px;" align="left">

@@ -4,7 +4,7 @@ permalink: /our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-yout
 description: ""
 third_nav_title: Clubs and Societies
 ---
-## Singapore Youth Flying Club
+## **Singapore Youth Flying Club**
 
 <img src="/images/rwimage_1%20(600%20x%20202).jpg" style="width:60%">
 <br>
@@ -12,13 +12,14 @@ third_nav_title: Clubs and Societies
 
 #### BACKGROUND
 
-Established in 2012, our relatively young SYFC team has made our school proud by winning many prestigious awards. We managed to forge very close ties with our HQ staff in SYFC by being by pro-active and supportive in all HQ organised activities. Students are given opportunities to experience free flights on our SAF military planes.
+The Youth Flying Club in Bukit View Secondary school, which was founded in 2012, has fostered a strong partnership with Singapore Youth Flying Club by being proactive and supportive towards all HQ-organised activities. Through engaging in activities such as aviation knowledge, simulator flying and aeromodelling, students have gained valuable insights into the world of flying.
 
-#### MISSION
+#### OBJECTIVES
 
-* To promote aviation and inculcate a strong passion for flying among our pupils.
-* To develop leadership qualities in pupils
-* To mould pupils in character development
+The objectives of the Bukit View Secondary School's Youth Flying Club are threefold:
+* To foster a deep interest in flying and aviation among club members.
+* To cultivate leadership skills among club members.
+* To assist in the character development of students who participate in the club’s activities
 
 #### CCA TRAINING DAY(S)/ TIME
 
@@ -44,83 +45,55 @@ Established in 2012, our relatively young SYFC team has made our school proud by
 * Drone Odyssey Challenge @ Singapore Science Centre
 * Singapore Amazing Flying Machine Competition (SAFMC) @ Singapore Science Centre
 
-<table>
-	<tbody><tr> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-	<tr>
-		<td colspan="3">
-			<img src="/images/Student-practising-flying-the-electric-control-line-model.png"> <br> <center> Student Practising Flying the Electric Control Line Model </center>
-		</td>
-		<td colspan="3">
-			<img src="/images/EL-Training.jpg"> <br> <center> El Training </center>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<img src="/images/Kugan-Launch-Glider-SAFMC-2021-768x1024.jpg"> <br> <center> Launch Glider </center>
-		</td>
-		<td colspan="2">
-			<img src="/images/Sec-3-Jolin-and-Jacinth-1024x768.jpeg"> <br> <center> Flight Simulator </center>
-		</td>
-		<td colspan="2">
-			<img src="/images/Min-Htet-Aligning-Glider-1024x768.jpg"> <br> <center> Making Glider </center>
-		</td>
-	</tr>
-	<tr>
-		<th colspan="6">
-			SAFMC2018 @ Science Center Awards Winners
-		</th>
-	</tr>
-	<tr>
-		<td colspan="3" width="50%">
-			<img src="/images/Unpowered-Glider-Category-B2-Longest-Time-Aloft.jpg"> <br> <center> Unpowered Glider Category B2: Longest Time Aloft Team Fastar3 (L-R): 1st Runner Up Thayallen s/o Sevakumar, Hari Krishna, Soorya Rajasekaran, Jarrett Ng </center>
-		</td>
-		<td colspan="3">
-			<img src="/images/Unpowered-Glider-Category-B1-Furthest-Distance.jpg"> <br> <center> Unpowered Glider Category B1: Furthest Distance Team Fastar (L-R): 1st Runner-Up Alexey Cher, Seah Hao Guang, Kaelyn Lee, Clement Tan, Chai Wen Qiang </center>
-		</td>
-	</tr>
-	<tr></tr>
-</tbody></table>
+
+
+| ![](/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/group%20photo%20@safmc.jpg) | ![](/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/launch%20glider.jpg) | 
+| -------- | -------- |
+| Group photo at SAFMC  | Launch glider     |
+![](/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/make%20glider.jpg)|![](/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/practise%20flight%20simulator.jpg)|
+|Make Glider|Practise flight simulator|
+|![](/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/graduates%20of%20swift%20(syfc%20work-up%20and%20introduction%20to%20flight%20training)%20course.jpg)|![](/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/swift%20course%20badge.jpg)|
+|Graduates of SWIFT (SYFC Work-up and Introduction to Flight Training) course |Swift course badge|
 
 #### AWARDS AND ACHIEVEMENTS
 
 <table>
 	<tbody><tr>
-		<td rowspan="2"> 2020 </td>
+		<td rowspan="4"> 2020 </td>
 		<td rowspan="2"> Drone Odyssey Challenge </td>
 		<td> Certificate of Distinction (Secondary) for Coding Challenge </td>
 	</tr>
 	<tr>
 		<td> Certificate of Participation for Performance Challenge </td>
-	</tr>
+	</tr>	
+		<tr><td> Singapore Amazing Flying Machine Competition </td><td>Participated</td></tr>
+		<tr><td> Inter-School Aero-modelling Competition </td><td>Participated</td></tr>
 	<tr>
-		<td> 2019 </td>
+		<td rowspan="2"> 2021 </td>
 		<td> Singapore Amazing Flying Machine Competition </td>
-		<td> Certificate of Participation </td>
-	</tr>
+	<td>Participated</td>
+	</tr><tr><td> Inter-School Aero-modelling Competition </td><td>Participated</td></tr>
 	<tr> 
-		<td rowspan="5"> 2018 </td>
-		<td rowspan="3"> Inter-School Aero-modelling Competition </td>
-		<td> 2nd Runner up for Overall School Champion </td>
-	</tr>
-	<tr>
-		<td> Champion &amp; 1st Runner Up for Electric Control Line (Junior Category) </td>
-	</tr>
-	<tr>
-		<td> Champion for Electric Control Line (Senior Category) </td>
-	</tr>
-	<tr>
-		<td rowspan="2"> Singapore Amazing Flying Machine Competition (SAFMC) </td>
-		<td> 1st Runner Up (Team) for Unpowered Gliders Category B1: Further Distance </td>
-	</tr>
-	<tr>
-		<td> 1st Runner Up (Team) for Unpowered Gliders Category B2: Longest Time Aloft </td>
-	</tr>
-	<tr></tr>
+		<td rowspan="2"> 2022 </td>
+		<td> Singapore Amazing Flying Machine Competition </td>
+	<td>Participated</td>
+	</tr><tr><td> Inter-School Aero-modelling Competition </td>
+		<td>Participated</td></tr>
 </tbody></table>
 
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
-![](/images/SYFC%20BVSS%20EXCO%202022%20rev%202-01.png)
+
+
+|EXCO Positions|	Full Name|	Class|
+| -------- | -------- | -------- |
+|President	|Cheong Ji Hao	|3F|
+|Vice-President|	Gan Jing Yang|	3E|
+|Logistics and Admin IC	|Jarrell Ng Jun Yu |	3B|
+|Safety IC|	Dominick Chew Xu En|	3D|
+
+
+
 
 **For further information, please visit [www.syfc.sg](www.syfc.sg)**

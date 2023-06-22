@@ -4,7 +4,7 @@ permalink: /our-curriculum/co-curricular/ccas/sport-and-games/volleyball/
 description: ""
 third_nav_title: Sports and Games
 ---
-## Volleyball
+## **Volleyball**
 
 <img style="width:85%" src="/images/VOLLEYBALL%20-%20Formal.jpg">
 

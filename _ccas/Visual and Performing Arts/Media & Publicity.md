@@ -1,10 +1,10 @@
 ---
-title: Media &amp; Publicity
+title: Media & Publicity
 permalink: /ccas/Visual-and-Performing-Arts/media/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-## Media &amp; Publicity
+## **Media &amp; Publicity**
 
 <img src="/images/Mediapub1.png" style="width:85%"><br>
 
@@ -28,46 +28,46 @@ The Club provides training in the various aspect of photography and videography 
 |   |   |
 |---|---|
 | Mr Kenneth Khoo  | Mr Muhammad Na’im  |
+|Mdm Sarinah | |
 |   |   |
 
 #### HIGHLIGHT OF THE YEAR
 
-##### PARTICIPATION  
+##### |**PARTICIPATION**
 
-**Competitions**
+##### **||** Competitions
 
- *   Lions Home for the Elders School Video Competition
+ *   Lions Home for the Elders School Video Competition 2022
  *   SYFgoesOnline! Pixel Perfect 2022
  *   Our Schools, Our Stories 2022
    
-**Enrichment Programmes**
+##### **||** Enrichment Programmes
 
- *   Feature Videography Course with EMOStudios
- *   Learning Journey to Bloomr.SG
- *   Learning Journey to TheSmartLocal
+ *   2023 Basic Photography (Event Photography Focus) Workshops 
+ *   2022 Feature Videography Course with EMOStudios
+ *   2022 Learning Journey to Bloomr.SG
+ *   2022 Learning Journey to TheSmartLocal
 
-<img src="/images/2-1.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/1 (1).jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/3-1.jpg" style="width:30%;margin-right:15px;" align="left">
-<br clear="left"><br>
 
-<img src="/images/5-1-150x150.jpg" style="width:30%;margin-left:90px;" align="left">
-<img src="/images/6-150x150.png" style="width:30%;margin-right:90px;" align="right">
-<br clear="left"><br>
+
+| | | |
+| -------- | -------- | -------- |
+| ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%202.jpeg)     | ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%2024.jpeg)     | ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%203.jpeg)     |
+| ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-0123.jpeg)     | ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01.jpeg)     | ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%201.jpeg)    |
+| ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%20ea3.jpeg)   | ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%20at%20ea1.jpeg)   | ![](/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%20ea.jpeg)    |
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
 |  EXCO Positions | NAME  |  CLASS |
 |---|---|---|
-| President  | Koh Zhi Xuan Ilyssa  | 3 E  |
-| Vice President  | Li Ee-Zhe  | 3 E  |
-| Vice President  | Tan Hui Yun  | 3 D  |
-| Secretary  | Bhoovan Nadhini  | 3 A  |
-| Head of Videography  | Skyler Ong Shi Hui  | 3 F  |
-| Asst Head of Videography  | Seet Cui Ru, Rena  | 2 F  |
-| Head of Photography  |Yogarshine Ramesh   |3 B   |
-| Asst Head of Photography  | Emma Lee Ling Hui  | 2 G  |
-| Head of Public Address  | Nurina Alysha Binti Rosli  | 3 C  |
-| Asst Head of Public Address  |Nurul Asyiqin Binte Zakaria   | 2 B  |
-| Head of Logistics  | Sureshkumar Iniyavan  | 3 G  |
+| President | Emma Lee Ling Hui|	3D|
+| Vice-President| Seet Cui Ru, Rena<br>Arul Sri Vigneshwari|	3G<br>3G|
+| Secretary and Head of Publicity | Poh Jing Xuan | 3F|
+| Head of Logistics| Shawn Shayrhyzan bin Sofian | 3F|
+| Head of Photography	| Senthil Nathan Mruthulan | 3F|
+| Asst Head of Photography|	Phoebe Sun Min’en <br>Mattias Goh| 3D<br>2G|
+| Head of Videography|	Patrick Jade Pablo Rayo	| 3F|
+| Asst Head of Videography| Albert Chai Buo Shen<br>Ng Jun Shuo | 3C<br>2A|
+| Head of Public Address| Nurul Asyiqin binte Zakaria|	3E|
+| Asst Head of Public Address|	Genelia Vaishnavi Chandran<br>Lakshmi Narasimhan Sandhya<br>Muzzamil bin Shahul Hameed|	3E<br> 2C<br> 2C|
 |   |   |   |

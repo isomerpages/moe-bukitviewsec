@@ -4,7 +4,7 @@ permalink: /ccas/Uniformed-Groups/gb/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-## Girls' Brigade
+## **Girls' Brigade**
 
 <img src="/images/GIRLSS BRIGADE - Formal.jpg" style="width:85%">
 
@@ -33,11 +33,13 @@ Our GB Programmme comprises four aspects – physical, educational, values and s
 
 #### HIGHLIGHTS OF THE YEAR
 
-*   Attained GB Gold Award 2021  
-*   Sec 3 Leadership Conference
-*   GB National Competition – Silver Award and Bronze Award for GB Dr Low Guat Tin Challenge 2022&nbsp;
-*   Kayaking during May camp
-*   Archery during October
+* Attained GB Gold Award 2022
+* Sec 3 Leadership Conference in February
+* GB National Competition – Silver Award and Bronze Award for GB Dr Low Guat Tin Challenge 2022 
+* GB National Drill Competition 2023 – Bronze Award
+* Urban Hike &amp; Musical in May 2023 camp
+* GB Friend in Deed @ Jurong East in July 2023
+
 
 |   |   |
 |---|---|
@@ -60,21 +62,23 @@ Our GB Programmme comprises four aspects – physical, educational, values and s
 
 |   |   |
 |---|---|
-|  **GB Company Award 2021** | Gold Award  |
-| **Achieved Sustained Gold Award for 5 years 2010-&nbsp; 2021**  |   |
-|  **GB Low Guat Tin Challenge 2019** |  Team 2 : Silver Award &amp; Best in Category |
-|   |  Team 1 : Bronze Award |
-|   |   |
+|  **GB Company Award 2022** | Gold Award  |
+| **Achieved Sustained Gold Award for 5 years 2010-&nbsp; 2022**  |   |
+|**GB Low Guat Tin Challenge 2021**|	Silver Award and Bronze Award |
+|**GB Low Guat Tin Challenge 2022**|	Silver Award and Bronze Award |
+**GB National Drill Competition**|	Bronze Award |
+| **Pioneer Brigadier Brooch**| Arumugam Girija <br> Grace Soundharya Samuel <br> Ng Yun Nie <br> Vatsala Pachigulla <br> |
+|||
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
 | **EXCO Positions**  | **Name**  | **Class**  |
 |---|---|---|
-| Company Leader  |  Wong Min Xuan Carina |  3 F |
-| Assistant Company Leader  |  Tan Jingwen Cherisal | 3 F  |
-|   |  Samiksha Vishnuprasad | 3 F  |
-| Squad Leader  |  Grace Soundharya Samuel | 3 E  |
-|   |  Jagadeesan Tharane | 3 F  |
-|   | Ng Yun Nie  | 3 E  |
-|   | Zhao Yunxi  | 3 C  |
-|   |   |   |
+| Company Leader  |  Packiaraj Patric Samantha |  3 E |
+| Assistant Company Leader  | Ang Jia Yi | 3 G  |
+|   |  Avia Ang Yishan | 3 A  |
+| Squad Leader  |Anusheka D/O Kumar|3 A|
+||Fayth Teo En Ning	|3 C|
+||Peter Benny Chrissy	|3 E|
+||Wong Charlotte	|3 C|
+|||

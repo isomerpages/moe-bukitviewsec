@@ -4,7 +4,7 @@ permalink: /our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-## Infocomm Club
+## **Infocomm Club**
 
 <img src="/images/INFOCOMM%20CLUB%20%20-%20Formal.jpg" style="width:85%">
 
@@ -61,16 +61,16 @@ Members have the opportunities to take part in the following competitions/ activ
 | ![](/images/mgs%20microbit.jpeg) <br> <center> Young Catalyst Microbit Competition </center> | ![](/images/DrCT.jpeg) <br> <center> Design Thinking with Robotics and Computational Thinking International Competition </center> 
 | ![](/images/bebras.jpeg) <br> <center> Bebras International Challenge on Informatics and Computational Thinking </center> | ![](/images/Infocomm%20Media%20Club%20Youth%20Awards%202022.jpeg)<br><center> InfoComm Media Club Youth Awards 2022 </center>
 |![](/images/CCA%20Page/Clubs%20and%20Societies/Infocomm%20Club/infocomm%20img_4320.jpg)<br><center>Learning Journey to Art Science Museum </center>|
-| | | | |
+| | | 
 
 
 
 #### AWARDS AND ACHIEVEMENTS
-
-| Competitions | Awards |
-| DrCT Competition 2022 | 2 Gold, 2 Silver, 3 Bronze and 1 Honorable Mention |
-| Bebras 2022 | 3 Exemplary, 3 Commendable, 2 Outstanding, 3 Honorable Mention |
-| The Young Catalyst Microbit Competition | Most Creative Presentation |
+|Competitions |Awards | 
+| --- | --- |
+| **DrCT Competition 2022**| 2 Gold, 2 Silver, 3 Bronze and 1 Honorable Mention |
+| **Bebras 2022** | 3 Exemplary, 3 Commendable, 2 Outstanding, 3 Honorable Mention |
+| **The Young Catalyst Microbit Competition** | Most Creative Presentation |
 | | |
 
 #### EXECUTIVE COMMITTEE MEMBERS 

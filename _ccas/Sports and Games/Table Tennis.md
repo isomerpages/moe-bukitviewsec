@@ -4,7 +4,7 @@ permalink: /our-curriculum/co-curricular/ccas/sport-and-games/table-tennis/
 description: ""
 third_nav_title: Sports and Games
 ---
-## Table Tennis 
+## **Table Tennis** 
 
 <img src="/images/TABLE%20TENNIS%20-%20Formal.jpg" style="width:85%">
 
