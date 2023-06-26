@@ -68,20 +68,12 @@ third_nav_title: Staff
 |  **Miss Patricia Lye**<br>SH/Computing  |  **Mdm Marhaini**<br>SH/Malay &amp; Tamil Language  | **Miss Sarah Lah Xin Ying**<br>SH/Biology  |
 |   |   |   |
 
-<img src="/images/Key%20Personel%20Photos/toh%20shao%20ying.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/Key%20Personel%20Photos/reena%20llyod.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/Key%20Personel%20Photos/tan%20hui%20min.jpg" style="width:30%;margin-right:15px;" align="left">
-<br clear="left">
-
-|   |   |   |
-|---|---|---|
-| **Ms Toh Shao Ying**<br>SH/Geography  |  **Mrs Reena Lloyd**<br>LH/Science &amp; ALP  |  **Ms Tan Hui Min**<br>SH/Educational Technology |
-|   |   |   |
-
 <img src="/images/Key%20Personel%20Photos/kumutha.jpg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-| **Miss Kumutha**<br>Assistant Year Head  |
+|**Mrs Reena Lloyd**<br>LH/Science &amp; ALP  |  **Ms Tan Hui Min**<br>SH/Educational Technology |**Miss Kumutha**<br>Assistant Year Head  |
 |   |   |   |
