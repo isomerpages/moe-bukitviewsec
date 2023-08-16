@@ -16,7 +16,7 @@ The SAC consists of:
 |   |   |
 |---|---|
 | Mr Lim Boon Lye  | Chairman  |
-|  Mr Kevin Ang | Secretary  |
+|  Mr Jaswant Singh | Secretary  |
 |  Ms Chua Ann Hee | Member  |
 |  Dr Jonathan Loh | Member  |
 |  Mr Ong Chai | Member  |
