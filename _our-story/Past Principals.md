@@ -4,7 +4,7 @@ permalink: /our-story/permalink/
 description: ""
 ---
 
-**Mr Ow Chiong Hoo (Served: 1986 – 1996)** 
+![](/images/Past%20principals/mr%20ow%20hc.png)**Mr Ow Chiong Hoo (Served: 1986 – 1996)** 
 
 Mr Ow was involved in the setting up of Bukit View Secondary School from her infant stages. He aimed to create a more conducive environment as well as provided better school programmes.
 
