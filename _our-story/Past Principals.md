@@ -3,6 +3,7 @@ title: Past Principals
 permalink: /our-story/permalink/
 description: ""
 ---
+
 **Mr Ow Chiong Hoo (Served: 1986 – 1996)** 
 
 Mr Ow was involved in the setting up of Bukit View Secondary School from her infant stages. He aimed to create a more conducive environment as well as provided better school programmes.
@@ -11,7 +12,7 @@ Mr Ow strived to establish the “Bukit View Spirit”. He also spearheaded the 
 
 Mr Ow believes not only in students attaining their academic potential but also to have holistic development through sports and character building.
 
-
+![](/images/Past%20principals/mrs%20owyong.png)
 **Mrs Mary Owyong (Served: 1997 – 1998)**
 
 Mrs Owyong continued to mould Bukit View towards its motto: Care and Share, Achieve and Excel. She implemented a Pastoral Care programme which incorporates the learning of life skills and emphasising on the building of student-teacher relationships.
@@ -20,7 +21,7 @@ Mrs Owyong made camps a key feature in Extra-Curricular Activities (ECAs) back i
 
 Mrs Owyong encouraged and guided our students so that they would become responsible citizens for the future.
 
-  
+![](/images/Past%20principals/mr%20ong.png)  
 **Dr James Ong (Served: 1998 – 2004)**
 
 Dr James Ong’s firm belief is that Bukit Viewans, both staff and students, must have the desire, the goal and the faith to achieve and aim for the best. He believed that stamina, dedication, commitment, discipline and mental toughness coupled with a positive attitude are necessary to overcome challenges.
@@ -29,7 +30,7 @@ Under his leadership, BVSS received several academic value-added awards.
 
 Dr James Ong initiated the ‘Bukit View Charge Cheer’. His personal motto of “What you believe is what you will achieve” helped the school reach greater heights.
 
-
+![](/images/Past%20principals/mrs%20tan.png)
 **Mrs Tan Lay Hong(Served: 2005 – 2010)**
 
 Mrs Tan aimed to develop students with mental and emotional toughness. She believes that Bukit Viewans must be anchored with strong values to guide them to make informed choices.
