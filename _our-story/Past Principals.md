@@ -39,7 +39,7 @@ Mrs Tan helped student translate their passions and ideas into actions. She emph
 
 Mrs Tan created opportunities to develop areas such as digital animation. She is confident that Bukit View will continue to soar to new heights as we strive to create a vibrant learning community.
 
-
+![](/images/Past%20principals/mr%20vasu.png)
 **Mr Vasuthevan (Served: 2011 – 2018)**
 
 Mr Vasu encouraged teachers to delve into their own professional development to lead, care and inspire our students. He challenged Bukit Viewans to dare to dream, to believe in themselves.
@@ -48,7 +48,7 @@ Mr Vasu believed in every child to make a difference while creating a supportive
 
 Mr Vasu set up the JOULES Smart Centre to inspire  students to think about incorporating sustainable living in every aspect of their life, and to turn some of these ideas into action.
 
-
+![](/images/Past%20principals/mr%20ang.jpg)
 **Mr Kevin Ang (Served: 2018 – 2022)**
 
 Mr Kevin Ang believes that the students are at the heart of everything we do. He led BVSS to be a dynamic institution that has customisable programmes to cater to the interests and needs of our diverse student population.
