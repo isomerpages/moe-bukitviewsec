@@ -3,9 +3,6 @@ title: Past Principals
 permalink: /our-story/permalink/
 description: ""
 ---
-
-
-
 **Mr Ow Chiong Hoo (Served: 1986 – 1996)** 
 
 <img src="/images/Past%20principals/mr%20ow%20hc.png" style="width:50%;margin-right:15px;" align="left">
