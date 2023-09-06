@@ -11,7 +11,7 @@ Mr Ow was involved in the setting up of Bukit View Secondary School from her inf
 Mr Ow established the “Bukit View Spirit”. He also spearheaded the design awareness and creativity initiative through many design-related activities.
 
 Mr Ow believes not only in students attaining their academic potential but also to have holistic development through sports and character building.
-
+<br>
 
 **Mrs Mary Owyong (Served: 1997 – 1998)**
 
@@ -22,7 +22,7 @@ Mrs Owyong steered Bukit View towards its motto: Care and Share, Achieve and Exc
 Mrs Owyong made camps a key feature in Extra-Curricular Activities (ECAs), including leadership camps for Student Councillors and class monitors.
 
 Mrs Owyong encouraged and guided our students so that they would become responsible citizens for the future.
-
+<br>
 
 **Dr James Ong (Served: 1998 – 2004)**
 
@@ -33,7 +33,7 @@ Dr Ong’s firm belief is that Bukit View staff and students must have the desir
 Under his leadership, our school received academic value-added awards.
 
 Dr Ong initiated the ‘Bukit View Charge’. His personal motto of “What you believe is what you will achieve” helped the school reach greater heights.
-
+<br>
 
 **Mrs Tan Lay Hong(Served: 2005 – 2010)**
 
@@ -44,7 +44,7 @@ Mrs Tan developed students with mental and emotional toughness. She believed tha
 Mrs Tan helped student translate their passions and ideas into actions. She emphasised holistic development through CCAs.
 
 Mrs Tan also created opportunities for the school to excel in such as digital animation. 
-
+<br>
 
 **Mr Vasuthevan (Served: 2011 – 2018)**
 
@@ -55,7 +55,7 @@ Mr Vasu encouraged teachers to own their professional development to best lead, 
 Mr Vasu believed that every child could make a difference creating a supportive climate where students are passionate about learning, creating and reflecting. 
 
 Mr Vasu set up the JOULES Smart Centre to inspire students to incorporate sustainable living in every aspect of their life, and to turn these ideas into action.
-
+<br>
 
 **Mr Kevin Ang (Served: 2018 – 2022)**
 
