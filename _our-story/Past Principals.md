@@ -6,33 +6,33 @@ description: ""
 **Mr Ow Chiong Hoo (Served: 1986 – 1996)** 
 
 <img src="/images/Past%20principals/mr%20ow%20hc.png" style="width:50%;margin-right:15px;" align="left">
-Mr Ow was involved in the setting up of Bukit View Secondary School from her infancy. He created a more conducive environment and provided choice school programmes.
+Mr Ow was involved in establishing Bukit View Secondary School from her infancy. He created a more conducive environment and provided choice school programmes.
 
 Mr Ow established the “Bukit View Spirit”. He also spearheaded the design awareness and creativity initiative through many design-related activities.
 
-Mr Ow believes not only in students attaining their academic potential but also to have holistic development through sports and character building.
+Mr Ow believed not only in students attaining their academic potential but also holistic development through sports and character building.
 <br>
 
 **Mrs Mary Owyong (Served: 1997 – 1998)**
 
 <img src="/images/Past%20principals/mrs%20owyong.png" style="width:50%;margin-right:15px;" align="left">
 
-Mrs Owyong steered Bukit View towards its motto: Care and Share, Achieve and Excel. She implemented Pastoral Care which incorporates the learning of life skills and an emphasis on the building of student-teacher relationships.
+Mrs Owyong steered Bukit View towards its motto: Care and Share, Achieve and Excel. She implemented Pastoral Care which incorporated life skills and an emphasis on the building of student-teacher relationships.
 
 Mrs Owyong made camps a key feature in Extra-Curricular Activities (ECAs), including leadership camps for Student Councillors and class monitors.
 
-Mrs Owyong encouraged and guided our students so that they would become responsible citizens for the future.
+Mrs Owyong encouraged our students to become responsible citizens for the future.
 <br>
 
 **Dr James Ong (Served: 1998 – 2004)**
 
 <img src="/images/Past%20principals/mr%20ong.png" style="width:50%;margin-right:15px;" align="left">
 
-Dr Ong’s firm belief is that Bukit View staff and students must have the desire to achieve the best. He believed that discipline, mental toughness and a positive attitude are necessary to overcome challenges.
+Dr Ong believed that Bukit View staff and students must have the desire to achieve the best. He believed that discipline, mental toughness and a positive attitude are necessary to overcome challenges.
 
 Under his leadership, our school received academic value-added awards.
 
-Dr Ong initiated the ‘Bukit View Charge’. His personal motto of “What you believe is what you will achieve” helped the school reach greater heights.
+Dr Ong also initiated the ‘Bukit View Charge’. His personal motto of “What you believe is what you will achieve” helped the school reach greater heights.
 <br>
 
 **Mrs Tan Lay Hong(Served: 2005 – 2010)**
@@ -41,7 +41,7 @@ Dr Ong initiated the ‘Bukit View Charge’. His personal motto of “What you 
 
 Mrs Tan developed students with mental and emotional toughness. She believed that Bukit Viewans must be guided by strong values to make informed choices.
 
-Mrs Tan helped student translate their passions and ideas into actions. She emphasised holistic development through CCAs.
+Mrs Tan helped student translate their passions and ideas into actions. She emphasised holistic development through CCA.
 
 Mrs Tan also created opportunities for the school to excel in such as digital animation. 
 <br>
@@ -63,6 +63,6 @@ Mr Vasu set up the JOULES Smart Centre to inspire students to incorporate sustai
 
 Mr Ang believed that students are at the heart of everything our school does. He led the school to offer customisable programmes that catered to a diverse student population.
 
-Mr Ang championed Positive Education is a whole-school approach to deepen individual strengths and personal motivation in service of learning.
+Mr Ang championed Positive Education as a whole-school approach to deepen individual strengths and personal motivation in service of learning.
 
 Mr Ang guided the school through the pandemic, ensuring the health and safety of all Bukit Viewans and the holistic education for students continued.
