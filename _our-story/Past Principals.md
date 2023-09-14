@@ -12,6 +12,8 @@ Mr Ow established the “Bukit View Spirit”. He also spearheaded the design aw
 
 Mr Ow believed not only in students attaining their academic potential but also holistic development through sports and character building.
 <br>
+<br>
+<br>
 
 **Mrs Mary Owyong (Served: 1997 – 1998)**
 
@@ -22,6 +24,7 @@ Mrs Owyong steered Bukit View towards its motto: Care and Share, Achieve and Exc
 Mrs Owyong made camps a key feature in Extra-Curricular Activities (ECAs), including leadership camps for Student Councillors and class monitors.
 
 Mrs Owyong encouraged our students to become responsible citizens for the future.
+<br>
 <br>
 
 **Dr James Ong (Served: 1998 – 2004)**
@@ -34,6 +37,8 @@ Under his leadership, our school received academic value-added awards.
 
 Dr Ong also initiated the ‘Bukit View Charge’. His personal motto of “What you believe is what you will achieve” helped the school reach greater heights.
 <br>
+<br>
+<br>
 
 **Mrs Tan Lay Hong(Served: 2005 – 2010)**
 
@@ -45,6 +50,8 @@ Mrs Tan helped student translate their passions and ideas into actions. She emph
 
 Mrs Tan also created opportunities for the school to excel in such as digital animation. 
 <br>
+<br>
+<br>
 
 **Mr Vasuthevan (Served: 2011 – 2018)**
 
@@ -55,6 +62,8 @@ Mr Vasu encouraged teachers to own their professional development to best lead, 
 Mr Vasu believed that every child could make a difference creating a supportive climate where students are passionate about learning, creating and reflecting. 
 
 Mr Vasu set up the JOULES Smart Centre to inspire students to incorporate sustainable living in every aspect of their life, and to turn these ideas into action.
+<br>
+<br>
 <br>
 
 **Mr Kevin Ang (Served: 2018 – 2022)**
