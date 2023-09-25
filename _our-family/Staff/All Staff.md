@@ -6,4 +6,4 @@ third_nav_title: Staff
 ---
 ## All Staff
 
-<img src="/images/All%20Staff%20Grid%20(BVSS%202022)%20-preview%20copy.jpg" style="width:100%">
+<img src="/images/all%20staff%20grid(bvss%202023)%20-%20v4_small%20copy.jpg" style="width:100%">
