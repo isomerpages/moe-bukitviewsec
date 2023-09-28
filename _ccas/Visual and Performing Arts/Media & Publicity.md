@@ -4,7 +4,7 @@ permalink: /ccas/Visual-and-Performing-Arts/media/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-## **Media &amp; Publicity**
+## **Media &amp; Publicity Club**
 
 <img src="/images/Mediapub1.png" style="width:85%"><br>
 
