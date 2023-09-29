@@ -19,7 +19,7 @@ sections:
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
   - infopic:
-      description: Find out more about Bukit View Sec in our WeSTories
+      description: Find out more about Bukit View Sec in the WeSTories Publications
       button: Click here
       url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
       image: /images/bvss_23_030.jpg
