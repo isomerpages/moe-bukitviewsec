@@ -19,9 +19,9 @@ sections:
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
   - infopic:
-      description: Bukit View Secondary's Direct School Admission selection criteria
+      description: Find out more about Bukit View Sec in the WeSTories Publications
       button: Click here
-      url: https://www.bukitviewsec.moe.edu.sg/admissions/dsa/
-      image: /images/322121888_1331491804371498_686499686661412855_n.jpg
+      url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
+      image: /images/bvss_23_030.jpg
       alt: Image alt text
 ---
