@@ -5,8 +5,9 @@ description: ""
 ---
 ## Virtual Open House
 
-![](/images/westories.JPG)
-#### [BVSS WeSTories](/files/bvss_westories.pdf)
+<a href="/files/bvss_westories.pdf">
+<img src="/images/westories.JPG">
+</a>
 
 #### JOULES ALP
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BEvkO7dKSg0" height="315" width="560"></iframe>
