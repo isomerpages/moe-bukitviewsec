@@ -5,7 +5,7 @@ description: ""
 ---
 ## Virtual Open House
 
-<a href="/files/bvss_westories.pdf">
+<a href="/files/bvss_westories.pdf"> 
 <img src="/images/westories.JPG">
 </a>
 
