@@ -4,7 +4,7 @@ title: Bukit View Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/Bukit_View_Secondary_School_logo.png
 permalink: /
-notification: Visit Us
+notification: ""
 sections:
   - hero:
       background: /images/Hero Images/webpage banner 0504.png
