@@ -24,4 +24,11 @@ sections:
       url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
       image: /images/bvss_23_030.jpg
       alt: Image alt text
+  - infopic:
+      title: Come visit us on 18 November!
+      id: infopic
+      button: Find out more
+      url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
+      image: /images/open house 23.jpeg
+      alt: Image alt text
 ---
