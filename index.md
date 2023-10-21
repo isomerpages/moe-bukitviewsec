@@ -25,7 +25,7 @@ sections:
       image: /images/bvss_23_030.jpg
       alt: Image alt text
   - infopic:
-      title: Come visit us on 18 November!
+      title: Experience why we are The Place to Be!
       id: infopic
       button: Find out more
       url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
