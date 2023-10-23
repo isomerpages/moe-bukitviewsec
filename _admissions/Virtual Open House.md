@@ -6,8 +6,7 @@ description: ""
 ## Virtual Open House
 
 
-<a href="/files/bvss_westories.pdf"> 
-<img style="width:35%" src="/images/westories.JPG">
+<a href="/files/bvss_westories.pdf" class="no-icon"> <img style="width:35%" src="/images/westories.JPG"> 
 </a>
 
 
