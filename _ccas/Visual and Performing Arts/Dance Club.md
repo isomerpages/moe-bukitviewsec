@@ -66,10 +66,17 @@ The objectives of BVSS Dance Club are to nurture the love for dance as a perform
 
 |   |   |
 |---|---|
-|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/whatsapp%20image%202023-04-28%20at%201.jpeg)|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/whatsapp%20image%202023-04-28.jpeg)|
+|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/whatsapp%20image%202023-04-28%20at%201.jpeg)|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/bvss_23_%20(11).jpg)|
 |![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/whatsapp%20image%202023-04-28-.jpeg)|![](/images/dance5.png)|
 ![](/images/dance6.png)|![](/images/dance7.png)|
 |   |   |  |
+
+|   |   |   |
+|---|---|---|
+|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/img_8103-2.jpg)|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/img_8119-2.jpg)|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/img_8125-2.jpg)
+
+![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/whatsapp%20image%202023-04-28.jpeg)
+
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
