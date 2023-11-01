@@ -5,7 +5,7 @@ description: ""
 ---
 ## Student Council Board
 
-<img src="/images/student-council-board-2-1024x512-e1623041219251.jpg" style="width:85%">
+![](/images/CCA%20Page/Group%20Photo/school%20council%20board%20_formal.jpg)
 
 #### THEME
 
@@ -27,11 +27,10 @@ We promise that to do our best, <br>
 And look forward to receiving support and assistance of our teachers <br>
 And fellow pupils in the performance of our duties. </center>
 
-#### TEACHER MENTORS
+#### TEACHER&nbsp;MENTORS
 
 |   |   |
 |---|---|
 | Miss Kumutha Maniam  | Mr Elamaran s/o Kamalanathan  |
 | Mr Joshua Ho  | Mr Kenneth Khoo  |
 |   |   |
-
