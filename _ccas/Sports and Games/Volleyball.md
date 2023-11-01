@@ -6,7 +6,7 @@ third_nav_title: Sports and Games
 ---
 ## **Volleyball**
 
-<img style="width:85%" src="/images/VOLLEYBALL%20-%20Formal.jpg">
+![](/images/CCA%20Page/Group%20Photo/volleyball%20_formal.jpg)
 
 #### BACKGROUND
 
