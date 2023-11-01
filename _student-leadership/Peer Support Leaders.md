@@ -20,5 +20,5 @@ The Peer Support Leaders (PSLs) serves as the bridge between students and teache
 |   |   |
 |---|---|
 | Mr Ngiam Kee Peng (I/C)  | Mdm Siti Aisah Maduri (2nd I/C)  |
-|   |   |
+| Miss Lycia Ho  |  Mr Kenneth Khoo |
 |   |   |
