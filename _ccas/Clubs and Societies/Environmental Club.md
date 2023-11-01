@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 ## **Environmental Club**
 
-<img src="/images/ENVIRONMENTAL CLUB - Formal.jpg" style="width:85%">
+![](/images/CCA%20Page/Group%20Photo/environmental%20club%20_formal.jpg)
 
 #### BACKGROUND
 
