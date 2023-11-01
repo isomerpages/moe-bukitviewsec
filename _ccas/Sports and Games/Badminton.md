@@ -6,16 +6,13 @@ third_nav_title: Sports and Games
 ---
 ## **BADMINTON**
 
-<img src="/images/BADMINTON%20BOYS%20-%20Formal.jpg" style="widht:85%">
+![](/images/CCA%20Page/Group%20Photo/badminton%20_formal.jpg)
 
 #### BACKGROUND
 
 In Bukit View Secondary School, Badminton Club was established about ten years ago. From a small club with only about 10 members, it has been gaining from strength to strength. Currently, we have a total of more than 50 badminton members.
 
 In line with our school emphasis on Positive Education, the main aim of our club is to inculcate positive purpose and engagement in students. We would like the spirit of sportsmanship, zest and perseverance to be internalised by our students. Our training is tailored to cater to the students’ well-being so that they value the positive engagement with their teammates and coaches during the practice sessions. Through the training sessions, Badminton Club promotes the awareness of good health and positive emotion during the workouts and physical activities.
-
-This club would not be complete if without positive accomplishment. In 2018, our CCA had achieved a major breakthrough in the National Inter-School Badminton Championship. Our B Division players overcame the odds to reach the second round to become the eventual one of the Top 8 schools in West Zone of the Championship. We hope the spirit and the legacy of this club will continue, so as to serve and nurture all our Bukit Viewan members to be engaged learners, empathetic citizens and ethical advocates.
-
 
 #### MISSION
 
@@ -27,7 +24,7 @@ This club would not be complete if without positive accomplishment. In 2018, our
 
 | Day(s) | Time |
 | --- | --- | 
-| Wednesday | 2:30 pm - 4:30 pm |
+| Wednesday | 2:40 pm - 4:40 pm |
 | Friday | 2:00 pm - 4:00 pm |
 | | |
 
@@ -46,21 +43,13 @@ This club would not be complete if without positive accomplishment. In 2018, our
 
 ##### | **PARTICIPATION** |
 
-*   Boys B division in west zone for National Inter-School Badminton Championship 2023
-*   Boys C division in west zone for National Inter-School Badminton Championship 2023
-
-#### AWARDS AND ACHIEVEMENTS
-
-| | | 
-| --- | --- |
-| **NSG Sportsmanship Award 2022** | DONOVAN LYE (4F) |
-| **Top 8 in West Zone for the National Inter-School Badminton Championship 2018** | B division boys (Qualify for second round) |
-| | | 
+*  B-Division National School Games (West Zone) Boys Badminton Championship 2023
+*   C-Division National School Games (West Zone) Boys Badminton Championship 2023
 
 <table>
 	<tbody><tr>
 		<td>
-			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/c%20div%20badminton%20boys.jfif"> <br> <center> C division Boys </center>
+			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/c%20div%20badminton%20boys.jfif"> <br> <center> C-division Boys </center>
 		</td>
 		<td> 
 			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/b%20div%20badminton%20boys.jfif"> <br> <center> B division Boys</center>
