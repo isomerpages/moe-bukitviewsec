@@ -6,9 +6,8 @@ third_nav_title: Uniformed Groups
 ---
 ## **Girls' Brigade**
 
-<img src="/images/GIRLSS BRIGADE - Formal.jpg" style="width:85%">
-
-<img src="/images/GB1.jpg" style="width:85%">
+<img src="/images/CCA%20Page/Group%20Photo/girls'%20brigade%20_formal.jpg">
+<img src="/images/GB1.jpg">
 
 #### BACKGROUND
 
