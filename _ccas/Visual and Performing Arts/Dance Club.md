@@ -22,7 +22,7 @@ The objectives of BVSS Dance Club are to nurture the love for dance as a perform
 
 |  Day(s) | Time  |
 |---|---|
-| Wednesday  | 2:30 pm –  4:30 pm  |
+| Wednesday  | 2:45 pm –  4:45 pm  |
 | Friday  |  1:30 pm – 3:30 pm |
 |   |   |
 
@@ -46,8 +46,12 @@ The objectives of BVSS Dance Club are to nurture the love for dance as a perform
 
 ##### **||** 2023
 
- *   Performed at various school events, e.g. Chinese New Year Celebrations, Achieve &amp; Excel Day.
- *   Singapore Youth Festival Arts Presentation
+ *   Performed at various school events e.g. Chinese New Year Celebrations, Achieve and Excel Day and National Day Celebrations
+ *   Invited to perform at Bukit View Primary School for their National Day Celebrations
+ *   Leadership Summit organised by JUMP Productions
+ *   LASALLE Theatre and Dance Immersion Programme
+ *   SEP Enrichment: Archery Tag
+
 
 
 #### AWARDS AND ACHIEVEMENTS
