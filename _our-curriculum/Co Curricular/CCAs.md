@@ -109,12 +109,7 @@ CCAs are an integral part of Bukit Viewans’ holistic, well-rounded education. 
 					<img src="/images/floorball(girl).jpg"> <center> Floorball <br> (Girls Only) </center>
 			</a>
 		</td>
-		<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/sport-and-games/hockey">
-				<img src="/images/hockey.jpg"> <center> Hockey <br> (Boys Only) </center>
-			</a>
-		</td>
-		<td width="25%">
+			<td width="25%">
 			<a href="/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis">
 				<img src="/images/table%20tennis.jpg"> <center> Table Tennis </center>
 			</a>
