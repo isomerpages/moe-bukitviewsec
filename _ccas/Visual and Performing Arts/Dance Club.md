@@ -6,7 +6,7 @@ third_nav_title: Visual and Performing Arts
 ---
 ## **Dance Club**
 
-<img src="/images/DANCE CLUB - Formal.jpg" style="width:85%">
+![](/images/CCA%20Page/Group%20Photo/dance%20club%20_formal.jpg)
 
 #### BACKGROUND
 
