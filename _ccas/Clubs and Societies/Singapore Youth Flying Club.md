@@ -6,9 +6,9 @@ third_nav_title: Clubs and Societies
 ---
 ## **Singapore Youth Flying Club**
 
-<img src="/images/rwimage_1%20(600%20x%20202).jpg" style="width:60%">
-<br>
-<img src="/images/YOUTH%20FLYING%20CLUB%20-%20Formal.jpg" style="width:85%">
+<img src="/images/rwimage_1%20(600%20x%20202).jpg">
+
+![](/images/CCA%20Page/Group%20Photo/youth%20flying%20club%20_formal.jpg)
 
 #### BACKGROUND
 
