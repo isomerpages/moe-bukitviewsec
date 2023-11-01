@@ -6,9 +6,8 @@ third_nav_title: Visual and Performing Arts
 ---
 ## **Media &amp; Publicity Club**
 
-<img src="/images/Mediapub1.png" style="width:85%"><br>
-
-<img src="/images/MEDIA  PUBLICITY - Formal.jpg" style="width:85%">
+<img src="/images/Mediapub1.png"><br>
+![](/images/CCA%20Page/Group%20Photo/media%20&amp;%20publicity%20_formal.jpg)
 
 #### BACKGROUND
 
