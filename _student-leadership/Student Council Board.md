@@ -32,5 +32,5 @@ And fellow pupils in the performance of our duties. </center>
 |   |   |
 |---|---|
 | Miss Kumutha Maniam  | Mr Elamaran s/o Kamalanathan  |
-| Mr Joshua Ho  | Mr Kenneth Khoo  |
+| Mdm Tan Jee Niang  |  |
 |   |   |
