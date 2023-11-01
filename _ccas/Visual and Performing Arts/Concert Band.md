@@ -6,7 +6,7 @@ third_nav_title: Visual and Performing Arts
 ---
 ## Concert Band
 
-<img src="/images/CONCERT BAND - Formal.jpg" style="width:85%">
+![](/images/CCA%20Page/Group%20Photo/concert%20band%20_formal.jpg)
 
 #### MISSION
 
