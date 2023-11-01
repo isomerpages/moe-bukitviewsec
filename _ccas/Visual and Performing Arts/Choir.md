@@ -6,7 +6,7 @@ third_nav_title: Visual and Performing Arts
 ---
 ## **Choir**
 
-<img src="/images/CHOIR - Formal.jpg" style="width:85%">
+![](/images/CCA%20Page/Group%20Photo/choir%20_formal.jpg)
 
 #### BACKGROUND
 
