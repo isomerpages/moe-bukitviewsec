@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 ## **NCC**
 
-<img src="/images/NCC - Formal.jpg" style="width:85%">
+![](/images/CCA%20Page/Group%20Photo/ncc%20_formal.jpg)
 
 #### BACKGROUND
 
