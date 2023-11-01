@@ -52,22 +52,22 @@ In line with our school emphasis on Positive Education, the main aim of our club
 			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/c%20div%20badminton%20boys.jfif"> <br> <center> C-division Boys </center>
 		</td>
 		<td> 
-			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/b%20div%20badminton%20boys.jfif"> <br> <center> B division Boys</center>
+			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/picture7.png"> <br> <center> B division Boys</center>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="/images/Training%20By%20Coach.png"> <br> <center> Training By Coach  </center>
+			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/picture2.png"> <br> <center> Fitness Training    </center>
 		</td>
 		<td> 
-			<img src="/images/In%20Action%20During%20Competitive.png"> <center> In Action During Competitive Match  </center>
+			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/picture3.png"> <center> In Action During Competitive Match  </center>
 		</td>
 	</tr>
 	<tr>
 		<td> 
-			<img src="/images/Getting%20Ready%20for%20Competitive%20Match.png"> <center> Getting Ready for Competitive Match </center>
+			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/picture4.png"> <center> Getting Ready for Competitive Match </center>
 		</td><td>
-			<img src="/images/Donovan%20received%20the%20NSG%20Sportsmanship%20Award%202022%20from%20Mr%20Ang%20Our%20Principal.png"> <br> <center> Donovan received the NSG Sportsmanship Award 2022 from Mr Ang (ex-Principal) </center>
+			<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/picture5.png"> <br> <center>  </center>
 		</td>
 		<td></td>
 	</tr>
