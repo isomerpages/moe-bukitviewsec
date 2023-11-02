@@ -6,7 +6,8 @@ third_nav_title: Curricular
 ---
 ## Humanities
 
-<img src="/images/HUMANITIES DEPARTMENT.jpg" style="width:85%">
+<img src="/images/Department%20photos/Group%20Photo/humanities%20department.jpg" style="width:60%">
+
 
 #### Mission
 
