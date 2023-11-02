@@ -25,8 +25,8 @@ Our Humanities teachers harness the use of ICT in the teaching and learning of t
 |  Mr Tan Huong|  Mdm V Geetha |
 | Mrs Ng Kia Mien  | Mrs Koh-Tan Hui Min (SH/ED-Tech) |
 | Ms Esther Tan  |  Ms Seah Koon Lay |
-| Mr Guo Hefang
-| |
+| Mr Guo Hefang | Ms Vianne Tan Wei Yan |
+||
 
 #### Key Programmes
 
