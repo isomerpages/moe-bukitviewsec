@@ -6,7 +6,7 @@ third_nav_title: Curricular
 ---
 ## English
 
-<img src="/images/ENGLISH LANGUAGE AND LITERATURE DEPARTMENT.jpg" style="width:85%">
+<img src="/images/Department%20photos/Group%20Photo/english%20language%20and%20literature.jpg" style="width:60%">
 
 #### Our Teachers
 
