@@ -14,15 +14,13 @@ third_nav_title: Curricular
 |---|---|
 | Miss Ang Bee Lee (Year Head)  | Miss Sharmila Gopal (HOD/CCE)  |
 | Mr Arthur Kok (Lead Teacher) |  Mrs Zane Tye (SSD) |
-|  Mr Jonathan Ng|  Mr Muhd Fadly (SH/Lit &amp; Drama) |
+| Mr Muhd Fadly (SH/Lit &amp; Drama) | Mdm Joy Chen |
 | Mr Mohamad Zulkefly  | Mr Tan Huong  |
-| Mrs Susan Pang – Ong Lee Ling  |  Mdm Joy Chen |
-|  Mrs Dharani Dinesh | Miss Lycia Ho |
+| Mrs Susan Pang – Ong Lee Ling  | Mrs Dharani Dinesh   |
 | Ms Seah Koon Lay  | Mr Norafiq Ismail
-|  Miss Syazwani  | Mr John Pravin Raj |
+| Miss Lycia Ho  | Mr John Pravin Raj |
 | Mr Eugene Quake | Ms Sunita Sivahnanthan
-| |
-
+|  |  |
 
 #### Curriculum
 
