@@ -45,14 +45,12 @@ Tier 1 is for all students in Sec 1 and 2 while Tier 2 is targeted at students w
   
 <u>_All students undergo&nbsp;Tier 1 Learning&nbsp;where they are exposed to and experience drama in the classroom._</u>
 
-#### LLP lessons
+A formal stand-alone enrichment drama syllabus carried our fortnightly by LLP teachers. Each double period delivers rich content through various drama activities. At the end of every lesson, students do a reflection of their learning, emphasising on the affective and moral effect of the issues discussed in the lessons. 
 
 ![](/images/Arts%20X%20Values%20(LLP)/drama%20in%20curriculum.jpg)
 
 ![](/images/Arts%20X%20Values%20(LLP)/slide8.JPG)
 
-A formal stand-alone enrichment drama syllabus carried our fortnightly by LLP teachers. Each double period delivers rich content through various drama activities. At the end of every lesson, students do a reflection of their learning, emphasising on the affective and moral effect of the issues discussed in the lessons.  
-  
 \*A key outcome of the LLP lesson is that Sec 1 and 2 students would be familiar with a host of drama techniques like Tableux, Hot Seating, onscience Alley and Improvisation among others. This makes it easier for drama to be harnessed as a pedagogical tool across all subjects as students grow in confidence and are equipped with basic inventory of drama routines by the end of Sec 2.
 
 **LLP Learning Journey**<br>Students participate in a learning journey annually. They are brought to the theatre to appreciate drama and performance theatre. In 2015, Sec 1 students watched Jewels in the Tale by itheatre and Sec 2 enjoyed the musical Beauty and the Beast at MBS. The themes and values are discussed as a pre or post activity by the literature teachers.  
@@ -63,6 +61,7 @@ A formal stand-alone enrichment drama syllabus carried our fortnightly by LLP te
   
 **Drama as Assessment**<br>An alternative assessment for CA in literature is based on a drama task. Students present their individual or group work in the form of tableaux, flashback scenes and others.
 
+![](/images/Arts%20X%20Values%20(LLP)/assembly.jpeg)
 #### Tier 2 Learning
 
 is targeted at students who display strong passion and/or are interested in pursuing learning of drama at the advanced level.
@@ -74,6 +73,12 @@ is targeted at students who display strong passion and/or are interested in purs
 **Literature Showcase**<br>An school-wide internal platform for students to display their talent. The Literature showcase is an avenue for talented students to be selected and perform for their peers in an assembly-like setting.  
   
 **School Theatre Production**<br>A school wide audition was held in October for the cast of BVSS theatre production in 2016. These 20 tier-2 students will be trained by an external theatre group to prepare for their roles in the school’s first public theatre production. In 2018 and 2019, Sec 2 students were invited to put up performances at the Jurong Library to engage audiences to know more about the Bukit Batok neighbourhood(2018) and 5 forefathers (2019) of singapore, namely Mr Tan Tock Seng, Mr Yusof Ishak, Mr S Rajaratnam, Mr Goh Keng Swee and Miss Teresa Hsu.
+
+![](/images/Arts%20X%20Values%20(LLP)/presentation1.jpg)
+
+![](/images/Arts%20X%20Values%20(LLP)/slide7.JPG)
+
+![](/images/Arts%20X%20Values%20(LLP)/slide6.JPG)
 
 **If you would like to know more about the LLP**, please email&nbsp;bukitview_ss@moe.edu.sg .
 
