@@ -20,7 +20,7 @@ The Mathematics Department believes that everyone can do Mathematics. No matter 
 |  Ms Kumutha Maniam | Mr Khoo Jun Yee Kenneth  |   |
 | Ms Illya Nafiza  | Mrs Leong Wee Choo  |   |
 | Mr Tan Chong Han |  Mr Chin Kwek Siong|   |
-|  Ms Lee Poh Tin |   |   |
+|  Ms Lee Poh Tin | Mr Gopi Krishnan |   |
 
 
 #### Key Programmes and Achievements
