@@ -15,7 +15,8 @@ third_nav_title: Curricular
 |  **Head of Department:** | Mr Chin Wey Thur  |
 | Mr Felix Wong |  Mr Elamaran |
 |  Mrs Susan Pang | Mr Koh Si Yao  |
-|   |   |
+|  Mdm Elke Cheong  |   |
+||
 
 <img src="/images/2pe.png" style="width:85%"><br>
 
