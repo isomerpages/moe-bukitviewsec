@@ -47,6 +47,10 @@ Tier 1 is for all students in Sec 1 and 2 while Tier 2 is targeted at students w
 
 #### LLP lessons
 
+![](/images/Arts%20X%20Values%20(LLP)/drama%20in%20curriculum.jpg)
+
+![](/images/Arts%20X%20Values%20(LLP)/slide8.JPG)
+
 A formal stand-alone enrichment drama syllabus carried our fortnightly by LLP teachers. Each double period delivers rich content through various drama activities. At the end of every lesson, students do a reflection of their learning, emphasising on the affective and moral effect of the issues discussed in the lessons.  
   
 \*A key outcome of the LLP lesson is that Sec 1 and 2 students would be familiar with a host of drama techniques like Tableux, Hot Seating, onscience Alley and Improvisation among others. This makes it easier for drama to be harnessed as a pedagogical tool across all subjects as students grow in confidence and are equipped with basic inventory of drama routines by the end of Sec 2.
