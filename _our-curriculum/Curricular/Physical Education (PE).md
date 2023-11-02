@@ -18,6 +18,6 @@ third_nav_title: Curricular
 |  Mdm Elke Cheong  |   |
 ||
 
-<img src="/images/2pe.png" style="width:85%"><br>
+<img src="/images/2pe.png" style="width:90%"><br>
 
-<img src="/images/3pe.png" style="width:85%">
+<img src="/images/3pe.png" style="width:90%">
