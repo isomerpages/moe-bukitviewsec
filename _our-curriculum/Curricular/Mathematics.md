@@ -8,7 +8,6 @@ third_nav_title: Curricular
 
 <img src="/images/Department%20photos/Group%20Photo/mathematics%20department.jpg" style="width:60%">
 
-
 The Mathematics Department believes that everyone can do Mathematics. No matter what the starting point is, our teachers ensure high expectations for all by supporting and empowering students to reach their potential. Our curriculum and programmes are designed to develop problem-solving disposition, digital literacy, and self-directedness. We provide opportunities for students to develop critical thinking in order to make sense of the disciplinarity of Mathematics, to see connections and applications to the real world. Bukit Viewans develop mathematical confidence and competence, gaining understanding on why Mathematics is important and relevant in their lives.
 
 #### Our Teachers
