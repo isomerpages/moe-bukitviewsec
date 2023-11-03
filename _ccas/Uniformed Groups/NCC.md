@@ -3,6 +3,7 @@ title: NCC
 permalink: /ccas/Uniformed-Groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## **NCC**
 
@@ -29,8 +30,8 @@ With the support of HQ NCC, NCC encourages combined training across schools of t
 
 |   |   |
 |---|---|
-| Mr Ramasamy Stalin (IC)  | Mr Eugene Quake |
-| Mr Muhd Nazar |  Mr Naszry |
+| Mr Ramasamy Stalin (IC)  | 
+| Mr Muhd Nazar | 
 |   |   |
 
 #### HIGHLIGHTS OF THE YEAR
@@ -38,45 +39,50 @@ With the support of HQ NCC, NCC encourages combined training across schools of t
 ##### | **PARTICIPATION**
 
 *   The weekly training programme consists of learning foot drills, arm drills, Navigation, Individual Field Craft (IFC), physical trainings, and Sports and Games. These activities prepare cadets mentally, physically and emotionally for the National Service and future endeavours.
-*   Cadet Leaders also got the first-hand experiences to visit and participate in the military-related event, Army Open House 2022 as part of their annual initiative and enjoyed the various display of army platform, experienced the battle rides and obstacle course with many other interactive stations.
-*   Our cadets participated in the FSD competition 2022 and Sports Championship. The cadet leaders managed to enter Finals in the soccer sports championship this year 2022.
+*   Cadet Leaders also got the first-hand experiences to visit and participate in the event, RSAF55 Open House 2023 as part of their annual initiative and enjoyed the various arial displays, live performance and other hands-on activities. 
+*   Our cadets participated in the FSD competition, Orienteering Competition and Sports Championship. 
 
 #### AWARDS AND ACHIEVEMENTS
 
 |   |   |
 |---|---|
-|  **Inter-Sch Best Unit Competition** | Gold Award <br>(2011 – 2017) <br>Distinction Award <br>(2018 – 2022)  |
-|  **Outstanding Cadet Award 2022** | Ng Wee Chuan (4F) |
+|  **Inter-Sch Best Unit Competition** | Gold Award <br>(2011 – 2017) <br>Distinction Award <br>(2018 – 2023)  |
+|  **Outstanding Cadet Award 2022** | RIZWANUDEEN RAFIUDEEN (4E) |
 |   |   |
 
-<img src="/images/photo_2022-12-24_05-42-07.jpg" style="width:85%">
+<img src="/images/photo_2022-12-24_05-42-07.jpg" style="width:100%">
 
-##### | **CCA Awareness Day**|
+##### | **CCA Awareness Day** |
 
-<img src="/images/CCA Awareness Day.png" style="width:85%">
+<img src="/images/CCA Awareness Day.png" style="width:100%">
 
-##### | **NCC Annual Camp**|
+##### | **NCC Annual Camp** |
 
-<img src="/images/NCC Annual Camp.png" style="width:85%">
+<img src="/images/NCC Annual Camp.png" style="width:100%">
 
-##### | **Guardian of The City Card Game**|
+##### | **Guardian of The City Card Game** |
 
-<img src="/images/Guardian of The City Card Games.png" style="width:47%" align="left">
-<img src="/images/photo_2022-12-24_05-46-49.jpg" style="width:49%" align="right">
-<br clear="left"><br>
+![](/images/CCA%20Page/Uniformed%20Groups/ncc%202023%20gotc-1.JPG)
 
-##### | **Sports and Physical Activities**|
+##### | **RSAF55 Open House** |
+![](/images/CCA%20Page/Uniformed%20Groups/ncc%202023%20rsaf55%20open%20house1.JPG)
 
-<img src="/images/Sports and Physical Activities.png" style="width:85%">
+##### | **Sports and Physical Activities** |
 
-##### | **NCC Sports Championship**|
+<img src="/images/Sports and Physical Activities.png" style="width:100%">
 
-<img src="/images/NCC Sports Championship.jpg" style="width:85%">
+![](/images/CCA%20Page/Uniformed%20Groups/ncc%202023%20kinball.jpeg)
+
+![](/images/CCA%20Page/Uniformed%20Groups/ncc%202023%20archery%20tag.jpeg)
+
+##### | **NCC Sports Championship** |
+
+<img src="/images/NCC Sports Championship.jpg" style="width:100%">
 
 #### EXECUTIVE COMMITTEE MEMBERS
 
 |  **EXCO Positions** | **Name**  |  **Class** |
 |---|---|---|
-| Unit Sergeant Major  | Muhammad Nadhir Hilmi Bin Muhammad Nidzamuddin| 3 C  |
-| Assistant Sergeant Major  | Mohamed Sheldon Bin Abdul Manaf | 3 B  |
+| Unit Sergeant Major  | Muhammad Nadhir Hilmi Bin Muhammad Nidzamuddin| 3C  |
+| Assistant Sergeant Major  | Mohamed Sheldon Bin Abdul Manaf | 3B  |
 |   |   |   |
