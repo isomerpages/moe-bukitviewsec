@@ -75,7 +75,6 @@ Members have the opportunities to take part in the following competitions/ activ
 |  **National Software Competition 2023**    | 1 Gold and 2 Bronze    |
 |  **Animation using Scratch Competition 2023**    | Ho Le Min - Second Place    |
 |  **Bebras 2022**    | 3 Exemplary, 3 Commendable, 2 Outstanding, 3 Honorable Mention    |
-|  **The Young Catalyst Microbit Competition**     | Most Creative Presentation     |
 |  |  |
 
 
