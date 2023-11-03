@@ -6,7 +6,7 @@ third_nav_title: Curricular
 ---
 ## Mathematics
 
-<img src="/images/MATHEMATICS DEPARTMENT.jpg" style="width:85%">
+<img src="/images/Department%20photos/Group%20Photo/mathematics%20department.jpg" style="width:60%">
 
 The Mathematics Department believes that everyone can do Mathematics. No matter what the starting point is, our teachers ensure high expectations for all by supporting and empowering students to reach their potential. Our curriculum and programmes are designed to develop problem-solving disposition, digital literacy, and self-directedness. We provide opportunities for students to develop critical thinking in order to make sense of the disciplinarity of Mathematics, to see connections and applications to the real world. Bukit Viewans develop mathematical confidence and competence, gaining understanding on why Mathematics is important and relevant in their lives.
 
@@ -16,11 +16,11 @@ The Mathematics Department believes that everyone can do Mathematics. No matter 
 |---|---|---|
 | **Mathematics**  |   | **Principles of Accounts (POA)**  |
 | Mr Alexander Chia  <br>(HOD Ed-Tech)  | Miss Patricia Lye (SH/Computing)  | Mdm Quek Eng Chiew (ST)  |
-| Mrs Kelly Chew  | Mr Liu Sijian (ST)  |  |
+| Mrs Kelly Chew  | Mr Liu Sijian (ST)  | Ms Vianne Tan Wei Yan |
 |  Ms Kumutha Maniam | Mr Khoo Jun Yee Kenneth  |   |
 | Ms Illya Nafiza  | Mrs Leong Wee Choo  |   |
-| Mr Jonathan Ng Jun Kit  |  Mr Chin Kwek Siong|   |
-|  Ms Lee Poh Tin |  Mr Tan Chong Han |   |
+| Mr Tan Chong Han |  Mr Chin Kwek Siong|   |
+|  Ms Lee Poh Tin | Mr Gopi Krishnan |   |
 
 
 #### Key Programmes and Achievements
@@ -67,7 +67,7 @@ The AlgeCards is a set of manipulatives developed from a Lesson Study project by
 
 ###### <u>Student Achievements</u>
 
-Selected students took part in the Singapore and Asian Schools Mathematics Olympiad (SASMO) and Singapore Mathematical Olympiad (SMO) Competition, 2 students achieved the Silver award, 7 achieved the Bronze award and 10 were given Honourable Mention for SASMO.  1 student achieved the Bronze award and 2 Honourable Mentions for SMO.
+Selected students took part in the Singapore and Asian Schools Mathematics Olympiad (SASMO) and Singapore Mathematical Olympiad (SMO) Competition, 2 students achieved the Silver award, 7 achieved the Bronze award and 10 were given Honourable Mention for SASMO.&nbsp; 1 student achieved the Bronze award and 2 Honourable Mentions for SMO.
 
 |  SMO Competition (2022) |   |
 |---|---|
@@ -94,7 +94,7 @@ Selected students took part in the Singapore and Asian Schools Mathematics Olymp
 | Ong Hao En Ethan (2G)  | Honourable Mention  |
 | Li Ee-Zhe (3F)  | Honourable Mention |
 | Fong Qi Ying Caden (3F) | Honourable Mention  |
-| Giam Yu Rong Marie  (4E)  | Honourable Mention  |
+| Giam Yu Rong Marie&nbsp; (4E)  | Honourable Mention  |
 |  Tan Kuan Chong, Brendan (4F) | Honourable Mention  |
 |  Charlyne Tan Sin Yen (4F) | Honourable Mention  |
 |   |   |
@@ -113,7 +113,7 @@ Selected students took part in the Singapore and Asian Schools Mathematics Olymp
 
 ###### <u>Teacher Accolades</u>
 
-Four of our teachers conducted a **Teacher-Led Workshop** entitled “Revolutionising Homework in Mathematics’. Mr Liu Sijian, Mr Kenneth Khoo, Mr Wang Kangcheng and Mrs Kelly Chew.
+Four of our teachers conducted a&nbsp;**Teacher-Led Workshop**&nbsp;entitled “Revolutionising Homework in Mathematics’. Mr Liu Sijian, Mr Kenneth Khoo, Mr Wang Kangcheng and Mrs Kelly Chew.
 
 <img src="/images/Teacher-Led Workshop March 2022 via Zoom 2.jpeg" style="width:85%">
 

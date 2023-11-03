@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 ## **NPCC**
 
-<img src="/images/NPCC - Formal.jpg" style="width:85%">
+![](/images/CCA%20Page/Group%20Photo/npcc%20_formal.jpg)
 
 <center><b> Ready for the challenge?</b></center>
 

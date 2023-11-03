@@ -6,7 +6,7 @@ third_nav_title: Sports and Games
 ---
 ## **Track &amp; Field**
 
-<img src="/images/TRACK%20%20FIELD%20-%20Formal.jpg" style="width:85%">
+<img src="/images/CCA%20Page/Group%20Photo/track&nbsp;&amp;%20field%20_formal.jpg">
 
 #### OBJECTIVES
 

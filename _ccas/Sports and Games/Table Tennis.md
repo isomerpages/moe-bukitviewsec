@@ -6,7 +6,7 @@ third_nav_title: Sports and Games
 ---
 ## **Table Tennis** 
 
-<img src="/images/TABLE%20TENNIS%20-%20Formal.jpg" style="width:85%">
+![](/images/CCA%20Page/Group%20Photo/table%20tennis%20_formal.jpg)
 
 #### BACKGROUND
 

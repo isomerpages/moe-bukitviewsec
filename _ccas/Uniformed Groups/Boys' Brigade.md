@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 ## **Boys' Brigade**
 
-<img src="/images/BOYS BRIADE - Formal.jpg" style="width:85%">
+![](/images/CCA%20Page/Group%20Photo/boys'%20brigade%20_formal.jpg)
 
 #### BACKGROUND
 

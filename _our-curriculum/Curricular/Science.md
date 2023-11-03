@@ -6,10 +6,11 @@ third_nav_title: Curricular
 ---
 ## Science
 
-**VISION:** Creative Thinker, Passionate Learner, with a spirit of scientific inquiry and empathy for man and nature. <br>
-**MISSION:** To inculcate pupils with relevant knowledge, skills and values through providing meaningful and engaging experiences.
 
-<img src="/images/SCIENCE DEPARTMENT.jpg" style="width:85%">
+<img src="/images/Department%20photos/Group%20Photo/science%20department.jpg" style="width:60%">
+
+**VISION:**&nbsp;Creative Thinker, Passionate Learner, with a spirit of scientific inquiry and empathy for man and nature. <br>
+**MISSION:**&nbsp;To inculcate pupils with relevant knowledge, skills and values through providing meaningful and engaging experiences.
 
 #### Our Teachers
 
@@ -17,11 +18,11 @@ third_nav_title: Curricular
 |---|---|---|
 | **Level Head**  |  **Mrs Reena Lloyd** |   |
 | **Chemistry**  |  **Physics** | **Biology**  |
-|  Mdm Lock Oi Leng | Mr Aw Kang Foong  | Ms Sarah Lah (SH/Biology)  |
+|  Mr Liu Sijian | Mr Aw Kang Foong  | Ms Sarah Lah (SH/Biology)  |
 |  Mrs Foong Bee Yong |  Mr Eugene Quake | Ms Shivali Jadhav
 |  Mr Tan Chong Han | Mr Michael Ho  | Mdm Eliza Low
 |  Ms Kumutha Maniam | Mr Khoo Jin Yee Kenneth |  Mdm Fatimah Begum |
-| Mr Liu Sijian  | Mr Chin Kwek Siong  | Mr Muhd Na'im 
+|   | Mr Chin Kwek Siong  | Mr Muhd Na'im 
 
 
 
@@ -59,12 +60,12 @@ Students should be able to  <br>
 | Diversity 1 (Biology)  | Interactions 2 (Chemistry)  |
 |  Models 1 (Biology) | Models 2 (Physics)  |
 | Systems 1 (Biology)  |  Systems 2 (Physics) |
-| Interactions 1 (Biology & Physics)  | Interactions 3 (Physics)  |
+| Interactions 1 (Biology &amp; Physics)  | Interactions 3 (Physics)  |
 |   |   |
 | **Applied Learning Programme with Solar Cars**  |  **Applied Learning Programme with Water Robots** |
 |   |   |
 |  **Science Subjects Offered in Upper Secondary**  |   |
-| *   Flexibility and choice of Science subject combinations in upper secondary:<br>1 \.   Sec 2N(A) students can offer O-Level Science in Sec 3<br>2 \.   Sec 2E students can offer the following combinations in Sec 3:<br>>   triple Science (pure Physics, pure Chemistry and pure Biology)<br>>   double Science (pure Physics and pure Chemistry; or pure Chemistry and pure Biology)<br>>   Science (Physics, Chemistry) as a single subject  |   |
+| *   Flexibility and choice of Science subject combinations in upper secondary:<br>1 \.   Sec 2N(A) students can offer O-Level Science in Sec 3<br>2 \.   Sec 2E students can offer the following combinations in Sec 3:<br>&gt;   triple Science (pure Physics, pure Chemistry and pure Biology)<br>&gt;   double Science (pure Physics and pure Chemistry; or pure Chemistry and pure Biology)<br>&gt;   Science (Physics, Chemistry) as a single subject  |   |
 |   |   |
 
 #### Pedagogy
@@ -77,12 +78,12 @@ The department provide opportunities for students to enjoy Science and value sci
  *   Science Awareness Week
  *   Enrichment programmes e.g. AEMs, NUS Chemistry Week, Learning Journey to Lee Kong Chian National History Museum, The Star Lecture
 
-<img src="/images/Science-1.jpg" style="width:49%" align=left>
-<img src="/images/Science-2.jpg" style="width:49%" align=right>
+<img src="/images/Science-1.jpg" style="width:49%" align="left">
+<img src="/images/Science-2.jpg" style="width:49%" align="right">
 <br clear="left"><br>
 
-<img src="/images/Science-3.jpg" style="width:49%" align=left>
-<img src="/images/Science-4.jpg" style="width:49%" align=right>
+<img src="/images/Science-3.jpg" style="width:49%" align="left">
+<img src="/images/Science-4.jpg" style="width:49%" align="right">
 <br clear="left"><br>
 
 **Applied Learning Programme (ALP)**<br>
@@ -93,12 +94,12 @@ With globalisation and rapid technological advancements, we are moving into a ne
 
 [More information is also available on this link](/our-distinctives/joules-alp/)
 
-<img src="/images/Science-5.jpg" style="width:49%" align=left>
-<img src="/images/Science-8-e1509859321987.jpg" style="width:49%" align=right>
+<img src="/images/Science-5.jpg" style="width:49%" align="left">
+<img src="/images/Science-8-e1509859321987.jpg" style="width:49%" align="right">
 <br clear="left"><br>
 
-<img src="/images/Science-6.jpg" style="width:30%" align=left>
-<img src="/images/Science-7.jpg" style="width:67%" align=right>
+<img src="/images/Science-6.jpg" style="width:30%" align="left">
+<img src="/images/Science-7.jpg" style="width:67%" align="right">
 <br clear="left"><br>
 
 **Thinking HATS (High Ability Talent in Science) Programme**<br>
@@ -111,13 +112,13 @@ The programme aims to:
  *   use engaging storylines and scenarios to provide authentic context for the mastery of scientific concepts, and
  *   promote collaboration and discussions in teams.
 
-<img src="/images/Science-9.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/Science-10.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/Science-13.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Science-9.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Science-10.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Science-13.jpg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left"><br>
 
-<img src="/images/Science-11.jpg" style="width:49%" align=left>
-<img src="/images/Science-12.jpg" style="width:49%" align=right>
+<img src="/images/Science-11.jpg" style="width:49%" align="left">
+<img src="/images/Science-12.jpg" style="width:49%" align="right">
 <br clear="left"><br>
 
 **STEM Overseas Learning Trip to Hong Kong**<br>
@@ -137,6 +138,6 @@ The department has planned a suite of strategies to help students attain subject
  *   Formative assessment to monitor and chart students’ progress towards their goals.
  *   Revision Packages for O Level and N Level students.
 
-<img src="/images/scratchanima1.jpg" style="width:49%" align=left>
-<img src="/images/scratchanima1.jpg" style="width:49%" align=right>
+<img src="/images/scratchanima1.jpg" style="width:49%" align="left">
+<img src="/images/scratchanima1.jpg" style="width:49%" align="right">
 <br clear="left"><br>

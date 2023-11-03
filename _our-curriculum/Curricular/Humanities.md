@@ -6,7 +6,8 @@ third_nav_title: Curricular
 ---
 ## Humanities
 
-<img src="/images/HUMANITIES DEPARTMENT.jpg" style="width:85%">
+<img src="/images/Department%20photos/Group%20Photo/humanities%20department.jpg" style="width:60%">
+
 
 #### Mission
 
@@ -19,13 +20,13 @@ Our Humanities teachers harness the use of ICT in the teaching and learning of t
 
 |  Head of Department: | Mrs Nalini Ram  |
 |---|---|
-| Ms Toh Shao Ying (SH/Geography)  | Mr Mohamed Nazar (ST)  |
+|  Mr Mohamed Nazar (ST) | Mrs Zane Tye (School Staff Developer)  |
 | Mr Tan Wei Chung |  Mr Mohamad Zulkefly |
 |  Mr Tan Huong|  Mdm V Geetha |
 | Mrs Ng Kia Mien  | Mrs Koh-Tan Hui Min (SH/ED-Tech) |
-| Ms Esther Tan  |  Ms Seah Koon Lay |
-| Mr Guo Hefang
-| |
+| Ms Esther Tan  | Ms Seah Koon Lay  |
+| Mr Guo Hefang | Ms Vianne Tan Wei Yan |
+||
 
 #### Key Programmes
 

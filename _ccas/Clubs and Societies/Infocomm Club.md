@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 ## **Infocomm Club**
 
-<img src="/images/INFOCOMM%20CLUB%20%20-%20Formal.jpg" style="width:85%">
+![](/images/CCA%20Page/Group%20Photo/infocomm%20club%20_formal.jpg)
 
 #### MISSION
 

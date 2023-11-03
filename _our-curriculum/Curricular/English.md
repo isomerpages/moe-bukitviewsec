@@ -6,7 +6,7 @@ third_nav_title: Curricular
 ---
 ## English
 
-<img src="/images/ENGLISH LANGUAGE AND LITERATURE DEPARTMENT.jpg" style="width:85%">
+<img src="/images/Department%20photos/Group%20Photo/english%20language%20and%20literature.jpg" style="width:60%">
 
 #### Our Teachers
 
@@ -14,15 +14,13 @@ third_nav_title: Curricular
 |---|---|
 | Miss Ang Bee Lee (Year Head)  | Miss Sharmila Gopal (HOD/CCE)  |
 | Mr Arthur Kok (Lead Teacher) |  Mrs Zane Tye (SSD) |
-|  Mr Jonathan Ng|  Mr Muhd Fadly (SH/Lit &amp; Drama) |
+| Mr Muhd Fadly (SH/Lit &amp; Drama) | Mdm Joy Chen |
 | Mr Mohamad Zulkefly  | Mr Tan Huong  |
-| Mrs Susan Pang – Ong Lee Ling  |  Mdm Joy Chen |
-|  Mrs Dharani Dinesh | Miss Lycia Ho |
+| Mrs Susan Pang – Ong Lee Ling  | Mrs Dharani Dinesh   |
 | Ms Seah Koon Lay  | Mr Norafiq Ismail
-|  Miss Syazwani  | Mr John Pravin Raj |
+| Miss Lycia Ho  | Mr John Pravin Raj |
 | Mr Eugene Quake | Ms Sunita Sivahnanthan
-| |
-
+|  |  |
 
 #### Curriculum
 

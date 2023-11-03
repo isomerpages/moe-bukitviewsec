@@ -6,7 +6,7 @@ third_nav_title: Visual and Performing Arts
 ---
 ## **Dance Club**
 
-<img src="/images/DANCE CLUB - Formal.jpg" style="width:85%">
+![](/images/CCA%20Page/Group%20Photo/dance%20club%20_formal.jpg)
 
 #### BACKGROUND
 
@@ -22,7 +22,7 @@ The objectives of BVSS Dance Club are to nurture the love for dance as a perform
 
 |  Day(s) | Time  |
 |---|---|
-| Wednesday  | 2:30 pm –  4:30 pm  |
+| Wednesday  | 2:45 pm –  4:45 pm  |
 | Friday  |  1:30 pm – 3:30 pm |
 |   |   |
 
@@ -46,8 +46,12 @@ The objectives of BVSS Dance Club are to nurture the love for dance as a perform
 
 ##### **||** 2023
 
- *   Performed at various school events, e.g. Chinese New Year Celebrations, Achieve &amp; Excel Day.
- *   Singapore Youth Festival Arts Presentation
+ *   Performed at various school events e.g. Chinese New Year Celebrations, Achieve and Excel Day and National Day Celebrations
+ *   Invited to perform at Bukit View Primary School for their National Day Celebrations
+ *   Leadership Summit organised by JUMP Productions
+ *   LASALLE Theatre and Dance Immersion Programme
+ *   SEP Enrichment: Archery Tag
+
 
 
 #### AWARDS AND ACHIEVEMENTS
@@ -62,10 +66,17 @@ The objectives of BVSS Dance Club are to nurture the love for dance as a perform
 
 |   |   |
 |---|---|
-|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/whatsapp%20image%202023-04-28%20at%201.jpeg)|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/whatsapp%20image%202023-04-28.jpeg)|
+|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/whatsapp%20image%202023-04-28%20at%201.jpeg)|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/bvss_23_%20(11).jpg)|
 |![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/whatsapp%20image%202023-04-28-.jpeg)|![](/images/dance5.png)|
 ![](/images/dance6.png)|![](/images/dance7.png)|
 |   |   |  |
+
+|   |   |   |
+|---|---|---|
+|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/img_8103-2.jpg)|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/img_8119-2.jpg)|![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/img_8125-2.jpg)
+
+![](/images/CCA%20Page/Visual%20and%20Performing%20Arts/Dance%20Club/whatsapp%20image%202023-04-28.jpeg)
+
 
 #### EXECUTIVE COMMITTEE MEMBERS
 

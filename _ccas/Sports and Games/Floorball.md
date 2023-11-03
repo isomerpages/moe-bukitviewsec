@@ -8,7 +8,7 @@ third_nav_title: Sports and Games
 
 ##### *"A team above all. Above all a team."*
 
-<img src="/images/FLOORBALL%20-%20Formal.jpg" style="width:85%">
+![](/images/CCA%20Page/Group%20Photo/floorball%20_formal.jpg)
 
 #### BACKGROUND
 
