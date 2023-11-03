@@ -3,12 +3,15 @@ title: NPCC
 permalink: /ccas/Uniformed-Groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## **NPCC**
 
 ![](/images/CCA%20Page/Group%20Photo/npcc%20_formal.jpg)
 
 <center><b> Ready for the challenge?</b></center>
+
+![](/images/CCA%20Page/Uniformed%20Groups/NPCC/bvss_23_020.jpg)
 
 #### BACKGROUND
 
@@ -47,15 +50,14 @@ PERSEVERING FORWARD BOUND
 |   |   |
 |---|---|
 | Officer in Command | A/ASP (NPCC) Afiq Ismail
-|  UG Teacher &amp; Squad Officer (Sec 1) | Mr. Png See Kit|
-|  UG Teacher &amp; Squad Officer (Sec 2) | Ms. Vianne Tan|
-|  UG Teacher &amp; Squad Officer (Sec 3) | Mdm. Mastura Ashari|
-|  UG Teacher &amp; Squad Officer (Sec 4) | Mr. Jonathan Ng|
+|  UG Teacher &amp; Squad Officer | Ms. Vianne Tan|
+|  UG Teacher &amp; Squad Officer | Mdm. Mastura Ashari|
 |   |   |
 
 |   |   |
 |---|---|
-| Volunteer Adult Leaders/Non-Teachers (Honorary Officers)| H/INSP (NPCC) Nurul Syafikah 
+| Volunteer Adult Leaders/Non-Teachers (Honorary Officers)| H/INSP (NPCC) Nurul Syafikah|
+|Volunteer Adult Leaders/Non-Teachers (Cadet Inspector)| P/CI (NPCC) Nur Syahirah Razak|
 |   |   |
 
 #### HIGHLIGHTS OF THE YEAR
