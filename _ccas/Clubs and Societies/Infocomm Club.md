@@ -3,6 +3,7 @@ title: Infocomm Club
 permalink: /our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ## **Infocomm Club**
 
@@ -66,12 +67,16 @@ Members have the opportunities to take part in the following competitions/ activ
 
 
 #### AWARDS AND ACHIEVEMENTS
-|Competitions |Awards | 
-| --- | --- |
-| **DrCT Competition 2022**| 2 Gold, 2 Silver, 3 Bronze and 1 Honorable Mention |
-| **Bebras 2022** | 3 Exemplary, 3 Commendable, 2 Outstanding, 3 Honorable Mention |
-| **The Young Catalyst Microbit Competition** | Most Creative Presentation |
-| | |
+
+
+| Competitions | Awards  | 
+| -------- | -------- | 
+|  **DrCT Competition 2023**    | 1 Gold, 6 Silver, 9 Bronze and 8 Honorable Mention    |
+|  **National Software Competition 2023**    | 1 Gold and 2 Bronze    |
+|  **Animation using Scratch Competition 2023**    | Ho Le Min - Second Place    |
+|  **Bebras 2022**    | 3 Exemplary, 3 Commendable, 2 Outstanding, 3 Honorable Mention    |
+|  |  |
+
 
 #### EXECUTIVE COMMITTEE MEMBERS 
 

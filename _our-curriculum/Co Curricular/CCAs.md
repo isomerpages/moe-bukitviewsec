@@ -3,6 +3,7 @@ title: CCAs
 permalink: /our-curriculum/co-curricular/ccas/
 description: ""
 third_nav_title: Co Curricular
+variant: markdown
 ---
 ## CCAs
 
@@ -106,7 +107,7 @@ CCAs are an integral part of Bukit Viewans’ holistic, well-rounded education. 
 		</td>
 		<td width="25%">
 			<a href="/our-curriculum/co-curricular/ccas/sport-and-games/floorball">
-					<img src="/images/floorball(girl).jpg"> <center> Floorball <br> (Girls Only) </center>
+					<img src="/images/floorball(girl).jpg"> <center> Floorball </center>
 			</a>
 		</td>
 			<td width="25%">
