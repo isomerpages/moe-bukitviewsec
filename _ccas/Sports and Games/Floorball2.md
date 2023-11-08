@@ -65,7 +65,7 @@ Through teamwork, floorball aims to instill responsibility, confidence and disci
 	</tr>
 </tbody></table>
 
-#### EXECUTIVE COMMITTEE MEMBERS 
+#### EXECUTIVE COMMITTEE MEMBERS (Girls)
 
 <table>
 	<tbody><tr>
@@ -136,4 +136,34 @@ Through teamwork, floorball aims to instill responsibility, confidence and disci
 	</tr>
 		<tr></tr>
 	<tr></tr>
+</tbody></table>
+
+#### EXECUTIVE COMMITTEE MEMBERS (Boys)
+
+<table>
+	<tbody><tr>
+		<th> EXCO Positions </th>
+		<th> NAME </th>
+		<th> CLASS </th>
+	</tr>
+	<tr>
+		<td> Upper Sec Captain </td>
+		<td> AIMAN HAQQI BIN 'ADIL </td>
+		<td> S3-E </td>
+	</tr>
+	<tr>
+		<td> Lower Sec Vice-Captain </td>
+		<td> DHANESH RAJAGOPALAN </td>
+		<td> S3-C </td>
+	</tr>
+	
+		<tr>
+		<td rowspan="2"> Upper Seconday Quarter Mistresses </td>
+		<td> AKID QAYS BIN MOHAMMAD HELMIE </td>
+		<td> S3-B </td>
+	</tr>
+	<tr>
+		<td> RAJESH HARISH RAGAVENDRA </td>
+		<td> S3-B </td>
+	</tr>
 </tbody></table>
