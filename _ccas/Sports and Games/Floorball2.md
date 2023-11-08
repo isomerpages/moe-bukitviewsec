@@ -156,8 +156,7 @@ Through teamwork, floorball aims to instill responsibility, confidence and disci
 		<td> DHANESH RAJAGOPALAN </td>
 		<td> S3-C </td>
 	</tr>
-	
-		<tr>
+			<tr>
 		<td rowspan="2"> Upper Seconday Quarter Mistresses </td>
 		<td> AKID QAYS BIN MOHAMMAD HELMIE </td>
 		<td> S3-B </td>
@@ -166,4 +165,5 @@ Through teamwork, floorball aims to instill responsibility, confidence and disci
 		<td> RAJESH HARISH RAGAVENDRA </td>
 		<td> S3-B </td>
 	</tr>
+		<tr></tr>
 </tbody></table>
