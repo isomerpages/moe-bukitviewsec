@@ -63,6 +63,11 @@ Through teamwork, floorball aims to instill responsibility, confidence and disci
 				<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Floorball/2023%20b%20div%20nsg.png"> <br> <center> B Div NSG Tournament </center>
 		</td>
 	</tr>
+		<tr> 
+		<td> <img src="/images/hockey-4-ready-for-the-game-1024x768.jpg"></td> 
+		<td> <img src="/images/IMG_3677-300x169.jpg"> </td>
+		<td> <img src="/images/IMG_3675-300x225.jpg"> </td>
+	</tr>
 </tbody></table>
 
 #### EXECUTIVE COMMITTEE MEMBERS (Girls)
