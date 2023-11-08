@@ -2,6 +2,7 @@
 title: Student Council Board
 permalink: /student-leadership/scb/
 description: ""
+variant: markdown
 ---
 ## Student Council Board
 
@@ -13,7 +14,7 @@ description: ""
 
 #### OVERVIEW
 
-As one of the three student leadership groups in Bukit View Secondary School, the Student Council Board has been at the forefront in leading various student-led activities such as the sec 1 orientation camp, Student Leaders’ Investiture, Youth day celebrations, Teachers’ Day and many more. Our student leaders are also involved in various school events such as our annual speech day, meet-the-parents day and graduation ceremony.  
+As one of the two student leadership groups in Bukit View Secondary School, the Student Council Board has been at the forefront in leading various student-led activities such as the Secondary 1 Orientation Camp, Student Leaders’ Investiture, Teachers’ Day Celebration and many more. Together with the Peer Support Leaders, our student leaders are also involved in various school events such as Student Environmental Leadership Conference (SELC) for the primary school students. 
   
 #### COUNCILLOR’S PLEDGE
 
@@ -32,5 +33,5 @@ And fellow pupils in the performance of our duties. </center>
 |   |   |
 |---|---|
 | Miss Kumutha Maniam  | Mr Elamaran s/o Kamalanathan  |
-| Mdm Tan Jee Niang  |  |
+| Miss Ang Bee Lee | Mr Norafiq Ismail |
 |   |   |
