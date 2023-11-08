@@ -46,8 +46,11 @@ Through teamwork, floorball aims to instill responsibility, confidence and disci
 * National School Games 'B' Division Floorball Championships
 * National School Games 'C' Division Floorball Championships
 
-<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Floorball/farewell%20for%20sec%204.png"><br><center> Farewell for Sec 4 </center><table>
-	<tbody><tr>
+<img src="/images/CCA%20Page/Sports%20&amp;%20Games/Floorball/farewell%20for%20sec%204.png"><br><center> Farewell for Sec 4 </center>
+
+<table>
+	<tbody>
+		<tr>
 		<td width="50%">
 			<img src="/images/C-Division-Team-cheering-as-a-team-before-the-second-period.jpg"> <br> <center>C Division Team Cheering As A Team Before The Second Period </center>
 		</td>
