@@ -3,6 +3,7 @@ title: Mother Tongue
 permalink: /our-curriculum/Curricular/mt/
 description: ""
 third_nav_title: Curricular
+variant: markdown
 ---
 ## Mother Tongue
 
@@ -20,6 +21,7 @@ third_nav_title: Curricular
 | Ms Bai Qiao Ling  | Mdm Siti Aisah  | Mdm Kokila  |
 |  Ms Chun Kai Xin | Ms Nur Atikah  |   |
 |  Mdm Shen Lili|   |   |
+|  Mdm Li Yang|   |   |
 |  |   |   |
 
 
@@ -97,10 +99,13 @@ Students who are keen to read the High Mother Tongue Language subjects can appro
 
 #### Competitions and Achievements
 
-|   |
-|---|
-| **Chinese Language Department**  |
-|  *   13th National Theatresports Championship 2019: Most Improving Group Award and Gold Award-Lin Jia Min (3D), Most Collaborative Group Award and Silver Award – Lim Yu Xing (3E), Bronze Award – Ang Zong Zhen (3D), Most Popular Group Award – Meagan Tan (3D)<br>*   6th Skit Seminar cum Competition for Secondary Schools on 20th September 2019 (2019年第六届“中学生短剧创作营” ) |
+|   |   |   |
+|---|---|---|
+| **Chinese Language Department**  |   |   |
+|  13th National Theatresports Championship 2019: | Most Improving Group Award and Gold Award|Lin Jia Min (3D), |
+| | Most Collaborative Group Award and Silver Award – |Lim Yu Xing (3E), Bronze Award – Ang Zong Zhen (3D)|
+| | Most Popular Group Award | Meagan Tan (3D)|
+|6th Skit Seminar cum Competition for Secondary Schools on 20th September 2019 |(2019年第六届“中学生短剧创作营” ) | |
 | **Malay Language Department**  |
 | *   Malay Scrabble Competition 2019 (Piala Cendekia Sahibba 2019): Participation<br>*   Appointed 2 of our Secondary 3 students as Malay Language Ambassadors in conjunction with the National Malay Language Month  |
 | **Tamil Language Department**  |
