@@ -78,11 +78,11 @@ Students who are keen to read the High Mother Tongue Language subjects can appro
 |   |
 |---|
 | **Chinese Language**  |
-|  *   Shared during National Learning Committee 2019 （Mrs Charline Cheah）<br>*   Presented at Secondary School Chinese Language Teachers’ Seminar 2019 (Mdm Gao yi, Mdm Xu Wei, Mrs Tay -Lee Xinrui, Ms Chua Meiqi)<br>*   Assisted Singapore Centre for Chinese Language in hostingProfessor Jiao Jianli, Director of Future Education Research Centre at South China Normal University. Shared CL Department initiatives in using the Essay Guiding system(Mdm Gao Yi, Mdm Xu Wei, Mrs Tay-Lee Xinrui )<br>*   Shared at W4 Cluster Chinese Language Teaching and Learning Symposium 2019（Mrs Charline Cheah） |
+ | *   Teacher-led Workshop at Nanyang Girls’ High School (Ms Chun Kai Xin and Mdm Gao Yi). <br>*   Ms Charline Ang Li Shan won The Distinguished Chinese Language Teachers Awards 2022 organised by Lianhe Zaobao and ZBSchools.sg. |
 | **Malay Language**  |
-| *   Shared during National Malay Language Seminar 2019: Expository Writing using 1-1 Computing (Mdm Siti Aisah and Mdm Nur Atikah)<br>*   Participant in the MLLPC Overseas Immersion Programme to Melbourne for ML Curriculum Leaders\_Action for School-based Inquiry Project (Mdm Marhaini)<br>*   Harvard Graduate School of Education’s Professional Development Program on Visible Thinking (Mdm Siti Aisah and Mdm Nur Atikah)<br>*   Cluster Representative for ML Networking Group (Mdm Mastura)  |
+| *  Shared during National Malay Language Seminar 2022: Oral Package using SLS (Mdm Siti Aisah, Mdm Nur Atikah, Mdm Mastura and Mdm Marhaini). <br> * Leading NLC West 4 Malay Project 2022 (Mdm Marhaini) <br> * School Representative for ML Networking Group (Mdm Mastura)  |
 | **Tamil Language**  |
-| *   Cluster Level sharing on Designing Lessons using On-line platform (iMTL/SLS) (Mdm Kokila)<br>*   Collaborated with Master Teacher from Umar Pulavar Tamil Language Centre. (Mdm Kokila)<br>*   Invited to speak at various platforms regarding Tamil Culture, Tamil Language and Literary works.(Mr Ramsamy Stalin)<br>*   Harvard Graduate School of Education’s Professional Development Program on Visible Thinking (Mr Ramasamy Stalin and Mdm Kokila)  |
+| * Cluster Level sharing on Designing Lessons using On-line platform (SLS) (Mdm Kokila) <br> * Collaborated with Master Teacher from Academy of Singapore Teachers for setting up an Extensive Reading Programme. (Mr Stalin and Mdm Kokila) <br> * Invited to speak at various platforms regarding Tamil Culture, Tamil Language and Literary works.(Mr Ramsamy Stalin) <br> * Harvard Graduate School of Education’s Professional Development Program on Visible Thinking (Mr Ramasamy Stalin and Mdm Kokila)|
 |   |
 
 #### Enrichment Programmes
@@ -90,11 +90,11 @@ Students who are keen to read the High Mother Tongue Language subjects can appro
 |   |
 |---|
 |  **Chinese Language Department** |
-|  *   Theatre experience for students under the Cultural Performance Expose Scheme (CPES)<br>*   Lyric Writing Workshop with professional songwriter for Secondary 1 |
+ | * Lyric Writing Workshop with professional songwriter for Secondary 1 <br> * Interview and Video Making with OGS for Secondary 2 <br> * Amazing Race and “The Rice Story” workshop for Secondary 3|
 |  **Malay Language Department** |
-| *   Debates Workshop for Secondary 3<br>*   Lyric Writing Workshop with prolific songwriter Mr Khir Abdul Rahman for Secondary 1<br>*   Learning Journey to Wisma Geylang Serai for Secondary 1  |
+| *  Lyric Writing Workshop with prolific songwriter Mr Khir Abdul Rahman for Secondary 1 <br> * Dikir Barat Workshop for Secondary 2 <br> * Amazing Race and “The Rice Story” workshop for Secondary 3 <br> * Learning Journey with Cluster School to Malay Language Heritage Centre for Higher Malay Language students |
 |  **Tamil Language Department** |
-|  *   Journalism Workshop for Secondary 2 and Secondary 3 Higher Tamil at Singapore Press Holding, Tamil Murasu.<br>*   Tamil Language and Cultural Camp / Tamil Fest at Umar Pulavar Tamil Language Centre for Secondary 1. |
+| * Journalism Workshop for Secondary 2 and Secondary 3 Higher Tamil at Singapore Press Holding, Tamil Murasu. <br> * Tamil Language and Cultural Camp / Tamil Fest at Umar Pulavar Tamil Language Centre for Secondary One and Secondary Two students. <br> * Extensive Reading Programme for Lower Secondary Students |
 |   |
 
 #### Competitions and Achievements
