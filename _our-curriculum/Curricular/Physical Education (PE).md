@@ -3,6 +3,7 @@ title: Physical Education (PE)
 permalink: /our-curriculum/Curricular/pe/
 description: ""
 third_nav_title: Curricular
+variant: markdown
 ---
 ## Physical Education (PE)
 
@@ -18,6 +19,6 @@ third_nav_title: Curricular
 |  Mdm Elke Cheong  |   |
 ||
 
-<img src="/images/2pe.png" style="width:90%"><br>
+<img src="/images/2pe.png" style="width:120%"><br>
 
-<img src="/images/3pe.png" style="width:90%">
+<img src="/images/3pe.png" style="width:120%">
