@@ -105,7 +105,7 @@ Students who are keen to read the High Mother Tongue Language subjects can appro
 |   | 
 |---|
 | **Chinese Language Department**  | 
-| *   13th National Theatresports Championship 2019:  <br>Most Improving Group Award and Gold Award - Lin Jia Min (3D) <br>Most Collaborative Group Award and Silver Award – Lim Yu Xing (3E), Bronze Award – Ang Zong Zhen (3D) <br> Most Popular Group Award  Meagan Tan (3D) <br> *    6th Skit Seminar cum Competition for Secondary Schools on 20th September 2019 |(2019年第六届“中学生短剧创作营” ) 
+| *   13th National Theatresports Championship 2019:  <br>Most Improving Group Award and Gold Award - Lin Jia Min (3D) <br>Most Collaborative Group Award and Silver Award – Lim Yu Xing (3E), Bronze Award – Ang Zong Zhen (3D) <br> Most Popular Group Award  Meagan Tan (3D) <br> *    6th Skit Seminar cum Competition for Secondary Schools on 20th September 2019 |
 | **Malay Language Department**  |
 | * Participated in the National Level (Secondary School) Essay Writing Competition organised by EDN media. All entries attained GOLD award, with two entries attaining placing in top 30. <br> * Attained 3rd Placing in the ‘BLACKARENA 2022’ video competition organised by Bukit Batok East CC. <br> * Participated in the National Level Oratorical Online competition organised by Pusat Bahasa Nusa. Attained notable placings. |
 | **Tamil Language Department**  |
