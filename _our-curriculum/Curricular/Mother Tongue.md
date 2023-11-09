@@ -71,6 +71,7 @@ Students who are keen to read the High Mother Tongue Language subjects can appro
 <br clear="left"><br>
 
 **Achievements**
+
 <img src="/images/Department%20photos/Mother%20Tongue/picture6.jpg" style="width:53%" align="left">
 <img src="/images/Department%20photos/Mother%20Tongue/whatsapp%20image%202023-11-09%20.jpeg" style="width:40%" align="right">
 <br clear="left"><br>
