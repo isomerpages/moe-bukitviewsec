@@ -51,26 +51,28 @@ Students who are keen to read the High Mother Tongue Language subjects can appro
 
 **MTL Cultural Camp - The Rice Story**
 
-<img src="/images/IMG_0539.jpg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/WhatsApp Image 2022-10-20 at 40210 PM.jpeg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/WhatsApp Image 2022-10-21 at 121207 PM 4.jpeg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/WhatsApp Image 2022-10-21 at 121207 PM.jpeg" style="width:20%;margin-right:15px;" align="left">
+<img src="/images/IMG_0539.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/WhatsApp Image 2022-10-20 at 40210 PM.jpeg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/WhatsApp Image 2022-10-21 at 121207 PM 4.jpeg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left"><br>
-
-<img src="/images/IMG_0561.jpg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/IMG_0563.jpg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/IMG_6211.jpg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/IMG_0523.jpg" style="width:20%;margin-right:15px;" align="left">
+<img src="/images/WhatsApp Image 2022-10-21 at 121207 PM.jpeg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/IMG_0561.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Department%20photos/Mother%20Tongue/picture2.jpg" style="width:30%;margin-right:15px;" align="left">
+<br clear="left"><br>
+<img src="/images/IMG_6211.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/IMG_0523.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Department%20photos/Mother%20Tongue/whatsapp%20image%202023-11-09%20at%20.jpeg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left">
 
 **Conversational Chinese and Malay Language Programme (CCM) - Learning Journey to Malay Heritage Centre**
 
 <img src="/images/ljmc1.jpeg" style="width:53%" align="left">
-<img src="/images/ljmc2.jpeg" style="width:40%" align="right">
+<img src="/images/ljmc4.jpeg" style="width:40%" align="right">
 <br clear="left"><br>
 
-<img src="/images/ljmc3.jpeg" style="width:53%" align="left">
-<img src="/images/ljmc4.jpeg" style="width:40%" align="right">
+**Achievements**
+<img src="/images/Department%20photos/Mother%20Tongue/picture6.jpg" style="width:53%" align="left">
+<img src="/images/Department%20photos/Mother%20Tongue/whatsapp%20image%202023-11-09%20.jpeg" style="width:40%" align="right">
 <br clear="left"><br>
 
 #### Collaboration and Staff Development
