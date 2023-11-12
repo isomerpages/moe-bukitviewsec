@@ -3,6 +3,7 @@ title: Environmental Club
 permalink: /ccas/Clubs-and-Societies/environmental/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ## **Environmental Club**
 
@@ -34,7 +35,7 @@ The Environmental Club was formally started in 2005. We are a group of students 
 
 |Day(s)   |  Time |
 |---|---|
-| Friday |  2:30 pm – 5:30 pm |
+| Friday |  2:40 pm – 5:40 pm |
 |   |   |
 
 #### TEACHERS-IN-CHARGE

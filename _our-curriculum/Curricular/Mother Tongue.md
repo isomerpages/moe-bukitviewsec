@@ -3,6 +3,7 @@ title: Mother Tongue
 permalink: /our-curriculum/Curricular/mt/
 description: ""
 third_nav_title: Curricular
+variant: markdown
 ---
 ## Mother Tongue
 
@@ -20,6 +21,7 @@ third_nav_title: Curricular
 | Ms Bai Qiao Ling  | Mdm Siti Aisah  | Mdm Kokila  |
 |  Ms Chun Kai Xin | Ms Nur Atikah  |   |
 |  Mdm Shen Lili|   |   |
+|  Mdm Li Yang|   |   |
 |  |   |   |
 
 
@@ -47,28 +49,31 @@ Students who are keen to read the High Mother Tongue Language subjects can appro
 
 #### Our Activities
 
-**2022 MTL Cultural Camp - The Rice Story**
+**MTL Cultural Camp - The Rice Story**
 
-<img src="/images/IMG_0539.jpg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/WhatsApp Image 2022-10-20 at 40210 PM.jpeg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/WhatsApp Image 2022-10-21 at 121207 PM 4.jpeg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/WhatsApp Image 2022-10-21 at 121207 PM.jpeg" style="width:20%;margin-right:15px;" align="left">
+<img src="/images/IMG_0539.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/WhatsApp Image 2022-10-20 at 40210 PM.jpeg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/WhatsApp Image 2022-10-21 at 121207 PM 4.jpeg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left"><br>
-
-<img src="/images/IMG_0561.jpg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/IMG_0563.jpg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/IMG_6211.jpg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/IMG_0523.jpg" style="width:20%;margin-right:15px;" align="left">
+<img src="/images/WhatsApp Image 2022-10-21 at 121207 PM.jpeg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/IMG_0561.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Department%20photos/Mother%20Tongue/picture2.jpg" style="width:30%;margin-right:15px;" align="left">
+<br clear="left"><br>
+<img src="/images/IMG_6211.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/IMG_0523.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Department%20photos/Mother%20Tongue/whatsapp%20image%202023-11-09%20at%20.jpeg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left">
 
-**2022 Conversational Chinese and Malay Language Programme (CCM) - Learning Journey to Malay Heritage Centre**
+**Conversational Chinese and Malay Language Programme (CCM) - Learning Journey to Malay Heritage Centre**
 
 <img src="/images/ljmc1.jpeg" style="width:53%" align="left">
-<img src="/images/ljmc2.jpeg" style="width:40%" align="right">
+<img src="/images/ljmc4.jpeg" style="width:40%" align="right">
 <br clear="left"><br>
 
-<img src="/images/ljmc3.jpeg" style="width:53%" align="left">
-<img src="/images/ljmc4.jpeg" style="width:40%" align="right">
+**Achievements**
+
+<img src="/images/Department%20photos/Mother%20Tongue/picture6.jpg" style="width:53%" align="left">
+<img src="/images/Department%20photos/Mother%20Tongue/whatsapp%20image%202023-11-09%20.jpeg" style="width:40%" align="right">
 <br clear="left"><br>
 
 #### Collaboration and Staff Development
@@ -76,11 +81,11 @@ Students who are keen to read the High Mother Tongue Language subjects can appro
 |   |
 |---|
 | **Chinese Language**  |
-|  *   Shared during National Learning Committee 2019 （Mrs Charline Cheah）<br>*   Presented at Secondary School Chinese Language Teachers’ Seminar 2019 (Mdm Gao yi, Mdm Xu Wei, Mrs Tay -Lee Xinrui, Ms Chua Meiqi)<br>*   Assisted Singapore Centre for Chinese Language in hostingProfessor Jiao Jianli, Director of Future Education Research Centre at South China Normal University. Shared CL Department initiatives in using the Essay Guiding system(Mdm Gao Yi, Mdm Xu Wei, Mrs Tay-Lee Xinrui )<br>*   Shared at W4 Cluster Chinese Language Teaching and Learning Symposium 2019（Mrs Charline Cheah） |
+ | *   Teacher-led Workshop at Nanyang Girls’ High School (Ms Chun Kai Xin and Mdm Gao Yi). <br>*   Ms Charline Ang Li Shan won The Distinguished Chinese Language Teachers Awards 2022 organised by Lianhe Zaobao and ZBSchools.sg. |
 | **Malay Language**  |
-| *   Shared during National Malay Language Seminar 2019: Expository Writing using 1-1 Computing (Mdm Siti Aisah and Mdm Nur Atikah)<br>*   Participant in the MLLPC Overseas Immersion Programme to Melbourne for ML Curriculum Leaders\_Action for School-based Inquiry Project (Mdm Marhaini)<br>*   Harvard Graduate School of Education’s Professional Development Program on Visible Thinking (Mdm Siti Aisah and Mdm Nur Atikah)<br>*   Cluster Representative for ML Networking Group (Mdm Mastura)  |
+| *  Shared during National Malay Language Seminar 2022: Oral Package using SLS (Mdm Siti Aisah, Mdm Nur Atikah, Mdm Mastura and Mdm Marhaini). <br> * Leading NLC West 4 Malay Project 2022 (Mdm Marhaini) <br> * School Representative for ML Networking Group (Mdm Mastura)  |
 | **Tamil Language**  |
-| *   Cluster Level sharing on Designing Lessons using On-line platform (iMTL/SLS) (Mdm Kokila)<br>*   Collaborated with Master Teacher from Umar Pulavar Tamil Language Centre. (Mdm Kokila)<br>*   Invited to speak at various platforms regarding Tamil Culture, Tamil Language and Literary works.(Mr Ramsamy Stalin)<br>*   Harvard Graduate School of Education’s Professional Development Program on Visible Thinking (Mr Ramasamy Stalin and Mdm Kokila)  |
+| * Cluster Level sharing on Designing Lessons using On-line platform (SLS) (Mdm Kokila) <br> * Collaborated with Master Teacher from Academy of Singapore Teachers for setting up an Extensive Reading Programme. (Mr Stalin and Mdm Kokila) <br> * Invited to speak at various platforms regarding Tamil Culture, Tamil Language and Literary works.(Mr Ramsamy Stalin) <br> * Harvard Graduate School of Education’s Professional Development Program on Visible Thinking (Mr Ramasamy Stalin and Mdm Kokila)|
 |   |
 
 #### Enrichment Programmes
@@ -88,21 +93,21 @@ Students who are keen to read the High Mother Tongue Language subjects can appro
 |   |
 |---|
 |  **Chinese Language Department** |
-|  *   Theatre experience for students under the Cultural Performance Expose Scheme (CPES)<br>*   Lyric Writing Workshop with professional songwriter for Secondary 1 |
+ | * Lyric Writing Workshop with professional songwriter for Secondary 1 <br> * Interview and Video Making with OGS for Secondary 2 <br> * Amazing Race and “The Rice Story” workshop for Secondary 3|
 |  **Malay Language Department** |
-| *   Debates Workshop for Secondary 3<br>*   Lyric Writing Workshop with prolific songwriter Mr Khir Abdul Rahman for Secondary 1<br>*   Learning Journey to Wisma Geylang Serai for Secondary 1  |
+| *  Lyric Writing Workshop with prolific songwriter Mr Khir Abdul Rahman for Secondary 1 <br> * Dikir Barat Workshop for Secondary 2 <br> * Amazing Race and “The Rice Story” workshop for Secondary 3 <br> * Learning Journey with Cluster School to Malay Language Heritage Centre for Higher Malay Language students |
 |  **Tamil Language Department** |
-|  *   Journalism Workshop for Secondary 2 and Secondary 3 Higher Tamil at Singapore Press Holding, Tamil Murasu.<br>*   Tamil Language and Cultural Camp / Tamil Fest at Umar Pulavar Tamil Language Centre for Secondary 1. |
+| * Journalism Workshop for Secondary 2 and Secondary 3 Higher Tamil at Singapore Press Holding, Tamil Murasu. <br> * Tamil Language and Cultural Camp / Tamil Fest at Umar Pulavar Tamil Language Centre for Secondary One and Secondary Two students. <br> * Extensive Reading Programme for Lower Secondary Students |
 |   |
 
 #### Competitions and Achievements
 
-|   |
+|   | 
 |---|
-| **Chinese Language Department**  |
-|  *   13th National Theatresports Championship 2019: Most Improving Group Award and Gold Award-Lin Jia Min (3D), Most Collaborative Group Award and Silver Award – Lim Yu Xing (3E), Bronze Award – Ang Zong Zhen (3D), Most Popular Group Award – Meagan Tan (3D)<br>*   6th Skit Seminar cum Competition for Secondary Schools on 20th September 2019 (2019年第六届“中学生短剧创作营” ) |
+| **Chinese Language Department**  | 
+| *   13th National Theatresports Championship 2019:  <br>Most Improving Group Award and Gold Award - Lin Jia Min (3D) <br>Most Collaborative Group Award and Silver Award – Lim Yu Xing (3E), Bronze Award – Ang Zong Zhen (3D) <br> Most Popular Group Award  Meagan Tan (3D) <br> *    6th Skit Seminar cum Competition for Secondary Schools on 20th September 2019 |
 | **Malay Language Department**  |
-| *   Malay Scrabble Competition 2019 (Piala Cendekia Sahibba 2019): Participation<br>*   Appointed 2 of our Secondary 3 students as Malay Language Ambassadors in conjunction with the National Malay Language Month  |
+| * Participated in the National Level (Secondary School) Essay Writing Competition organised by EDN media. All entries attained GOLD award, with two entries attaining placing in top 30. <br> * Attained 3rd Placing in the ‘BLACKARENA 2022’ video competition organised by Bukit Batok East CC. <br> * Participated in the National Level Oratorical Online competition organised by Pusat Bahasa Nusa. Attained notable placings. |
 | **Tamil Language Department**  |
-|  *   Drama Competition organized by Singapore Indian Artistes’ Association: 2ndPrize<br>*   National Level Budding Writers’ and Artiste’ Competition organized by TL Unit of the MTL Branch, CPDD, Ministry of Education: Silver Award in both Lower Secondary and Upper Secondary category.<br>*   West 4 Cluster Competitions 2019: 2ndPrize in Speech Competition, 1stPrize in Advertisement Making Competition, Consolation Prize in Short Story Writing Competition<br>*   Quiz Competition organized by Boon Lay Secondary School: 3rdPrize |
+| *  National Level Budding Writers’ and Artiste’ Competition organized by TL Unit of the MTL Branch, CPDD, Ministry of Education: Certificate of Achievement Award for Lower Secondary Category &amp; Certificate of Participation for Upper Secondary Category <br> *  Poem Translation Competion organised by Kavimalai Singapore: 3rd Prize <br> * West 4 Cluster Competitions 2023: 1st &amp; 2nd Prize in Show and Tell Competition, 2nd Prize in Advertisement Making Competition, 3rd Prize in Oratorical Competition, 3rd Prize in Role-Play competition, Consolation Prizes in Short Story Writing Competition and Role-Play competition.|
 |   |

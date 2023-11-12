@@ -2,6 +2,7 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Floorball2023.md
       - Hockey.md
       - Sports Leaders.md
       - Virtual Open House (Videos).md

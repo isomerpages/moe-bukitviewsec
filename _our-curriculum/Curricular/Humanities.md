@@ -3,6 +3,7 @@ title: Humanities
 permalink: /our-curriculum/Curricular/Humanities/
 description: ""
 third_nav_title: Curricular
+variant: markdown
 ---
 ## Humanities
 
@@ -72,4 +73,4 @@ Through the various learning journeys, Bukit Viewans also have the opportunity t
 Given the robust Humanities learning experiences offered, Bukit Viewans have been performing well in the various fields of Humanities. In 2022 for example, our students attained the Bronze Medal Award for the Individual Component of the NUS Geography Challenge. Students also actively participate and present in Model United Nations Conferences where they engage in &nbsp;discussions on current affairs with like-minded students from other schools.
 
 <img src="/images/Department%20photos/humans1.jpg" style="width:49%" align="left">
-<img src="/images/Department%20photos/humans2.jpg" style="width:40%" align="right">
+<img src="/images/Department%20photos/humans2.jpg" style="width:30%" align="right">
