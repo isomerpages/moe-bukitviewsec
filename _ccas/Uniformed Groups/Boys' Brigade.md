@@ -3,6 +3,7 @@ title: Boys' Brigade
 permalink: /ccas/Uniformed-Groups/bb/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## **Boys' Brigade**
 
@@ -40,6 +41,7 @@ We seek to bring out the very best in every boy that comes under our charge. Our
  *   Activities organised throughout the year include camps (Adventure Camp and Leadership Camp), friendly sports matches with other, laser tag and first aid lessons.
  *   Community service activities such as BB Cares, BB Sharity Giftbox and The Orchard Road Christmas light-up.
  *   National competitions such as BB Adventure Quest, BB Blaze and BB Character Quest.
+ *  Overseas cultural immersion trip to Ipoh.
 
 <iframe width="800" height="558" src="https://www.youtube.com/embed/4DilPIoBmIU" title="The Boys’ Brigade in Singapore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
