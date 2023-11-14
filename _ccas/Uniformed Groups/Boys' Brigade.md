@@ -43,11 +43,16 @@ We seek to bring out the very best in every boy that comes under our charge. Our
  *   National competitions such as BB Adventure Quest, BB Blaze and BB Character Quest.
  *  Overseas cultural immersion trip to Ipoh.
 
-<iframe width="800" height="558" src="https://www.youtube.com/embed/4DilPIoBmIU" title="The Boys’ Brigade in Singapore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<img src="/images/bb1.jpg" style="width:49%" align="left">
-<img src="/images/bb2.jpg" style="width:49%" align="right">
+<iframe height="300" width="500" src="https://www.youtube.com/embed/4DilPIoBmIU" title="The Boys’ Brigade in Singapore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<br>
+<img src="/images/CCA%20Page/Uniformed%20Groups/IMG_4539.JPG" style="width:49%" align="left">
+<img src="/images/CCA%20Page/Uniformed%20Groups/IMG_6442.JPG" style="width:49%" align="right">
+<img src="/images/CCA%20Page/Uniformed%20Groups/IMG_2243.JPG" style="width:49%" align="left">
+<img src="/images/CCA%20Page/Uniformed%20Groups/IMG_7178.JPG" style="width:49%" align="right">
+<img src="/images/CCA%20Page/Uniformed%20Groups/IMG_6498.JPG" style="width:49%" align="left">
+<img src="/images/CCA%20Page/Uniformed%20Groups/IMG_6519.JPG" style="width:49%" align="right">
 <br clear="left"><br>
+
 
 #### AWARDS AND ACHIEVEMENTS
 
