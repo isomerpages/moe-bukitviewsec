@@ -50,8 +50,7 @@ In Secondary 2, students will immerse themselves in Applied Drama. Three drama t
 Selected Secondary 2 students will also be featured in our annual LLP showcase which will resume in 2024.
 
 ![](/images/Arts%20X%20Values%20(LLP)/drama%20in%20curriculum.jpg)
-
-![](/images/Arts%20X%20Values%20(LLP)/slide8.JPG)
+![](/images/Arts%20X%20Values%20(LLP)/LLP1.jpg)
 
 **LLP Learning Journey**<br>Students will get to experience a learning journey to theatre performances or visits to Institutes of higher learning when available. Over the years Bukit View students have had the opportunity to appreciate performances in the community and public theatres like the Marina Bay Sands as well as a backstage tour of the Esplanade. 
 
