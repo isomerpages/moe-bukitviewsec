@@ -19,18 +19,18 @@ To know more about Full Subject Based Banding, click on the following link:
 **Full Subject Based Banding**<br>
 [https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
 
-<p><a href="/admissions/Secondary-One-2023/sm/">
+<p><a href="/admissions/secondary-one-2024/sm/">
 <img style="width:45%" align="left" src="/images/studentmatters.png">
 </a></p>
 
-<p><a href="/admissions/Secondary-One-2023/booksnuniform/">
+<p><a href="/admissions/secondary-one-2024/booksnuniform/">
 <img style="width:45%" align="right" src="/images/booksnuniform.png">
 </a></p>
 
-<p><a href="/admissions/Secondary-One-2023/fas/">
+<p><a href="/admissions/secondary-one-2024/fas/">
 <img style="width:45%" align="left" src="/images/fasapplication.png">
 </a></p>
 
-<p><a href="/admissions/Secondary-One-2023/studtransfer/">
+<p><a href="/admissions/secondary-one-2024/studtransfer/">
 <img style="width:45%" align="right" src="/images/studenttransfers.png">
 </a></p>
