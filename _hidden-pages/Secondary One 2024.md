@@ -20,17 +20,21 @@ To know more about Full Subject Based Banding, click on the following link:
 [https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
 
 <p><a href="/admissions/secondary-one-2024/sm/">
-<img style="width:45%" align="left" src="/images/sec1reg/studentmatters.png">
+<img style="width:45%" align="left" src="/images/Sec1Reg/studentmatters.png">
 </a></p>
 
 <p><a href="/admissions/secondary-one-2024/booksnuniform/">
-<img style="width:45%" align="right" src="/images/sec1reg/booksnuniform.png">
+<img style="width:45%" align="right" src="/images/Sec1Reg/booksnuniform.png">
 </a></p>
 
 <p><a href="/admissions/secondary-one-2024/fas/">
-<img style="width:45%" align="left" src="/images/sec1reg/fasapplication.png">
+<img style="width:45%" align="left" src="/images/Sec1Reg/fasapplication.png">
 </a></p>
 
 <p><a href="/admissions/secondary-one-2024/studtransfer/">
-<img style="width:45%" align="right" src="/images/sec1reg/studenttransfers.png">
+<img style="width:45%" align="right" src="/images/Sec1Reg/studenttransfers.png">
+</a></p>
+
+<p><a href="/admissions/secondary-one-2024/fas/">
+<img style="width:45%" align="left" src="/images/Sec1Reg/Purchase_of_PLD.png">
 </a></p>
