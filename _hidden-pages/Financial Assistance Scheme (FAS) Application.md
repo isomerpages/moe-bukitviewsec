@@ -4,7 +4,8 @@ permalink: /admissions/secondary-one-2023/fas/
 description: ""
 variant: markdown
 ---
-<h2>Financial Assistance Scheme (FAS) Application</h2><div class="isomer-image-wrapper"><img height="529" width="643" src="https://lh7-us.googleusercontent.com/fR1BG3mqtA7D7Cs59_Q_K2NTodJCF22BHUIdJ5mrkh6iKHVxRtwNqpYOp4NxZhyjcxflr50K7WAVzDZ0mKwnyA5D2vNdJSEHox-5Yw1k4k3UVYwUMiMpJkQk0Ceykr0JiDfgPJPu-q_D"></div>
+<h3>Financial Assistance Scheme (FAS) Application</h3>
+<div class="isomer-image-wrapper"><img height="529" width="643" src="https://lh7-us.googleusercontent.com/fR1BG3mqtA7D7Cs59_Q_K2NTodJCF22BHUIdJ5mrkh6iKHVxRtwNqpYOp4NxZhyjcxflr50K7WAVzDZ0mKwnyA5D2vNdJSEHox-5Yw1k4k3UVYwUMiMpJkQk0Ceykr0JiDfgPJPu-q_D"></div>
 <br><a href="/files/Sec 1 Registration/MOE_FAS_pamphlet.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet</a><br>
 <br> If your FAS application has already been approved by your child’s Primary School, please contact our school’s General Office (6566 1990) to obtain the BVSS approval letter before you proceed to collect your textbooks and uniform. 
 <h4>Eligibility Criteria</h4>
