@@ -2,7 +2,6 @@ collections:
   hidden-pages:
     output: true
     order:
-      - PLD Procurement.md
       - Floorball2023.md
       - Hockey.md
       - Sports Leaders.md
