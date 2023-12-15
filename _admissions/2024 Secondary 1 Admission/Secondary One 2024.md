@@ -34,6 +34,6 @@ To know more about Full Subject Based Banding, click on the following link:
 <img style="width:45%" align="right" src="/images/Sec1Reg/studenttransfers.png">
 </a></p>
 
-<p><a href="/admissions/secondary-one-2024/fas/">
+<p><a href="/admissions/secondary-one-2024/pld/">
 <img style="width:45%" align="left" src="/images/Sec1Reg/Purchase_of_PLD.png">
 </a></p>
