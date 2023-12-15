@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - 2024 Secondary 1 Admission/Student Transfers.md
       - 2024 Secondary 1 Admission/Financial Assistance Scheme (FAS)
         Application.md
       - 2024 Secondary 1 Admission/Purchase of Books and Uniforms.md
