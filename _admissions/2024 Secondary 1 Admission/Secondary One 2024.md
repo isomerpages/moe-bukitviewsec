@@ -5,9 +5,9 @@ description: ""
 variant: markdown
 third_nav_title: 2024 Secondary 1 Admission
 ---
-### <center>A very warm welcome to our BVSS Family!</center>
+### <center>A very warm welcome to our BVSS Family!
 
-![](/images/Sec1Reg/welcome.jpg)
+![](/images/Sec1Reg/welcome.jpg)</center><br>
 As announced by MOE, Secondary 1 students (2024) are&nbsp;not&nbsp;required to physically report to school once you have received your posting result. We look forward to welcoming your child/guardian to our school on the first day of school on **Tuesday 2 January 2024**.
 
 Parents/Guardians of newly posted Secondary 1 students will receive a welcome message via Parents Gateway (PG) by our Secondary 1 Assistant Year Head, Miss Kumutha. This welcome message will provide details on our orientation programme in 2024.
