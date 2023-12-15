@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2024 Secondary 1 Admission/.keep
-      - Secondary One 2024.md
       - Direct School Admission.md
       - Student Transfers.md
       - Returning Singaporeans.md
