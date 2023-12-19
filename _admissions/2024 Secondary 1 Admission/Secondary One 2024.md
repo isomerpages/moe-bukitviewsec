@@ -14,11 +14,6 @@ Parents/Guardians of newly posted Secondary 1 students will receive a welcome me
 
 For further information regarding matters pertaining to Secondary 1 enrolment, please click on the icons below. For parents who require assistance, please contact the school for further clarification.
 
-To know more about Full Subject Based Banding, click on the following link:
-
-**Full Subject Based Banding**<br>
-[https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
-
 <p><a href="/admissions/secondary-one-2024/sm/">
 <img style="width:45%" align="left" src="/images/Sec1Reg/studentmatters.png">
 </a></p>
@@ -38,3 +33,9 @@ To know more about Full Subject Based Banding, click on the following link:
 <p><a href="/admissions/secondary-one-2024/studtransfer/">
 <img style="width:45%" align="left" src="/images/Sec1Reg/studenttransfers.png">
 </a></p>
+
+<br>
+To know more about Full Subject Based Banding, click on the following link:
+
+**Full Subject Based Banding**<br>
+[https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
