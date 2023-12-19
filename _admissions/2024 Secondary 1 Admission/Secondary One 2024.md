@@ -23,12 +23,12 @@ For further information regarding matters pertaining to Secondary 1 enrolment, p
 <img style="width:45%" align="right" src="/images/Sec1Reg/Purchase_of_PLD.png">
 </a></p><p><a href="/admissions/secondary-one-2024/studtransfer/">
 <img style="width:45%" align="left" src="/images/Sec1Reg/studenttransfers.png">
-</a></p><table>
+</a></p>
+<table>
 </table>
-
-
 
 ##### To know more about Full Subject Based Banding, click on the following link:
 
 **Full Subject Based Banding**<br>
 [https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
+	
