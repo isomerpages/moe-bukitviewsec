@@ -36,8 +36,12 @@ For further information regarding matters pertaining to Secondary 1 enrolment, p
 
 
 
-<br>
+
+
+
+
 To know more about Full Subject Based Banding, click on the following link:
 
 **Full Subject Based Banding**<br>
 [https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
+	
