@@ -13,7 +13,6 @@ As announced by MOE, Secondary 1 students (2024) are&nbsp;**not**&nbsp;required 
 Parents/Guardians of newly posted Secondary 1 students will receive a welcome message via Parents Gateway (PG) by our Secondary 1 Assistant Year Head, Miss Kumutha. This welcome message will provide details on our orientation programme in 2024.
 
 For further information regarding matters pertaining to Secondary 1 enrolment, please click on the icons below. For parents who require assistance, please contact the school for further clarification.
-
 <p><a href="/admissions/secondary-one-2024/sm/">
 <img style="width:45%" align="left" src="/images/Sec1Reg/studentmatters.png">
 </a></p><p><a href="/admissions/secondary-one-2024/booksnuniform/">
@@ -25,24 +24,11 @@ For further information regarding matters pertaining to Secondary 1 enrolment, p
 </a></p><p><a href="/admissions/secondary-one-2024/studtransfer/">
 <img style="width:45%" align="left" src="/images/Sec1Reg/studenttransfers.png">
 </a></p><table>
-	<tbody><tr>
+</table>
 
-
-
-</tr>
-<tr>
-
-
-
-		</tr>
-<tr>
-
-		</tr>
-</tbody></table>
 
 
 ##### To know more about Full Subject Based Banding, click on the following link:
 
 **Full Subject Based Banding**<br>
 [https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
-	
