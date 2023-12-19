@@ -19,11 +19,11 @@ sections:
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
   - infopic:
-      title: Experience why we are The Place to Be!
+      title: "2024 S1 Registration "
       id: infopic
       button: Find out more
-      url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
-      image: /images/open house 23.jpeg
+      url: https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2024/sec12024/
+      image: /images/Sec1Reg/welcome.jpg
       alt: Image alt text
   - infopic:
       description: Find out more about Bukit View Sec in the WeSTories Publications
