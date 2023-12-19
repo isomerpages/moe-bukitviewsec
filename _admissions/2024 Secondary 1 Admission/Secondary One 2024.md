@@ -34,6 +34,8 @@ For further information regarding matters pertaining to Secondary 1 enrolment, p
 <img style="width:45%" align="left" src="/images/Sec1Reg/studenttransfers.png">
 </a></p>
 
+
+
 <br>
 To know more about Full Subject Based Banding, click on the following link:
 
