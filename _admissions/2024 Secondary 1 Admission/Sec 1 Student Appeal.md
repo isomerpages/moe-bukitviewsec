@@ -1,0 +1,8 @@
+---
+title: Sec 1 Student Appeal
+permalink: /admissions/secondary-one-2024/studtransfer/
+description: ""
+variant: tiptap
+third_nav_title: 2024 Secondary 1 Admission
+---
+<h2>Student Transfers</h2><h4>For students requesting to transfer out of BVSS (due to serious medical conditions)</h4><p>For students posted to BVSS but are seeking transfer out due to serious medical conditions (e.g. chronic heart conditions) or severe physical impairments (e.g. require permanent use of a wheelchair), please approach the school between <strong>8.30 am and 12 pm on 21 Dec 2023</strong>, bringing supporting documents (e.g. medical reports, letters from doctors).</p><h4>For students requesting to transfer into BVSS</h4><p>Students seeking transfer may complete this online&nbsp;<a href="https://go.gov.sg/bvss-s1appeal2024" rel="noopener noreferrer nofollow" target="_blank">Transfer Form</a>, with softcopy supporting documents.<br>Please note that our transfer appeal period is open until <strong>26 Dec 2023 12.00 pm</strong>.&nbsp;</p><p>We review every application carefully, taking a holistic view in determining suitability for admission, considering academic results, passion/interests, reason for transfer, etc.</p><p>Do note that your child's PSLE score should meet the school's cut-off point (COP) (e.g. if the school's COP is 19, your child's score should be 19 or lower). As the application is subject to available vacancies, please note that admission is not guaranteed.</p>
