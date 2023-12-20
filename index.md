@@ -22,7 +22,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Updates on PG announcements for Sec 1 (2024) Parents
+        - title: Update on PG announcements for Sec 1 (2024) Parents
           date: 20 December 2023
           announcement: Please note that Parents Gateway (PG) is not ready with the S1
             2024 posting data. They are currently addressing the issue. We hope
