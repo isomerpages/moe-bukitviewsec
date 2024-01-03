@@ -1,0 +1,12 @@
+logo: /images/Bukit_View_Secondary_School_logo.png
+links:
+  - title: Our Story
+    collection: our-story
+  - title: Our Family
+    collection: our-family
+  - title: Our Distinctives
+    collection: our-distinctives
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Admissions
+    collection: admissions

@@ -1,0 +1,25 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - Uniformed Groups/.keep
+      - Uniformed Groups/NPCC.md
+      - Uniformed Groups/NCC.md
+      - Uniformed Groups/Girls' Brigade.md
+      - Uniformed Groups/Boys' Brigade.md
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Drama Club.md
+      - Visual and Performing Arts/Concert Band.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Dance Club.md
+      - Visual and Performing Arts/Media & Publicity.md
+      - Clubs and Societies/Environmental Club.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Infocomm Club.md
+      - Clubs and Societies/Singapore Youth Flying Club.md
+      - Sports and Games/Floorball.md
+      - Sports and Games/.keep
+      - Sports and Games/Badminton.md
+      - Sports and Games/Table Tennis.md
+      - Sports and Games/Track & Field.md
+      - Sports and Games/Volleyball.md

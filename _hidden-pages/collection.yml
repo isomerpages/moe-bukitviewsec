@@ -1,0 +1,9 @@
+collections:
+  hidden-pages:
+    output: true
+    order:
+      - Student Transfers.md
+      - Floorball2023.md
+      - Hockey.md
+      - Sports Leaders.md
+      - Virtual Open House (Videos).md
