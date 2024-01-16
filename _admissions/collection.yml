@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2024 Secondary 1 Admission/.keep
-      - 2024 Secondary 1 Admission/Student Matters.md
       - 2024 Secondary 1 Admission/Purchase of Books and Uniforms.md
       - 2024 Secondary 1 Admission/PLD Procurement.md
       - 2024 Secondary 1 Admission/Financial Assistance Scheme (FAS)
