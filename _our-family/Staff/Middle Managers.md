@@ -3,6 +3,7 @@ title: Middle Managers
 permalink: /our-family/Staff/mm/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 ## Middle Managers
 
@@ -59,21 +60,14 @@ third_nav_title: Staff
 
 
 <img src="/images/Key%20Personel%20Photos/patricia%20lye.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/marhaini.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Key%20Personel%20Photos/kumutha.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/Key%20Personel%20Photos/sarah%20lah.jpg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-|  **Miss Patricia Lye**<br>SH/Computing  |  **Mdm Marhaini**<br>SH/Malay &amp; Tamil Language  | **Miss Sarah Lah Xin Ying**<br>SH/Biology  |
+|  **Miss Patricia Lye**<br>SH/Computing  |  **Miss Kumutha**<br>Assistant Year Head  | **Miss Sarah Lah Xin Ying**<br>SH/Biology  |
 |   |   |   |
 
-<img src="/images/Key%20Personel%20Photos/reena%20llyod.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/tan%20hui%20min.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/kumutha.jpg" style="width:30%;margin-right:15px;" align="left">
+
 <br clear="left">
-
-|   |   |   |
-|---|---|---|
-|**Mrs Reena Lloyd**<br>LH/Science &amp; ALP  |  **Ms Tan Hui Min**<br>SH/Educational Technology |**Miss Kumutha**<br>Assistant Year Head  |
-|   |   |   |
