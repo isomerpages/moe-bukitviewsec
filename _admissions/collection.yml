@@ -2,7 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - Sec 1 Student Appeal for Transfer.md
       - Direct School Admission.md
       - Returning Singaporeans.md
       - International Students.md
