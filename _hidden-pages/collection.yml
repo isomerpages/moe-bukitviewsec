@@ -2,6 +2,7 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Secondary One 2024.md
       - Student Transfers.md
       - Floorball2023.md
       - Hockey.md
