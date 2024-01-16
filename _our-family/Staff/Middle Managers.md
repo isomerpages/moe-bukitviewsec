@@ -28,22 +28,22 @@ variant: markdown
 |   |   |   |
 
 <img src="/images/Key%20Personel%20Photos/toh%20yeok%20tee.jpg" style="width:30%;margin-right:15px;" align="left">
-
+<img src="/images/Key%20Personel%20Photos/chin%20wey%20thur.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Key%20Personel%20Photos/ng%20wuay%20boon.jpg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-| **Mdm Toh Yeok Tee**<br>HOD/English Language  |   |   |
+| **Mdm Toh Yeok Tee**<br>HOD/English Language  |  **Mr Chin Wey Thur**<br>HOD/PE &amp; CCA | **Mr Ng Wuay Boon**<br>HOD/Science   |
 |   |   |   |
 
-<img src="/images/Key%20Personel%20Photos/chin%20wey%20thur.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/ng%20wuay%20boon.jpg" style="width:30%;margin-right:15px;" align="left">
+
 <img src="/images/Key%20Personel%20Photos/nalini%20ram.jpg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-| **Mr Chin Wey Thur**<br>HOD/PE &amp; CCA  | **Mr Ng Wuay Boon**<br>HOD/Science  |  **Mrs Nalini Ram**<br>HOD/Humanities
+| **Mrs Nalini Ram**<br>HOD/Humanities  |  |  
 |   |   |   |
 
 <img src="/images/Key%20Personel%20Photos/elamaran.jpg" style="width:30%;margin-right:15px;" align="left">
