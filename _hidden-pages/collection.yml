@@ -2,6 +2,13 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Direct School Admission.md
+      - Sec 1 Student Appeal for Transfer.md
+      - Financial Assistance Scheme (FAS) Application.md
+      - PLD Procurement.md
+      - Purchase of Books and Uniforms.md
+      - Student Matters.md
+      - Secondary One 2024.md
       - Student Transfers.md
       - Floorball2023.md
       - Hockey.md

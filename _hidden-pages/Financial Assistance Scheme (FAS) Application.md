@@ -3,7 +3,6 @@ title: Financial Assistance Scheme (FAS) Application
 permalink: /admissions/secondary-one-2024/fas/
 description: ""
 variant: markdown
-third_nav_title: 2024 Secondary 1 Admission
 ---
 <h3>Financial Assistance Scheme (FAS) Application</h3>
 <div class="isomer-image-wrapper"><img height="529" width="643" src="https://lh7-us.googleusercontent.com/fR1BG3mqtA7D7Cs59_Q_K2NTodJCF22BHUIdJ5mrkh6iKHVxRtwNqpYOp4NxZhyjcxflr50K7WAVzDZ0mKwnyA5D2vNdJSEHox-5Yw1k4k3UVYwUMiMpJkQk0Ceykr0JiDfgPJPu-q_D"></div>

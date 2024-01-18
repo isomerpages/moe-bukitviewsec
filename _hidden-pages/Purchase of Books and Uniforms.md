@@ -3,7 +3,6 @@ title: Purchase of Books and Uniforms
 permalink: /admissions/secondary-one-2024/booksnuniform/
 description: ""
 variant: markdown
-third_nav_title: 2024 Secondary 1 Admission
 ---
 <h3>Purchase of Books and Uniforms</h3>
 <p>Book purchases will be by online order and home delivery as a default.&nbsp; However, if there is a need to purchase items in person, you are strongly encouraged to book an appointment so that the vendor can prepare the books in advance. For an appointment to purchase and self-collect books in school, please refer to the table below.</p>

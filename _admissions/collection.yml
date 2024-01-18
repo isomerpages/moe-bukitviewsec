@@ -2,15 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - 2024 Secondary 1 Admission/.keep
-      - 2024 Secondary 1 Admission/Secondary One 2024.md
-      - 2024 Secondary 1 Admission/Student Matters.md
-      - 2024 Secondary 1 Admission/Purchase of Books and Uniforms.md
-      - 2024 Secondary 1 Admission/PLD Procurement.md
-      - 2024 Secondary 1 Admission/Financial Assistance Scheme (FAS)
-        Application.md
-      - 2024 Secondary 1 Admission/Sec 1 Student Appeal for Transfer.md
-      - Direct School Admission.md
       - Returning Singaporeans.md
       - International Students.md
       - Virtual Open House.md
