@@ -32,8 +32,7 @@ With the support of HQ NCC, NCC encourages combined training across schools of t
 
 |   |   |
 |---|---|
-| Mr Ramasamy Stalin (IC)  | 
-| Mr Muhd Nazar | 
+| Mr Ramasamy Stalin (IC)  |  Mr Muhd Nazar | 
 | Miss Lin I Chen| 
 |   |   |
 
