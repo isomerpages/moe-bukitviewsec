@@ -3,6 +3,7 @@ title: Dance Club
 permalink: /ccas/Visual-and-Performing-Arts/dance/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 ## **Dance Club**
 
@@ -30,8 +31,7 @@ The objectives of BVSS Dance Club are to nurture the love for dance as a perform
 
 |   |   |
 |---|---|
-| Mrs Dharani Dinesh  |  Mdm Marhaini |
-| Ms Sarah Lah  |   |
+| Mrs Dharani Dinesh  | Ms Sarah Lah  | 
 |   |   |
 
 #### HIGHLIGHT OF THE YEAR <br>
