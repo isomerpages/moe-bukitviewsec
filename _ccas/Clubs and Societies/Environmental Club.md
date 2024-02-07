@@ -35,13 +35,13 @@ The Environmental Club was formally started in 2005. We are a group of students 
 
 |Day(s)   |  Time |
 |---|---|
-| Friday |  2:40 pm – 5:40 pm |
+| Friday |  2:40 pm – 5:30 pm |
 |   |   |
 
 #### TEACHERS-IN-CHARGE
 | | |
 | --- | --- |
-|Mrs Toh Kai Poh  | Mrs Reena Lloyd |
+|Mrs Toh Kai Poh  | Miss Chun Kai Xin |
 | | |
 
 #### HIGHLIGHT OF THE YEAR
