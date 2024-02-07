@@ -3,6 +3,7 @@ title: Singapore Youth Flying Club
 permalink: /our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ## **Singapore Youth Flying Club**
 
@@ -25,7 +26,7 @@ The objectives of the Bukit View Secondary School's Youth Flying Club are threef
 
 | Day(s) | Time |
 | --- | --- | 
-| Wednesday | 2:30 pm - 5:30 pm |
+| Wednesday | 2:40 pm - 5:30 pm |
 | | |
 
 #### TEACHER-IN-CHARGE
