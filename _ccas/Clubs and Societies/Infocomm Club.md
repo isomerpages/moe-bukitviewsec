@@ -25,7 +25,7 @@ The Infocomm Club aims to :
 
 | Day(s) | Time |
 | --- | --- | 
-| Wednesday | 2:30 pm - 5:15 pm |
+| Wednesday | 2:40 pm - 5:30 pm |
 | | |
 
 #### TEACHER-IN-CHARGE
