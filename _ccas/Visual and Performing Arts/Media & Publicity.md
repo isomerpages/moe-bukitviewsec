@@ -28,7 +28,7 @@ The Club provides training in the various aspect of photography and videography 
 |   |   |
 |---|---|
 | Mr Muhammad Na’im | Mdm Fatimah Begum  |
-|Mdm Sarinah | |
+|Mdm Sarinah | 
 |   |   |
 
 #### HIGHLIGHT OF THE YEAR
