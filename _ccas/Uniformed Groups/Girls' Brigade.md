@@ -3,6 +3,7 @@ title: Girls' Brigade
 permalink: /ccas/Uniformed-Groups/gb/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## **Girls' Brigade**
 
@@ -26,8 +27,8 @@ Our GB Programmme comprises four aspects – physical, educational, values and s
 
 |   |   |
 |---|---|
-| Mdm Quek Eng Chiew (I/C)  | Mrs Kelly Chew  |
-|  Miss Esther Tan |  Ms Charmaine Cheong (VAL) |
+| Mrs Kelly Chew  | Miss Esther Tan |  
+|Ms Charmaine Cheong (VAL) |
 |   |   |
 
 #### HIGHLIGHTS OF THE YEAR
