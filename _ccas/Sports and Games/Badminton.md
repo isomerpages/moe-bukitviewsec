@@ -3,6 +3,7 @@ title: Badminton
 permalink: /our-curriculum/co-curricular/ccas/sport-and-games/badminton/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 ## **BADMINTON**
 
@@ -32,8 +33,8 @@ In line with our school emphasis on Positive Education, the main aim of our club
 
 | | |
 | --- | --- |
-| Mr Mohammad Zulkefly B Idrus | Mdm Tan Jee Niang |
-|Mr Guo Feng|
+| Mr Mohammad Zulkefly B Idrus | Mr Guo Feng |
+| Mdm Leong Wee Choo |
 | | |
 
 #### HIGHLIGHTS OF THE YEAR
