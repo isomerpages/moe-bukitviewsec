@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /ccas/Visual-and-Performing-Arts/concertb/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 ## Concert Band
 
@@ -24,7 +25,7 @@ The Band seeks to bring out the best in all our members. Our members are given o
 
 | Day(s)  |  Time |
 |---|---|
-| Wednesday  |  2:30 pm – 5:30 pm |
+| Wednesday  |  2:40 pm – 5:40 pm |
 | Friday  | 1:30 pm – 4:30 pm  |
 |   |   |
 
@@ -35,7 +36,7 @@ _**Note: Secondary One members only practice on Wednesdays until they join the m
 |   |   |
 |---|---|
 | Mdm Geetha ( I/C)  |  Ms Leung Jyn Lem Cheryl |
-|  Mdm Athinamilagi Kokila|   Ms Ker Shiyao|
+|  Mdm Athinamilagi Kokila|   Ms Ke Shi yao|
 |   |   |
 
 #### AWARDS AND ACHIEVEMENTS
