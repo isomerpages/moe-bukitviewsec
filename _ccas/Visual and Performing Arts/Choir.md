@@ -3,6 +3,7 @@ title: Choir
 permalink: /ccas/Visual-and-Performing-Arts/Choir/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 ## **Choir**
 
@@ -31,8 +32,8 @@ Next, please enjoy our version of “All Things Bright and Beautiful” – made
 
 | Day(s)  | Time  |
 |---|---|
-|  Wednesday | 2:30 pm – 5:30 pm  |
-|  Friday | 1:30 pm – 4:30 pm  |
+|  Wednesday | 2:45 pm – 5:30 pm  |
+|  Friday | 1:20 pm – 4:30 pm  |
 |   |   |
 
 #### TEACHERS-IN-CHARGE

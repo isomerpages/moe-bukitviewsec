@@ -49,9 +49,10 @@ PERSEVERING FORWARD BOUND
 
 |   |   |
 |---|---|
-| Officer in Command | A/ASP (NPCC) Afiq Ismail
-|  UG Teacher &amp; Squad Officer | Ms. Vianne Tan|
+| Officer in Command | A/ASP (NPCC) Afiq Ismail|
 |  UG Teacher &amp; Squad Officer | Mdm. Mastura Ashari|
+|  UG Teacher &amp; Squad Officer | Ms. Vianne Tan|
+|  UG Teacher &amp; Squad Officer | Ms Ang Kim Leng|
 |   |   |
 
 |   |   |

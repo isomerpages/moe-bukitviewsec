@@ -3,6 +3,7 @@ title: Track & Field
 permalink: /our-curriculum/co-curricular/ccas/sport-and-games/track-n-field/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 ## **Track &amp; Field**
 
@@ -16,16 +17,16 @@ Track &amp; Field aspires to instill in Bukit Viewans a greater appreciation for
 
 | Day(s) | Time |
 | --- | --- | 
-| Wednesday | 3:00pm - 5:00pm |
-| Friday | 3:00pm - 5:00pm |
+| Wednesday | 3:10pm - 5:10pm |
+| Friday | 2:30pm - 5:00pm |
 | | |
 
 #### TEACHER-IN-CHARGE
 
 | | |
 | --- | --- |
-| Mdm Li Yang | Miss Kumutha|
-| Mdm Fatimah Begum |  |
+| Ms Siti Nurhidayu  | Miss Kumutha|
+| Mr Elamaran|  |
 | | |
 
 #### HIGHLIGHT OF THE YEAR

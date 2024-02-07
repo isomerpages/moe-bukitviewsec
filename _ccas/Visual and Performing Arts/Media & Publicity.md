@@ -3,6 +3,7 @@ title: Media & Publicity
 permalink: /ccas/Visual-and-Performing-Arts/media/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 ## **Media &amp; Publicity Club**
 
@@ -19,15 +20,15 @@ The Club provides training in the various aspect of photography and videography 
 
 | Day(s)  |  Time |
 |---|---|
-|  Wednesday | 2:30 pm – 5:30 pm  |
+|  Wednesday | 2:40 pm – 5:40 pm  |
 |   |   |
 
 #### TEACHERS-IN-CHARGE
 
 |   |   |
 |---|---|
-| Mr Kenneth Khoo  | Mr Muhammad Na’im  |
-|Mdm Sarinah | |
+| Mr Muhammad Na’im | Mdm Fatimah Begum  |
+|Mdm Sarinah | 
 |   |   |
 
 #### HIGHLIGHT OF THE YEAR

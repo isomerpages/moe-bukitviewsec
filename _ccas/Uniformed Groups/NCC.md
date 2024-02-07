@@ -23,15 +23,17 @@ With the support of HQ NCC, NCC encourages combined training across schools of t
 
 | **Day(s)**  |  **Time** |
 |---|---|
+|  Wednesday |  2:40 pm – 5:40 pm  |
 |  Friday |  2:15 pm – 5:15 pm |
+| Wed sessions are set aside for additional trainings or practices (in event of preparation for competition or special occasions). |
 |   |   |
 
 #### TEACHERS-IN-CHARGE
 
 |   |   |
 |---|---|
-| Mr Ramasamy Stalin (IC)  | 
-| Mr Muhd Nazar | 
+| Mr Ramasamy Stalin (IC)  |  Mr Muhd Nazar | 
+| Miss Lin I Chen| 
 |   |   |
 
 #### HIGHLIGHTS OF THE YEAR
