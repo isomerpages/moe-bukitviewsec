@@ -3,6 +3,7 @@ title: Table Tennis
 permalink: /our-curriculum/co-curricular/ccas/sport-and-games/table-tennis/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 ## **Table Tennis** 
 
@@ -18,7 +19,7 @@ Students are committed to training that take place every Wednesday and Friday as
 
 | Day(s) | Time |
 | --- | --- | 
-| Wednesday | 2:30pm - 4:15pm |
+| Wednesday | 2:40pm - 4:25pm |
 | Friday | 3:15pm - 5:30pm |
 | | |
 
@@ -27,7 +28,7 @@ Students are committed to training that take place every Wednesday and Friday as
 | | |
 | --- | --- |
 | Mr Liu Sijian | Mr Tan Wei Chung |
-| Ms Bai Qiaoling | |
+| Ms Bai Qiaoling | Mr Neal Warren |
 | | |
 #### HIGHLIGHT OF THE YEAR
 
