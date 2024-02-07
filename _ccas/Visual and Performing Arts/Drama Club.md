@@ -3,6 +3,7 @@ title: Drama Club
 permalink: /ccas/Visual-and-Performing-Arts/drama/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 ## **Drama Club**
 
@@ -34,8 +35,8 @@ To cultivate and nurture a love and appreciation for mass media and the arts, wh
 
 |   |   |
 |---|---|
-| Ms Nur Syazwani |  Mr John Praveen |
-| Miss Shivali Popat Jadhav | Miss Lycia Ho  |
+| Mr Muhd Fadly |  Mr John Praveen |
+| Miss Shivali Popat Jadhav | 
 |   |   |
 
 #### HIGHLIGHT OF THE YEAR
