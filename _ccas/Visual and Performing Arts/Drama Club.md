@@ -27,7 +27,7 @@ To cultivate and nurture a love and appreciation for mass media and the arts, wh
 
 | Day(s)  | Time  |
 |---|---|
-| Wednesday  | 2:30 pm – 4:00 pm  |
+| Wednesday  | 2:40 pm – 4:40 pm  |
 |  Friday | 2:30 pm – 5:30 pm  |
 |   |   |
 
