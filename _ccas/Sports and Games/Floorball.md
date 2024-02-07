@@ -35,9 +35,10 @@ Through teamwork, floorball aims to instill responsibility, confidence and disci
 | | |
 | --- | --- |
 | Mrs Ng-Sim Kia Mien | Mr Koh Si Yao |
-| Ms Nur Illya Nafiza | Mdm Siti Aisah |
-| Ms Tan Hui Min | Mr Felix Wong |
+| Ms Nur Illya Nafiza | Mr Felix Wong |
+| Mdm Nurlesa|  
 | | |
+
 
 #### HIGHLIGHT OF THE YEAR
 
