@@ -30,6 +30,7 @@ Students are committed to training that take place every Wednesday and Friday as
 | Mr Liu Sijian | Mr Tan Wei Chung |
 | Ms Bai Qiaoling | Mr Neal Warren |
 | | |
+
 #### HIGHLIGHT OF THE YEAR
 
 Every year team players are selected to participate in the West Zone National School Games, as part of their exposure to the sports scene and also to cultivate sportsmanship and love for learning in conjunction with the Olympic spirit. The “B” and “C” Division Boys and Girls Teams put up commendable effort in the games, where they demonstrated zest and grit to fight for every single point. The “B” Division Boys achieved CCA Team Excellence Award in 2022. We will keep the momentum and look forward to a renewed vigour and focus in our Table Tennis Journey.
