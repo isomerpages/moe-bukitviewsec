@@ -146,7 +146,7 @@ for their all-round development.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Sports &amp; Games/Badminton/c_div_badminton_boys.jpeg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/CCA Page/Sports &amp; Games/Badminton/c_div_badminton_boys.jpeg">
 </div>
 <p>
 <br>C-division Boys</p>
@@ -162,7 +162,7 @@ for their all-round development.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/picture2.png">
+<img style="width: 55%;" height="auto" width="100%" src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/picture2.png">
 </div>
 <p></p>
 <p>Fitness Training</p>
@@ -178,7 +178,7 @@ for their all-round development.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/picture4.png">
+<img style="width: 55%;" height="auto" width="100%" src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/picture4.png">
 </div>
 <p>Getting Ready for Competitive Match</p>
 </td>
