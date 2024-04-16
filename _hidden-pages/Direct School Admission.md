@@ -140,6 +140,7 @@ For more information, please refer to the [CCA Webpage](https://www.bukitviewsec
 
 <br>
 <u><b>Programmes, activities and opportunities</b></u><br>
+
 Student will have the opportunity to build a strong foundation in fitness with running and jumping, leading to better overall health and coordination. Beyond the physical, the programme helps students to foster self-confidence through achievement and teaches valuable life skills such as discipline, teamwork, and sportsmanship. Selected students will also represent the school in the annual National School Games (NSG) Track &amp; Field Championship for Individual and Team events. It is a journey of self-discovery and pushing boundaries, while staying active.
 
 
