@@ -42,11 +42,6 @@ Students will be equipped with leadership skills, competencies and knowledge. Th
 
 For more information, please refer to the [webpage.](https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/)
 
-<u><b>Prerequisites</b></u><br>
-Held key appointment in student leadership bodies and/or demonstrated leadership in school-related activities. 
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their leadership qualities and skills through an interview.
 	
 
 **Choir**
@@ -59,14 +54,7 @@ Students will be given opportunities to express themselves through singing songs
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/Choir/).
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.
 
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:
-1.	Prepared items for showcase
-2.	Performance tasks
-3.	Interview component
 
 **Concert Band**
 <br>
@@ -76,14 +64,6 @@ Students will be given opportunities to perform in public concerts and the Singa
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/concertb/).
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:
-1.	Prepared items for showcase
-2.	Performance tasks
-3.	Interview component
 
 **Modern Dance**
 <br>
@@ -92,14 +72,6 @@ Shortlisted candidates will be assessed based on their artistic abilities, quali
 Students will be trained in techniques associated with various dance genres. They will have the opportunity to perform at school events such as the Chinese New Year concert, school National Day celebrations, Teachers’ Day, Open House and Singapore Youth Festival (SYF) Arts Presentation. There will also be opportunities for students to hone their leadership skills and further their passion in the arts through immersion programmes and workshops with various institutions. 
 For more information, please refer to the [ CCA webpage.](https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/dance/)
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:
-1.	Prepared items for showcase
-2.	Performance tasks
-3.	Interview component
 
 **English Drama**
 ![](/images/DSA/drama_edited.jpg)
@@ -111,14 +83,6 @@ As the Drama Club is the 2nd Tier of the school’s Learning for Life Programme 
 
 For more information, please refer to the [CCA webpage](https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/drama/).
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:
-1.	Prepared items for showcase
-2.	Performance tasks
-3.	Interview component
 
 **Coding**
 ![](/images/DSA/coding%20dsa_edited.jpg)
@@ -128,12 +92,6 @@ Students will learn computational thinking skills using different programming la
 
 For more information, please refer to the[CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club/) .
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated strong interest in coding and participated actively in related CCA, competitions and projects.
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their abilities, qualities and potential in coding through the following criteria:
-1.	Performance tasks
-2.	Interview component
 
 **Environmental Science**
 ![](/images/Environmental-300x200.jpg)
@@ -143,13 +101,6 @@ Students will learn to be environmentally conscious, to be aware of issues like 
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/ccas/Clubs-and-Societies/environmental/).
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated strong interest in coding and participated actively in related CCA, competitions and projects.
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their abilities, qualities and potential in coding through the following criteria:
-1.	Performance tasks
-2.	Interview component
 
 **STEM – Aerospace and Aviation**
 ![](/images/DSA/aviation%20dsa.jpg)
@@ -165,18 +116,6 @@ They will also have opportunities to represent the school in aviation and aerosp
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club/).
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated strong interest in aerospace and aviation and participated actively in a related CCA. 
-
-(Note: Non-Singapore Citizens may be exempt from the Flight Experience Program depending on security clearance granted by the airport)
-
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on prior knowledge and interest in aviation through the following criteria:
-1.	Performance tasks 
-2.	Interview component 
-
-(Note: The SYFC CCA entails physical activities, i.e building and flying aeromodels. During model building, students can be exposed to wood dust, etc, and while flying, students can be expected to be out in the sun. Student must be physically fit enough to take part in such activities. Students who are asthmatic, with skin conditions such as eczema, or have physical impairments will not be suitable
 
 **Badminton (Boys)**
 ![](/images/DSA/badminton%20dsa_edited.jpg)
@@ -186,13 +125,6 @@ Students will have the platform to develop their passion, interest and skills in
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/badminton/)
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated strong interest and passion in Sports and participated actively in relevant Sports CCA.
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their Sports abilities, qualities and potential in respective Sports areas through the following criteria:
-1.	Performance tasks and
-2.	Interview component
 
 **Table Tennis**
 ![](/images/Table-Tennis-300x185.png)
@@ -202,13 +134,19 @@ Students will have the opportunity to hone their table tennis skills under exper
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis/).
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated strong interest and passion in Sports and participated actively in relevant Sports CCA.
 
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their Sports abilities, qualities and potential in respective Sports areas through the following criteria:
-1.	Performance tasks and
-2.	Interview component
+
+**Track and Field**
+
+<br>
+<u><b>Programmes, activities and opportunities</b></u><br>
+Student will have the opportunity to build a strong foundation in fitness with running and jumping, leading to better overall health and coordination. Beyond the physical, the programme helps students to foster self-confidence through achievement and teaches valuable life skills such as discipline, teamwork, and sportsmanship. Selected students will also represent the school in the annual National School Games (NSG) Track &amp; Field Championship for Individual and Team events. It is a journey of self-discovery and pushing boundaries, while staying active.
+
+
+For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/track-n-field/).
+
+
+
 
 **Volleyball (Girls)**
 ![](/images/volleyball(girl).jpg)
@@ -217,11 +155,3 @@ Shortlisted candidates will be assessed based on their Sports abilities, qualiti
 Students will have a holistic experience through the training program, focusing not just on knowledge and skills acquisition of the sport at a higher level, but also in the areas of character building, leadership and teamwork. They will be able to enhance their repertoire of skills during trainings, and have the opportunity to participate in friendly matches and National School Games (NSG) competitions.
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/).
-
-<u><b>Prerequisites</b></u><br>
-Demonstrated strong interest and passion in Sports and participated actively in relevant Sports CCA.
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their Sports abilities, qualities and potential in respective Sports areas through the following criteria:
-1.	Performance tasks and
-2.	Interview component
