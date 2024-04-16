@@ -156,3 +156,6 @@ For more information, please refer to the [CCA Webpage](https://www.bukitviewsec
 Students will have a holistic experience through the training program, focusing not just on knowledge and skills acquisition of the sport at a higher level, but also in the areas of character building, leadership and teamwork. They will be able to enhance their repertoire of skills during trainings, and have the opportunity to participate in friendly matches and National School Games (NSG) competitions.
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/).
+
+
+**The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.**
