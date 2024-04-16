@@ -2,12 +2,13 @@
 title: Direct School Admission
 permalink: /admissions/dsa/
 description: ""
+variant: markdown
 ---
 ## Direct School Admission
 
-#### Information on 2023 Direct School Admission (DSA) to Bukit View Secondary School
+#### Information on 2024 Direct School Admission (DSA) to Bukit View Secondary School
 
-(For admission to Sec One in 2024)
+(For admission to Sec One in 2025)
 
 **Introduction**
   
@@ -15,7 +16,7 @@ The DSA-Sec Exercise was introduced by the Ministry of Education in 2004. It see
   
 **When choosing a secondary school, parents are encouraged to consider the students’ aptitudes and strengths, the school’s academic and non-academic requirements, and the programmes available to develop the students’ talents.**
 
-The Bukit View Secondary School (BVSS) DSA Exercise 2023 invites students in Primary 6 or equivalent (for overseas students) in 2023 with exceptional leadership, talent and/or interest in the following talent areas to apply for direct entry to the Secondary 1 cohort of 2024.
+The Bukit View Secondary School (BVSS) DSA Exercise 2024 invites students in Primary 6 or equivalent (for overseas students) in 2024 with exceptional leadership, talent and/or interest in the following talent areas to apply for direct entry to the Secondary 1 cohort of 2025.
 
 Students who are successfully admitted to BVSS via DSA are expected to honour their commitment to the school by participating in the activities related to the talent they are selected for.  
 
@@ -26,23 +27,7 @@ Students who are successfully admitted to BVSS via DSA are expected to honour th
 | Leadership and Uniformed Groups  | * Leadership |
 | Performing Arts  | * Choir<br> * Concert Band<br> * Modern Dance<br> * English Drama  |
 | Science, Technology, Engineering and Mathematics  | * Coding<br> * Environmental Science<br> * STEM - Aerospace and Aviation  |
-| Sports and Games  | * Badminton (Boys) <br>* Volleyball (Girls)<br> * Table Tennis  |
-|   |   |
-
-#### Application Procedure
-
-*   Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm . For more details, please refer to MOE website –&nbsp;[https://www.moe.gov.sg/dsa-sec.](https://www.moe.gov.sg/dsa-sec.)
-*   Only shortlisted candidates will be invited for interviews.
-*   The school’s decision on the offer is final. All applicants will be informed of the results of their application (confirmed / waiting list / not successful) by 11 September 2023.
-
-#### Schedule for 2023 DSA Exercise
-
-| **Process**  | **Date/Time**  |
-|---|---|
-| Application Period (via DSA-Sec Portal)  | 4 May 2023, 11am to 31 May 2023, 3pm  |
-| Selection Period (Interviews/Trials)  | 26 Jun 2023 to 11 Sep 2023  |
-| Application Outcome  | By 11 Sep 2023  |
-| School Preference Period  | Mon, 23 Oct to Fri, 27 Oct 2023|
+| Sports and Games  | * Badminton (Boys) <br> * Table Tennis <br>* Track and Field <br>* Volleyball (Girls) |
 |   |   |
 
 
