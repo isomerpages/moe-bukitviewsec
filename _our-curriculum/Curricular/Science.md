@@ -17,13 +17,15 @@ variant: markdown
 
 | Head of Department:  | **Mr Ng Wuay Boon**  |   |
 |---|---|---|
-| **Level Head**  |  **Mrs Reena Lloyd** |   |
+|    |   |
 | **Chemistry**  |  **Physics** | **Biology**  |
-|  Mr Liu Sijian | Mr Aw Kang Foong  | Ms Sarah Lah (SH/Biology)  |
-|  Mrs Foong Bee Yong |  Mr Eugene Quake | Ms Shivali Jadhav
+|   Ms Kumutha Maniam (YH) | Mr Neal Warren Cooke | Ms Sarah Lah (SH/Biology)  |
+|  Mrs Foong Bee Yong | Mr Chin Kwek Siong   | Ms Shivali Jadhav
 |  Mr Tan Chong Han | Mr Michael Ho  | Mdm Eliza Low
-|  Ms Kumutha Maniam | Mr Khoo Jin Yee Kenneth |  Mdm Fatimah Begum |
-|   | Mr Chin Kwek Siong  | Mr Muhd Na'im 
+| Mr Joshua Lee |  Mr Aw Kang Foong |  Mdm Fatimah Begum |
+|   |  Mr Lee Wai Ling | Mr Muhd Na'im  |
+ | | | Miss Madeline Chia|
+  | | |
 
 
 
