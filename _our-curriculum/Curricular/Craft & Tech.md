@@ -16,7 +16,7 @@ variant: markdown
 | **Design &amp; Technologies**  | **Nutrition &amp; Food Science**  |  **Art** |  **Music** |
 | Mr. Sirajutheen  <br>(Year Head)  | Ms Yap Xiu Feng | Ms May Loke (ST)  | Mdm Joy Chen  |
 |  Mrs. Toh- Liang Kai Poh | Mdm Tan Jee Niang  | Ms. Siti Nurhidayu  | Ms Cheryl Leung  |
-|  Mr. Richard Lim | Mr Danny Koh  | Mdm Sarinah   |   |
+|  Mr. Richard Lim |   | Mdm Sarinah   |   |
 | Mr. Ong Soon Gee  |   |   |   |
 |   |   |   |   |
 

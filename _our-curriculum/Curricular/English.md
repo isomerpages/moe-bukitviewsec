@@ -3,6 +3,7 @@ title: English
 permalink: /our-curriculum/Curricular/English/
 description: ""
 third_nav_title: Curricular
+variant: markdown
 ---
 ## English
 
@@ -12,15 +13,15 @@ third_nav_title: Curricular
 
 |  Head of Department: | Mdm Toh Yeok Tee  |
 |---|---|
-| Miss Ang Bee Lee (Year Head)  | Miss Sharmila Gopal (HOD/CCE)  |
-| Mr Arthur Kok (Lead Teacher) |  Mrs Zane Tye (SSD) |
-| Mr Muhd Fadly (SH/Lit &amp; Drama) | Mdm Joy Chen |
+| Mrs Zane Tye (SSD)  | Miss Sharmila Gopal (HOD/CCE)  |
+| Mr Arthur Kok (Lead Teacher) | Mr Muhd Fadly (SH/Lit &amp; Drama)  |
+| Mr John Pravin Raj  | Mdm Joy Chen |
 | Mr Mohamad Zulkefly  | Mr Tan Huong  |
 | Mrs Susan Pang – Ong Lee Ling  | Mrs Dharani Dinesh   |
 | Ms Seah Koon Lay  | Mr Norafiq Ismail
-| Miss Lycia Ho  | Mr John Pravin Raj |
-| Mr Eugene Quake | Ms Sunita Sivahnanthan
-|  |  |
+| Mr Gerard Nonis  |Ms Sunita Sivahnanthan |
+|  | 
+
 
 #### Curriculum
 

@@ -21,13 +21,13 @@ Our Humanities teachers harness the use of ICT in the teaching and learning of t
 
 |  Head of Department: | Mrs Nalini Ram  |
 |---|---|
-|  Mr Mohamed Nazar (ST) | Mrs Zane Tye (School Staff Developer)  |
-| Mr Tan Wei Chung |  Mr Mohamad Zulkefly |
+|  Mr Mohamed Nazar (ST Social Studies) | Mrs Zane Tye (School Staff Developer)  |
+| Ms Ang Kim Leng (SH Geography) |  Mr Mohamad Zulkefly |
 |  Mr Tan Huong|  Mdm V Geetha |
-| Mrs Ng Kia Mien  | Mrs Koh-Tan Hui Min (SH/ED-Tech) |
+| Mrs Ng Kia Mien  | Mr Tan Wei Chung |
 | Ms Esther Tan  | Ms Seah Koon Lay  |
 | Mr Guo Hefang | Ms Vianne Tan Wei Yan |
-||
+|||
 
 #### Key Programmes
 

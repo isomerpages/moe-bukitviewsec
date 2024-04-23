@@ -3,6 +3,7 @@ title: Computing
 permalink: /our-curriculum/Curricular/Computing/
 description: ""
 third_nav_title: Curricular
+variant: markdown
 ---
 ## Computing
 
@@ -10,22 +11,21 @@ third_nav_title: Curricular
 
 
 #### Mission
-To provide students with COmputational Thinking skills to participate in a rapidly changing technological environment. 
+To provide students with Computational Thinking skills to participate in a rapidly changing technological environment. 
 
 
 #### Our Teachers
 
 |   |   |
 |---|---|
-| **Ms Patricia Lye**<br><br>SH/Computing  |  Computing |
-| **Mr Alexander Chia**<br><br>HOD Ed-tech  |  Computing |
-|  **Mr Sirajutheen**<br><br>Year Head (Sec 2 &amp; 3) | CPA  |
-| **Ms Lee Poh Tin**<br><br>S4 Computing Coordinator  |  Computing |
-|  **Mrs Leong Wee Choo**<br><br>S3 Computing Coordinator |  Computing |
-| **Ms Nur-Illya Nafiza**&nbsp;<br><br>S3 CPA Coordinator  | CPA  |
-|  **Mrs Toh-Liang Kai Poh**<br><br>S2 CPA Coordinator | CPA  |
-|**Mr Richard Lim Teow Huat**<br><br>S1 CPA Coordinator | CPA |
-|   |   |
+| **Ms Patricia Lye** (SH/Computing) |
+|  **Computing** | **CPA**   |
+| Mr Alexander Chia (HOD Ed-tech)  |  Mr Sirajutheen (YH) |
+| Miss Lee Poh Tin  |  Ms Nur-Illya Nafiza |
+|  Mrs Leong Wee Choo | Mrs Toh-Liang Kai Poh |
+|| Mr Richard Lim Teow Huat |
+|    | Mr James Koh   |
+|||
 
 #### Key Programmes
 

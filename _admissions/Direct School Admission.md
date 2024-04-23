@@ -2,12 +2,13 @@
 title: Direct School Admission
 permalink: /admissions/dsa/
 description: ""
+variant: markdown
 ---
 ## Direct School Admission
 
-#### Information on 2023 Direct School Admission (DSA) to Bukit View Secondary School
+#### Information on 2024 Direct School Admission (DSA) to Bukit View Secondary School
 
-(For admission to Sec One in 2024)
+(For admission to Sec One in 2025)
 
 **Introduction**
   
@@ -15,7 +16,7 @@ The DSA-Sec Exercise was introduced by the Ministry of Education in 2004. It see
   
 **When choosing a secondary school, parents are encouraged to consider the students’ aptitudes and strengths, the school’s academic and non-academic requirements, and the programmes available to develop the students’ talents.**
 
-The Bukit View Secondary School (BVSS) DSA Exercise 2023 invites students in Primary 6 or equivalent (for overseas students) in 2023 with exceptional leadership, talent and/or interest in the following talent areas to apply for direct entry to the Secondary 1 cohort of 2024.
+The Bukit View Secondary School (BVSS) DSA Exercise 2024 invites students in Primary 6 or equivalent (for overseas students) in 2024 with exceptional leadership, talent and/or interest in the following talent areas to apply for direct entry to the Secondary 1 cohort of 2025.
 
 Students who are successfully admitted to BVSS via DSA are expected to honour their commitment to the school by participating in the activities related to the talent they are selected for.  
 
@@ -26,23 +27,7 @@ Students who are successfully admitted to BVSS via DSA are expected to honour th
 | Leadership and Uniformed Groups  | * Leadership |
 | Performing Arts  | * Choir<br> * Concert Band<br> * Modern Dance<br> * English Drama  |
 | Science, Technology, Engineering and Mathematics  | * Coding<br> * Environmental Science<br> * STEM - Aerospace and Aviation  |
-| Sports and Games  | * Badminton (Boys) <br>* Volleyball (Girls)<br> * Table Tennis  |
-|   |   |
-
-#### Application Procedure
-
-*   Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm . For more details, please refer to MOE website –&nbsp;[https://www.moe.gov.sg/dsa-sec.](https://www.moe.gov.sg/dsa-sec.)
-*   Only shortlisted candidates will be invited for interviews.
-*   The school’s decision on the offer is final. All applicants will be informed of the results of their application (confirmed / waiting list / not successful) by 11 September 2023.
-
-#### Schedule for 2023 DSA Exercise
-
-| **Process**  | **Date/Time**  |
-|---|---|
-| Application Period (via DSA-Sec Portal)  | 4 May 2023, 11am to 31 May 2023, 3pm  |
-| Selection Period (Interviews/Trials)  | 26 Jun 2023 to 11 Sep 2023  |
-| Application Outcome  | By 11 Sep 2023  |
-| School Preference Period  | Mon, 23 Oct to Fri, 27 Oct 2023|
+| Sports and Games  | * Badminton (Boys) <br> * Table Tennis <br>* Track and Field <br>* Volleyball (Girls) |
 |   |   |
 
 
@@ -57,11 +42,6 @@ Students will be equipped with leadership skills, competencies and knowledge. Th
 
 For more information, please refer to the [webpage.](https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/)
 
-<u><b>Prerequisites</b></u><br>
-Held key appointment in student leadership bodies and/or demonstrated leadership in school-related activities. 
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their leadership qualities and skills through an interview.
 	
 
 **Choir**
@@ -74,14 +54,7 @@ Students will be given opportunities to express themselves through singing songs
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/Choir/).
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.
 
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:
-1.	Prepared items for showcase
-2.	Performance tasks
-3.	Interview component
 
 **Concert Band**
 <br>
@@ -91,14 +64,6 @@ Students will be given opportunities to perform in public concerts and the Singa
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/concertb/).
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:
-1.	Prepared items for showcase
-2.	Performance tasks
-3.	Interview component
 
 **Modern Dance**
 <br>
@@ -107,14 +72,6 @@ Shortlisted candidates will be assessed based on their artistic abilities, quali
 Students will be trained in techniques associated with various dance genres. They will have the opportunity to perform at school events such as the Chinese New Year concert, school National Day celebrations, Teachers’ Day, Open House and Singapore Youth Festival (SYF) Arts Presentation. There will also be opportunities for students to hone their leadership skills and further their passion in the arts through immersion programmes and workshops with various institutions. 
 For more information, please refer to the [ CCA webpage.](https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/dance/)
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:
-1.	Prepared items for showcase
-2.	Performance tasks
-3.	Interview component
 
 **English Drama**
 ![](/images/DSA/drama_edited.jpg)
@@ -126,14 +83,6 @@ As the Drama Club is the 2nd Tier of the school’s Learning for Life Programme 
 
 For more information, please refer to the [CCA webpage](https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/drama/).
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated artistic potential, interest, and motivation in the Performing Arts and participated actively in relevant Performing Arts CCAs.
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their artistic abilities, qualities and potential in the Choir through the following criteria:
-1.	Prepared items for showcase
-2.	Performance tasks
-3.	Interview component
 
 **Coding**
 ![](/images/DSA/coding%20dsa_edited.jpg)
@@ -143,12 +92,6 @@ Students will learn computational thinking skills using different programming la
 
 For more information, please refer to the[CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club/) .
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated strong interest in coding and participated actively in related CCA, competitions and projects.
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their abilities, qualities and potential in coding through the following criteria:
-1.	Performance tasks
-2.	Interview component
 
 **Environmental Science**
 ![](/images/Environmental-300x200.jpg)
@@ -158,13 +101,6 @@ Students will learn to be environmentally conscious, to be aware of issues like 
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/ccas/Clubs-and-Societies/environmental/).
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated strong interest in coding and participated actively in related CCA, competitions and projects.
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their abilities, qualities and potential in coding through the following criteria:
-1.	Performance tasks
-2.	Interview component
 
 **STEM – Aerospace and Aviation**
 ![](/images/DSA/aviation%20dsa.jpg)
@@ -180,18 +116,6 @@ They will also have opportunities to represent the school in aviation and aerosp
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club/).
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated strong interest in aerospace and aviation and participated actively in a related CCA. 
-
-(Note: Non-Singapore Citizens may be exempt from the Flight Experience Program depending on security clearance granted by the airport)
-
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on prior knowledge and interest in aviation through the following criteria:
-1.	Performance tasks 
-2.	Interview component 
-
-(Note: The SYFC CCA entails physical activities, i.e building and flying aeromodels. During model building, students can be exposed to wood dust, etc, and while flying, students can be expected to be out in the sun. Student must be physically fit enough to take part in such activities. Students who are asthmatic, with skin conditions such as eczema, or have physical impairments will not be suitable
 
 **Badminton (Boys)**
 ![](/images/DSA/badminton%20dsa_edited.jpg)
@@ -201,13 +125,6 @@ Students will have the platform to develop their passion, interest and skills in
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/badminton/)
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated strong interest and passion in Sports and participated actively in relevant Sports CCA.
-
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their Sports abilities, qualities and potential in respective Sports areas through the following criteria:
-1.	Performance tasks and
-2.	Interview component
 
 **Table Tennis**
 ![](/images/Table-Tennis-300x185.png)
@@ -217,13 +134,20 @@ Students will have the opportunity to hone their table tennis skills under exper
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis/).
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated strong interest and passion in Sports and participated actively in relevant Sports CCA.
 
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their Sports abilities, qualities and potential in respective Sports areas through the following criteria:
-1.	Performance tasks and
-2.	Interview component
+
+**Track and Field**
+![](/images/DSA/tracknfield.jpg)
+<br>
+<u><b>Programmes, activities and opportunities</b></u><br>
+
+Student will have the opportunity to build a strong foundation in fitness with running and jumping, leading to better overall health and coordination. Beyond the physical, the programme helps students to foster self-confidence through achievement and teaches valuable life skills such as discipline, teamwork, and sportsmanship. Selected students will also represent the school in the annual National School Games (NSG) Track &amp; Field Championship for Individual and Team events. It is a journey of self-discovery and pushing boundaries, while staying active.
+
+
+For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/track-n-field/).
+
+
+
 
 **Volleyball (Girls)**
 ![](/images/volleyball(girl).jpg)
@@ -233,10 +157,5 @@ Students will have a holistic experience through the training program, focusing 
 
 For more information, please refer to the [CCA Webpage](https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/).
 
-<u><b>Prerequisites</b></u><br>
-Demonstrated strong interest and passion in Sports and participated actively in relevant Sports CCA.
 
-<u><b>Selection Criteria</b></u><br>
-Shortlisted candidates will be assessed based on their Sports abilities, qualities and potential in respective Sports areas through the following criteria:
-1.	Performance tasks and
-2.	Interview component
+**The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.**
