@@ -22,7 +22,8 @@ The Mathematics Department believes that everyone can do Mathematics. No matter 
 | Ms Illya Nafiza  | Mrs Leong Wee Choo  | Ms Lee Aye Li   |
 | Mr Tan Chong Han |  Mr Chin Kwek Siong|   |
 |  Mr Neal Warren Cooke | Mdm Fatimah Begum |   |
-|  Mr Gopi Krishnan | Mr Andy Lee  | 
+| Mr Joshua Lee  | Mr Andy Lee | 
+|  Mr Gopi Krishnan |  | 
  |   |    |
 
 
