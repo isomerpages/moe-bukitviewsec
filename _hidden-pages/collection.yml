@@ -2,7 +2,6 @@ collections:
   hidden-pages:
     output: true
     order:
-      - Direct School Admission.md
       - Sec 1 Student Appeal for Transfer.md
       - Financial Assistance Scheme (FAS) Application.md
       - PLD Procurement.md
