@@ -13,16 +13,17 @@ variant: markdown
 
 #### Our Teachers
 
-| Head of Department:  |  **Ms Mak Mun Heng** |   |
+| Head of Department:  |  **Mr Lim Swee Beng** |   |
 |---|---|---|
 |  **Chinese Language** |  **Malay Language** |  **Tamil Language** |
-| Mdm Gao Yi   | Mdm Marhaini (SH ML/TL)  | Mdm Zareena Beevi  |
-|  Mdm Charline Ang | Mdm Mastura | Mr Ramasamy Stalin (ST)  |
+| Mdm Gao Yi   | Ms Nur Atikah  | Mdm Zareena Beevi  |
+| Ms Chun Kai Xin  | Mdm Mastura | Mr Ramasamy Stalin (ST)  |
 | Ms Bai Qiao Ling  | Mdm Siti Aisah  | Mdm Kokila  |
-|  Ms Chun Kai Xin | Ms Nur Atikah  |   |
-|  Mdm Shen Lili|   |   |
-|  Mdm Li Yang|   |   |
-|  |   |   |
+|  Ms Chen Suzhen |   |   |
+|  Mdm Law Khai Lee |   |
+| Mr Chiang Yaw Yii  |   |
+
+
 
 
 #### Mission &amp; Core Curriculum
