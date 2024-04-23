@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /our-curriculum/Curricular/Mathematics/
 description: ""
 third_nav_title: Curricular
+variant: markdown
 ---
 ## Mathematics
 
@@ -17,10 +18,12 @@ The Mathematics Department believes that everyone can do Mathematics. No matter 
 | **Mathematics**  |   | **Principles of Accounts (POA)**  |
 | Mr Alexander Chia  <br>(HOD Ed-Tech)  | Miss Patricia Lye (SH/Computing)  | Mdm Quek Eng Chiew (ST)  |
 | Mrs Kelly Chew  | Mr Liu Sijian (ST)  | Ms Vianne Tan Wei Yan |
-|  Ms Kumutha Maniam | Mr Khoo Jun Yee Kenneth  |   |
-| Ms Illya Nafiza  | Mrs Leong Wee Choo  |   |
+|  Ms Kumutha Maniam | Mr Muhd Na'im Bin Sa'dollah  | Mr Joshua Tan  |
+| Ms Illya Nafiza  | Mrs Leong Wee Choo  | Ms Lee Aye Li   |
 | Mr Tan Chong Han |  Mr Chin Kwek Siong|   |
-|  Ms Lee Poh Tin | Mr Gopi Krishnan |   |
+|  Mr Neal Warren Cooke | Mdm Fatimah Begum |   |
+|  Mr Gopi Krishnan | Mr Andy Lee  | 
+ |   |    |
 
 
 #### Key Programmes and Achievements
