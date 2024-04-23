@@ -21,7 +21,7 @@ To provide students with Computational Thinking skills to participate in a rapid
 | **Ms Patricia Lye** (SH/Computing) |
 |  **Computing** | **CPA**   |
 | Mr Alexander Chia (HOD Ed-tech)  |  Mr Sirajutheen (YH) |
-| Ms Lee Poh Tin  |  Ms Nur-Illya Nafiza |
+| Miss Lee Poh Tin  |  Ms Nur-Illya Nafiza |
 |  Mrs Leong Wee Choo | Mrs Toh-Liang Kai Poh |
 || Mr Richard Lim Teow Huat |
 |    | Mr James Koh   |
