@@ -151,7 +151,9 @@ assessing the potential of the applicants.</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/37th scb psl exco.jpeg">
+</div>
 </td>
 </tr>
 <tr>
@@ -190,7 +192,9 @@ and skills through an interview.</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>See attached photo</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/choir dsa edited.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -240,7 +244,9 @@ qualities and potential in the Choir through the following criteria:</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>See attached photo</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/BVSS_23_017.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -290,7 +296,9 @@ qualities and potential in the Concert Band through the following criteria:</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>See attached photo</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/modern dance dsa.jpeg">
+</div>
 </td>
 </tr>
 <tr>
@@ -341,7 +349,9 @@ qualities and potential in Modern Dance through the following criteria:</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>See attached photo</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/drama_edited.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -391,7 +401,10 @@ qualities and potential in English Drama through the following criteria:</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>See attached photo</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/coding dsa_edited.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -437,7 +450,7 @@ and potential in coding through the following criteria:</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>See attached photo</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -483,7 +496,9 @@ and potential in Environmental Science through the following criteria:</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>See attached photo</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/aviation dsa.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -539,7 +554,9 @@ impairments will not be suitable.)</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>See attached photo</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/BVSS_23_005.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -587,7 +604,9 @@ criteria:</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>See attached photo</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/BVSS_23_012.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -635,7 +654,9 @@ criteria:</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>See attached photo</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/tracknfield.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -684,7 +705,9 @@ criteria:</p>
 </p>
 </td>
 <td rowspan="2" colspan="1">
-<p>See attached photo</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/BVSS_23_004.jpg">
+</div>
 </td>
 </tr>
 <tr>
