@@ -2,9 +2,9 @@ collections:
   admissions:
     output: true
     order:
-      - DSA/DSA Application.md
-      - DSA/Direct School Admission.md
       - DSA/.keep
+      - DSA/Direct School Admission.md
+      - DSA/DSA Application.md
       - Returning Singaporeans.md
       - International Students.md
       - Virtual Open House.md
