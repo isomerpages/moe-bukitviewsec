@@ -476,7 +476,10 @@ and potential in Environmental Science through the following criteria:</p>
 <p><strong>Selection Criteria</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/aviation dsa.jpg"></a>
+<td rowspan="2" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/" src="/images/DSA/BVSS_23_002.jpg">
+</div>
 </td>
 </tr>
 <tr>
