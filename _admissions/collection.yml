@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - DSA Application.md
-      - DSA Application/.keep
       - Direct School Admission.md
       - Returning Singaporeans.md
       - International Students.md
