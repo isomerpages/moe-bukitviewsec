@@ -3,6 +3,7 @@ title: Direct School Admission
 permalink: /admissions/dsa/
 description: ""
 variant: markdown
+third_nav_title: DSA Admission Exercise
 ---
 ## Direct School Admission
 
