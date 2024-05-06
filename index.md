@@ -19,17 +19,17 @@ sections:
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
   - infopic:
-      description: Find out more about Bukit View Sec in the WeSTories Publications
-      button: Click here
-      url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
-      image: /images/bvss_23_030.jpg
-      alt: Image alt text
-  - infopic:
       title: DSA Admission Exercise
       id: infopic
       description: Application Open for Sec 1 (2025).
       button: More
       url: https://www.bukitviewsec.moe.edu.sg/admissions/dsa/
       image: /images/Hero Images/BVSS-01-01.jpg
+      alt: Image alt text
+  - infopic:
+      description: Find out more about Bukit View Sec in the WeSTories Publications
+      button: Click here
+      url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
+      image: /images/bvss_23_030.jpg
       alt: Image alt text
 ---
