@@ -7,7 +7,6 @@ variant: markdown
 ---
 ## English
 
-<img src="/images/Department%20photos/Group%20Photo/english%20language%20and%20literature.jpg" style="width:60%">
 
 #### Our Teachers
 
