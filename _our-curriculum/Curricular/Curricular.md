@@ -3,6 +3,7 @@ title: Curricular
 permalink: /our-curriculum/Curricular/curricular/
 description: ""
 third_nav_title: Curricular
+variant: markdown
 ---
 ## Curricular
 
@@ -15,7 +16,7 @@ third_nav_title: Curricular
 </a></p>
 
 <p><a href="/our-curriculum/Curricular/English/">
-<img style="width:23%;margin-right:5px;" align="left" src="/images/Department%20photos/Group%20Photo/english%20language%20and%20literature.jpg">
+<img style="width:23%;margin-right:5px;" align="left" src="/images/Department%20photos/Group%20Photo/ENGLISH_LANGUAGE_AND_LITERATURE_2023_2024.jpg">
 </a></p>
 
 <p><a href="/our-curriculum/Curricular/Humanities/">
