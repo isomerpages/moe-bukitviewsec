@@ -6,8 +6,7 @@ third_nav_title: Curricular
 variant: markdown
 ---
 ## English
-
-<img src="/images/Department%20photos/Group%20Photo/english%20language%20and%20literature.jpg" style="width:60%">
+<img src="/images/Department%20photos/Group%20Photo/ENGLISH_LANGUAGE_AND_LITERATURE_2023_2024.jpg" style="width:60%">
 
 #### Our Teachers
 
