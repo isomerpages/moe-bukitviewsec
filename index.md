@@ -20,7 +20,6 @@ sections:
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
   - infopic:
       title: SINGSPIRATION
-      subtitle: Add an image and text
       id: infopic
       description: Please visit the Choir page for more details! Or click on the link
         to order your tickets NOW!
