@@ -26,7 +26,7 @@ sections:
         to order your tickets NOW!
       button: Order now
       url: https://docs.google.com/forms/d/e/1FAIpQLSfi2b5L5dZ6KS26JZVQulnjqFOiKEkzZawJSOSZuONJRfQGrw/viewform
-      image: /images/Singspiration___FOR_PRINTING_NEW.jpg
+      image: /images/Singspiration_edited.jpg
       alt: Image alt text
   - infopic:
       title: DSA Admission Exercise
