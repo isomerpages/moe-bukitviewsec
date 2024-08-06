@@ -19,6 +19,15 @@ sections:
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
   - infopic:
+      title: SINGSPIRATION
+      id: infopic
+      description: Please visit the Choir page for more details! Or click on the link
+        to order your tickets NOW!
+      button: Order now
+      url: https://docs.google.com/forms/d/e/1FAIpQLSfi2b5L5dZ6KS26JZVQulnjqFOiKEkzZawJSOSZuONJRfQGrw/viewform
+      image: /images/SINGSPIRATION_2024_Resize1.jpg
+      alt: Image alt text
+  - infopic:
       title: DSA Admission Exercise
       id: infopic
       description: Application Open for Sec 1 (2025).
