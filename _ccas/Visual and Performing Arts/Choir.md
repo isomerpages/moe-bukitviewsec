@@ -47,7 +47,7 @@ Next, please enjoy our version of “All Things Bright and Beautiful” – made
 
 ####  SINGSPIRATION
 
-<img src="/images/SINGSPIRATION_2024_Resize.jpg" style="width:40%;margin-right:15px;" align="left">
+<img src="/images/SINGSPIRATION_2024_Resize1.jpg" style="width:40%;margin-right:15px;" align="left">
 
 ### **Save the date! 28 August, 7:30pm <br>@ Victoria Concert Hall**
 
