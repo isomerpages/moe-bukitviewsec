@@ -47,7 +47,7 @@ Next, please enjoy our version of “All Things Bright and Beautiful” – made
 
 ####  SINGSPIRATION
 
-<img src="/images/SINGSPIRATION_2024_Resize.jpg" style="width:20%;margin-right:15px;" align="left">
+<img src="/images/SINGSPIRATION_2024_Resize.jpg" style="width:40%;margin-right:15px;" align="left">
 
 ### **Save the date! 28 August, 7:30pm <br>@ Victoria Concert Hall**
 
@@ -58,8 +58,7 @@ Be serenaded with inspirational pieces, local and Asian compositions, and even c
 SINGSPIRATION is jointly and proudly presented to you by the choirs of Bukit View and Deyi Secondary Schools. 
 
 Click on the link to order your tickets NOW!
-https://docs.google.com/forms/d/e/1FAIpQLSfi2b5L5dZ6KS26JZVQulnjqFOiKEkzZawJSOSZuONJRfQGrw/viewform)https://docs.google.com/forms/d/e/1FAIpQLSfi2b5L5dZ6KS26JZVQulnjqFOiKEkzZawJSOSZuONJRfQGrw/viewform
-
+[https://docs.google.com/forms/d/e/1FAIpQLSfi2b5L5dZ6KS26JZVQulnjqFOiKEkzZawJSOSZuONJRfQGrw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfi2b5L5dZ6KS26JZVQulnjqFOiKEkzZawJSOSZuONJRfQGrw/viewform)
 
 
 #### HIGHLIGHT OF THE YEAR
