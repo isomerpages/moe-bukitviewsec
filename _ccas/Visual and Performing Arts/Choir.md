@@ -47,7 +47,7 @@ Next, please enjoy our version of “All Things Bright and Beautiful” – made
 
 ####  SINGSPIRATION
 
-<img src="/images/Singspiration_edited.jpg" style="width:20%;margin-right:15px;" align="left">
+<p><img src="/images/Singspiration_edited.jpg" style="width:25%;margin-right:15px;" align="left">
 
 ### **Save the date! 28 August, 7:30pm <br>@ Victoria Concert Hall**
 
@@ -61,6 +61,10 @@ Click on the link to order your tickets NOW!
 https://docs.google.com/forms/d/e/1FAIpQLSfi2b5L5dZ6KS26JZVQulnjqFOiKEkzZawJSOSZuONJRfQGrw/viewform)https://docs.google.com/forms/d/e/1FAIpQLSfi2b5L5dZ6KS26JZVQulnjqFOiKEkzZawJSOSZuONJRfQGrw/viewform
 
 <br>
+<br>
+
+</p>
+
 
 
 #### HIGHLIGHT OF THE YEAR
