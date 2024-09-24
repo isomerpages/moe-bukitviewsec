@@ -2,10 +2,10 @@ collections:
   admissions:
     output: true
     order:
-      - Leave of Absence (LOA) Scheme.md
       - DSA Admission Exercise/.keep
       - DSA Admission Exercise/Direct School Admission.md
       - DSA Admission Exercise/DSA Application.md
       - Returning Singaporeans.md
       - International Students.md
       - Virtual Open House.md
+      - Leave of Absence (LOA) Scheme.md
