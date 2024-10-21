@@ -19,21 +19,13 @@ sections:
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
   - infopic:
-      title: SINGSPIRATION
+      title: Open House 2024
+      subtitle: Add an image and text
       id: infopic
-      description: Please visit the Choir page for more details! Or click on the link
-        to order your tickets NOW!
-      button: Order now
-      url: https://docs.google.com/forms/d/e/1FAIpQLSfi2b5L5dZ6KS26JZVQulnjqFOiKEkzZawJSOSZuONJRfQGrw/viewform
-      image: /images/SINGSPIRATION_2024_Resize1.jpg
-      alt: Image alt text
-  - infopic:
-      title: DSA Admission Exercise
-      id: infopic
-      description: Application Open for Sec 1 (2025).
-      button: More
-      url: https://www.bukitviewsec.moe.edu.sg/admissions/dsa/
-      image: /images/Hero Images/BVSS-01-01.jpg
+      description: Join us on 16 November to learn more about BVSS!
+      button: Click here
+      url: https://www.bukitviewsec.moe.edu.sg/admissions/voh/
+      image: /images/Open_House_2024_Poster.png
       alt: Image alt text
   - infopic:
       description: Find out more about Bukit View Sec in the WeSTories Publications
