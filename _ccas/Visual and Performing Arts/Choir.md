@@ -45,21 +45,6 @@ Next, please enjoy our version of “All Things Bright and Beautiful” – made
 |   |   |
 
 
-####  SINGSPIRATION
-
-<img src="/images/SINGSPIRATION_2024_Resize1.jpg" style="width:40%;margin-right:15px;" align="left">
-
-### **Save the date! 28 August, 7:30pm <br>@ Victoria Concert Hall**
-
-Join us for an unforgettable night of choral music at SINGSPIRATION!
-
-Be serenaded with inspirational pieces, local and Asian compositions, and even contemporary pop songs by Coldplay, Taylor Swift and Laufey.
-
-SINGSPIRATION is jointly and proudly presented to you by the choirs of Bukit View and Deyi Secondary Schools. 
-
-Click on the link to order your tickets NOW!
-[https://docs.google.com/forms/d/e/1FAIpQLSfi2b5L5dZ6KS26JZVQulnjqFOiKEkzZawJSOSZuONJRfQGrw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfi2b5L5dZ6KS26JZVQulnjqFOiKEkzZawJSOSZuONJRfQGrw/viewform)
-
 
 #### HIGHLIGHT OF THE YEAR
 ##### | **KEY EXPERIENCES**
