@@ -19,12 +19,12 @@ variant: markdown
 |---|---|---|
 |    |   |
 | **Chemistry**  |  **Physics** | **Biology**  |
-|   Ms Kumutha Maniam (YH) | Mr Neal Warren Cooke | Ms Sarah Lah (SH/Biology)  |
-|  Mrs Foong Bee Yong | Mr Chin Kwek Siong   | Ms Shivali Jadhav
-|  Mr Tan Chong Han | Mr Michael Ho  | Mdm Eliza Low
-| Mr Joshua Lee |  Mr Aw Kang Foong |  Mdm Fatimah Begum |
-|   |  Mr Lee Wai Ling | Mr Muhd Na'im  |
- | | | Miss Madeline Chia|
+|   Ms Kumutha Maniam (YH) | Mr Neal Warren Cooke | Miss Shalom Tan  |
+|  Mrs Foong Bee Yong | Mr Chin Kwek Siong   | 
+|  Mr Tan Chong Han | Mr Michael Ho  | 
+| Mr Joshua Lee |  Mr Aw Kang Foong |   |
+| Mdm Fatimah Begum  |  Mr Lee Wai Ling | |
+ |Mr Muhd Na'im | | |
   | | |
 
 
