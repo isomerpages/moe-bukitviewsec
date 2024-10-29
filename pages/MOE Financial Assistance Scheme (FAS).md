@@ -4,7 +4,7 @@ permalink: /moe-financial-assistance-scheme-fas/
 variant: tiptap
 description: ""
 ---
-<h4><strong>MOE FINANCIAL ASSISTANCE SCHEME (FAS) 2025</strong></h4>
+<h3><strong>MOE FINANCIAL ASSISTANCE SCHEME (FAS) 2025</strong></h3>
 <p><strong>Application for MOE Financial Assistance Scheme (FAS) for the year 2025 is now open.</strong>
 </p>
 <table style="minWidth: 75px">
@@ -38,9 +38,6 @@ description: ""
 <li>
 <p>Gross Monthly Household Income (GHI) not exceeding $3000 or Per Capita
 Income (PCI) not exceeding $750.</p>
-<p>
-<br>
-</p>
 </li>
 </ol>
 </td>
@@ -156,5 +153,5 @@ via eFAS or hardcopy form to General Office by <strong><em>Monday 11 Nov 2024</e
 <br>For further information or clarification, please contact the General Office
 at 65661990.</p>
 <p></p>
-<p>For more information, please refer to the<a href="/files/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank"> pamphle</a>t
-and MOE's website.</p>
+<p>For more information, please refer to the<a href="/files/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank"> pamphlet</a> and
+<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE's website</a>.</p>
