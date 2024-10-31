@@ -202,13 +202,14 @@ letter from our school.</p>
 </div>
 </details>
 </div>
-<h4><strong>Year End  Bukit View Secondary School </strong><br><strong>Books &amp; Uniform Sales Schedule </strong></h4>
-<p><strong>Venue : Classrooms at Block C</strong>
-</p>
+<h4><strong>Year End BVSS Books &amp; Uniform Sales Schedule</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Admin Matters/2024_EOY_SALES_of_BOOKSand_UNIform.jpg">
 </div>
-<p><em>* Pls avoid lunch time (12pm-1pm)</em>
-<br>
+<h4><strong>Year End BVSS Books &amp; Uniform Sales Venue</strong></h4>
+<p><strong>Venue : Classrooms at Block C</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1Reg/book and uniform purchase 7_dec_23_.jpg">
+</div>
 <p></p>
