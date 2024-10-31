@@ -8,7 +8,7 @@ description: ""
 <p>The school textbooks and attire can be purchased from our approved vendors
 either online* or directly at the school during specified dates (see walk-in
 purchase).</p>
-<p><strong>Students are advised </strong>
+<p><strong>Students are advised</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -42,7 +42,7 @@ rush to purchase books and uniforms.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Textbooks &amp; Stationery </strong>
+<p><strong>Textbooks &amp; Stationery</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,7 +52,7 @@ rush to purchase books and uniforms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Appointed vendor </strong>
+<p><strong>Appointed vendor</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,7 +126,8 @@ rush to purchase books and uniforms.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_2_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 2)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +136,8 @@ rush to purchase books and uniforms.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_3_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 3)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +146,8 @@ rush to purchase books and uniforms.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_4_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 4)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -197,16 +200,8 @@ letter from our school.</p>
 </ul>
 </div>
 </details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
-</details>
-</div>
-<p>
-<br><strong>Year End Sales @ Bukit View Secondary School - Nov/Dec 2024</strong>
-</p>
+<h4><strong>Year End  Bukit View Secondary School </strong><br><strong>Books &amp; Uniform Sales Schedule </strong></h4>
 <p><strong>Venue : Classrooms at Block C</strong>
 </p>
 <div class="isomer-image-wrapper">
