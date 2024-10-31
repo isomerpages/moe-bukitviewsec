@@ -2,6 +2,8 @@ collections:
   admissions:
     output: true
     order:
+      - Administrative Matters/Year End Book and Uniform Sales (For 2025 Sec 2
+        to Sec 5 Students).md
       - Administrative Matters/Books & Uniform.md
       - Administrative Matters/Financial Assistance Scheme (FAS).md
       - Administrative Matters/Leave of Absence (LOA) Scheme.md
