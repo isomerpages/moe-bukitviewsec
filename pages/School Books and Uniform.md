@@ -4,7 +4,7 @@ permalink: /school-books-and-uniform/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Bookshop Vendor</strong></h3>
+<h3><strong><u>Bookshop Vendor</u></strong></h3>
 <h4><strong>Pacific Bookstore Pte Ltd</strong></h4>
 <p>Textbooks and stationery can be purchased from our school bookshop. Online
 purchase and home delivery services are available only during the year-end
@@ -15,7 +15,7 @@ period.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <details class="isomer-details">
-<summary><strong><u>Opening Hours During the School Term </u></strong>
+<summary><strong><u>Opening Hours During the School Term</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><em>BookStore:</em></strong>
@@ -101,7 +101,7 @@ arrange an appointment.</p>
 </div>
 </details>
 </div>
-<h3><strong>School Uniform and PE Attire Vendor</strong></h3>
+<h3><strong><u>School Uniform and PE Attire Vendor</u></strong></h3>
 <h4><strong>In-Trend Uniforms</strong></h4>
 <p>School uniforms and PE attire can be purchased at the retail store and
 are also available at our school bookshop, with limited sizes in stock.
