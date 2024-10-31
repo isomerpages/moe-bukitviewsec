@@ -2,6 +2,7 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Year End Book and Uniform Sales (For 2025 S2 to S5 Students).md
       - Sec 1 Student Appeal for Transfer.md
       - Financial Assistance Scheme (FAS) Application.md
       - PLD Procurement.md
