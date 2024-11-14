@@ -83,7 +83,7 @@ rush to purchase books and uniforms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For Booklist, please refer to
-<br><a href="" rel="noopener nofollow" target="_blank">2025 Booklist</a>
+<br><a href="https://bukitviewsec.moe.edu.sg/books-and-uniform/" rel="noopener nofollow" target="_blank">2025 Booklist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,79 +162,27 @@ rush to purchase books and uniforms.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Note</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Students opting for self-collection from the school premises must adhere
+to their chosen appointment date</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Students must wear their school uniform when purchasing / collection textbooks
+at school bookshop.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>BOOKLIST 2025</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level (2025)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Booklist</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 booklist will be available only after posting results.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_2_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 2)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_3_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 3)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_4_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 4)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 5</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 5 booklist will be available only after N-Level results.</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
 <details class="isomer-details">
 <summary><strong>STUDENTS OFFERED SBB SUBJECTS</strong>
 </summary>
@@ -267,15 +215,26 @@ collection of the approval letter.</p>
 <li>
 <p>Parents who receive FAS approval from other schools are advised to contact
 our General Office to make an appointment for the collection of the approval
-letter from our school.</p>
+letter from our school</p>
 </li>
 </ul>
 </div>
 </details>
 </div>
+<p></p>
 <h4><strong>Year End BVSS Books &amp; Uniform Sales Schedule</strong></h4>
+<p><strong>For Walk-in Purchase and FAS collections </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Online purchase is strongly encouraged. Please refer to the booklist and
+uniform sales notification for more details.
+<br>
+</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Admin Matters/2024_EOY_SALES_of_BOOKSand_UNIform.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/bOOK_AND_UNIFORM_SCHEDULE.jpg">
 </div>
 <h4><strong>Year End BVSS Books &amp; Uniform Sales Venue</strong></h4>
 <p><strong>Venue : Classrooms at Block C</strong>
