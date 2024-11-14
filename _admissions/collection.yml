@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Administrative Matters/.keep
-      - Administrative Matters/Financial Assistance Scheme (FAS).md
-      - Administrative Matters/School Book List & Uniform.md
       - Administrative Matters/Year End Book and Uniform Sales (For 2025 S2 to
         S5 Students).md
+      - Administrative Matters/School Book List & Uniform.md
+      - Administrative Matters/Financial Assistance Scheme (FAS).md
       - Administrative Matters/Leave of Absence (LOA) Scheme.md
       - DSA Admission Exercise/.keep
       - DSA Admission Exercise/Direct School Admission.md
