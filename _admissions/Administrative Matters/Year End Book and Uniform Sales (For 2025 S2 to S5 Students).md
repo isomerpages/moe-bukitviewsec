@@ -79,6 +79,77 @@ rush to purchase books and uniforms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For Booklist, please refer to
+<br><a href="" rel="noopener nofollow" target="_blank">2025 Booklist</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For sizing chart, please refer to
+<br><a href="https://www.intrenduniforms.com/size-guide-video" rel="noopener noreferrer nofollow" target="_blank"><u>InTrend Uniforms - Size Chart</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Payment Mode</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Online Purchase</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>VISA / MASTERCARD / Debit Cards/</p>
+</li>
+<li>
+<p>PayNow</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Online Purchase</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PayNow</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Walk-in Purchase</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cash</p>
+</li>
+<li>
+<p>Paynow</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Walk-in Purchase</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cash</p>
+</li>
+<li>
+<p>Paynow</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Remarks</strong>
 </p>
 </td>
