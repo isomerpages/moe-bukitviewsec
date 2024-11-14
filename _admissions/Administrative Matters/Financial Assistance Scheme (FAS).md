@@ -75,7 +75,7 @@ Income (PCI) not exceeding $750.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100" src="/images/Admin%20Matters/EFAS_202PG.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Admin Matters/Slide1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
