@@ -6,8 +6,9 @@ third_nav_title: Sports and Games
 variant: tiptap
 ---
 <h2><strong>BADMINTON</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/badminton%20_formal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Group Photo/Badminton_Formal.jpg">
 </div>
 <h4>BACKGROUND</h4>
 <p>In Bukit View Secondary School, Badminton Club was established about ten
@@ -38,7 +39,11 @@ in our students’ daily life.</p>
 </li>
 </ul>
 <h4>CCA TRAINING DAY(S)/ TIME</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -75,7 +80,11 @@ in our students’ daily life.</p>
 </tbody>
 </table>
 <h4>TEACHER-IN-CHARGE</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -141,7 +150,11 @@ for their all-round development.</p>
 2023</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -194,7 +207,12 @@ for their all-round development.</p>
 </tbody>
 </table>
 <h4>EXECUTIVE COMMITTEE MEMBERS</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
