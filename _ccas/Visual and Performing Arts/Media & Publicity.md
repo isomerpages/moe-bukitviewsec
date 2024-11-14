@@ -8,7 +8,7 @@ variant: markdown
 ## **Media &amp; Publicity Club**
 
 <img src="/images/Mediapub1.png"><br>
-![](/images/CCA%20Page/Group%20Photo/media%20&amp;%20publicity%20_formal.jpg)
+![](/images/CCA%20Page/Group%20Photo/Media_and_Publicity_Formal.jpg)
 
 #### BACKGROUND
 
