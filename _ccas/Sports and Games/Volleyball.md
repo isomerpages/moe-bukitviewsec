@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## **Volleyball**
 
-![](/images/CCA%20Page/Group%20Photo/volleyball%20_formal.jpg)
+![](/images/CCA%20Page/Group%20Photo/Volleyball_Formal.jpg)
 
 #### BACKGROUND
 
