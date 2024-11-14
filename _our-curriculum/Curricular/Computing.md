@@ -121,10 +121,13 @@ where they learned the basics of drone operation, including First-Person
 View (FPV) flying and programming drones for autonomous flight using the
 DroneBlocks app. The workshop concluded with an exciting course challenge
 that allowed students to test and showcase their drone control skills.</p>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/S2 enrichment_minecraft.jpeg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Computing/CPA_enrichment_drones.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Computing/CPA_enrichment_drones_1_.jpg">
+</div>
 <p><strong>Enrichment for Computing students</strong> 
 <br>Our drone enrichment workshop for Secondary Three Computing students provided
 students with a hands-on introduction to drone technology and programming.
@@ -137,6 +140,13 @@ where they successfully programmed the drones to autonomously follow a
 face. This workshop equipped students with foundational skills in drone
 operation and programming, sparking interest in further exploration of
 drone technology.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Computing/Computing_enrichment_drones.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Computing/Computing_enrichment_drones_1_.jpg">
+</div>
 <p><strong>Other activities</strong>
 </p>
 <p>Students took part in the following activities:</p>
@@ -199,6 +209,9 @@ A total of 15 students participated during the September school holidays.
 One of our teams, consisting of Janelle Ong (4D), Ye Wen Kai (3G), Lee
 Jung Kye (2C), and Joben Ong (2C), secured third place.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Computing/MOE_CPDD_AGM_079.jpg">
+</div>
 <p>The Animation and Game Making Competition, organized by MOE, invites secondary
 schools offering Computer Applications to submit their best Secondary 2
 animation and Secondary 3 game to compete with top entries from other schools.
@@ -206,6 +219,9 @@ Our Secondary 2 representative, Sharlyn Ong Jia Yi, achieved the prestigious
 Platinum award, which is given to the top three of the ten Gold awardees.
 To receive this honor, students undergo an interview conducted by representatives
 from NIE and MOE.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Computing/MOE_CPDD_AGM_148.jpg">
+</div>
 <p></p>
 <p>Additionally, Bukit View Secondary earned the Sustained Gold award, presented
 to schools that have achieved three consecutive years of Gold awards. We
