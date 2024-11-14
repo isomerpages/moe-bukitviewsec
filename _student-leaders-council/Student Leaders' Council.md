@@ -28,8 +28,9 @@ three ways:</p>
 </ol>
 <p><strong>&nbsp;</strong>
 </p>
-<p></p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Student leaders/BVSS_23_037.jpg">
+</div>
 <p>&nbsp;</p>
 <p><strong>STUDENT LEADERS’ PLEDGE</strong>
 </p>
