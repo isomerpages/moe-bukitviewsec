@@ -2,5 +2,5 @@ collections:
   student-leadership:
     output: true
     order:
-      - Student Council Board.md
+      - Student Leaders' Council.md
       - Peer Support Leaders.md
