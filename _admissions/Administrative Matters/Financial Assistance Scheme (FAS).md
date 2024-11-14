@@ -50,7 +50,7 @@ Income (PCI) not exceeding $750.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="9" colspan="1">
 <p><strong>How to Apply</strong>
 </p>
 </td>
@@ -59,17 +59,13 @@ Income (PCI) not exceeding $750.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Parent Gateway (PG app)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MOE eFAS Link</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Available on Parent Gateway under
 <br>Service tab &gt; Financial Assistance.
 <br>
@@ -78,18 +74,30 @@ Income (PCI) not exceeding $750.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Admin Matters/Slide1.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer" target="_blank"><u>https://go.gov.sg/moe-efas</u></a><u><br><br></u>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>MOE eFAS Link</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer" target="_blank"><u>https://go.gov.sg/moe-efas</u></a><u><br></u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="200" width="200" src="/images/Admin%20Matters/EFAS_202g5.png">
+<img style="width: 100%" height="auto" width="100%" src="https://www.yuhuasec.moe.edu.sg/images/11111111.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>o You will receive an acknowledgement email upon successful submission
-of eFAS application.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>You will receive an acknowledgement email upon successful submission of
+eFAS application.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
