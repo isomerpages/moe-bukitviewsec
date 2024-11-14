@@ -14,8 +14,8 @@ Activities (CCA).
 </p>
 <h4><strong>Submission of Insurance Claims</strong></h4>
 <p>Parents and students are required to submit claims online and can track
-the status through the Online Portal. Claims should be submitted within
-30 days from the date of the accident.</p>
+the status through the <a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener nofollow" target="_blank">Online Portal</a>.
+Claims should be submitted within 30 days from the date of the accident.</p>
 <p>Please note that most claims require prior payment, with reimbursement
 by NTUC Income upon verification and approval of the claim.</p>
 <p>For detailed information on coverage and benefits, please refer to the
