@@ -4,7 +4,7 @@ permalink: /student-leadership/scb/
 description: ""
 variant: markdown
 ---
-## Student Council Board
+## Student Leaders' Council
 
 ![](/images/CCA%20Page/Group%20Photo/school%20council%20board%20_formal.jpg)
 
