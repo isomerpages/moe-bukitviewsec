@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## Concert Band
 
-![](/images/CCA%20Page/Group%20Photo/concert%20band%20_formal.jpg)
+![](/images/CCA%20Page/Group%20Photo/Concert_Band_Formal.jpg)
 
 #### MISSION
 

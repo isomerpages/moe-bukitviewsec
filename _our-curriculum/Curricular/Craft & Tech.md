@@ -36,7 +36,23 @@ We aim to excite and engage our learners through authentic learning experiences 
 
 **ART**
 
-<img src="/images/photo_2022-12-24_04-06-08.jpg" style="width:85%">
+![](/images/Department%20photos/Art_1_.jpg) 
+Art Learning journey to National Gallery
+
+![](/images/Department%20photos/Art_2_.jpg)
+Students creating an action painting
+
+![](/images/Department%20photos/Art_3_.jpg)
+Art enrichment - Batik Painting 
+
+![](/images/Department%20photos/Art_4_.jpg)
+Open House visit to NAFA
+
+![](/images/Department%20photos/Art_5_.jpg)
+Students at the On-the-spot Watercolour Painting Competition@Clarke Quay
+
+![](/images/Department%20photos/Art_6_.jpg)
+Students creating a collage
 
 **DESIGN &amp; TECHNOLOGY**
 
@@ -45,6 +61,8 @@ We aim to excite and engage our learners through authentic learning experiences 
 **NUTRITION &amp; FOOD SCIENCE**
 
 <img src="/images/photo_2022-12-24_04-07-42.jpg" style="width:85%">
+
+
 
 #### Assessment
 

@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## **Environmental Club**
 
-![](/images/CCA%20Page/Group%20Photo/environmental%20club%20_formal.jpg)
+![](/images/CCA%20Page/Group%20Photo/Environmental_Club_Formal.jpg)
 
 #### BACKGROUND
 

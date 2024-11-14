@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## **Track &amp; Field**
 
-<img src="/images/CCA%20Page/Group%20Photo/track&nbsp;&amp;%20field%20_formal.jpg">
+![](/images/CCA%20Page/Group%20Photo/Track_and_Field_Formal.jpg)
 
 #### OBJECTIVES
 

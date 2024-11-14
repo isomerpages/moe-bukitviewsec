@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## **Drama Club**
 
-![](/images/CCA%20Page/Group%20Photo/drama%20club%20_formal.jpg)
+![](/images/CCA%20Page/Group%20Photo/Drama_Club_Formal.jpg)
 
 #### BACKGROUND
 
@@ -36,7 +36,7 @@ To cultivate and nurture a love and appreciation for mass media and the arts, wh
 |   |   |
 |---|---|
 | Mr Muhd Fadly |  Mr John Praveen |
-| Miss Shivali Popat Jadhav | 
+| Ms Yen Ding Yi | 
 |   |   |
 
 #### HIGHLIGHT OF THE YEAR

@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## **Dance Club**
 
-![](/images/CCA%20Page/Group%20Photo/dance%20club%20_formal.jpg)
+![](/images/CCA%20Page/Group%20Photo/Dance_Club_Formal.jpg)
 
 #### BACKGROUND
 
@@ -31,7 +31,7 @@ The objectives of BVSS Dance Club are to nurture the love for dance as a perform
 
 |   |   |
 |---|---|
-| Mrs Dharani Dinesh  | Ms Sarah Lah  | 
+| Mrs Dharani Dinesh  | Mdm Nurlesa  | 
 |   |   |
 
 #### HIGHLIGHT OF THE YEAR <br>

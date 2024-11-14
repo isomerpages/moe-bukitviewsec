@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## **Boys' Brigade**
 
-![](/images/CCA%20Page/Group%20Photo/boys'%20brigade%20_formal.jpg)
+![](/images/CCA%20Page/Group%20Photo/Boy_s_Brigade_Formal.jpg)
 
 #### BACKGROUND
 

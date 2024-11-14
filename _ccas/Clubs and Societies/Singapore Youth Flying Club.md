@@ -9,7 +9,7 @@ variant: markdown
 
 <img src="/images/rwimage_1%20(600%20x%20202).jpg">
 
-![](/images/CCA%20Page/Group%20Photo/youth%20flying%20club%20_formal.jpg)
+![](/images/CCA%20Page/Group%20Photo/YOUTH_FLYING_CLUB_Formal.jpg)
 
 #### BACKGROUND
 
@@ -34,7 +34,7 @@ The objectives of the Bukit View Secondary School's Youth Flying Club are threef
 | | |
 | --- | --- |
 | Mr Richard Lim | Mr Chin Kwek Siong | 
-| Mrs Charline Cheah | Mr Ong Soon Gee|
+|  Mr Ong Soon Gee|
 | | |
 
 #### HIGHLIGHT OF THE YEAR

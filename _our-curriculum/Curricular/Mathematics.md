@@ -3,139 +3,332 @@ title: Mathematics
 permalink: /our-curriculum/Curricular/Mathematics/
 description: ""
 third_nav_title: Curricular
-variant: markdown
+variant: tiptap
 ---
-## Mathematics
-
-<img src="/images/Department%20photos/Group%20Photo/mathematics%20department.jpg" style="width:60%">
-
-The Mathematics Department believes that everyone can do Mathematics. No matter what the starting point is, our teachers ensure high expectations for all by supporting and empowering students to reach their potential. Our curriculum and programmes are designed to develop problem-solving disposition, digital literacy, and self-directedness. We provide opportunities for students to develop critical thinking in order to make sense of the disciplinarity of Mathematics, to see connections and applications to the real world. Bukit Viewans develop mathematical confidence and competence, gaining understanding on why Mathematics is important and relevant in their lives.
-
-#### Our Teachers
-
-|  Head of Department: | Mrs Irni Prasad (Maths)  |   |
-|---|---|---|
-| **Mathematics**  |   | **Principles of Accounts (POA)**  |
-| Mr Alexander Chia  <br>(HOD Ed-Tech)  | Miss Patricia Lye (SH/Computing)  | Mdm Quek Eng Chiew (ST)  |
-| Mrs Kelly Chew  | Mr Liu Sijian (ST)  | Ms Vianne Tan Wei Yan |
-|  Ms Kumutha Maniam | Mr Muhd Na'im Bin Sa'dollah  | Mr Joshua Tan  |
-| Ms Illya Nafiza  | Mrs Leong Wee Choo  | Ms Lee Aye Li   |
-| Mr Tan Chong Han |  Mr Chin Kwek Siong|   |
-|  Mr Neal Warren Cooke | Mdm Fatimah Begum |   |
-| Mr Joshua Lee  | Mr Andy Lee | 
-|  Mr Gopi Krishnan |  | 
- |   |    |
-
-
-#### Key Programmes and Achievements
-
-###### <u>Mathematical Modelling Projects</u>
-
-Secondary 3 students worked on a real-world problem “Bungee-Jumping”. Using data collated and Excel or Desmos, they were tasked to figure out a mathematical model for the given problem.Mathematical modelling (MM) uses mathematical approaches to understand and make decisions about real-world problems and is a powerful tool to nurture necessary mathematical thinking skills.
-
-<figure>
-<img src="/images/S3 Math Modelling Task 2022.jpeg" style="width:70%">
-<figcaption>Secondary 3 Math Modelling Task 2022
- </figcaption>
-</figure>
-
-###### <u>S1 Amazing Race - “Math Mission: It’s Possible”</u>
-
-Secondary 1 students were tasked to solve mathematics problems that were placed around the school. Once solved, they will obtain clues to crack a code. Learning Experience (LE) focuses on learning as a process rather than an outcome and is student-centric, allowing a student to do something as part of his/her learning. LE contributes to the development of process (cognitive and metacognitive) as well as 21st century competencies.
-
-<img src="/images/Math Amazing Race 2022 pic 1.jpeg" style="width:85%"><br>
-
-<img src="/images/Math Amazing Race 2022 pic 2.jpg" style="width:85%"><br>
-
-<figure>
-<img src="/images/Math Amazing Race 2022 winners.jpg" style="width:90%">
-<figcaption>Math Amazing Race 2022
- </figcaption>
-</figure>
-
-###### <u>Flipped Learning Resources</u>
-
-Our teachers are competent in many ICT tools and platforms that enable students to be empowered in their learning. We leverage on google classroom for resources, assignments and announcement, Kahoot and Quizziz for Assessment for Learning (AfL), video lessons recordings to complement learning tasks, DESMOS and SLS functions that enable self-directed and collaborative learning. The department has also incorporated Success Criteria and Self-Assessment checklist for each topic so that students can regulate and monitor their own learning. ‘Test My Understanding’ (TMU) assignments are also a novel way to carry out homework, one that empowers students and guides them to the next step.
-
-<img src="/images/Engaged Learning using ICT 1.jpeg" style="width:85%">
-
-<figure>
-<img src="/images/Engaged Learning Using ICT 2.jpeg" style="width:90%">
-<figcaption>Engaged Learning using ICT
- </figcaption>
-</figure>
-
-###### <u>Innovation</u>
-
-The AlgeCards is a set of manipulatives developed from a Lesson Study project by the department in collaboration with Assistant Professor Dr Leong Yew Hoong from NIE-MME in 2009. It has been used school-wide in the teaching of algebraic concepts. Through this project, the department has developed ready-made lesson packages customised to our students’ learning needs.
-
-###### <u>Student Achievements</u>
-
-Selected students took part in the Singapore and Asian Schools Mathematics Olympiad (SASMO) and Singapore Mathematical Olympiad (SMO) Competition, 2 students achieved the Silver award, 7 achieved the Bronze award and 10 were given Honourable Mention for SASMO.&nbsp; 1 student achieved the Bronze award and 2 Honourable Mentions for SMO.
-
-|  SMO Competition (2022) |   |
-|---|---|
-|  Gibson Bong Hoong Nien (2G) |  Bronze |
-| Shawn Shayrhyzan (2F)  | Honourable Mention  |
-| Lee Zhi Hui, Shane (4F)  | Honourable Mention  |
-|   |   |
-
-|  SASMO Competition (2022) |   |
-|---|---|
-|  Gibson Bong Hoong Nien (2G) | Silver  |
-| Shawn Shayrhyzan (2F) |  Silver |
-| Jermaine Lee Zhixuan (1G)  |  Bronze |
-| Bae Junho (1H)  | Bronze  |
-| Peter Benny Liana Chrissy (2D)  |  Bronze |
-|  Gan Jing Yang (2F) | Bronze  |
-|  Amjathkhan Abeejith (2F) | Bronze  |
-|  Ng Ren Xu (3D) |  Bronze |
-|  Chloe Lim En Qi (4D) | Bronze  |
-|  Tan Pin Yuan(1C) | Honourable Mention  |
-| Gunasekaran Baranikumar (1D)  | Honourable Mention  |
-| Kim Joonsu (1E)  |  Honourable Mention |
-| Arun Kumar David Rachel David (2D)  |  Honourable Mention |
-| Ong Hao En Ethan (2G)  | Honourable Mention  |
-| Li Ee-Zhe (3F)  | Honourable Mention |
-| Fong Qi Ying Caden (3F) | Honourable Mention  |
-| Giam Yu Rong Marie&nbsp; (4E)  | Honourable Mention  |
-|  Tan Kuan Chong, Brendan (4F) | Honourable Mention  |
-|  Charlyne Tan Sin Yen (4F) | Honourable Mention  |
-|   |   |
-
-<figure>
-<img src="/images/SASMO Winners 2022.jpeg" style="width:90%">
-<figcaption> SASMO Winners 2022
- </figcaption>
-</figure>
-
-<figure>
-<img src="/images/All Singapore Secondary Mathematics Competition for Normal Course Students 2020.jpg" style="width:90%">
-<figcaption>All Singapore Secondary Mathematics Competition for Normal Course Students 2020
- </figcaption>
-</figure>
-
-###### <u>Teacher Accolades</u>
-
-Four of our teachers conducted a&nbsp;**Teacher-Led Workshop**&nbsp;entitled “Revolutionising Homework in Mathematics’. Mr Liu Sijian, Mr Kenneth Khoo, Mr Wang Kangcheng and Mrs Kelly Chew.
-
-<img src="/images/Teacher-Led Workshop March 2022 via Zoom 2.jpeg" style="width:85%">
-
-<figure>
-<img src="/images/Teacher-Led Workshop March 2022 via Zoom.jpeg" style="width:90%">
-<figcaption>Teacher-Led Workshop March 2022
- </figcaption>
-</figure>
-
-**West Zone Mathematics (Secondary) Webinar 2022**; sharing on’ Collaborative Learning of S1NT Area and Perimeter ‘. Mr Alex Chia, Mr Nur Illya and Mr Kenneth Khoo.  
-  
-**Academy Awards for Professions Development 2022** <br>
-Mr Liu Sijian (Facilitator of Workshops) <br>
-Mdm Quek Eng Chiew (Facilitator of Workshops) <br>
-Mr Wang Kangcheng (Researcher)
-
-#### Principles of Accounts
-
-In today’s business climate, accounting is about more than just crunching numbers. Our students not only acquire knowledge and understanding of fundamental accounting concepts, principles and procedures in the context of business aims and activities, they also develop the understanding of the role of accounting in providing an information system for monitoring and decision making.  
-  
-Students will develop skills and attitudes that are pertinent to the workforce such as accuracy, orderliness, logical thought and an appreciation of professional ethics.
+<h2>Mathematics</h2>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/Department%20photos/Group%20Photo/mathematics%20department.jpg">
+</div>
+<p><strong>Vision</strong>
+</p>
+<p>To inspire a love for learning Mathematics and to nurture persevering,
+diligent, and resourceful problem-solvers.</p>
+<p><strong>Mission</strong>
+</p>
+<p>To develop confident and self-directed learners.</p>
+<p>The Mathematics Department believes that everyone has the potential to
+succeed in Mathematics. Regardless of starting points, our teachers maintain
+high expectations for all students, providing support and empowerment to
+help them reach their fullest potential. Our curriculum fosters problem-solving
+abilities, digital literacy, and self-directedness, emphasizing critical
+thinking to connect mathematical concepts to real-world applications. Through
+this journey, Bukit Viewans gain mathematical confidence and competence,
+appreciating the relevance of Mathematics in their lives.</p>
+<h4>Our Teachers</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Head of Department:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mrs Irni Prasad (Maths)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Principles of Accounts (POA)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Alexander Chia
+<br>(HOD Ed-Tech)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Patricia Lye (SH/Computing)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vianne Tan Wei Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Liu Sijian (ST)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Na'im Bin Sa'dollah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Joshua Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Kelly Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Leong Wee Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kumutha Maniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chin Kwek Siong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Illya Nafiza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Fatimah Begum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chong Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lin I-Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Neal Warren Cooke</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Si Yao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Joshua Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gopi Krishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Key Programmes and Achievements</h4>
+<h6><u>S3 Math Modelling</u></h6>
+<p>Mathematical modeling uses mathematics to represent and analyze real-world
+situations. Students develop essential data handling skills, interpreting
+data through digital tools like Desmos and Excel. Working in groups, they
+refine their models to improve accuracy, gaining valuable communication
+and collaboration skills. This project enhances their ability to communicate
+complex ideas and strengthens their scientific and mathematical communication.</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/S3 Math Modelling Task 2022.jpeg">
+</div>
+<p></p>
+<h6><u>S1 Amazing Race - “Math Mission: It’s Possible”</u></h6>
+<p>Our Secondary 1 students took on an exciting challenge to solve math problems
+positioned throughout the school. As they solved each problem, they uncovered
+hints to break a code. This hands-on approach emphasizes learning through
+experience, allowing students to engage deeply, develop metacognitive skills,
+and gain 21st-century competencies.</p>
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/Math Amazing Race 2022 pic 1.jpeg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/Math Amazing Race 2022 pic 2.jpg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:90%" height="auto" width="100%" src="/images/Math Amazing Race 2022 winners.jpg">
+</div>
+<p></p>
+<h6><u>Innovation with AlgeCards</u></h6>
+<p>As part of a Lesson Study initiative in 2009, we developed AlgeCards in
+collaboration with Assistant Professor Dr. Leong Yew Hoong from NIE-MME.
+These teaching aids support algebraic learning across the school, accompanied
+by pre-made lesson plans tailored to our students' learning needs.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/Dept_Time_Teaching_Algebra_using_Algecards.jpg">
+</div>
+<p><u>S2 Statistics and Data Handling Lesson Package</u>
+</p>
+<p>Our interactive lesson package introduces students to foundational spreadsheet
+skills through hands-on experiences with real-world data. They learn to
+organize, interpret, and visually represent data through charts, developing
+data analysis skills to make informed decisions. This enriching experience
+strengthens their analytical thinking, creativity, and teamwork skills,
+which are invaluable for future learning and real-life applications.</p>
+<p></p>
+<p><u>Flipped Learning Resources</u>
+</p>
+<p>Our teachers integrate ICT tools to foster student-directed learning.
+Google Classroom facilitates resource sharing, while interactive tools
+like Kahoot and Quizziz support formative assessments. Video lessons complement
+learning, and platforms like DESMOS and SLS promote collaborative learning.
+Success Criteria, Self-Assessment checklists, and 'Test My Understanding'
+assignments empower students to monitor their progress and take steps to
+enhance their learning journey.</p>
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/Engaged Learning using ICT 1.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:90%" height="auto" width="100%" src="/images/Engaged Learning Using ICT 2.jpeg">
+</div>
+<p></p>
+<h6><u>In-house Math Olympiad Training</u></h6>
+<p>Led by our senior teacher, Mr. Liu Sijan, our Math Olympiad Training program
+sharpens students' advanced mathematical skills over ten sessions. This
+program fosters critical and creative thinking, preparing students to compete
+at both national and international levels.</p>
+<p></p>
+<p><strong>Principles of Accounts (POA)</strong>
+</p>
+<p>In today’s dynamic business landscape, our POA course extends beyond numbers,
+instilling fundamental accounting knowledge and critical financial management
+skills. Students gain insights into accounting as an information system
+essential for making sound business decisions.</p>
+<p><u>Secondary Two Financial Literacy Programme</u>
+</p>
+<p>Our Financial Literacy programme introduces students to principles like
+delayed gratification, saving, and budgeting. This foundational knowledge
+encourages responsible financial habits and empowers students to make informed
+choices throughout their lives.</p>
+<p></p>
+<h6><strong><u>Student Achievements</u></strong></h6>
+<p>SMO 2024 Award Winners</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/SMO_Prize_WInner.jpg">
+</div>
+<p>Bronze (Senior) GIBSON BONG HOONG NIEN</p>
+<p>Bronze (Open) GIBSON BONG HOONG NIEN</p>
+<p>&nbsp;</p>
+<p><strong>SASMO 2024 Award Winners</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/SASMO_Prize_Winners.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Silver</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bronze</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Honourable Mention</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BAE JUN SOO</p>
+<p>CHIN GUAN CHUNG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FANG ZHEN QUAN, JOSEPH</p>
+<p>LUCIUS TOH EN CI</p>
+<p>JAYDEN YAM ZHI MING</p>
+<p>LIM WEE KIAT JACKIE</p>
+<p>LIM JIA YING</p>
+<p>S TANVEER SHEIK</p>
+<p>SUN HAO CHENG</p>
+<p>PRABHOO KARUNAKARAN</p>
+<p>BAE JUNHO</p>
+<p>KIM JOONSU</p>
+<p>JERRELL TAN YI FENG</p>
+<p>YUE HAO MIN ETHAN</p>
+<p>GIBSON BONG HOONG NIEN</p>
+<p>KHAMBHATI MOIZ HUZEFA</p>
+<p>ZHANG ZHENGYU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONG ZHI NING BERNICE</p>
+<p>SELVASEKARAN PREETI</p>
+<p>LAKSHMAN SHANTHI KUMAR</p>
+<p>KARNATI SAI EASHAN</p>
+<p>SENTHIL KUMAR HARISH</p>
+<p>M SAI SIDDHAN</p>
+<p>RAJA BHARADH</p>
+<p>DING QIUSHUO</p>
+<p>LIM YI HENG IAN</p>
+<p>TAY LEZANE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>S1 NIE Math Challenge (2024)</strong>
+</p>
+<p><strong>Certificate of Participation with High Distinction</strong>
+</p>
+<p>Kaeden Bak Xuan Qi</p>
+<p>Tan Kai Rui</p>
+<p>&nbsp;</p>
+<p><strong>Certificate of Participation with Distinction</strong>
+</p>
+<p>Ang Yun Li Uliz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ashton Wong Wei Chieh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Chevelle Aw Yun En</p>
+<p>Chia Jia Xuan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Chong Kai Xin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Elisa Chang Jia Ying</p>
+<p>Jeanne Lee Yixuan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Lee Ying Chuo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Lee Yong Rui</p>
+<p>Low Wen Hui&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Min Thant Ye Naung&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ophelia Ong Xin Ya</p>
+<p>Selvasekaran Preeti&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Swaminatha Raja Madhumitha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Tan Zi Yang Jake</p>
+<p>Zhang Zijing</p>
+<p>&nbsp;</p>

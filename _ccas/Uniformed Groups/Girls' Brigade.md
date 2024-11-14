@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## **Girls' Brigade**
 
-<img src="/images/CCA%20Page/Group%20Photo/girls'%20brigade%20_formal.jpg">
+![](/images/CCA%20Page/Group%20Photo/Girl_s_Brigade_Formal.jpg)
 <img src="/images/GB1.jpg">
 
 #### BACKGROUND

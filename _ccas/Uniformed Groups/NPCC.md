@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## **NPCC**
 
-![](/images/CCA%20Page/Group%20Photo/npcc%20_formal.jpg)
+![](/images/CCA%20Page/Group%20Photo/NPCC_Formal.jpg)
 
 <center><b> Ready for the challenge?</b></center>
 

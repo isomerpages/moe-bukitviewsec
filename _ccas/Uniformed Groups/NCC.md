@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2><strong>NCC</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/ncc%20_formal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Group Photo/NCC_Formal.jpg">
 </div>
 <h4>BACKGROUND</h4>
 <p><strong>National Cadet Corps (Land)</strong>&nbsp;is a Uniformed Group
@@ -24,7 +24,11 @@ Orienteering Competitions, Freestyle Drill(FSD) Competitions, Sports and
 games under the Unit Recognition(UR) initiative to provide fruitful experiences
 for all cadets across the district.</p>
 <h4>CCA TRAINING DAY(S) / TIME</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -69,7 +73,11 @@ of preparation for competition or special occasions).</p>
 </tbody>
 </table>
 <h4>TEACHERS-IN-CHARGE</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -92,7 +100,7 @@ of preparation for competition or special occasions).</p>
 <p>Miss Lin I Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Joshua Lee</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +134,11 @@ and Sports Championship.</p>
 </li>
 </ul>
 <h4>AWARDS AND ACHIEVEMENTS</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -201,7 +213,12 @@ and Sports Championship.</p>
 <img style="width:100%" height="auto" width="100%" src="/images/NCC Sports Championship.jpg">
 </div>
 <h4>EXECUTIVE COMMITTEE MEMBERS</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
