@@ -23,14 +23,9 @@ place orders by the end of November. The peak sales period occurs in the
 last two weeks of December.</p>
 </li>
 <li>
-<p><strong>Self-Collections:</strong> 
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>For students who purchase items online, please adhere to the self-collection
-date selected when collecting items from the school.</p>
-</li>
-</ul>
+<p><strong>Self-Collections:</strong>For students who purchase items online,
+please adhere to the self-collection date selected when collecting items
+from the school.</p>
 </li>
 </ul>
 <p></p>
@@ -99,14 +94,15 @@ date selected when collecting items from the school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For sizing chart, please refer to
-<br><a href="https://www.intrenduniforms.com/size-guide-video" rel="noopener noreferrer nofollow" target="_blank"><u>InTrend Uniforms - Size Chart</u></a>
+<p>Please click the link below for further details.
+<br><a href="/files/Admin Matters/Information_for_Sale_of_Uniforms_2024_BVSS.pdf" rel="noopener nofollow" target="_blank">Information for Sale of Uniforms for BVSS</a>
+<br>For sizing chart, please refer to <a href="https://www.intrenduniforms.com/size-guide-video" rel="noopener noreferrer nofollow" target="_blank"><u>InTrend Uniforms - Size Guide</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Payment Mode</strong>
+<p><strong>Payment Modes</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,36 +156,12 @@ date selected when collecting items from the school.</p>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Remarks</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please refer to the booklist below for more details.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please click the link below for further details.</p>
-<p><a href="/files/Admin Matters/Information_for_Sale_of_Uniforms_2024_BVSS.pdf" rel="noopener nofollow" target="_blank">Information for Sale of Uniforms for BVSS</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Booklist</div><div class="isomer-card-description">Please click here for the booklists .</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">School Uniform</div>
-<div class="isomer-card-description">Information for Sale of Uniforms for BVSS</div>
-<div class="isomer-card-link">Information for Sale of Uniforms for BVSS</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>STUDENTS OFFERED SBB SUBJECTS</strong>
+<summary><strong>STUDENTS OFFERED SBB SUBJECTS (SBB)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
@@ -198,8 +170,8 @@ date selected when collecting items from the school.</p>
 should refrain from purchasing textbooks at this time.</p>
 </li>
 <li>
-<p>Please be aware that purchases from our school bookshop are non-refundable,
-and only books in their original condition can be exchanged. For instance,
+<p>Dotake note: Purchases from our school bookshop are non-refundable, and
+only books in their original condition can be exchanged. For instance,
 books with students' names written in them cannot be exchanged.</p>
 </li>
 </ul>
@@ -211,16 +183,12 @@ books with students' names written in them cannot be exchanged.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Online purchase will not be available.</p>
+<p>Online purchases are not available for FAS students. Once FAS approval
+is granted, the school will contact parents to arrange for collection.</p>
 </li>
 <li>
-<p>Upon FAS approval, the school will contact parents to arrange for the
-collection of the approval letter.</p>
-</li>
-<li>
-<p>Parents who receive FAS approval from other schools are advised to contact
-our General Office to make an appointment for the collection of the approval
-letter from our school</p>
+<p>Parents with FAS approval from other schools should contact the General
+Office to arrange a collection appointment.</p>
 </li>
 </ul>
 </div>
