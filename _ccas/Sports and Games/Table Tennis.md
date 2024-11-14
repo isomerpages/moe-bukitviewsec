@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## **Table Tennis** 
 
-![](/images/CCA%20Page/Group%20Photo/table%20tennis%20_formal.jpg)
+![](/images/CCA%20Page/Group%20Photo/Table_Tennis_Formal.jpg)
 
 #### BACKGROUND
 
