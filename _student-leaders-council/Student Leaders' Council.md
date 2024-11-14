@@ -2,36 +2,93 @@
 title: Student Leaders' Council
 permalink: /student-leadership/scb/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-## Student Leaders' Council
-
-![](/images/CCA%20Page/Group%20Photo/school%20council%20board%20_formal.jpg)
-
-#### THEME
-
-**_“To lead with zest, to serve with pride.”_**
-
-#### OVERVIEW
-
-As one of the two student leadership groups in Bukit View Secondary School, the Student Council Board has been at the forefront in leading various student-led activities such as the Secondary 1 Orientation Camp, Student Leaders’ Investiture, Teachers’ Day Celebration and many more. Together with the Peer Support Leaders, our student leaders are also involved in various school events such as Student Environmental Leadership Conference (SELC) for the primary school students. 
-  
-#### COUNCILLOR’S PLEDGE
-
-<center>We the members of Bukit View Secondary School Student Council pledge that:  <br>
-By our conduct both in and out of the school, <br>
-We shall uphold the name and motto of the school, <br>
-And be examples for our fellow schoolmates. <br>
-We shall be firm and fair, <br>
-By discharging our duties without fear or favour. <br>
-We promise that to do our best, <br>
-And look forward to receiving support and assistance of our teachers <br>
-And fellow pupils in the performance of our duties. </center>
-
-#### TEACHER&nbsp;MENTORS
-
-|   |   |
-|---|---|
-| Miss Kumutha Maniam  | Mr Elamaran s/o Kamalanathan  |
-| Miss Ang Bee Lee | Mr Norafiq Ismail |
-|   |   |
+<h4>MISSION</h4>
+<p><strong><em>“To lead with zest, to serve with pride.”</em></strong>
+</p>
+<h4>OVERVIEW</h4>
+<p>The Student Leaders’ Council is at the forefront of various student-led
+initiatives, designed to build a caring and enabling school environment.
+Our student leaders serve the school community and student body in these
+three ways:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>A</strong>dvocate and champion <strong>school values</strong>
+</p>
+</li>
+<li>
+<p><strong>C</strong>reate positive and <strong>inclusive school culture</strong>
+</p>
+</li>
+<li>
+<p><strong>E</strong>ngage and empower <strong>student voices</strong>
+</p>
+</li>
+</ol>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>STUDENT LEADERS’ PLEDGE</strong>
+</p>
+<p>We the student leaders of Bukit View Secondary School pledge that:</p>
+<p>As engaged learners, empathetic citizens and ethical advocates,</p>
+<p>We shall uphold our school values,</p>
+<p>Wherever we may be.</p>
+<p>We shall be firm and fair,</p>
+<p>By discharging our duties without fear or favour.</p>
+<p>In every endeavour,</p>
+<p>We shall deliver our best,</p>
+<p>And strive to be better,</p>
+<p>To achieve and excel,</p>
+<p>And model the way for our fellow students.</p>
+<p>We lead with our hearts,</p>
+<p>To care and share.</p>
+<p>We are ready to serve,</p>
+<p>Persevering forward bound.</p>
+<p>&nbsp;</p>
+<p><strong>TEACHER&nbsp;MENTORS</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Kumutha Maniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Afiq</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Vianne Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
