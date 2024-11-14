@@ -9,8 +9,7 @@ third_nav_title: Sports and Games
 
 ##### *"A team above all. Above all a team."*
 
-![](/images/CCA%20Page/Group%20Photo/floorball%20_formal.jpg)
-![](/images/CCA%20Page/Group%20Photo/hockey%20_formal.jpg)
+![](/images/CCA%20Page/Group%20Photo/Floorball_Formal.jpg)
 
 #### BACKGROUND
 
@@ -34,9 +33,8 @@ Through teamwork, floorball aims to instill responsibility, confidence and disci
 
 | | |
 | --- | --- |
-| Mrs Ng-Sim Kia Mien | Mr Koh Si Yao |
-| Ms Nur Illya Nafiza | Mr Felix Wong |
-| Mdm Nurlesa|  
+| Mdm Aisah Maduri | Mr Koh Si Yao |
+| Ms Nur Illya Nafiza | Mr Felix Wong  
 | | |
 
 
