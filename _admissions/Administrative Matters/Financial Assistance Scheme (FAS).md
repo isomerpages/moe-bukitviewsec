@@ -71,7 +71,7 @@ Income (PCI) not exceeding $750.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Admin Matters/Slide1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Admin Matters/Slide1.jpg">
 </div>
 </td>
 </tr>
@@ -86,7 +86,7 @@ Income (PCI) not exceeding $750.</p>
 <p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer" target="_blank"><u>https://go.gov.sg/moe-efas</u></a><u><br></u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="https://www.yuhuasec.moe.edu.sg/images/11111111.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="https://www.yuhuasec.moe.edu.sg/images/11111111.jpg">
 </div>
 </td>
 </tr>
