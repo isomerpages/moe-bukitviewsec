@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## **Choir**
 
-![](/images/CCA%20Page/Group%20Photo/choir%20_formal.jpg)
+![](/images/CCA%20Page/Group%20Photo/Choir_Formal.jpg)
 
 #### BACKGROUND
 
@@ -41,7 +41,7 @@ Next, please enjoy our version of “All Things Bright and Beautiful” – made
 |   |   |
 |---|---|
 | Mdm Joy Chen  | Ms Seah Koon Lay |
-|  Mdm Gao Yi |   |
+|  Miss Tan Zeng Yee Shalom |   |
 |   |   |
 
 
