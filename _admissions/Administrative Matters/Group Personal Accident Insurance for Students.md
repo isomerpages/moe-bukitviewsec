@@ -5,36 +5,30 @@ variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
-<h3>GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</h3>
-<hr>
-<p>All students are covered under the GPA Insurance Plan which provides coverage
-while they are at the school premises, in Singapore or elsewhere, participating
-in school-related activities, including Co-Curricular Activities (CCA).
+<h3><strong>Group Personal Accident (GPA) Insurance for Students</strong></h3>
+<p>All students are covered under the GPA Insurance Plan, which provides
+coverage for incidents occurring on school premises, within Singapore,
+or abroad while participating in school-related activities, including Co-Curricular
+Activities (CCA).
 <br>
-<br><strong><u>Submission of Insurance Claim</u></strong>
-<br>
-<br><strong>Parents/Students are required to submit their claims online and check the status of the claim through the </strong>
-<a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener nofollow" target="_blank">Online Portal</a><strong>.  </strong>
-<br>Please submit the claim within 30 days from the date of the accident.</p>
-<p><em>Please note that most claims require prior payment to be made first. Reimbursement by NTUC Income will be done upon verification and approval of the claims.</em>
 </p>
-<p><em>For details on the coverage and benefit/sum insured, please refer to the&nbsp;Product Factsheet. Alternatively, you may also refer to the details at:&nbsp;</em>
-<a href="https://www.income.com.sg/studentgpa" rel="noopener nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
-</p>
-<p><strong>Useful information:</strong>
-</p>
-<ol data-tight="true" class="tight">
+<h4><strong>Submission of Insurance Claims</strong></h4>
+<p>Parents and students are required to submit claims online and can track
+the status through the Online Portal. Claims should be submitted within
+30 days from the date of the accident.</p>
+<p>Please note that most claims require prior payment, with reimbursement
+by NTUC Income upon verification and approval of the claim.</p>
+<p>For detailed information on coverage and benefits, please refer to the
+<a href="https://www.income.com.sg/studentgpa" rel="noopener" target="_new">Product Factsheet</a>. You may also access additional resources such as:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Admin Matters/Student_GPA_User_Guide____Parent.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Student GPA User Guide</u></a>
+<p><strong><a href="/files/Admin Matters/Student_GPA_User_Guide____Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">Student GPA User Guide</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/Admin Matters/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Product Fact Sheet Year 2024</u></a>
+<p><strong><a href="/files/Admin Matters/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet Year 2024</a></strong>
 </p>
 </li>
-</ol>
-<p>
-<br>Information on claims, FAQs and other details pertaining to the student
-insurance can be found&nbsp;<a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;
-<br>
-</p>
+</ul>
+<p>Further information on claims, FAQs, and other insurance-related details
+can be found <a href="#" rel="noopener" target="_blank">here</a>.</p>
