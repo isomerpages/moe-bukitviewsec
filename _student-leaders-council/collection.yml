@@ -1,5 +1,5 @@
 collections:
-  student-leadership:
+  student-leaders-council:
     output: true
     order:
       - Student Leaders' Council.md
