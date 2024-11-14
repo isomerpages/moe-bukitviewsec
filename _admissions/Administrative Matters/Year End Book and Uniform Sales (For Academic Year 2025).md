@@ -6,22 +6,34 @@ description: ""
 third_nav_title: Administrative Matters
 ---
 <h3><strong>PURCHASE OF BOOKS AND UNIFORMS FOR ACADEMIC YEAR 2025</strong></h3>
-<p>The school textbooks and attire can be purchased from our approved vendors
+<p>School textbooks and uniforms can be purchased from our approved vendors,
 either online* or directly at the school during specified dates (see walk-in
-purchase).</p>
-<p><strong>Students are advised</strong>
+purchase schedule below).</p>
+<p><strong>Important Information for Parents and Students:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To purchase school textbooks from our school bookshop vendor to ensure
-the correct editions and titles are selected as prescribed by the school.</p>
+<p><strong>Textbook Purchases:</strong> It is recommended to purchase school
+textbooks from the approved vendor to ensure the correct editions and titles
+as prescribed by the school.</p>
 </li>
 <li>
-<p>To place orders by end-November to ensure timely deliveries and to avoid
-the peak sales period in the last two weeks of December to avoid a last-minute
-rush to purchase books and uniforms.</p>
+<p><strong>Ordering Deadlines:</strong> To avoid the last-minute rush, please
+place orders by the end of November. The peak sales period occurs in the
+last two weeks of December.</p>
+</li>
+<li>
+<p><strong>Self-Collections:</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For students who purchase items online, please adhere to the self-collection
+date selected when collecting items from the school.</p>
 </li>
 </ul>
+</li>
+</ul>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -162,26 +174,19 @@ rush to purchase books and uniforms.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Note</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Students opting for self-collection from the school premises must adhere
-to their chosen appointment date</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Students must wear their school uniform when purchasing / collection textbooks
-at school bookshop.</p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Booklist</div><div class="isomer-card-description">Please click here for the booklists .</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">School Uniform</div>
+<div class="isomer-card-description">Information for Sale of Uniforms for BVSS</div>
+<div class="isomer-card-link">Information for Sale of Uniforms for BVSS</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>STUDENTS OFFERED SBB SUBJECTS</strong>
