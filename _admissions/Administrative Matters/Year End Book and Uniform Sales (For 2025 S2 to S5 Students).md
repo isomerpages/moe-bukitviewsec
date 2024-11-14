@@ -83,7 +83,7 @@ rush to purchase books and uniforms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For Booklist, please refer to
-<br><a href="https://bukitviewsec.moe.edu.sg/books-and-uniform/" rel="noopener nofollow" target="_blank">2025 Booklist</a>
+<br><a href="/books-and-uniform/" rel="noopener nofollow" target="_blank">2025 Booklist</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -223,7 +223,7 @@ letter from our school</p>
 </div>
 <p></p>
 <h4><strong>Year End BVSS Books &amp; Uniform Sales Schedule</strong></h4>
-<p><strong>For Walk-in Purchase and FAS collections </strong>
+<p><strong>For Walk-in Purchase and FAS collections</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
