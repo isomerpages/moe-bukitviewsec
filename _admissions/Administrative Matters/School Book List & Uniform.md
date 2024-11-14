@@ -107,7 +107,9 @@ period.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For the Year-End Sales of Book &amp; Uniform schedule, please refer to
-this page by clicking here</p>
+this page by clicking here
+<br><a href="/year-end-book-and-uniform-sales-for-2025-students/" rel="noopener nofollow" target="_blank">Year-End Sale Schedule</a>
+</p>
 </li>
 </ul>
 </div>
@@ -209,6 +211,8 @@ an appointment by contacting the bookstore directly.</p>
 <li>
 <p>For the Year-End Sales of Book &amp; Uniform schedule, please refer to
 this page by clicking here</p>
+<p><a href="/year-end-book-and-uniform-sales-for-2025-students/" rel="noopener nofollow" target="_blank">Year-End Sale Schedule</a>
+</p>
 </li>
 </ul>
 </div>
