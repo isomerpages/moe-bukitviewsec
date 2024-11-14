@@ -7,8 +7,7 @@ variant: markdown
 ---
 ## **Infocomm Club**
 
-![](/images/CCA%20Page/Group%20Photo/infocomm%20club%20_formal.jpg)
-
+![](/images/CCA%20Page/Group%20Photo/Infocomm_Club_Formal.jpg)
 #### MISSION
 
 We aspire to level up the skills of our students in Infocomm areas including Digital Animation, Games Development and Coding.
