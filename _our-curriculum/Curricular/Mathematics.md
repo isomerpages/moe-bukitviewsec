@@ -186,6 +186,9 @@ and gain 21st-century competencies.</p>
 collaboration with Assistant Professor Dr. Leong Yew Hoong from NIE-MME.
 These teaching aids support algebraic learning across the school, accompanied
 by pre-made lesson plans tailored to our students' learning needs.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/Dept_Time_Teaching_Algebra_using_Algecards.jpg">
+</div>
 <p><u>S2 Statistics and Data Handling Lesson Package</u>
 </p>
 <p>Our interactive lesson package introduces students to foundational spreadsheet
@@ -194,6 +197,7 @@ organize, interpret, and visually represent data through charts, developing
 data analysis skills to make informed decisions. This enriching experience
 strengthens their analytical thinking, creativity, and teamwork skills,
 which are invaluable for future learning and real-life applications.</p>
+<p></p>
 <p><u>Flipped Learning Resources</u>
 </p>
 <p>Our teachers integrate ICT tools to foster student-directed learning.
@@ -231,11 +235,17 @@ choices throughout their lives.</p>
 <p></p>
 <h6><strong><u>Student Achievements</u></strong></h6>
 <p>SMO 2024 Award Winners</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/SMO_Prize_WInner.jpg">
+</div>
 <p>Bronze (Senior) GIBSON BONG HOONG NIEN</p>
 <p>Bronze (Open) GIBSON BONG HOONG NIEN</p>
 <p>&nbsp;</p>
 <p><strong>SASMO 2024 Award Winners</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/SASMO_Prize_Winners.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -294,10 +304,6 @@ choices throughout their lives.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>S1 NIE Math Challenge (2024)</strong>
