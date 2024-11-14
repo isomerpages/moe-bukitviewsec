@@ -2,7 +2,7 @@ collections:
   admissions:
     output: true
     order:
-      - Administrative Matters/Group Personal Accident Insurance for Students.md
+      - Administrative Matters/Insurance For Students.md
       - Administrative Matters/.keep
       - Administrative Matters/Year End Book and Uniform Sales (For 2025 S2 to
         S5 Students).md
