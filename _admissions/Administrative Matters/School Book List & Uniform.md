@@ -90,21 +90,26 @@ period.</p>
 <summary><strong><u>Opening Hours During the School Term</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong><em>BookStore:</em></strong>
+<p>
+<br><strong><em>Bookstore:</em></strong>
 <br>8.00 AM TO 3.00 PM (MON TO FRI)
 <br><strong><sub>Closed on Weekends, Public Holidays and School Holidays in March, May/June and September.</sub></strong>
 </p>
 <p></p>
-<p>* For parents wishing to purchase textbooks and stationery during the
-regular school term, please email the bookstore directly at <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a> to
-arrange an appointment.</p>
+<p><em>For parents wishing to purchase textbooks and stationery during the regular school term, please email the bookstore directly at <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a> to arrange an appointment.</em>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong><u>Opening Hours During the Year-End School Holidays</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Schedule will be shared closer to the date</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For the Year-End Sales of Book &amp; Uniform schedule, please refer to
+this page by clicking here</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
@@ -200,7 +205,12 @@ an appointment by contacting the bookstore directly.</p>
 <summary><strong><u>Opening Hours During the Year-End School Holidays</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Schedule will be shared closer to the dates.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For the Year-End Sales of Book &amp; Uniform schedule, please refer to
+this page by clicking here</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
