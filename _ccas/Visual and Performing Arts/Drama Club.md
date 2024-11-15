@@ -30,37 +30,22 @@ that will benefit them in various aspects of life.</p>
 <h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Showcases &amp; Events</strong>
+<summary><strong>KEY EXPERIENCES</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4><strong>[ 2024 ]</strong></h4>
+<h4>Showcase &amp; Events<br><br><strong>[2024]</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>National Day School Celebration</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Performance:</em> “The Life of Lee Kuan Yew”</p>
-</li>
-</ul>
+<p><strong>National Day School Celebration - </strong><em>Performance:</em> “The
+Life of Lee Kuan Yew”</p>
 </li>
 <li>
-<p><strong>International Science Drama Competition</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Performance:</em> “The Green Metropolis”</p>
-</li>
-</ul>
+<p><strong>International Science Drama Competition-  </strong>P<em>erformance:</em> “The
+Green Metropolis”</p>
 </li>
 <li>
-<p><strong>School Events</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Performances for:</em> Teachers’ Day, National Day, Youth Day</p>
-</li>
-</ul>
+<p><strong>School Events - </strong><em>Performances for:</em> Teachers’ Day,
+National Day, Youth Day</p>
 </li>
 </ul>
 </div>
