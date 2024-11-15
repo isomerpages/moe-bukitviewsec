@@ -176,22 +176,21 @@ at the Esplanade (Feb 2023)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong><sub>&nbsp;</sub></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Joy Chen&nbsp;</p>
-<p>(Music and Choir Development)</p>
+<p>Mdm Joy Chen
+<br>(Music and Choir Development)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shalom Tan&nbsp;</p>
-<p>(Student Leadership and Publicity)</p>
+<p>Ms Shalom Tan&nbsp;
+<br>(Student Leadership and Publicity)</p>
 </td>
 </tr>
 </tbody>
