@@ -131,8 +131,72 @@ at the Esplanade (Feb 2023)</p>
 </table>
 </div>
 </details>
-<hr>
-<h4><strong>2. CCA TRAINING DAY(S)/ TIME</strong></h4>
+<h4><strong>PHOTO GALLERY</strong></h4>
+<p>Please click to view the photos of event.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>| SINGSPIRATION! 2024 at Victoria Concert Hall |</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="231" width="231" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcazrtsEJARYQLZLgX9jREKL2C5HJmy1PiPiRi03RbzGZDsbGvQ8Hik8k-Fac5MClnKUpyt60J7PcdDRqz4ZUhWnFukJILo6wPEwQoNF8UhXQ46ZLI1mqeAv2cnKkkn1kSEUunGUSuC_8glTkZb4gzn36Bd?key=AVsL1xUYuDXUTWEQov_rnDbC">
+</div>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="241" width="241" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRxhf8RcO27Pe2jRLTzEUJaqmxOm4heLGsXReVDHyINqb3szWPDzKr-0hmb-Rdrp665dMDukC00qgYOEMAAnqlemXY7eWCxtuUGQFeo83sbFj7tHa6h5CDdQ2TqlkU4pE88sYVcW6Xu1F0g7Ojv_4DkBDq?key=AVsL1xUYuDXUTWEQov_rnDbC">
+</div>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="239" width="239" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-iD9F1x9vli1ZB6mz1NLUZ0xQw2YVbKrJvbugQDrgrbG5TpzR9pqOSIt4H8_Scb1_hRTWWO9_-viun5-PXzICObawnJthYYuKmblBmoiXV0ivbw22BJJnWd4iPIf6ot7BLMKA2gMBV548f8IjSqZ7Cc4W?key=AVsL1xUYuDXUTWEQov_rnDbC">
+</div>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="251" width="251" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-f0XkaTkY_rOqqDpmvF1D1tw0ExItknUXyvXiZg9lBuDQTxEEBJM9JpPZAEJzNdHfjzvcT3FEy2So6Uc1hGXsmOBtvA4SnpOsVb2bevii1N6MmvGL1EL-dNgOQ0Yy71kGYtx5XiNtgoQ_Q0nesHP0hhg?key=AVsL1xUYuDXUTWEQov_rnDbC">
+</div>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="302" width="538" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeGDdf0xDyT_7kzlkbA0a-tS7SD8qL3Hn5zLM6bwgflHjZNR-MpvI564jCtGmQSzIlKoztyk4Cc1fIh7aNFoSz8zkY9GRzIbrA4FpWN3j6q38y49u7OR_PEeJQol-Dg0gMJUV8BqszoDL8TcUtBPBh91DQ?key=AVsL1xUYuDXUTWEQov_rnDbC">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>| Singapore Youth Festival 2023 |</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%201.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%204.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%205.jpeg">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>| Lee Foundation Theatre Concert Nov 2022 |</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20016_blf.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20085_blf.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20198_blf.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20040_blf.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20139_blf.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20163_blf.jpg">
+</div>
+<p></p>
+</div>
+</details>
+</div>
+<h4><strong>CCA TRAINING DAY(S)/ TIME</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -167,7 +231,7 @@ at the Esplanade (Feb 2023)</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>3. TEACHERS-IN-CHARGE</strong></h4>
+<h4><strong>TEACHERS-IN-CHARGE</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -176,21 +240,18 @@ at the Esplanade (Feb 2023)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Joy Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><sub>&nbsp;</sub></strong>
-</p>
+<p>(Music and Choir Development)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Joy Chen
-<br>(Music and Choir Development)</p>
+<p>Ms Shalom Tan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shalom Tan&nbsp;
-<br>(Student Leadership and Publicity)</p>
+<p>(Student Leadership and Publicity)</p>
 </td>
 </tr>
 </tbody>
@@ -397,71 +458,7 @@ at the Esplanade (Feb 2023)</p>
 </table>
 </div>
 </details>
-<p></p>
-<h4><strong>PHOTO GALLERY</strong></h4>
-<p><strong>Please click to view the photos of event.</strong>
-</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>| SINGSPIRATION! 2024 at Victoria Concert Hall |</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="231" width="231" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcazrtsEJARYQLZLgX9jREKL2C5HJmy1PiPiRi03RbzGZDsbGvQ8Hik8k-Fac5MClnKUpyt60J7PcdDRqz4ZUhWnFukJILo6wPEwQoNF8UhXQ46ZLI1mqeAv2cnKkkn1kSEUunGUSuC_8glTkZb4gzn36Bd?key=AVsL1xUYuDXUTWEQov_rnDbC">
-</div>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="241" width="241" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRxhf8RcO27Pe2jRLTzEUJaqmxOm4heLGsXReVDHyINqb3szWPDzKr-0hmb-Rdrp665dMDukC00qgYOEMAAnqlemXY7eWCxtuUGQFeo83sbFj7tHa6h5CDdQ2TqlkU4pE88sYVcW6Xu1F0g7Ojv_4DkBDq?key=AVsL1xUYuDXUTWEQov_rnDbC">
-</div>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="239" width="239" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-iD9F1x9vli1ZB6mz1NLUZ0xQw2YVbKrJvbugQDrgrbG5TpzR9pqOSIt4H8_Scb1_hRTWWO9_-viun5-PXzICObawnJthYYuKmblBmoiXV0ivbw22BJJnWd4iPIf6ot7BLMKA2gMBV548f8IjSqZ7Cc4W?key=AVsL1xUYuDXUTWEQov_rnDbC">
-</div>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="251" width="251" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-f0XkaTkY_rOqqDpmvF1D1tw0ExItknUXyvXiZg9lBuDQTxEEBJM9JpPZAEJzNdHfjzvcT3FEy2So6Uc1hGXsmOBtvA4SnpOsVb2bevii1N6MmvGL1EL-dNgOQ0Yy71kGYtx5XiNtgoQ_Q0nesHP0hhg?key=AVsL1xUYuDXUTWEQov_rnDbC">
-</div>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="302" width="538" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeGDdf0xDyT_7kzlkbA0a-tS7SD8qL3Hn5zLM6bwgflHjZNR-MpvI564jCtGmQSzIlKoztyk4Cc1fIh7aNFoSz8zkY9GRzIbrA4FpWN3j6q38y49u7OR_PEeJQol-Dg0gMJUV8BqszoDL8TcUtBPBh91DQ?key=AVsL1xUYuDXUTWEQov_rnDbC">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary>| <strong>Singapore Youth Festival 2023</strong> |</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%201.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%204.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%205.jpeg">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary>| <strong>Lee Foundation Theatre Concert Nov 2022</strong> |</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20016_blf.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20085_blf.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20198_blf.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20040_blf.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20139_blf.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20163_blf.jpg">
-</div>
-<p></p>
-</div>
-</details>
-</div>
+<h4><strong> </strong></h4>
 <h5></h5>
 <p></p>
 <p></p>
