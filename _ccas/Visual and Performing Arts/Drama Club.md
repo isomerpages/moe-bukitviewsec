@@ -27,7 +27,7 @@ Youth Festival Arts presentation, where students can showcase their abilities.
 Through these experiences, they not only grow as performers but also enhance
 valuable skills in communication, teamwork, and creative problem-solving—qualities
 that will benefit them in various aspects of life.</p>
-<h4><strong>HIGHLIGHT OF THE YEAR </strong></h4>
+<h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Showcases &amp; Events</strong>
@@ -188,82 +188,33 @@ that will benefit them in various aspects of life.</p>
 </tbody>
 </table>
 <h4></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/SYF-2019-300x225.jpeg">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/VnhTrX6aFQjDdEtm9" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Drama Club/National_Day_Peformance_in_School.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National Day Performance</div><div class="isomer-card-description">
+Performed in  National Day school celebration  – “The life of Lee Kuan Yew” 
+</div><div class="isomer-card-link">For more photos click here.</div></div></a>
 </div>
-<p>Syf 2019</p>
-</td>
-<td rowspan="1" colspan="1">
+<h4></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/rehersal.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Drama Club/WhatsApp_Image_2024_11_04_at_11_53_51.jpg">
 </div>
-<p>Syf Rehearsal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">International Science Drama Competition</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/@sota.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt=".." src="/images/CCA Page/Drama Club/Drama_Club__18_.jpg">
 </div>
-<p>Drama Club @ Sota</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/teambonding.jpeg">
 </div>
-<p>Team Bonding</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>SYF Art Presentation 2019</p>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/NCS_1103.jpg">
+<div class="isomer-card-body">
+<div class="isomer-card-title">....</div>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/NCS_1105.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/NCS_1110.jpg">
 </div>
-<p>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/NCS_1123.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/NCS_1124.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/NCS_1126.jpg">
-</div>
-<p></p>
 <h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
