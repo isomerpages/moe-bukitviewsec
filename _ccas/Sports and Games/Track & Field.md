@@ -9,59 +9,74 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Track_and_Field_Formal.jpg">
 </div>
-<h4><strong> BACKGROUND</strong></h4>
+<h4><strong>BACKGROUND</strong></h4>
 <p><strong><em><u>OBJECTIVES</u></em></strong>
 </p>
 <p>Track &amp; Field aspires to instill in Bukit Viewans a greater appreciation
 for the sport as well as qualities of sportsmanship, teamwork and strength
 of character.</p>
+<p>We train twice a week at the Bukit Gombak Stadium or school and focus
+on various aspects of fitness as well as building the mental capacity of
+the students. The training is physically and mentally challenging, which
+helps develop resilience and tenacity among the athletes.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>The track and field training programme focus on the following:·</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Strength training·</p>
+</li>
+<li>
+<p>Cardio-vascular training·</p>
+</li>
+<li>
+<p>Running drills·</p>
+</li>
+<li>
+<p>Team bonding activities through games, camps and excursions</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Student Outcomes:</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn the skills and training methods for their respective events.</p>
+</li>
+<li>
+<p>Excel by improving their personal best in the events for which they are
+representing the school.</p>
+</li>
+<li>
+<p>Experience leadership and character development through opportunities
+provided during the course of the CCA programme.</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
 <details class="isomer-details">
 <summary><strong>SHOWCASES &amp; EVENTS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4><strong>[2024]</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1 Welcome party (Feb 2024)</p>
+<p>48 students were registered for<strong> NSG Track &amp; Field for C &amp; B Divisions</strong>
+</p>
 </li>
 <li>
-<p>Values-In-Action activity (June/ July 2024)</p>
+<p>27 students were registered for <strong>NSG X-Country for C &amp; B Divisions</strong>
+</p>
 </li>
 <li>
-<p>Choir exchange with Deyi Secondary School</p>
-</li>
-<li>
-<p>SINGSPIRATION! Combined Concert with Deyi Sec at Victoria Concert Hall
-(August 2024)</p>
-</li>
-<li>
-<p>Open House showcase (Nov 2024)</p>
-</li>
-</ul>
-<h4><strong>[2023]</strong></h4>
-<ul>
-<li>
-<p>Sec 1 Welcome party (Feb 2023)</p>
-</li>
-<li>
-<p>Attended Philippines Madrigal Singers (MADZ) choral workshop and performance
-at the Esplanade (Feb 2023)</p>
-</li>
-<li>
-<p>Singapore Youth Festival Arts Presentation (April 2023)</p>
-</li>
-<li>
-<p>Achieve and Excel live performance (April 2023)</p>
-</li>
-<li>
-<p>2D1N Camp and Amazing Race (June 2023)</p>
-</li>
-<li>
-<p>Values-In-Action activity (June/ July 2023)</p>
-</li>
-<li>
-<p>Open House showcase (Nov 2023)</p>
+<p>11 students were registered for <strong>Pesta Sukan</strong>
+</p>
 </li>
 </ul>
 </div>
@@ -70,83 +85,132 @@ at the Esplanade (Feb 2023)</p>
 <summary><strong>HONORS &amp; RECOGNITION</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong> NSG Track &amp; Field for C &amp; B Divisions</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Achievements: Team Events</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>B &amp; C Boys &amp; Girls 4x100m Teams qualified for the Semi-Finals.</p>
+</li>
+<li>
+<p>B &amp; C Boys 4x400m Teams qualified for the Finals.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Achievements: Individual Events</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>B Boys – Dylan Ng Yu Loong (4D) 400m Semi-Finalist, 800m 9th</p>
+</li>
+<li>
+<p>B Boys – Jeyaseelan Sai Hayagreev (3G) 10th in 800m, 13th in 1500m</p>
+</li>
+<li>
+<p>B Boys – Sumedha Dathathri Rao (4B) 200m Semi-Finalist, 8th in 100m</p>
+</li>
+<li>
+<p>C Boys – Anand Praveen (2A) 3rd in 800m, 11th in 1500m</p>
+</li>
+<li>
+<p>C Boys – Jayden Ho (2F) 400m Semi-Finalist</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p><strong>NSG X-Country for C &amp; B Divisions</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Achievements:</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Jeyaseelan Sai Hayagreev (3G) – 12th in B Boys Category</p>
+<p>Anand Praveen (2A) – 8th in C Boys Category</p>
+</div>
+</details>
+</div>
+<p>
+<br><strong>Pesta Sukan</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Achievements:</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Jeyaseelan Sai Hayagreev (3G) - Silver Medal in 1500m Run Boys Race &amp;
+Silver Medal in 1500m Walk Boys Race</p>
+</div>
+</details>
+</div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2023 Arts Presentations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2021 Arts Presentations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2019 Arts Presentations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Commendation</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>
+<br>
+</p>
 </div>
 </details>
 <h4><strong>PHOTO GALLERY</strong></h4>
 <p>Please click to view the photos of event.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>| SINGSPIRATION! 2024 at Victoria Concert Hall |</strong>
+<summary><strong>Pesta Sukan 2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="231" width="231" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcazrtsEJARYQLZLgX9jREKL2C5HJmy1PiPiRi03RbzGZDsbGvQ8Hik8k-Fac5MClnKUpyt60J7PcdDRqz4ZUhWnFukJILo6wPEwQoNF8UhXQ46ZLI1mqeAv2cnKkkn1kSEUunGUSuC_8glTkZb4gzn36Bd?key=AVsL1xUYuDXUTWEQov_rnDbC">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="241" width="241" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRxhf8RcO27Pe2jRLTzEUJaqmxOm4heLGsXReVDHyINqb3szWPDzKr-0hmb-Rdrp665dMDukC00qgYOEMAAnqlemXY7eWCxtuUGQFeo83sbFj7tHa6h5CDdQ2TqlkU4pE88sYVcW6Xu1F0g7Ojv_4DkBDq?key=AVsL1xUYuDXUTWEQov_rnDbC">
-</div>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="239" width="239" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-iD9F1x9vli1ZB6mz1NLUZ0xQw2YVbKrJvbugQDrgrbG5TpzR9pqOSIt4H8_Scb1_hRTWWO9_-viun5-PXzICObawnJthYYuKmblBmoiXV0ivbw22BJJnWd4iPIf6ot7BLMKA2gMBV548f8IjSqZ7Cc4W?key=AVsL1xUYuDXUTWEQov_rnDbC">
+<img style="margin-left:0px;margin-top:0px;" height="220" width="271" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcf8UIAnngk6YUn8M3uoJwivPrxRuMTidL3ruPm-pIAEWq3tjtWq_u6D2OE2l2XOBqCUhHbOJ5RbQ2n3o8VWTBDCRYx_-fcxD7yg4mnS2tUe63qnOAjrXo2tXlodOVsZ8hgZsAHcsLnxR0ZiJbQhA?key=Gez0scnwGpH2X38p98s5huMP">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="251" width="251" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-f0XkaTkY_rOqqDpmvF1D1tw0ExItknUXyvXiZg9lBuDQTxEEBJM9JpPZAEJzNdHfjzvcT3FEy2So6Uc1hGXsmOBtvA4SnpOsVb2bevii1N6MmvGL1EL-dNgOQ0Yy71kGYtx5XiNtgoQ_Q0nesHP0hhg?key=AVsL1xUYuDXUTWEQov_rnDbC">
+<img style="margin-left:0px;margin-top:0px;" height="196" width="295" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfkQQ6LCU3qhe_s1o1eBkynAS5ghhvz6fOwQi6tikLGfWUEEnkpl81Vme5iQkUOBnGZxSkLGschhNlYRPVICAVl3nZWfIzol9kaOYtCq1dPrqpF_ieYPRUVAws2MpNa3PpIyxahKgbo9Zaw7z8ZEA?key=Gez0scnwGpH2X38p98s5huMP">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="205" width="309" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdgFqUy7wNXpxgGVA9KlhV_H_RGt3hNwumkXwKf_3UX-wNf0urzQ_MHowyJ148ruqpmrFJC0Iv7pAqCNSEcr93f9KXfqrgxkujJ26-rqMvggiP_HUtRy-XL0754XGl39fqaQhcwjmAFow6L586ndcI?key=Gez0scnwGpH2X38p98s5huMP">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="184" width="277" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcB49iEJhLHtF7NuSIW8BcW-Mx9vB3EkzgXg-5chxDEaVAqHQq3Rg0ez-Yjblk0C5g1rSMMYVzOdHMEjaegSKbozlNv72E2KeZ5XAaA9H_hyWKJuEeDnqBLE1iXJc_5YiHDOBSZAXSLY-OFt92_pMU?key=Gez0scnwGpH2X38p98s5huMP">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:-45.11928030201612px;" height="249.00265067337813" width="200" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-o4LF63UayTW81gH5mahLt8PKZGUgaPG40qnPGKlXlA5l2e7q5bvn1iTdFbLACj9l3LipCt1tqdrlAavcW4oWG5jhvbNqxiyNkuAlVOlhP9A8ynaB3HqBGYJvdScLUlucQhaAwMc2NTM3kciiEkA?key=Gez0scnwGpH2X38p98s5huMP">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="188" width="281" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXedBjzFfVOEzViurOSm8dZG-ukaxR5ZU-r-1wvWHbBnKYiB2GU-H4jqhiMsTibNgaCgxSjyblddr6_JMRAzPJI2jVjr52CipRbrmr8U23WLiUMcGH0CmgbL2e7_UDrcxADB0ukP1v-u83J3WbcQBQ?key=Gez0scnwGpH2X38p98s5huMP">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="182" width="273" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeKP4eRwZJglPmdY4hBqAMDzIuIoq2tZ6Oh3dNHBQeTzM27Au69bUWPQ0bEmqavjyrXqjt5iuSGo5Lre1Ep7b7S5qUoZE4waduDELGJrkwPSM65Smm6OTix4AABGVs9zPnMBWVKGCrCPkASz7Ytdg?key=Gez0scnwGpH2X38p98s5huMP">
+</div>
+</td>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="179" width="400" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdtsrtUsCUW_YRfDUQ2Sy7tPX85CgkF8sFssUhWuhn8t9M4vwfGGwd-6iTTwiPtnBzy-5zr7q5KYDRbMPEX8NQhZEuQ-3F2PmrNeJr6DkY7jnoQYDTVqUsNqux_cJXkIkT3vtv7MwN9uTUHAWg5ZA?key=Gez0scnwGpH2X38p98s5huMP">
 </div>
 </td>
 </tr>
@@ -155,11 +219,12 @@ at the Esplanade (Feb 2023)</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>| <strong>Singapore Youth Festival 2023</strong> |</summary>
+<summary><strong> NSG Track &amp; Field for C &amp; B Divisions</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -167,62 +232,30 @@ at the Esplanade (Feb 2023)</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%205.jpeg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir syf 4.jpeg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir syf 1.jpg">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary>| <strong>Lee Foundation Theatre Concert Nov 2022</strong> |</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/WhatsApp_Image_2024_11_01_at_15_01_13.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir 198_blf.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/WhatsApp_Image_2024_11_01_at_15_01_13__1_.jpg">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/WhatsApp_Image_2024_11_01_at_15_01_12__1_.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir 085_blf.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/WhatsApp_Image_2024_11_01_at_15_01_16.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir 040_blf.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/WhatsApp_Image_2024_11_01_at_15_01_12__2_.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -255,7 +288,7 @@ at the Esplanade (Feb 2023)</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:45 pm – 5:30 pm</p>
+<p>3:10pm - 5:10pm</p>
 </td>
 </tr>
 <tr>
@@ -263,7 +296,7 @@ at the Esplanade (Feb 2023)</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1:20 pm – 4:30 pm</p>
+<p>2:30pm - 5:00pm</p>
 </td>
 </tr>
 </tbody>
@@ -277,18 +310,18 @@ at the Esplanade (Feb 2023)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Joy Chen</p>
+<p>Ms Siti Nurhidayu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Music and Choir Development)</p>
+<p>Miss Kumutha</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shalom Tan&nbsp;</p>
+<p>Mr Elamaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Student Leadership and Publicity)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -355,7 +388,7 @@ at the Esplanade (Feb 2023)</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Sec 1 coordinator</strong> 
+<summary><strong>Sec 1 coordinator</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
@@ -366,7 +399,7 @@ at the Esplanade (Feb 2023)</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Social media managers </strong>
+<summary><strong>Social media managers</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
@@ -377,25 +410,13 @@ at the Esplanade (Feb 2023)</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Athlete managers</strong> 
+<summary><strong>Athlete managers</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Lim Wen An, 2C &amp; Leanne Goh Yun Yu, 2B</p>
 </div>
 </details>
 </div>
-<p>
-<br>
-</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
 <p></p>
 <p>
 <br>
@@ -416,271 +437,4 @@ at the Esplanade (Feb 2023)</p>
 <p></p>
 </div>
 </details>
-<h4></h4>
-<h5></h5>
-<p></p>
-<p></p>
-<h4>CCA TRAINING DAY(S)/ TIME</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Day(s)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3:10pm - 5:10pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:30pm - 5:00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>TEACHER-IN-CHARGE</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Siti Nurhidayu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Kumutha</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Elamaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>HIGHLIGHT OF THE YEAR</h4>
-<h5>PARTICIPATION</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>We train twice a week at the Bukit Gombak Stadium or school and focus
-on various aspects of fitness as well as building the mental capacity of
-the students. The training is physically and mentally challenging, which
-helps develop resilience and tenacity among the athletes.</p>
-</li>
-</ul>
-<p>The track and field training programme focus on the following:·</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Strength training·</p>
-</li>
-<li>
-<p>Cardio-vascular training·</p>
-</li>
-<li>
-<p>Running drills·</p>
-</li>
-<li>
-<p>Team bonding activities through games, camps and excursions</p>
-</li>
-</ul>
-<h5>Student Outcomes:</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Learn the skills and training methods for their respective events.</p>
-</li>
-<li>
-<p>Excel by improving their personal best in the events for which they are
-representing the school.</p>
-</li>
-<li>
-<p>Experience leadership and character development through opportunities
-provided during the course of the CCA programme.</p>
-</li>
-</ul>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/T9.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/T10.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/TF1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/TF2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/TF3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/TF4.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/T5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/T6.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/T7.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/T8.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>EXECUTIVE COMMITTEE MEMBERS</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>EXCO Positions</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>NAME</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>CLASS</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCA Boys Captain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NAVIEN VIVEKANANDAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 E</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCA Boys Vice-Captain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KIERAN LIM YONG XIANG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 G</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCA Girls Captain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CAI YAWEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 E</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCA Girls Vice-Captain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>M NIVEDITA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 D</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
