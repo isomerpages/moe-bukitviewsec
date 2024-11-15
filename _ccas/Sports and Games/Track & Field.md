@@ -85,7 +85,7 @@ provided during the course of the CCA programme.</p>
 <summary><strong>HONORS &amp; RECOGNITION</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong> NSG Track &amp; Field for C &amp; B Divisions</strong>
+<p><strong>NSG Track &amp; Field for C &amp; B Divisions</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -219,7 +219,7 @@ Silver Medal in 1500m Walk Boys Race</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong> NSG Track &amp; Field for C &amp; B Divisions</strong>
+<summary><strong>NSG Track &amp; Field for C &amp; B Divisions</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
