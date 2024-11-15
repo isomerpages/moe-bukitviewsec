@@ -117,7 +117,7 @@ National Day, Youth Day</p>
 <p>Please click to view the photos of event.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>International Science Drama Competition  </strong>
+<summary><strong>International Science Drama Competition</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Performance: The Green Metropolis</p>
@@ -162,7 +162,7 @@ National Day, Youth Day</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <details class="isomer-details">
-<summary><strong>Performance:  </strong>“The Life of Lee Kuan Yew”</summary>
+<summary><strong>Performance: </strong>“The Life of Lee Kuan Yew”</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
