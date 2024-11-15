@@ -188,9 +188,7 @@ that will benefit them in various aspects of life.</p>
 </tbody>
 </table>
 <h4></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/VnhTrX6aFQjDdEtm9" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Drama Club/National_Day_Peformance_in_School.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National Day Performance</div><div class="isomer-card-description">
-Performed in  National Day school celebration  – “The life of Lee Kuan Yew” 
-</div><div class="isomer-card-link">For more photos click here.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/VnhTrX6aFQjDdEtm9" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Drama Club/National_Day_Peformance_in_School.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National Day Performance</div><div class="isomer-card-description">Performed in National Day school celebration – “The life of Lee Kuan Yew”</div><div class="isomer-card-link">For more photos click here.</div></div></a>
 </div>
 <h4></h4>
 <div class="isomer-card-grid">
