@@ -10,7 +10,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Drama_Club_Formal.jpg">
 </div>
 <p></p>
-<h4><strong>1. BACKGROUND</strong></h4>
+<h4><strong>BACKGROUND</strong></h4>
 <p>The Drama Club provides students with a comprehensive introduction to
 drama, focusing on essential skills like performance techniques, scriptwriting,
 and blocking. We aim to build a solid foundation in dramatic conventions,
@@ -30,17 +30,17 @@ that will benefit them in various aspects of life.</p>
 <h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>KEY EXPERIENCES</strong>
+<summary><strong>SHOWCASES &amp; EVENTS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Showcase &amp; Events<br><br><strong>[2024]</strong></h4>
+<h4><br><br><strong>[2024]</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>National Day School Celebration - </strong><em>Performance:</em> “The
 Life of Lee Kuan Yew”</p>
 </li>
 <li>
-<p><strong>International Science Drama Competition-  </strong>P<em>erformance:</em> “The
+<p><strong>International Science Drama Competition- </strong>P<em>erformance:</em> “The
 Green Metropolis”</p>
 </li>
 <li>
@@ -51,7 +51,7 @@ National Day, Youth Day</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Honors &amp; Recognition</strong>
+<summary><strong>HONORS &amp; RECOGNITION</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -113,8 +113,95 @@ National Day, Youth Day</p>
 </div>
 </details>
 </div>
-<hr>
-<h4><strong>2. CCA TRAINING DAY(S)/ TIME</strong></h4>
+<h4><strong>PHOTO GALLERY</strong></h4>
+<p>Please click to view the photos of event.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>International Science Drama Competition  </strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Performance: The Green Metropolis</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Drama Club/WhatsApp_Image_2024_11_04_at_11_53_51.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Drama Club/Drama_Club__9_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Drama Club/Drama_Club__18_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Drama Club/International_Science_Drama_Competition_2024__Science_Centre_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>National Day School Celebration</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<details class="isomer-details">
+<summary><strong>Performance:  </strong>“The Life of Lee Kuan Yew”</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/VnhTrX6aFQjDdEtm9" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Drama Club/National_Day_Peformance_in_School.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National Day Performance</div><div class="isomer-card-description">Performed in National Day school celebration – “The life of Lee Kuan Yew”</div><div class="isomer-card-link">For more photos click here.</div></div></a>
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Students engaged in training exercise</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Drama Club/Drama_Club__13_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Building confidence and coordination through practice</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Drama Club/Drama_Club__11_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dedicated efforts towards a seamless performance</div>
+</div>
+</div>
+</div>
+</div>
+</details>
+</div>
+<h4><strong>CCA TRAINING DAY(S)/ TIME</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -139,7 +226,7 @@ National Day, Youth Day</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>3. TEACHERS-IN-CHARGE</strong></h4>
+<h4><strong>TEACHERS-IN-CHARGE</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -172,36 +259,10 @@ National Day, Youth Day</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/VnhTrX6aFQjDdEtm9" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Drama Club/National_Day_Peformance_in_School.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National Day Performance</div><div class="isomer-card-description">Performed in National Day school celebration – “The life of Lee Kuan Yew”</div><div class="isomer-card-link">For more photos click here.</div></div></a>
-</div>
-<h4></h4>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Drama Club/WhatsApp_Image_2024_11_04_at_11_53_51.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">International Science Drama Competition</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt=".." src="/images/CCA Page/Drama Club/Drama_Club__18_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">....</div>
-</div>
-</div>
-</div>
 <h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>List of students in EXCO</summary>
+<summary>List of EXCO Members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
@@ -406,5 +467,30 @@ National Day, Youth Day</p>
 </div>
 </details>
 </div>
-<h4></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Drama Club/Drama_Club__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Drama Club/Drama_Club__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
