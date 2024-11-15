@@ -175,39 +175,79 @@ at the Esplanade (Feb 2023)</p>
 <details class="isomer-details">
 <summary>| <strong>Singapore Youth Festival 2023</strong> |</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%201.jpg">
+<img style="width: 65%;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%205.jpeg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%204.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir syf 4.jpeg">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%205.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir syf 1.jpg">
 </div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>| <strong>Lee Foundation Theatre Concert Nov 2022</strong> |</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20016_blf.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/picture1.png">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20085_blf.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20198_blf.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20040_blf.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20139_blf.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20163_blf.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir 198_blf.jpg">
 </div>
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir 085_blf.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir 040_blf.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
@@ -473,7 +513,7 @@ at the Esplanade (Feb 2023)</p>
 </table>
 </div>
 </details>
-<h4><strong> </strong></h4>
+<h4></h4>
 <h5></h5>
 <p></p>
 <p></p>
