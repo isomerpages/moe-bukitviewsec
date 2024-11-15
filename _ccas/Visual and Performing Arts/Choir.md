@@ -401,6 +401,8 @@ at the Esplanade (Feb 2023)</p>
 <p></p>
 <p>PHOTO GALLERY</p>
 <h5>| <strong>Singapore Youth Festival 2023</strong> |</h5>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%201.jpg">
 </div>
