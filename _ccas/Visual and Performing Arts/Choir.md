@@ -18,7 +18,7 @@ achieving a Certificate of Achievement.</p>
 minds and remain faithful to the friendships forged by our shared experience
 of singing together.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=KvoTlWboHv0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Screenshot_2024_11_15_210819.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SINGSPIRATION 2024 -  Stand as One</div><div class="isomer-card-link">Click Here to Watch the Performance.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=KvoTlWboHv0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Screenshot_2024_11_15_210819.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SINGSPIRATION 2024 - Stand as One</div><div class="isomer-card-link">Click Here to Watch the Performance.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -33,10 +33,10 @@ of singing together.</p>
 </div>
 <h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
 <details class="isomer-details">
-<summary><strong>KEY EXPERIENCES</strong>
+<summary><strong>SHOWCASES &amp; EVENTS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Showcase &amp; Events<br><strong>[2024]</strong></h4>
+<h4><strong>[2024]</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sec 1 Welcome party (Feb 2024)</p>
@@ -57,7 +57,7 @@ of singing together.</p>
 </p>
 </li>
 </ul>
-<h4><strong>|| 2023</strong></h4>
+<h4><strong>[2023]</strong></h4>
 <ul>
 <li>
 <p>Sec 1 Welcome party (Feb 2023)</p>
@@ -198,7 +198,7 @@ at the Esplanade (Feb 2023)</p>
 </table>
 <h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
 <details class="isomer-details">
-<summary>List of students in EXCO</summary>
+<summary>List of EXCO Members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4></h4>
 <table style="minWidth: 75px">
@@ -399,7 +399,7 @@ at the Esplanade (Feb 2023)</p>
 </div>
 </details>
 <p></p>
-<p></p>
+<p>PHOTO GALLERY</p>
 <h5>| <strong>Singapore Youth Festival 2023</strong> |</h5>
 <div class="isomer-image-wrapper">
 <img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%201.jpg">
