@@ -100,8 +100,92 @@ Camp</p>
 <p>Please click to view the photos of event.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>| SINGSPIRATION! 2024 at Victoria Concert Hall |</strong>
-</summary>
+<summary>CHOIR &amp; DANCE EXCHANGE</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_and_dance_exchange_3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_11_05_at_08_49_46.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_and_Dance_exchange_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_11_05_at_08_49_45__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_11_05_at_08_49_44.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>JUMP DANCE 3</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JUMP_DANCE_CAMP_3.jpg">
+</div>
+</td>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JUMP_DANCE_CAMP_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JUMP_DANCE_CAMP_1.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>NATIONAL DAY PERFORMANCE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -112,24 +196,81 @@ Camp</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="231" width="231" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcazrtsEJARYQLZLgX9jREKL2C5HJmy1PiPiRi03RbzGZDsbGvQ8Hik8k-Fac5MClnKUpyt60J7PcdDRqz4ZUhWnFukJILo6wPEwQoNF8UhXQ46ZLI1mqeAv2cnKkkn1kSEUunGUSuC_8glTkZb4gzn36Bd?key=AVsL1xUYuDXUTWEQov_rnDbC">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_day_performance_2.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="241" width="241" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRxhf8RcO27Pe2jRLTzEUJaqmxOm4heLGsXReVDHyINqb3szWPDzKr-0hmb-Rdrp665dMDukC00qgYOEMAAnqlemXY7eWCxtuUGQFeo83sbFj7tHa6h5CDdQ2TqlkU4pE88sYVcW6Xu1F0g7Ojv_4DkBDq?key=AVsL1xUYuDXUTWEQov_rnDbC">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_day_performance_1.jpg">
 </div>
 </th>
 </tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>NATIONAL DAY PERFORMANCE</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>VIA at Vanguard Senior Care</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="239" width="239" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-iD9F1x9vli1ZB6mz1NLUZ0xQw2YVbKrJvbugQDrgrbG5TpzR9pqOSIt4H8_Scb1_hRTWWO9_-viun5-PXzICObawnJthYYuKmblBmoiXV0ivbw22BJJnWd4iPIf6ot7BLMKA2gMBV548f8IjSqZ7Cc4W?key=AVsL1xUYuDXUTWEQov_rnDbC">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA_at_Vanguard_Senior_Care__3_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="251" width="251" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-f0XkaTkY_rOqqDpmvF1D1tw0ExItknUXyvXiZg9lBuDQTxEEBJM9JpPZAEJzNdHfjzvcT3FEy2So6Uc1hGXsmOBtvA4SnpOsVb2bevii1N6MmvGL1EL-dNgOQ0Yy71kGYtx5XiNtgoQ_Q0nesHP0hhg?key=AVsL1xUYuDXUTWEQov_rnDbC">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA_at_Vanguard_Senior_Care__3_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/VIA_at_Vanguard_Senior_Care__1_.jpg">
 </div>
 </td>
 </tr>
@@ -138,72 +279,120 @@ Camp</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>| <strong>Singapore Youth Festival 2023</strong> |</summary>
+<summary>CCA AWARENESS DAY&nbsp; / CCA TRIAL &amp; INTERVIEW</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/choir%20syf%205.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Trials_for_sec_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir syf 4.jpeg">
-</div>
+</th>
+<th rowspan="1" colspan="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </th>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir syf 1.jpg">
-</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary>| <strong>Lee Foundation Theatre Concert Nov 2022</strong> |</summary>
+<summary>SENIOR FAREWELL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/picture1.png">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir 198_blf.jpg">
-</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir 085_blf.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/choir 040_blf.jpg">
-</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -213,6 +402,61 @@ Camp</p>
 </tr>
 </tbody>
 </table>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
