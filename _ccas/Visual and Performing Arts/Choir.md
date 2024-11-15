@@ -14,6 +14,9 @@ variant: tiptap
 aside to create magic through our common language of song. In the Singapore
 Youth Festival (SYF) 2023, we made Bukit View Secondary School proud by
 achieving a Certificate of Achievement.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="467.76412492422867" width="624.0000000000002" alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdtB9aoblzJqTlgLQAGqteVhj7fs-qeUWpXWV-fHsYzd0A1Pm3OHZq6VmswvNQybF-GNowV6LkC0AA2MC9Eh10Q2kipJHH0N0Ea0lXrvdqaUqQlOV6sdAhuLSY00kN0PXsmnJK0pCkzygGT5RUc0adpgUCE?key=AVsL1xUYuDXUTWEQov_rnDbC">
+</div>
 <p>In the BVSS Choir, we aim to challenge the boundaries of our voices and
 minds and remain faithful to the friendships forged by our shared experience
 of singing together.</p>
@@ -131,8 +134,8 @@ at the Esplanade (Feb 2023)</p>
 </table>
 </div>
 </details>
-<p><strong>PHOTO GALLERY</strong>
-<br>Please click to view the photos of event.</p>
+<h4><strong>PHOTO GALLERY</strong></h4>
+<p>Please click to view the photos of event.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>| SINGSPIRATION! 2024 at Victoria Concert Hall |</strong>
