@@ -170,30 +170,27 @@ Competition (DrCT)</p>
 <p><strong>DrCT Competition 2024</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>1 Gold 7 Silver 7 Bronze and 4 Honorable Mentions</strong>
-</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>1 Gold 7 Silver 7 Bronze and 4 Honorable Mentions</p>
+</td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>BrainHack 2024</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>2<sup>nd</sup> Runner Up: Khambhati Moiz Huzefa and Tan Rui Zhi</strong>
-</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>2nd Runner Up: Khambhati Moiz Huzefa and Tan Rui Zhi</p>
+</td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>ICTxplore 2024</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>Third Place</strong>
-</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Third Place</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -402,56 +399,8 @@ Competition (DrCT)</p>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<h4>HIGHLIGHT OF THE YEAR</h4>
-<p>Members have the opportunities to learn computational thinking through
-coding using the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Scratch</p>
-</li>
-<li>
-<p>Robotics</p>
-</li>
-<li>
-<p>Halocode with mBlock</p>
-</li>
-</ul>
-<p>Members have the opportunities to take part in the following competitions/
-activities in 2022/2023:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bebras International Challenge on Informatics and Computational Thinking</p>
-</li>
-<li>
-<p>BBSS X SCOGA Campus Legend Competition</p>
-</li>
-<li>
-<p>Design Thinking with Robotics and Computational Thinking International
-Competition (DrCT)</p>
-</li>
-<li>
-<p>Digital for Life Youth Awards 2022</p>
-</li>
-<li>
-<p>Learning Journey to Art Science Museum</p>
-</li>
-<li>
-<p>National Software Competition</p>
-</li>
-<li>
-<p>Young Catalyst Microbit Competition</p>
-</li>
-</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -553,68 +502,10 @@ Competition</p>
 </tr>
 </tbody>
 </table>
-<h4>AWARDS AND ACHIEVEMENTS</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Competitions</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Awards</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>DrCT Competition 2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Gold, 6 Silver, 9 Bronze and 8 Honorable Mention</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>National Software Competition 2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Gold and 2 Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Animation using Scratch Competition 2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ho Le Min - Second Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Bebras 2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Exemplary, 3 Commendable, 2 Outstanding, 3 Honorable Mention</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>EXECUTIVE COMMITTEE MEMBERS</h4>
+<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
+<details class="isomer-details">
+<summary>List of EXCO Members</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -623,25 +514,28 @@ Competition</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>EXCO Positions</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>NAME</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>CLASS</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>EXCO Positions</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NAME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CLASS</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIEW XING YING, SHERMAINE</p>
+<p>Aung Kaung Myat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-G</p>
+<p>S3-E</p>
 </td>
 </tr>
 <tr>
@@ -649,7 +543,7 @@ Competition</p>
 <p>Vice- Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KHAMBHATI MOIZ HUZEFA</p>
+<p>Ye Wen Kai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3-G</p>
@@ -657,10 +551,10 @@ Competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GUO XIN ER</p>
+<p>Kim Joonsu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-G</p>
+<p>S3-F</p>
 </td>
 </tr>
 <tr>
@@ -668,9 +562,11 @@ Competition</p>
 <p>Tech for Good Champion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JANELLE CRISTABEL ONG</p>
+<p>Jayden Khoo</p>
+<p>Anandhan Sriram</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>S3-F</p>
 <p>S3-D</p>
 </td>
 </tr>
@@ -679,10 +575,15 @@ Competition</p>
 <p>Admin and Logistics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GIBSON BONG HOONG NIEN</p>
+<p>Loh Xuan, Earlena</p>
+<p>Ewan Chang</p>
+<p>Rebecca Rajan George</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>S3-D</p>
+<p>S3-E</p>
 <p>S3-G</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -690,23 +591,20 @@ Competition</p>
 <p>Media and Communications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MAHAASHREE D/O GUNASEGARAN</p>
+<p>Shaby Ankith</p>
+<p>Bryan Tan Ka Kiat</p>
+<p>Jerell Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-D</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<p>S3-G</p>
+<p>S3-A</p>
+<p>S3-G</p>
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<h4></h4>
 <p></p>
