@@ -179,12 +179,6 @@ Camp</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
 <summary>NATIONAL DAY PERFORMANCE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
