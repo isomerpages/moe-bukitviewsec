@@ -2,6 +2,7 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Example Titletr.md
       - Peer Support Leaders.md
       - Sec 1 Student Appeal for Transfer.md
       - Financial Assistance Scheme (FAS) Application.md

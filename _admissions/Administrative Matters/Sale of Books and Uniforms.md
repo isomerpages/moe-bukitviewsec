@@ -1,27 +1,34 @@
 ---
-title: Year End Book and Uniform Sales (For Academic Year 2025)
-permalink: /year-end-book-and-uniform-sales-for-2025-students/
+title: Sale of Books and Uniforms
+permalink: /books-and-uniform-sales/
 variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
 <h3><strong>PURCHASE OF BOOKS AND UNIFORMS FOR ACADEMIC YEAR 2025</strong></h3>
-<p>The school textbooks and attire can be purchased from our approved vendors
+<p>School textbooks and uniforms can be purchased from our approved vendors,
 either online* or directly at the school during specified dates (see walk-in
-purchase).</p>
-<p><strong>Students are advised</strong>
+purchase schedule below).</p>
+<p><strong>Important Information for Parents and Students:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To purchase school textbooks from our school bookshop vendor to ensure
-the correct editions and titles are selected as prescribed by the school.</p>
+<p><strong>Textbook Purchases:</strong> It is recommended to purchase school
+textbooks from the approved vendor to ensure the correct editions and titles
+as prescribed by the school.</p>
 </li>
 <li>
-<p>To place orders by end-November to ensure timely deliveries and to avoid
-the peak sales period in the last two weeks of December to avoid a last-minute
-rush to purchase books and uniforms.</p>
+<p><strong>Ordering Deadlines:</strong> To avoid the last-minute rush, please
+place orders by the end of November. The peak sales period occurs in the
+last two weeks of December.</p>
+</li>
+<li>
+<p><strong>Self-Collections:</strong>For students who purchase items online,
+please adhere to the self-collection date selected when collecting items
+from the school.</p>
 </li>
 </ul>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -87,14 +94,15 @@ rush to purchase books and uniforms.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For sizing chart, please refer to
-<br><a href="https://www.intrenduniforms.com/size-guide-video" rel="noopener noreferrer nofollow" target="_blank"><u>InTrend Uniforms - Size Chart</u></a>
+<p>Please click the link below for further details.
+<br><a href="/files/Admin Matters/Information_for_Sale_of_Uniforms_2024_BVSS.pdf" rel="noopener nofollow" target="_blank">Information for Sale of Uniforms for BVSS</a>
+<br>For sizing chart, please refer to <a href="https://www.intrenduniforms.com/size-guide-video" rel="noopener noreferrer nofollow" target="_blank"><u>InTrend Uniforms - Size Guide</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Payment Mode</strong>
+<p><strong>Payment Modes</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,43 +156,12 @@ rush to purchase books and uniforms.</p>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Remarks</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please refer to the booklist below for more details.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please click the link below for further details.</p>
-<p><a href="/files/Admin Matters/Information_for_Sale_of_Uniforms_2024_BVSS.pdf" rel="noopener nofollow" target="_blank">Information for Sale of Uniforms for BVSS</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Note</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Students opting for self-collection from the school premises must adhere
-to their chosen appointment date</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Students must wear their school uniform when purchasing / collection textbooks
-at school bookshop.</p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>STUDENTS OFFERED SBB SUBJECTS</strong>
+<summary><strong>STUDENTS OFFERED SBB SUBJECTS (SBB)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
@@ -193,8 +170,8 @@ at school bookshop.</p>
 should refrain from purchasing textbooks at this time.</p>
 </li>
 <li>
-<p>Please be aware that purchases from our school bookshop are non-refundable,
-and only books in their original condition can be exchanged. For instance,
+<p>Dotake note: Purchases from our school bookshop are non-refundable, and
+only books in their original condition can be exchanged. For instance,
 books with students' names written in them cannot be exchanged.</p>
 </li>
 </ul>
@@ -206,16 +183,12 @@ books with students' names written in them cannot be exchanged.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Online purchase will not be available.</p>
+<p>Online purchases are not available for FAS students. Once FAS approval
+is granted, the school will contact parents to arrange for collection.</p>
 </li>
 <li>
-<p>Upon FAS approval, the school will contact parents to arrange for the
-collection of the approval letter.</p>
-</li>
-<li>
-<p>Parents who receive FAS approval from other schools are advised to contact
-our General Office to make an appointment for the collection of the approval
-letter from our school</p>
+<p>Parents with FAS approval from other schools should contact the General
+Office to arrange a collection appointment.</p>
 </li>
 </ul>
 </div>

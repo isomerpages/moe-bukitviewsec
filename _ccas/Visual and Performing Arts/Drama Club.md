@@ -3,91 +3,494 @@ title: Drama Club
 permalink: /ccas/Visual-and-Performing-Arts/drama/
 description: ""
 third_nav_title: Visual and Performing Arts
-variant: markdown
+variant: tiptap
 ---
-## **Drama Club**
-
-![](/images/CCA%20Page/Group%20Photo/Drama_Club_Formal.jpg)
-
-#### BACKGROUND
-
-The English Literary Drama and Debate Society (ELDDS) was set up in 2004. Today, ELDDS grooms students in the areas of drama and debates. Students act, dance, sing and are engaged in creative and artistic endeavours. Every member learns to be disciplined and confident.  
-  
-#### MISSION
-
-To cultivate and nurture a love and appreciation for mass media and the arts, where students will acquire skills in effective communication and artistic expression
-
-#### OBJECTIVES
-
- *   We dream to encourage students to develop a passion for drama and debating.
- *   We also hope inculcate an appreciation of the arts and mass media in members and the general school population.
- *   Keep Calm and Drama on!
- 
-#### CCA TRAINING DAY(S)/ TIME
-
-| Day(s)  | Time  |
-|---|---|
-| Wednesday  | 2:40 pm – 4:40 pm  |
-|  Friday | 2:30 pm – 5:30 pm  |
-|   |   |
-
-#### TEACHERS-IN-CHARGE
-
-|   |   |
-|---|---|
-| Mr Muhd Fadly |  Mr John Praveen |
-| Ms Yen Ding Yi | 
-|   |   |
-
-#### HIGHLIGHT OF THE YEAR
-
- *   Performed in school events (Teachers’ Day, National Day, Youth Day).
- *   Participated in Singapore Secondary Schools Debating Championships organised by Julia Gabriel Centre.
- *   Involvement in Advanced Elective Module (AEM) organised by Republic Polytechnic.
- *   Public Performance at Jurong Regional Library in 2014 and 2015.
-
-#### AWARDS AND ACHIEVEMENTS
-
-|   |   |
-|---|---|
-| SYF 2021 Arts Presentations  | Certificate of Distinction  |
-|  SYF 2019 Arts Presentations |  Certificate of Accomplishment |
-|  SYF 2017 Arts Presentations |  Certificate of Accomplishment |
-| SYF 2015 Arts Presentations  | Certificate of Distinction  |
-|   |   |
-
-|   |   |
-|---|---|
-| <img src="/images/SYF-2019-300x225.jpeg" style="width:85%"> <center>Syf 2019</center>  | <img src="/images/rehersal.jpeg" style="width:85%"><center>Syf Rehearsal</center>  |
-| <img src="/images/@sota.jpeg" style="width:85%"><center>Drama Club @ Sota</center>  |  <img src="/images/teambonding.jpeg" style="width:85%"><center>Team Bonding</center> |
-|   |   |
-
-SYF Art Presentation 2019
-
-<img src="/images/NCS_1103.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/NCS_1105.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/NCS_1110.jpg" style="width:30%;margin-right:15px;" align="left">
-<br clear="left"><br>
-
-<img src="/images/NCS_1123.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/NCS_1124.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/NCS_1126.jpg" style="width:30%;margin-right:15px;" align="left">
-<br clear="left">
-
-
-#### EXECUTIVE COMMITTEE MEMBERS
-
-| EXCO Positions  | Name  |  Class |
-|---|---|---|
-| President  | HARCHANA SIVARAJASINGAM  | 3 A  |
-| Vice-President  | PARAMESWARAN SRIVATHSAN  | 3 D  |
-| Head of Drama  | SENTHIL PRASAD ARULPRASATH  | 3 F  |
-| Assistant Head of Drama  | NUR SYASYA BINTE MOHAMED RAMLI  | 2 D  |
-| Secretary  |  TAN JUN YEW | 3 A  |
-| Stage Manager  | THADDEUS LEONG KA-WAI  | 3 D  |
-|  Head of Logistics | NUR SABRINA BINTE MOHD HELMI  | 3 A  |
-|  Head of Welfare | MUHAMMED ILYAS BIN THAJUDEEN  | 3 B  |
-| Sec 3 Level Coordinator  | THIRUMAL NARAYANAN HEMAALATCHEMI  |  3 E |
-|  Sec 2 Level Coordinator | JOVAN CHIANG ZUO EN  | 2 B  |
-|  Sec 1 Level Coordinator | MARTHA MARIE LIM QIAO RU  | 1 E  |
-|   |   |   |
+<h2><strong>Drama Club</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Drama_Club_Formal.jpg">
+</div>
+<p></p>
+<h4><strong>BACKGROUND</strong></h4>
+<p>The Drama Club provides students with a comprehensive introduction to
+drama, focusing on essential skills like performance techniques, scriptwriting,
+and blocking. We aim to build a solid foundation in dramatic conventions,
+from developing characters and crafting dialogue to mastering stage movement
+and positioning.</p>
+<p>Members work together in ensemble pieces, emphasizing the importance of
+collaboration as they prepare for performances and competitions. Key skills
+such as voice projection, clear diction, and improvisation are cultivated,
+helping students become more confident and effective on stage. Additionally,
+students explore aspects of set design and basic technical elements, gaining
+a broader understanding of theatre production.</p>
+<p>These skills come into play during performances, including the Singapore
+Youth Festival Arts presentation, where students can showcase their abilities.
+Through these experiences, they not only grow as performers but also enhance
+valuable skills in communication, teamwork, and creative problem-solving—qualities
+that will benefit them in various aspects of life.</p>
+<h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>SHOWCASES &amp; EVENTS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4><br><br><strong>[2024]</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>National Day School Celebration - </strong><em>Performance:</em> “The
+Life of Lee Kuan Yew”</p>
+</li>
+<li>
+<p><strong>International Science Drama Competition- </strong>P<em>erformance:</em> “The
+Green Metropolis”</p>
+</li>
+<li>
+<p><strong>School Events - </strong><em>Performances for:</em> Teachers’ Day,
+National Day, Youth Day</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>HONORS &amp; RECOGNITION</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Science Drama Competition 2024 (Science Centre)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Third Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 Arts Presentations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2021 Arts Presentations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2019 Arts Presentations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2017 Arts Presentations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2015 Arts Presentations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<h4><strong>PHOTO GALLERY</strong></h4>
+<p>Please click to view the photos of event.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>International Science Drama Competition</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Performance: The Green Metropolis</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Drama Club/WhatsApp_Image_2024_11_04_at_11_53_51.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Drama Club/Drama_Club__9_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Drama Club/Drama_Club__18_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Drama Club/International_Science_Drama_Competition_2024__Science_Centre_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>National Day School Celebration</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<details class="isomer-details">
+<summary><strong>Performance: </strong>“The Life of Lee Kuan Yew”</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://photos.app.goo.gl/VnhTrX6aFQjDdEtm9" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Drama Club/National_Day_Peformance_in_School.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National Day Performance</div><div class="isomer-card-description">Performed in National Day school celebration – “The life of Lee Kuan Yew”</div><div class="isomer-card-link">For more photos click here.</div></div></a>
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Students engaged in training exercise</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Drama Club/Drama_Club__13_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Building confidence and coordination through practice</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Drama Club/Drama_Club__11_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dedicated efforts towards a seamless performance</div>
+</div>
+</div>
+</div>
+</div>
+</details>
+</div>
+<h4><strong>CCA TRAINING DAY(S)/ TIME</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day(s)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:30 pm – 5:30 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>TEACHERS-IN-CHARGE</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Fadly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr John Praveen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yen Ding Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>List of EXCO Members</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>EXCO Positions</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YADAV KRINJAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEW JIA HONG (LIAO JIAHONG)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FARISHA SULAISTIN AGATHA SULAIMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TANG RUI ' EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stage Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SERI NUR ZAFEERAH BINTE SHAIFUL BHARIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head Admin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WONG YU LE SKYLER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head Logistics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIVA SUBRAMANIAN DEVA DARSHINI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S1 Coordinators</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KARNATI SAI EASHAN&nbsp;</p>
+<p>ABDUL AAKIF BIN ABDUL HADI</p>
+</td>
+<td rowspan="1" colspan="1">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S1-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S1-H</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S2 Coordinators</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SANJAY KARTHIGEYAN</p>
+<p>SHEENA YAP LI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S2-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S2-F</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S3 Coordinators</p>
+</td>
+<td rowspan="1" colspan="1">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD ISA BIN MUHAMMAD NUR HIDAYAT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RIDDHYKHA RADJANE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S3-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S3-E</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Drama Club/Drama_Club__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Drama Club/Drama_Club__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
