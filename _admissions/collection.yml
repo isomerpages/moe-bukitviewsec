@@ -3,8 +3,7 @@ collections:
     output: true
     order:
       - Administrative Matters/.keep
-      - Administrative Matters/Year End Book and Uniform Sales (For Academic
-        Year 2025).md
+      - Administrative Matters/Sale of Books and Uniforms.md
       - Administrative Matters/School Book List & Uniform.md
       - Administrative Matters/Financial Assistance Scheme (FAS).md
       - Administrative Matters/Insurance For Students.md
