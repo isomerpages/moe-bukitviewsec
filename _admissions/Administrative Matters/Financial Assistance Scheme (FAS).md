@@ -36,29 +36,41 @@ to the pamphlet attached above.</p>
 </details>
 </div>
 <p>Please note the following:</p>
-<p><strong>For MOE FAS recipients in the Current Year 2024</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>For MOE FAS recipients in the Current Year 2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>If your child/ward is current MOE FAS recipient and wishes to continue
 to receive the FAS benefits in the next academic year, you need <strong>apply and submit the form with required document </strong>as
 household income and family profile may change from year to year.</p>
-<p><strong>For ComCare Beneficiaries recipient</strong> 
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>For ComCare Beneficiaries recipient</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>If your child is an MSF ComCare beneficiary covering Year 2025, he/she
 will be auto-granted MOE FAS and you do not need to apply to for MOE FAS
 separately.</p>
-<p><strong>For students with successful MOE FAS application<br>(Approval Granted by Other Schools)</strong>
-</p>
-<p>If your child/ward's <strong>2025 MOE FAS application is approved by the Sibling’s school or Primary School (for 2025 - Secondary 1) , you are required to provide us  </strong>a
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>For students with successful MOE FAS application (Approval Granted by Other Schools)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>If your child/ward's <strong>2025 MOE FAS application is approved by the Sibling’s school or Primary School (for 2025 - Secondary 1) , you are required to provide us </strong>a
 copy of the successful letter <strong>during the schedule period at General Office </strong>to
 obtained for your 2024 MOE FAS Approval Letter and Collection Slips (issued
 by Bukit View Secondary School).</p>
-<p><strong>For new applicants</strong>
+</div>
+</details>
+</div>
+<p><strong><br>For new applicants</strong>
 </p>
-<p>FAS applicants are advised not to buy the books and uniforms until they
-are informed of the application outcome. Parents will not be refunded for
-purchases made before the application is approved.
-<br>
-</p>
+<p>If you wish to apply for MOE Financial Assistance Scheme, you can submit
+your application</p>
+<p></p>
 <details class="isomer-details">
 <summary><strong>Application Process</strong>
 </summary>
@@ -167,12 +179,14 @@ to the school’s General Office.</p>
 </ul>
 <p><strong>Note:</strong>
 </p>
-<p><strong>For students with approved or pending FAS application, you will</strong>&nbsp;<strong>not need</strong>&nbsp;<strong>to make online orders for both uniform and books. </strong>
-</p>
+<p>FAS applicants are advised not to buy the books and uniforms until they
+are informed of the application outcome. Parents will not be refunded for
+purchases made before the application is approved.</p>
 <p></p>
 <p>*Please do NOT purchase any textbook or school attire before you are notified
 through the school official letter of the outcome of your FAS application
 as there is strictly no refund.</p>
+<p></p>
 <p><em>Late or incomplete submission will delay the approving process.</em>
 <br>For further information or clarification, please contact the General Office
 at 65661990.</p>
