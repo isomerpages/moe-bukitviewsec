@@ -2,12 +2,13 @@
 title: Personalised Digital Learning Programme (PDLP)
 permalink: /our-distinctives/pdlp/
 description: ""
+variant: markdown
 ---
 ## Personalised Digital Learning Programme (PDLP)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/h6jig6fUm-g" height="315" width="560"></iframe>
 
-Bukit View Secondary has been on the PDLP Journey since 2017. One of the first thing new Secondary 1 students would notice when they step into Bukit View Secondary are the Chromebooks held by every student.  
+Bukit View Secondary has been on the PDLP Journey since 2017. For 2025 onwards, Secondary 1 students will be using Apple iPad as their personal learning device. Every iPad will come bundled with Apple pencil and casing with smart keyboard to maximise the affordances of the iPad as a learning tool.
   
 Bukit View Secondary aim to develop students who are
 
