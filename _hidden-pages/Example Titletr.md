@@ -1,15 +1,11 @@
 ---
-title: Choir
-permalink: /ccas/Visual-and-Performing-Arts/Choir/
-description: ""
-third_nav_title: Visual and Performing Arts
+title: Example Titletr
+permalink: /example-titletr/
 variant: tiptap
+description: ""
 ---
-<h2><strong>Choir</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Choir_Formal.jpg">
-</div>
-<h4><strong>1. BACKGROUND</strong></h4>
+<h2><strong>CCA Name</strong></h2>
+<h4><strong> BACKGROUND</strong></h4>
 <p>The BVSS Choir is a joyful, tight-knit family where differences are put
 aside to create magic through our common language of song. In the Singapore
 Youth Festival (SYF) 2023, we made Bukit View Secondary School proud by
@@ -55,9 +51,7 @@ of singing together.</p>
 (August 2024)</p>
 </li>
 <li>
-<p>Open House showcase (Nov 2024)
-<br>
-</p>
+<p>Open House showcase (Nov 2024)</p>
 </li>
 </ul>
 <h4><strong>[2023]</strong></h4>
