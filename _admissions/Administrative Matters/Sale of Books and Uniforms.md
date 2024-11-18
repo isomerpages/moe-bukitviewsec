@@ -49,7 +49,10 @@ Office to arrange a collection details</p>
 </div>
 </details>
 </div>
-<h4><strong> </strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/books-and-uniform-sales/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">2025 Booklist</div><div class="isomer-card-description">Booklist are available for download.
+Please click on the link to view or download the booklist.</div><div class="isomer-card-link">2025 Booklist</div></div></a>
+</div>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -246,6 +249,7 @@ and time .</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
 <p></p>
 <table style="minWidth: 50px">
@@ -261,7 +265,7 @@ and time .</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<h4><strong>Purchase of   School Uniforms / PE Attire   </strong></h4>
+<h4><strong>Purchase of School Uniforms / PE Attire</strong></h4>
 </th>
 </tr>
 <tr>
@@ -510,32 +514,35 @@ and time .</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4><strong>Year-End Books &amp; Uniform Sales  Details</strong></h4>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
+<h4><strong>[2025 Year-End] Walk In Purchase &amp; FAS Collection @ Bukit View Sec School  </strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong> Walk-In Purchase / FAS Collection @ BVSS : Sales of Book &amp; Uniform Schedule </strong> 
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>For Walk-in Purchase and FAS collections @ Bukit View Secondary School
+only
+<br><a href="/files/Admin Matters/2024_Year_End_Sales_and_FAS_collection_at_BVSS__Bookshop_and_School_Uniform_.pdf" rel="noopener nofollow" target="_blank">Year-End Sales &amp; FAS Collection at BVSS Schedule</a>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Admin Matters/bOOK_AND_UNIFORM_SCHEDULE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/bOOK_AND_UNIFORM_SCHEDULE.jpg">
 </div>
+<p></p>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Year-End Books &amp; Uniform Schedule</div>
-<div class="isomer-card-description">For Walk-in Purchase and FAS collections @ Bukit View Secondary School
-only</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
+</details>
+<details class="isomer-details">
+<summary><strong>Walk-In Purchase @ BVSS : Venue</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Venue : Classrooms at Block C</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Sec1Reg/book and uniform purchase 7_dec_23_.jpg">
+<img style="width: 100%" height="auto" width="100%" src="https://www.bukitviewsec.moe.edu.sg/images/Sec1Reg/book%20and%20uniform%20purchase%207_dec_23_.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Year-End Books &amp; Uniform Venue</div>
-<div class="isomer-card-description">Venue : Classrooms at Block C</div>
+</details>
 </div>
-</div>
-</div>
+<p>
+<br>
+</p>
+<p></p>
 <p></p>
