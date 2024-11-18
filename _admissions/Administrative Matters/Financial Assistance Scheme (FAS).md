@@ -9,17 +9,26 @@ third_nav_title: Administrative Matters
 <p>Singaporean students may apply for financial assistance from the Ministry
 of Education. MOE Financial Assistance Scheme (FAS) is granted till December
 each year.</p>
+<p>For more information, please refer to the<a href="/files/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank"> pamphlet</a> and
+<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE's website</a>.</p>
 <p><strong>Please take note the following:</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>For MOE FAS recipients in the Current Year 2024</strong>
+<summary><strong>For Current MOE FAS Recipients (2024)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>If your child/ward is<u> current MOE FAS recipient and wishes to continue to receive the FAS benefits in the next academic year,</u> you
-need <strong>apply and submit the form with required document </strong>as
-household income and family profile may change from year to year.</p>
+<p>If your child is currently receiving FAS and would like to continue in
+2025:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Submit an updated application form with supporting documents by the deadline.</p>
+</li>
+<li>
+<p>This ensures eligibility based on updated household income or family circumstances.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
@@ -27,9 +36,20 @@ household income and family profile may change from year to year.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>If your child is an <strong>MSF ComCare beneficiary covering Year 2025</strong>,
-he/she will be <strong>auto-granted </strong>MOE FAS and y<strong>ou do not need to apply to for MOE FAS separately.</strong>
+<p>If your child is<strong> covered under MSF ComCare Assistance :</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For 2025 <strong>are automatically eligibl</strong>e for FAS.</p>
+</li>
+<li>
+<p>No separate application is required.</p>
+</li>
+<li>
+<p>Parents will receive instructions from the school on how to collect the
+FAS Approval Letter and Collection Slips for books and uniforms.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
@@ -37,12 +57,25 @@ he/she will be <strong>auto-granted </strong>MOE FAS and y<strong>ou do not need
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
-<br>If your child/ward's <strong>2025 MOE FAS application is approved by</strong>
-</p>
-<p><strong>Sibling’s school or Primary School (for 2025 - Secondary 1) , </strong>
-<br><strong>you are required to provide us </strong>a copy of the successful
-letter <strong>during the scheduled period at General Office </strong>to
-obtained for your<em><u> 2024 MOE FAS Approval Letter and Collection Slips (issued by Bukit View Secondary School)</u></em>.</p>
+<br>If your child/ward’s FAS application was approved by another school (e.g.,
+sibling’s school or primary school for Secondary 1 students):</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Bring the <strong>FAS Approval Letter</strong> from the approving school
+to our General Office.</p>
+</li>
+<li>
+<p>The school will issue:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A <strong>FAS Approval Letter</strong> from our school</p>
+</li>
+<li>
+<p><strong>Collection Slips</strong> for books and uniforms.</p>
+</li>
+</ul>
+</li>
+</ol>
 </div>
 </details>
 </div>
@@ -172,7 +205,7 @@ eFAS application.</p>
 <p>Obtain From the General Office.</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Print the Form</p>
+<p>Download the Form</p>
 </th>
 </tr>
 <tr>
@@ -199,27 +232,85 @@ to the school’s General Office.</p>
 </ul>
 </td>
 </tr>
-</tbody>
-</table>
-<p><strong>All compulsory documents must be submitted together with your completed application form for approval.</strong>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Application Deadline:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Our School staff may reach out to you for clarification on your submission or the request for additional documents.</em>
-</p>
+<p>Applications must be submitted by <strong>Monday, 11 Nov 2024</strong>.</p>
+</li>
+<li>
+<p><strong>Important Note:</strong> Late or incomplete applications may delay
+processing.</p>
 </li>
 </ul>
-<p>Please submit your applications (with all required supporting documents)
-via eFAS or hardcopy form to General Office by Monday 11 Nov 2024.</p>
-<p>Late or incomplete submission will delay the approving process.
-<br>For further information or clarification, please contact the General Office
-at 65661990.</p>
-<p>We will inform you of the application outcome when we have processed your
-application.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Our School admin staff may reach out to you for clarification on your submission or the request for additional documents.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4> <strong>Outcome Notification</strong></h4>
+<p>Parents/guardians will receive a <strong>call from the school</strong> regarding
+the outcome of the FAS application.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Approved parents will receive instructions for collecting:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>FAS Approval Letter</strong>
+</p>
+</li>
+<li>
+<p><strong>Collection Slips for Books and Uniforms</strong>
+</p>
+</li>
+</ol>
+</li>
+</ul>
+<h4><strong>Collection of Books and Uniforms</strong></h4>
+<p><strong>For Approved Applicants:</strong>
+</p>
+<ol>
+<li>
+<p><strong>[Approved by BVSS ] </strong>
+</p>
+<p><u>Parents will receive</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The <strong>FAS Approval Letter issued by the school.</strong>
+</p>
+</li>
+<li>
+<p><strong>Collection Slips</strong> for books and uniforms.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong> [Approve by other Schools]  </strong>
+</p>
+<p><u>Instructions for Collection:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit the General Office during the scheduled collection period.</p>
+</li>
+<li>
+<p>Bring the FAS Approval Letter and Collection Slips for verification.</p>
+</li>
+</ul>
+</li>
+</ol>
 <p><strong>Note:</strong>
 </p>
 <p>FAS applicants are advised not to buy the books and uniforms until they
 are informed of the application outcome. Parents will not be refunded for
 purchases made before the application is approved.</p>
-<p>For more information, please refer to the<a href="/files/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank"> pamphlet</a> and
-<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE's website</a>.</p>
+<p>For further information or clarification, please contact the General Office
+at 65661990.</p>
