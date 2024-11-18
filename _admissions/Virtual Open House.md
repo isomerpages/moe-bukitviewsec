@@ -11,7 +11,7 @@ variant: markdown
 </a>
 
 ### 2024 0pen House
-<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="476" width="267" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Fbukitviewsecondary%2Fvideos%2F3240319429443417%2F&amp;show_text=false&amp;width=267&amp;t=0"></iframe>
+<iframe allow="accelerometer;autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="476" width="267" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Fbukitviewsecondary%2Fvideos%2F3240319429443417%2F&amp;show_text=false&amp;width=267&amp;t=0"></iframe>
 
 
 #### JOULES ALP
