@@ -9,40 +9,16 @@ third_nav_title: Administrative Matters
 <p>Singaporean students may apply for financial assistance from the Ministry
 of Education. MOE Financial Assistance Scheme (FAS) is granted till December
 each year.</p>
-<blockquote>
-<p>Application for MOE Financial Assistance Scheme (FAS) for the year 2025
-is now open.</p>
-</blockquote>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Eligibility Criteria</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>(Ref: <a href="/files/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet-2025</a>)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Family’s gross household income (GHI): not exceeding $3000/- per month
-<br><em>or</em>
-</p>
-</li>
-<li>
-<p>Family’s per capita income (PCI): not exceeding $750/- per month</p>
-</li>
-</ul>
-<p>
-<br>For more information such as income criterion and benefits, please refer
-to the pamphlet attached above.</p>
-</div>
-</details>
-</div>
-<p>Please note the following:</p>
+<p></p>
+<p>Please take note the following:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>For MOE FAS recipients in the Current Year 2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>If your child/ward is current MOE FAS recipient and wishes to continue
-to receive the FAS benefits in the next academic year, you need <strong>apply and submit the form with required document </strong>as
+<p></p>
+<p>If your child/ward is<u> current MOE FAS recipient and wishes to continue to receive the FAS benefits in the next academic year,</u> you
+need <strong>apply and submit the form with required document </strong>as
 household income and family profile may change from year to year.</p>
 </div>
 </details>
@@ -50,40 +26,57 @@ household income and family profile may change from year to year.</p>
 <summary><strong>For ComCare Beneficiaries recipient</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>If your child is an MSF ComCare beneficiary covering Year 2025, he/she
-will be auto-granted MOE FAS and you do not need to apply to for MOE FAS
-separately.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>For students with successful MOE FAS application (Approval Granted by Other Schools)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>If your child/ward's <strong>2025 MOE FAS application is approved by the Sibling’s school or Primary School (for 2025 - Secondary 1) , you are required to provide us </strong>a
-copy of the successful letter <strong>during the schedule period at General Office </strong>to
-obtained for your 2024 MOE FAS Approval Letter and Collection Slips (issued
-by Bukit View Secondary School).</p>
-</div>
-</details>
-</div>
-<p><strong><br>For new applicants</strong>
-</p>
-<p>If you wish to apply for MOE Financial Assistance Scheme, you can submit
-your application</p>
 <p></p>
+<p>If your child is an <strong>MSF ComCare beneficiary covering Year 2025</strong>,
+he/she will be <strong>auto-granted </strong>MOE FAS and y<strong>ou do not need to apply to for MOE FAS separately.</strong>
+</p>
+</div>
+</details>
 <details class="isomer-details">
-<summary><strong>Application Process</strong>
+<summary><strong>For Successful MOE FAS recipients (Approval Granted by Other Schools)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
-<br>Application is open throughout the year. Siblings in the same school can
-submit all their applications using one form.
+<br>If your child/ward's <strong>2025 MOE FAS application is approved by </strong>
+</p>
+<p><strong>Sibling’s school or Primary School (for 2025 - Secondary 1) , </strong>
+<br><strong>you are required to provide us </strong>a copy of the successful
+letter <strong>during the scheduled period at General Office </strong>to
+obtained for your<em><u> 2024 MOE FAS Approval Letter and Collection Slips (issued by Bukit View Secondary School)</u></em>.</p>
+</div>
+</details>
+</div>
+<h3><strong>For new applicants</strong></h3>
+<p>If you wish to apply for MOE Financial Assistance Scheme, you can submit
+your application
 <br>
-<br>Parents/Guardians may apply for MOE FAS through the following modes:</p>
+</p>
+<h4><strong>Eligibility Criteria</strong></h4>
+<p>(Ref: <a href="/files/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet-2025</a>)</p>
+<p>Family’s gross household income (GHI): not exceeding $3000/- per month
+<br>or
+<br>Family’s per capita income (PCI): not exceeding $750/- per month</p>
+<p>For more information such as income criterion and benefits, please refer
+to the pamphlet attached above.</p>
 <p></p>
+<blockquote>
+<p><strong>Application for MOE Financial Assistance Scheme (FAS) for the year 2025 is now open.</strong>
+</p>
+</blockquote>
+<p></p>
+<h4><strong>Application Process</strong></h4>
+<p>Application is open throughout the year. Siblings in the same school can
+submit all their applications using one form.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Parents/Guardians may apply for MOE FAS through the following modes:</strong>
+</p>
+</li>
+</ul>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Online Application (Singpass required)</summary>
+<summary><strong>Online Application (Singpass required)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -129,7 +122,8 @@ eFAS application.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Hardcopy Application Form</summary>
+<summary><strong>Hardcopy Application Form</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -165,15 +159,13 @@ to the school’s General Office.</p>
 </div>
 </details>
 </div>
-</div>
-</details>
 <p></p>
 <p><strong>All compulsory documents must be submitted together with your completed application form for approval.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Our School staff may reach out to you for clarification on your submission or the request for additional documents.</em>
-</p>
+<p>Our School staff may reach out to you for clarification on your submission
+or the request for additional documents.</p>
 <p></p>
 </li>
 </ul>
