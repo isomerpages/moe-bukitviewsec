@@ -46,7 +46,7 @@ obtained for your<em><u> 2024 MOE FAS Approval Letter and Collection Slips (issu
 </div>
 </details>
 </div>
-<h3><strong>For new applicants</strong></h3>
+<h4><strong>For new applicants</strong></h4>
 <p>If you wish to apply for MOE Financial Assistance Scheme, you can submit
 your application
 <br>
