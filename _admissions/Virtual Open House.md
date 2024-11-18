@@ -24,6 +24,9 @@ variant: markdown
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XN_eWtkgs5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 #### Personalised Digital Learning Programme
+
+**For 2025 onwards, Secondary 1 students will be using Apple iPad as their personal learning device. Every iPad will come bundled with Apple pencil and casing with smart keyboard to maximise the affordances of the iPad as a learning tool.**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h6jig6fUm-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 
