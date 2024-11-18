@@ -255,7 +255,7 @@ processing.</p>
 </tr>
 </tbody>
 </table>
-<h4> <strong>Outcome Notification</strong></h4>
+<h4><strong>Outcome Notification</strong></h4>
 <p>Parents/guardians will receive a <strong>call from the school</strong> regarding
 the outcome of the FAS application.</p>
 <ul data-tight="true" class="tight">
@@ -278,7 +278,7 @@ the outcome of the FAS application.</p>
 </p>
 <ol>
 <li>
-<p><strong>[Approved by BVSS ] </strong>
+<p><strong>[Approved by BVSS ]</strong>
 </p>
 <p><u>Parents will receive</u>
 </p>
@@ -293,7 +293,7 @@ the outcome of the FAS application.</p>
 </ul>
 </li>
 <li>
-<p><strong> [Approve by other Schools]  </strong>
+<p><strong>[Approve by other Schools]</strong>
 </p>
 <p><u>Instructions for Collection:</u>
 </p>
