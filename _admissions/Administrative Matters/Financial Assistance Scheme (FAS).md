@@ -37,7 +37,7 @@ he/she will be <strong>auto-granted </strong>MOE FAS and y<strong>ou do not need
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
-<br>If your child/ward's <strong>2025 MOE FAS application is approved by </strong>
+<br>If your child/ward's <strong>2025 MOE FAS application is approved by</strong>
 </p>
 <p><strong>Sibling’s school or Primary School (for 2025 - Secondary 1) , </strong>
 <br><strong>you are required to provide us </strong>a copy of the successful
