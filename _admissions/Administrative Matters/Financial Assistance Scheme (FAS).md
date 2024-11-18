@@ -9,8 +9,8 @@ third_nav_title: Administrative Matters
 <p>Singaporean students may apply for financial assistance from the Ministry
 of Education. MOE Financial Assistance Scheme (FAS) is granted till December
 each year.</p>
-<p></p>
-<p>Please take note the following:</p>
+<p><strong>Please take note the following:</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>For MOE FAS recipients in the Current Year 2024</strong>
@@ -51,28 +51,75 @@ obtained for your<em><u> 2024 MOE FAS Approval Letter and Collection Slips (issu
 your application
 <br>
 </p>
-<h4><strong>Eligibility Criteria</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>ELIGIBILITY CRITERIA</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>(Ref: <a href="/files/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet-2025</a>)</p>
-<p>Family’s gross household income (GHI): not exceeding $3000/- per month
-<br>or
-<br>Family’s per capita income (PCI): not exceeding $750/- per month</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Family’s gross household income (GHI): not exceeding $3000/- per month <strong>or</strong>
+</p>
+</li>
+<li>
+<p>Family’s per capita income (PCI): not exceeding $750/- per month</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>For more information such as income criterion and benefits, please refer
 to the pamphlet attached above.</p>
-<p></p>
 <blockquote>
 <p><strong>Application for MOE Financial Assistance Scheme (FAS) for the year 2025 is now open.</strong>
 </p>
 </blockquote>
-<p></p>
-<h4><strong>Application Process</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>APPLICATION PROCESS</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Application is open throughout the year. Siblings in the same school can
 submit all their applications using one form.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Parents/Guardians may apply for MOE FAS through the following modes:</strong>
 </p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Online Application (Singpass required)</strong>
@@ -159,30 +206,29 @@ to the school’s General Office.</p>
 </div>
 </details>
 </div>
-<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>All compulsory documents must be submitted together with your completed application form for approval.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Our School staff may reach out to you for clarification on your submission
-or the request for additional documents.</p>
-<p></p>
+<p><em>Our School staff may reach out to you for clarification on your submission or the request for additional documents.</em>
+</p>
 </li>
 </ul>
+<p>Please submit your applications (with all required supporting documents)
+via eFAS or hardcopy form to General Office by Monday 11 Nov 2024.</p>
+<p>Late or incomplete submission will delay the approving process.
+<br>For further information or clarification, please contact the General Office
+at 65661990.</p>
+<p>We will inform you of the application outcome when we have processed your
+application.</p>
 <p><strong>Note:</strong>
 </p>
 <p>FAS applicants are advised not to buy the books and uniforms until they
 are informed of the application outcome. Parents will not be refunded for
 purchases made before the application is approved.</p>
-<p></p>
-<p>*Please do NOT purchase any textbook or school attire before you are notified
-through the school official letter of the outcome of your FAS application
-as there is strictly no refund.</p>
-<p></p>
-<p><em>Late or incomplete submission will delay the approving process.</em>
-<br>For further information or clarification, please contact the General Office
-at 65661990.</p>
-<p>We will inform you of the application outcome when we have processed your
-application.</p>
 <p>For more information, please refer to the<a href="/files/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank"> pamphlet</a> and
 <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE's website</a>.</p>
