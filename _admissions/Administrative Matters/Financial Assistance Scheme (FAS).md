@@ -79,11 +79,6 @@ your application
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>For more information such as income criterion and benefits, please refer
@@ -114,12 +109,6 @@ submit all their applications using one form.</p>
 <li>
 <p><strong>Parents/Guardians may apply for MOE FAS through the following modes:</strong>
 </p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Online Application (Singpass required)</strong>
@@ -206,6 +195,8 @@ to the school’s General Office.</p>
 </div>
 </details>
 </div>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
