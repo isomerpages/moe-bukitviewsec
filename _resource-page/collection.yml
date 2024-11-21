@@ -1,4 +1,5 @@
 collections:
   resource-page:
     output: true
-    order: []
+    order:
+      - Year End Sales of Textbooks & Uniform Schedule In School.md
