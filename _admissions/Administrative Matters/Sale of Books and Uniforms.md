@@ -49,7 +49,7 @@ Office to arrange a collection details</p>
 </div>
 </details>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/books-and-uniform-sales/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">2025 Booklist</div><div class="isomer-card-description">Booklist are available for download. Please click on the link to view or download the booklist.</div><div class="isomer-card-link">2025 Booklist</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/booklists-and-uniform/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">2025 Booklist</div><div class="isomer-card-description">Booklist are available for download. Please click on the link to view or download the booklist.</div><div class="isomer-card-link">2025 Booklist</div></div></a>
 </div>
 <hr>
 <table style="minWidth: 50px">
