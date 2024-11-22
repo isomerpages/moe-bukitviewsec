@@ -1,6 +1,6 @@
 ---
 title: School Book List & Uniform
-permalink: /books-and-uniform/
+permalink: /booklists-and-uniform/
 variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
