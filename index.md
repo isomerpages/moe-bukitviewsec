@@ -19,15 +19,6 @@ sections:
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
   - infopic:
-      title: Open House 2024
-      subtitle: Add an image and text
-      id: infopic
-      description: Join us on 16 November to learn more about BVSS!
-      button: Click here
-      url: https://www.bukitviewsec.moe.edu.sg/admissions/voh/
-      image: /images/Open_House_2024_Poster.png
-      alt: Image alt text
-  - infopic:
       description: Find out more about Bukit View Sec in the WeSTories Publications
       button: Click here
       url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
