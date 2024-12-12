@@ -356,7 +356,7 @@ hours. Please call the school for more information.
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who have indicated L3 choices will receive results of your applications
-via PG by <strong>20 December 2024.</strong> 
+via PG by <strong>20 December 2024.</strong>
 </p>
 <p>Successful applicants will also receive the registration process together
 with the results.&nbsp;</p>
