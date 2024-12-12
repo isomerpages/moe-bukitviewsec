@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <p>
 <br>As announced by MOE, Secondary 1 students (2025) are&nbsp;<strong>not</strong>&nbsp;required
-to physically report to school on <strong><em>Thursday 21 December 2024</em></strong>.
+to physically report to school on <strong>Thursday 19 December 2024</strong>.
 We look forward to welcoming your child/guardian to our school on the first
 day of school on <strong>Thursday 2 January 2025</strong>.</p>
 <p>Parents/Guardians of newly posted Secondary 1 students will receive a
