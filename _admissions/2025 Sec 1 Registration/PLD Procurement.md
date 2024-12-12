@@ -16,9 +16,8 @@ following accessories; Logitech Rugged Combo 4 (casing &amp; keyboard)
 and Apple Pencil (USB-C).</p>
 <p>Please complete the application form through the FormSG link provided
 through Parents Gateway or you may click <a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">here</a> by <strong><u>17 January 2025</u></strong> to
-ensure that the procurement process could go according to schedule. When
-filling up the form, please ensure you enter your child's/ward's full name,
-NRIC and class correctly.</p>
+ensure that the procurement process could go according to schedule. <strong>When filling up the form, please ensure you enter your child's/ward's full name, NRIC and class correctly.</strong>
+</p>
 <p>The school encourages parents to authorise the option for students to
 collect the device, so that your child/ward can collect it together with
 his/her classmate in school.</p>
