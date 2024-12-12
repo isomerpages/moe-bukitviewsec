@@ -95,10 +95,6 @@ the General Office by <strong><u>13 Jan 2025.</u></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec 1 Registration/Annex_B_Infographic_on_Parent_DMA.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Option Infographic</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Sec 1 Registration/Parent_Handbook__I__on_Learning_with_a_PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD</a>
 </p>
 </li>
