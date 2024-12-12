@@ -12,11 +12,11 @@ variant: tiptap
 <p>Once again, a very warm welcome to all new Secondary 1 Students to the
 BVSS Family!</p>
 <p>We look forward to welcoming your child/guardian to our school on the
-first day of school on Thursday 2 January 2025. Please ensure your child/ward
-reports to the canteen before 7.30 am in BVSS PE T-shirt and brown short/culottes.
-Student leaders will bring them to the hall. Students who have not bought
-their uniforms may report to school in their primary school attire or PE
-attire.</p>
+first day of school on <strong>Thursday 2 January 2025</strong>. Please
+ensure your child/ward reports to the canteen before 7.30 am in BVSS PE
+T-shirt and brown short/culottes. Student leaders will bring them to the
+hall. Students who have not bought their uniforms may report to school
+in their primary school attire or PE attire.</p>
 <p>More details will be provided by the Assistant Year Head Miss Kumutha
 via Parents Gateway (PG) nearer to the date.</p>
 <p><strong>2 . CCA Awareness Days</strong>
@@ -151,22 +151,21 @@ their various subjects and subject level combinations.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Mixed form classes</strong>
+<p><strong><u>Mixed form classes</u></strong>
 </p>
 <p>Once students enter secondary school, they will be grouped into mixed
 form classes comprising students from different Posting Groups and will
 have opportunities to interact and learn with peers of different backgrounds,
 strengths, and interests.</p>
 <p></p>
-<h4><strong>Offering Subjects at a more demanding Level (MDL)</strong></h4>
+<p><strong><u>Offering Subjects at a more demanding Level (MDL)</u></strong>
+</p>
 <p>At the start of Secondary One, eligible students can offer English Language
 (EL), Mother Tongue Languages (MTL), Mathematics (MA) and Science (SCI)
 at a more demanding level based on their PSLE Achievement Level (AL) for
 each of these subjects.</p>
-<p></p>
-<p><strong>(a)</strong> Eligibility of students to offer subject(s) at a more
-demanding level</p>
-<p>The subjects offered are English, Mathematics, Mother Tongue and Science.&nbsp;</p>
+<p>Eligibility criteria to offer English Language, Mother Tongue Languages,
+Mathematics and/or Science at a more demanding level.&nbsp;</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -204,7 +203,7 @@ demanding level</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>G3 / G2</p>
+<p>G2 / G3</p>
 </td>
 </tr>
 <tr>
@@ -243,37 +242,52 @@ demanding level</p>
 SBB Offer Letters would be ready for collection during school opening hours.
 Please call the school for more information.&nbsp;</p>
 <p></p>
-<p><strong>(b)</strong> Eligible students may offer HMT instead of MTL should
-they meet the following criteria.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(i) An overall PSLE Score of 8 or better <u>OR</u>
+<p><strong><u>Offering Subjects at a less demanding Level (LDL)</u></strong>
 </p>
-<p>(ii) An overall PSLE Score of 9 to 14 (inclusive); and attain</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>AL 1/AL 2 in MTL or</p>
-</li>
-<li>
-<p>Distinction/Merit in HM</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Information regarding Mother Tongue Matters</strong></h4>
+<p>At the start of Secondary One, for students who offered English, Mathematics
+and/or Science at Foundation level at PSLE, but are otherwise eligible
+to take most of their subjects at G3 when entering secondary school, they
+may choose to take these subjects at a less demanding level (i.e., G2),
+in consultation with their secondary schools.</p>
+<p>Students who face exceptional difficulties coping with their Mother Tongue
+Languages (MTL) will have the option to offer G1 or G2 MTL. At the start
+of Secondary One, students can offer MTL at a less demanding level based
+on the following criteria:</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="187" width="472" src="https://lh7-us.googleusercontent.com/ze61l4C9NJnGGEODtX-qnjhrKcpTpFxxg6_MEvIYLIjm9EUKUJPxgQ5mRlsGdHUAs1ArtAMcEpnGyqqA8W060m1723msXuMdPsnOrnJ5C0FDocYMjQjmUwsVT5XqkizYViinT4XPyfUw">
+</div>
+<p>SBB Option Letter for students to opt for Mother Tongue at Less Demanding
+Level will be sent via Parents Gateway (PG) by <strong>20 December 2024.</strong>
+</p>
+<p><strong>Deadline for submission is Tuesday 24 December 2024. &nbsp;&nbsp;</strong>
+</p>
+<p>For parents whose children are eligible, and have no PG/Internet access,
+SBB Offer Letters would be ready for collection during school opening hours.
+Please call the school for more information.&nbsp;</p>
 <p></p>
+<p><strong><u>Common Curriculum subjects</u></strong>
+</p>
+<p>In their mixed form classes, students will spend around one-third of their
+curriculum time taking a set of six common curriculum subjects:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1Reg/common_curriculum_subjects.png">
+</div>
+<p>These subjects give students more opportunities to interact and learn
+with classmates of different strengths and interests.</p>
+<p>Teachers will adopt a range of teaching approaches to meet the different
+learning needs and pace of their students in the same form class.</p>
+<p><strong>Subjects Offered at G1, G2 and G3</strong>
+</p>
+<p>English Language, Mother Tongue Languages, Mathematics, Science, and Humanities
+subjects will be offered at G1, G2 and G3.</p>
+<p>Students will be grouped in different classes based on their subject level
+for each subject.</p>
+<p>For more information on Full Subject Based Banding, do click on the FSBB
+microsite link:</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html</a>
+</p>
+<p></p>
+<h4><strong>Information regarding Mother Tongue Matters</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -299,10 +313,10 @@ they meet the following criteria.</p>
 for students who meets the following criteria:</p>
 <p>An overall PSLE Score of 15 to 19 (inclusive); and attained AL 1/ AL 2
 in MTL or D/M in HMT</p>
-<p>Both MOE and BVSS HMT Offer Letters will be sent via PG between <strong>20 - 21 December 2023.</strong>&nbsp;Parents
+<p>Both MOE and BVSS HMT Offer Letters will be sent via PG by <strong>20 December 2024.</strong>&nbsp;Parents
 are advised to read the “Important Information” on the Offer Letters carefully
 before making a decision.&nbsp;</p>
-<p>Please indicate your response via PG by<strong> Wednesday 27 December 2023. &nbsp;&nbsp;</strong>
+<p>Please indicate your response via PG by<strong> Tuesday 24 December 2024. &nbsp;&nbsp;</strong>
 </p>
 <p>For parents whose children are eligible, and have no PG/Internet access,
 the Offer Letters would be ready for collection during school opening hours.
@@ -322,12 +336,12 @@ on the following criteria:</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="187" width="472" src="https://lh7-us.googleusercontent.com/ze61l4C9NJnGGEODtX-qnjhrKcpTpFxxg6_MEvIYLIjm9EUKUJPxgQ5mRlsGdHUAs1ArtAMcEpnGyqqA8W060m1723msXuMdPsnOrnJ5C0FDocYMjQjmUwsVT5XqkizYViinT4XPyfUw">
 </div>
-<p>Option Letters will be sent via PG between<strong>&nbsp;20 - 21 December 2023</strong>.
+<p>Option Letters will be sent via PG by<strong>&nbsp;20 December 2024</strong>.
 Parents are advised to read the “Important information” on the Option Letters
 carefully before making a decision.
 <br>
 </p>
-<p>Please indicate your response via PG by&nbsp;<strong>Wednesday 27 December 2023. &nbsp;&nbsp;</strong>
+<p>Please indicate your response via PG by&nbsp;<strong>Tuesday 24 December 2024. &nbsp;&nbsp;</strong>
 </p>
 <p>For parents whose children are eligible, and have no PG/Internet access,
 the Option Letters would be ready for collection during school opening
@@ -342,10 +356,10 @@ hours. Please call the school for more information.
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who have indicated L3 choices will receive results of your applications
-via PG between <strong>20 - 21 December 2023</strong> Successful applicants
-will also receive the registration process together with the results.&nbsp;
-<br>
+via PG by <strong>20 December 2024.</strong> 
 </p>
+<p>Successful applicants will also receive the registration process together
+with the results.&nbsp;</p>
 <p>For parents whose children had selected L3, and have no PG/Internet access,
 please call the school for the application results.</p>
 </td>
