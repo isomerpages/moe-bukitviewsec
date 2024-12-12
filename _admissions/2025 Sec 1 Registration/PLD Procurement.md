@@ -95,11 +95,11 @@ the General Office by <strong><u>13 Jan 2025.</u></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec 1 Registration/Parent_Handbook__I__on_Learning_with_a_PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD</a>
+<p><a href="/files/Sec 1 Registration/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec 1 Registration/Parent_Handbook__II__on_Learning_with_a_PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a PLD</a>
+<p><a href="/files/Sec 1 Registration/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) 2025</a>
 </p>
 </li>
 </ul>
