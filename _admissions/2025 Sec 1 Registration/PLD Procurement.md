@@ -9,11 +9,10 @@ third_nav_title: 2025 Sec 1 Registration
 <p>The Personalised Digital Learning Programme (PDLP) for all secondary school
 students requires every student to own a school-prescribed Personal Learning
 Device (PLD).</p>
-<p>BVSS has selected the Apple iPad 10.9 10th Gen as its PLD offering . The
-device comes with 3 years of warranty and insurance coverage. The device
-comes with 3 years of warranty and insurance coverage and includes the
-following accessories; Logitech Rugged Combo 4 (casing &amp; keyboard)
-and Apple Pencil (USB-C).</p>
+<p>BVSS has selected the Apple iPad 10.9 10th Gen as its PLD offering for
+S1 2025. The device comes with 3 years of warranty and insurance coverage
+and includes the following accessories; Logitech Rugged Combo 4 (casing
+&amp; keyboard) and Apple Pencil (USB-C).</p>
 <p>Please complete the application form through the FormSG link provided
 through Parents Gateway or you may click <a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">here</a> by <strong><u>17 January 2025</u></strong> to
 ensure that the procurement process could go according to schedule. <strong>When filling up the form, please ensure you enter your child's/ward's full name, NRIC and class correctly.</strong>
@@ -21,6 +20,7 @@ ensure that the procurement process could go according to schedule. <strong>When
 <p>The school encourages parents to authorise the option for students to
 collect the device, so that your child/ward can collect it together with
 his/her classmate in school.</p>
+<p>A briefing on PDLP will be done on S1 Parent Day.</p>
 <p>Should you have a change in your email address, do update it in the Parents
 Gateway(PG) app. Information on the registration for the DMA will be sent
 via PG&nbsp; on a later date.</p>
