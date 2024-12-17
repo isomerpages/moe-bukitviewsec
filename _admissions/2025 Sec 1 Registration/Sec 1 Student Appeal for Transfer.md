@@ -6,7 +6,6 @@ variant: tiptap
 third_nav_title: 2025 Sec 1 Registration
 ---
 <h3><strong>Sec 1 Student Appeal for Transfer</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
