@@ -9,6 +9,10 @@ third_nav_title: Administrative Matters
 <p>Singaporean students may apply for financial assistance from the Ministry
 of Education. MOE Financial Assistance Scheme (FAS) is granted till December
 each year.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_1.jpg">
+</div>
 <p>For more information, please refer to the<a href="/files/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank"> pamphlet</a> and
 <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE's website</a>.</p>
 <p><strong>Please take note the following:</strong>
@@ -79,11 +83,29 @@ to our General Office.</p>
 </div>
 </details>
 </div>
-<h4><strong>For new applicants</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h3><strong>For new applicants</strong></h3>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>If you wish to apply for MOE Financial Assistance Scheme, you can submit
-your application
-<br>
-</p>
+your application .</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -120,6 +142,11 @@ to the pamphlet attached above.</p>
 <p><strong>Application for MOE Financial Assistance Scheme (FAS) for the year 2025 is now open.</strong>
 </p>
 </blockquote>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -255,12 +282,31 @@ processing.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Outcome Notification</strong></h4>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>OUTCOME NOTIFICATION</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Parents/guardians will receive a <strong>call from the school</strong> regarding
 the outcome of the FAS application.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Approved parents will receive instructions for collecting:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Approved parents will receive instructions for collecting:</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>FAS Approval Letter</strong>
@@ -271,16 +317,36 @@ the outcome of the FAS application.</p>
 </p>
 </li>
 </ol>
-</li>
-</ul>
-<h4><strong>Collection of Books and Uniforms</strong></h4>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>COLLECTION OF BOOKS AND UNIFORMS</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>For Approved Applicants:</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ol>
 <li>
 <p><strong>[Approved by BVSS ]</strong>
-</p>
-<p><u>Parents will receive</u>
+<br><u>Parents will receive</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -294,8 +360,7 @@ the outcome of the FAS application.</p>
 </li>
 <li>
 <p><strong>[Approve by other Schools]</strong>
-</p>
-<p><u>Instructions for Collection:</u>
+<br><u>Instructions for Collection:</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -307,10 +372,20 @@ the outcome of the FAS application.</p>
 </ul>
 </li>
 </ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Note:</strong>
-</p>
-<p>FAS applicants are advised not to buy the books and uniforms until they
+<br>FAS applicants are advised not to buy the books and uniforms until they
 are informed of the application outcome. Parents will not be refunded for
-purchases made before the application is approved.</p>
-<p>For further information or clarification, please contact the General Office
+purchases made before the application is approved.
+<br>For further information or clarification, please contact the General Office
 at 65661990.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<p></p>
+<p></p>
