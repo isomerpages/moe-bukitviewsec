@@ -23,16 +23,6 @@ each year.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>If your child is currently receiving FAS and would like to continue in
-2025:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Submit an updated application form with supporting documents by the deadline.</p>
-</li>
-<li>
-<p>This ensures eligibility based on updated household income or family circumstances.</p>
-</li>
-</ul>
 </div>
 </details>
 <details class="isomer-details">
@@ -85,6 +75,30 @@ to our General Office.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__4_.png">
+</div>
+<p><strong> (Approval Granted by Other Schools ) (For Year 2025)</strong>
+<br>If your child/ward’s FAS application was approved by another school (e.g.,
+sibling’s school or primary school for Secondary 1 students):</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Bring the FAS Approval Letter from the approving school to our General
+Office.</p>
+</li>
+<li>
+<p>The school will issue:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A FAS Approval Letter from our school.</p>
+</li>
+<li>
+<p>Collection Slips for books and uniforms.</p>
+<p></p>
+</li>
+</ul>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
 <table style="minWidth: 25px">
@@ -105,7 +119,6 @@ your application .</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -134,10 +147,15 @@ your application .</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>For more information such as income criterion and benefits, please refer to the pamphlet attached above.</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>For more information such as income criterion and benefits, please refer
-to the pamphlet attached above.</p>
+<p></p>
 <blockquote>
 <p><strong>Application for MOE Financial Assistance Scheme (FAS) for the year 2025 is now open.</strong>
 </p>
@@ -262,14 +280,44 @@ to the school’s General Office.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Application Deadline:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
 <p>Applications (with all required supporting documents) must be submitted
 by</p>
-<p><strong>For Sec 2 - 4 (2025)</strong> : Monday, 11 Nov 2024.</p>
-<p><strong>For Sec 1 (2025)</strong> : Monday, 23 Dec 2024.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>For Sec 2 - 4 (2025)</strong> :</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday, 11 Nov 2024.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>For Sec 1 (2025)</strong> :</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday, 23 Dec 2024.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Important Note:</strong> Late or incomplete applications may delay
 processing.</p>
@@ -279,14 +327,12 @@ processing.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Our School admin staff may reach out to you for clarification on your submission or the request for additional documents.</em>
+<p><strong>Our School admin staff may reach out to you for clarification on your submission or the request for additional documents.</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
@@ -380,11 +426,18 @@ the outcome of the FAS application.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Note:</strong>
-<br>FAS applicants are advised not to buy the books and uniforms until they
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>FAS applicants are advised not to buy the books and uniforms until they
 are informed of the application outcome. Parents will not be refunded for
-purchases made before the application is approved.
-<br>For further information or clarification, please contact the General Office
+purchases made before the application is approved.</p>
+</li>
+<li>
+<p>For further information or clarification, please contact the General Office
 at 65661990.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
