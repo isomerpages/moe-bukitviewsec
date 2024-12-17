@@ -195,7 +195,6 @@ from the school.</p>
 uniforms directly at the school.</p>
 <p>If you are visiting the school for self-collection, you can also purchase
 uniforms during the same visit.</p>
-<p></p>
 <p>These are the purchase options available:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
