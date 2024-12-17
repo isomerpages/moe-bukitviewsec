@@ -77,7 +77,7 @@ to our General Office.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__4_.png">
 </div>
-<p><strong> (Approval Granted by Other Schools ) (For Year 2025)</strong>
+<p><strong>(Approval Granted by Other Schools ) (For Year 2025)</strong>
 <br>If your child/ward’s FAS application was approved by another school (e.g.,
 sibling’s school or primary school for Secondary 1 students):</p>
 <ol data-tight="true" class="tight">
