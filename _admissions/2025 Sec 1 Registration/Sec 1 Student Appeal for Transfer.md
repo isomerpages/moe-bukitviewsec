@@ -19,7 +19,7 @@ between <strong>8:30 AM and 12:00 PM</strong> at the <strong>BVSS General Office
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>For students with <strong>serious medical condition </strong>
+<p>For students with <strong>serious medical condition</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -85,8 +85,8 @@ the transfer is finalised.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
-<h4><strong>COP for 2024 Sec 1 Cohort </strong></h4>
-<p><strong>(REF :  </strong><a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-view-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-view-secondary-school </a><strong>)</strong>
+<h4><strong>COP for 2024 Sec 1 Cohort</strong></h4>
+<p><strong>(REF : </strong><a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-view-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-view-secondary-school </a><strong>)</strong>
 </p>
 <p><strong>G3 AL:</strong>&nbsp; 19</p>
 <p><strong>G2 AL:</strong> &nbsp;24</p>
