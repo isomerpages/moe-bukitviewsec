@@ -339,10 +339,18 @@ by</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Important Note:</strong> 
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Important Note:</strong> Late or incomplete applications may delay
-processing.</p>
+<p>If your documents are in order, we will be able to process your application
+between 7 to 10 working days and we will notify you of the status accordingly.</p>
+</li>
+<li>
+<p>If not, we will process your application when the documents are completed.</p>
+</li>
+<li>
+<p>Late or incomplete applications may delay processing.</p>
 </li>
 </ul>
 </td>
@@ -456,14 +464,18 @@ are informed of the application outcome. Parents will not be refunded for
 purchases made before the application is approved.</p>
 </li>
 <li>
-<p>For further information or clarification, please contact the General Office
-at 65661990.</p>
+<p></p>
 </li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<h4></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>For further information or clarification, please contact the General Office
+at 65661990.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
