@@ -57,7 +57,7 @@ the school’s General Office at 6566 1990.</p>
 <p>Our transfer appeal period is open until <strong>Monday, 23 December 2024, 12:00 PM.</strong>
 </p>
 <p>You may submit your appeal online via this link:
-<br><a href="https://go.gov.sg/bvss2025-sec1-appeal" rel="noopener nofollow" target="_blank">2025 BVSS Sec 1 Appeal </a> 
+<br><a href="https://go.gov.sg/bvss2025-sec1-appeal" rel="noopener nofollow" target="_blank">2025 BVSS Sec 1 Appeal </a>
 <br>– <strong><em>there is no need to visit the school in person.</em></strong>
 </p>
 <p>The school will contact parents whose appeals are successful by <strong>mid-January 2025</strong>.
