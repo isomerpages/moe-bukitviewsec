@@ -36,7 +36,7 @@ please refer to the table below.
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/bOOK_AND_UNIFORM_SCHEDULE__1_.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Admin Matters/bOOK_AND_UNIFORM_SCHEDULE__1_.jpg">
 </div>
 <p><em>Lunch Time: 12 pm – 1pm</em>
 </p>
