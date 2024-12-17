@@ -22,7 +22,16 @@ each year.</p>
 <summary><strong>For Current MOE FAS Recipients (2024)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>If your child is currently receiving FAS and would like to continue in 2025:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Submit an updated application form with supporting documents by the deadline.</p>
+</li>
+<li>
+<p>This ensures eligibility based on updated household income or family circumstances.</p>
+</li>
+</ol>
 </div>
 </details>
 <details class="isomer-details">
@@ -77,27 +86,29 @@ to our General Office.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__4_.png">
 </div>
-<p><strong>(Approval Granted by Other Schools ) (For Year 2025)</strong>
-<br>If your child/ward’s FAS application was approved by another school (e.g.,
-sibling’s school or primary school for Secondary 1 students):</p>
+<h4><strong>[2025] MOE FAS Application has already been approved by your child’s Primary School</strong></h4>
+<p>If your child’s/ward’s MOE FAS application was approved by their primary
+school or sibling's school, please obtain the BVSS Approval Letter before
+collecting textbooks and uniforms.</p>
+<h4><strong>To Obtain the BVSS Approval Letter:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Bring the FAS Approval Letter from the approving school to our General
-Office.</p>
+<p>Bring the <strong>FAS Approval Letter</strong> from the approving school
+to our General Office.</p>
 </li>
 <li>
-<p>The school will issue:</p>
+<p>BVSS will provide:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A FAS Approval Letter from our school.</p>
+<p>A <strong>BVSS Approval Letter</strong>.</p>
 </li>
 <li>
-<p>Collection Slips for books and uniforms.</p>
-<p></p>
+<p>Collection slips for <strong>textbooks and uniforms</strong>.</p>
 </li>
 </ul>
 </li>
 </ol>
+<p>For any enquiries, contact our General Office at <strong>6566 1990</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
@@ -144,13 +155,19 @@ your application .</p>
 <li>
 <p>Family’s per capita income (PCI): not exceeding $750/- per month</p>
 </li>
+<li>
+<p>[PCI = Total Gross Monthly Household Income divided by the No. of members
+in the same household.]</p>
+</li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>For more information such as income criterion and benefits, please refer to the pamphlet attached above.</strong>
-</p>
+<p><strong>For more information such as income criterion and benefits, please refer to the pamphlet attached above or </strong>You
+may refer to the MOE website <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE's website</a> for
+the press release on the revised income ceiling and enhanced subsidy for
+financial assistance before submitting your application.</p>
 </td>
 </tr>
 </tbody>
@@ -224,10 +241,16 @@ submit all their applications using one form.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Please ensure that the forms are duly completed and&nbsp;all required
-supporting documents are attached.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please read the instructions in the eFAS and prepare the softcopy of the
+required documents before you begin your e-application.</p>
+</li>
+<li>
 <p>You will receive an acknowledgement email upon successful submission of
 eFAS application.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -263,8 +286,8 @@ Download &amp; Print the MOE FAS Application Form.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>All application forms must be submitted together with the relevant documents
-to the school’s General Office.</p>
+<p>Upon completion, the application form is to be submitted directly to school,
+together with copies of the supporting documents as indicated in the form.</p>
 </td>
 </tr>
 </tbody>
@@ -278,8 +301,7 @@ to the school’s General Office.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Application Deadline:</strong>
-</p>
+<h4><strong>Application Deadline:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
