@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance Scheme (FAS) Application
-permalink: /admissions/secondary-one-2024/fas/
+permalink: /admissions/secondary-one-2025/fas/
 description: ""
 variant: markdown
 ---

@@ -2,14 +2,9 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Financial Assistance Scheme (FAS) Application.md
       - Example Titletr.md
       - Peer Support Leaders.md
-      - Sec 1 Student Appeal for Transfer.md
-      - Financial Assistance Scheme (FAS) Application.md
-      - PLD Procurement.md
-      - Purchase of Books and Uniforms.md
-      - Student Matters.md
-      - Secondary One 2024.md
       - Student Transfers.md
       - Floorball2023.md
       - Hockey.md
