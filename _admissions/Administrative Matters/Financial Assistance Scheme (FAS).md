@@ -339,7 +339,7 @@ by</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Important Note:</strong> 
+<p><strong>Important Note:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -463,9 +463,6 @@ the outcome of the FAS application.</p>
 are informed of the application outcome. Parents will not be refunded for
 purchases made before the application is approved.</p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
 </td>
 </tr>
@@ -477,5 +474,4 @@ purchases made before the application is approved.</p>
 at 65661990.</p>
 </li>
 </ul>
-<p></p>
 <p></p>
