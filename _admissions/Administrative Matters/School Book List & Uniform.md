@@ -30,7 +30,8 @@ third_nav_title: Administrative Matters
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 booklist will be available only after posting results.</p>
+<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_1_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 1)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +70,8 @@ third_nav_title: Administrative Matters
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 5 booklist will be available only after N-Level results.</p>
+<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_5_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 5)</a>
+</p>
 </td>
 </tr>
 </tbody>
