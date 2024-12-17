@@ -143,7 +143,6 @@ to the pamphlet attached above.</p>
 </p>
 </blockquote>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
@@ -265,7 +264,11 @@ to the school’s General Office.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Applications must be submitted by <strong>Monday, 11 Nov 2024</strong>.</p>
+<p>Applications (with all required supporting documents) must be submitted
+by</p>
+<p><strong>For Sec 2 - 4 (2025)</strong> : Monday, 11 Nov 2024.</p>
+<p><strong>For Sec 1 (2025)</strong> : Monday, 23 Dec 2024.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Important Note:</strong> Late or incomplete applications may delay
