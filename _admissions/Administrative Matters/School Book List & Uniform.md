@@ -33,7 +33,8 @@ third_nav_title: Administrative Matters
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_1_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 1)</a>
+<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_1_.pdf" rel="noopener nofollow" target="_blank"> </a>
+<a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_1_Dec2024.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 1)</a>
 </p>
 </td>
 </tr>
@@ -43,7 +44,7 @@ third_nav_title: Administrative Matters
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_2_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 2)</a>
+<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_2_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 2) </a>
 </p>
 </td>
 </tr>
@@ -53,7 +54,7 @@ third_nav_title: Administrative Matters
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_3_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 3)</a>
+<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_3_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 3)</a>
 </p>
 </td>
 </tr>
@@ -63,7 +64,7 @@ third_nav_title: Administrative Matters
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_4_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 4)</a>
+<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_4_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 4)</a>
 </p>
 </td>
 </tr>
@@ -73,7 +74,7 @@ third_nav_title: Administrative Matters
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_5_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 5)</a>
+<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_5_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 5)</a>
 </p>
 </td>
 </tr>
