@@ -14,7 +14,7 @@ please refer to the table below.
 <br><strong>Bookshop Vendor Website </strong>-&nbsp;<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 <br><strong>Uniform Vendor Website</strong> - <a href="https://www.intrenduniforms.com/bukit-view-secondary-school" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.intrenduniforms.com/bukit-view-secondary-school</u></a>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Admin%20Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_1_.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">2025 Sec 1 Booklist</div><div class="isomer-card-description">Sec 1 Booklist are available for download. Please click on the link to view or download the booklist.</div><div class="isomer-card-link">2025 Sec 1 Booklist</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Admin%20Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_1_Dec2024.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">2025 Sec 1 Booklist</div><div class="isomer-card-description">Sec 1 Booklist are available for download. Please click on the link to view or download the booklist.</div><div class="isomer-card-link">2025 Sec 1 Booklist</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/files/Admin%20Matters/Information_for_Sale_of_Uniforms_2024_BVSS.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sale of Uniforms for BVSS</div>
