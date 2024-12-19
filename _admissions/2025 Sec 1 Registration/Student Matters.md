@@ -13,13 +13,22 @@ third_nav_title: 2025 Sec 1 Registration
 <p>Once again, a very warm welcome to all new Secondary 1 Students to the
 BVSS Family!</p>
 <p>We look forward to welcoming your child/guardian to our school on the
-first day of school on <strong>Thursday 2 January 2025</strong>. Please
-ensure your child/ward reports to the canteen before 7.30 am in BVSS PE
-T-shirt and brown short/culottes. Student leaders will bring them to the
-hall. Students who have not bought their uniforms may report to school
-in their primary school attire or PE attire.</p>
-<p>More details will be provided by the Assistant Year Head Miss Kumutha
-via Parents Gateway (PG) nearer to the date.</p>
+first day of school on <strong>Thursday 2 January 2025. </strong>
+</p>
+<p>Please ensure your child/ward reports to the canteen <strong><u>before 7.30 am in BVSS full uniform.</u></strong>
+</p>
+<p>Student leaders will bring them to the hall. Students who have not bought
+their uniforms may report to school in their primary school attire or PE
+attire.</p>
+<p><strong><u>S1 Orientation Programme</u></strong>
+</p>
+<p>BVSS S1 Orientation Programme will take place from <strong>Wednesday 8 January to Friday 10 January 2024</strong>.
+S1 Parents Engagement Session will take place on Friday 10 January 2024
+from 4 pm to 6.30 pm. There will be a S1 Orientation Programme Showcase
+from 6.30 pm to 8 pm and you are encouraged to join us.</p>
+<p><em>More details will be provided by the Assistant Year Head Miss Kumutha via Parents Gateway (PG) nearer to the date.</em>
+</p>
+<p></p>
 <p><strong>2 . CCA Awareness Days</strong>
 </p>
 <p>The objective of CCA Awareness Day is to provide Sec 1 students with snippets
