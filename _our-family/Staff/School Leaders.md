@@ -53,14 +53,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="" height="auto" width="100%" src="/images/Mr%20Mak%20Yew%20Chong2.jpg">
+<img style="width: 90%;" height="auto" width="100%" src="/images/Mr%20Mak%20Yew%20Chong2.jpg">
 </div>
 <p>Mr Mak Yew Chong
 <br>Vice-Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="" height="auto" width="100%" src="/images/Key%20Personel%20Photos/Mrs_Anna_Ling.jpg">
+<img style="width: 90%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/Mrs_Anna_Ling.jpg">
 </div>
 <p>Mrs Anna Ling
 <br>Vice-Principal (EO)</p>
