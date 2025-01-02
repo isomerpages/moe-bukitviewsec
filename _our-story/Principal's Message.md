@@ -2,11 +2,12 @@
 title: Principal's Message
 permalink: /our-story/prin-msg/
 description: ""
+variant: markdown
 ---
 ## Principal's Message
 
-<img src="/images/Mr%20Jaswant%20Singh.jpg" style="width:30%" align=right>
-We are 37!
+<img src="/images/Mr%20Jaswant%20Singh.jpg" style="width:30%" align="right">
+We are 39!
 
 The BVSS Curriculum is anchored on the tenets of Positive Education, namely Positive Relationships, Positive Emotions, Positive Health, Positive Engagement, Positive Accomplishment, and Positive Purpose.
 These Positive Education efforts are driven through two pillars of student development – Learning Strategies and Social Skills Development. 
@@ -15,7 +16,7 @@ A key feature of the BVSS Curriculum is the provision of multi-modal development
 
 Buttressed by accomplished alumni, an active Parent Support Group, and a dedicated School Advisory Committee, BVSS inspires and enables students to realise their aspirations.
 
-As the BVSS Brand turns 37 this year, we stride forward to nurture every learner, constantly guided by our Mission to remain ‘A dynamic institution that adds value to all by valuing learners, valuing learning and learning values’, and our Motto ‘Care & Share, Achieve & Excel’.
+As the BVSS Brand turns 39 this year, we stride forward to nurture every learner, constantly guided by our Mission to remain ‘A dynamic institution that adds value to all by valuing learners, valuing learning and learning values’, and our Motto ‘Care &amp; Share, Achieve &amp; Excel’.
 
 
 *Bukit View, the Place to Be*<br>
