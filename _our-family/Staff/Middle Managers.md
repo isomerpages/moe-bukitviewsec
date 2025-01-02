@@ -62,23 +62,24 @@ variant: markdown
 
 <img src="/images/Key%20Personel%20Photos/patricia%20lye.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/Key%20Personel%20Photos/kumutha.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/vinod.jpg" style="width:30%;margin-right:15px;" align="left">
+
 
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-|  **Miss Patricia Lye**<br>SH/Computing  |  **Miss Kumutha**<br>Assistant Year Head  | **Mr Vinod Kumar**<br>SH/Biology  |
+|  **Miss Patricia Lye**<br>SH/Computing  |  **Miss Kumutha**<br>Assistant Year Head  |  **Mr Joshua Lee**<br> Assistant Year Head |
 |   |   |   |
 
-<img src="/images/Key%20Personel%20Photos/Kendrick.jpg" style="width:30%;margin-right:70px;" align="left">
+<img src="/images/Key%20Personel%20Photos/Kendrick.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Key%20Personel%20Photos/vinod.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/Key%20Personel%20Photos/Billy_Chew.jpg" style="width:30%;margin-right:15px" align="left">
 
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-|  **Mr Kendrick Tan**<br>SH/Ed-Tech |**Mr Billy Chew**<br>SH/Math  |  |
+|  **Mr Kendrick Tan**<br>SH/Ed-Tech |**Mr Vinod Kumar**<br>SH/Biology |**Mr Billy Chew**<br>SH/Math  |  |
 |   |   |   |
 
 <br clear="left">
