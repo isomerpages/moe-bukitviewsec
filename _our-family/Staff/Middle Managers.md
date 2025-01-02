@@ -40,11 +40,12 @@ variant: markdown
 
 <img src="/images/Key%20Personel%20Photos/nalini%20ram.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/Key%20Personel%20Photos/Kevin.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Key%20Personel%20Photos/jia_hao.jpg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-| **Mrs Nalini Ram**<br>HOD/Humanities  | **Mr Kevin Loh** <br> HOD/Student Management |  
+| **Mrs Nalini Ram**<br>HOD/Humanities  | **Mr Kevin Loh** <br> HOD/Student Management |  **Mr Lee Jia Hao** <br> Year Head |
 |   |   |   |
 
 <img src="/images/Key%20Personel%20Photos/elamaran.jpg" style="width:30%;margin-right:15px;" align="left">
@@ -61,13 +62,23 @@ variant: markdown
 
 <img src="/images/Key%20Personel%20Photos/patricia%20lye.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/Key%20Personel%20Photos/kumutha.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/vinod.jpg)" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Key%20Personel%20Photos/vinod.jpg" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
+
 |   |   |   |
 |---|---|---|
 |  **Miss Patricia Lye**<br>SH/Computing  |  **Miss Kumutha**<br>Assistant Year Head  | **Mr Vinod Kumar**<br>SH/Biology  |
 |   |   |   |
 
+<img src="/images/Key%20Personel%20Photos/Kendrick.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Key%20Personel%20Photos/Billy_Chew.jpg" style="width:30%;margin-right:15px;" align="left">
+
+<br clear="left">
+
+|   |   |   |
+|---|---|---|
+|  **Mr Kendrick Tan**<br>SH/Ed-Tech |**Mr Billy Chew**<br>SH Math  |  |
+|   |   |   |
 
 <br clear="left">
