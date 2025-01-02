@@ -39,11 +39,12 @@ variant: markdown
 
 
 <img src="/images/Key%20Personel%20Photos/nalini%20ram.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Key%20Personel%20Photos/Kevin.jpg" style="width:30%;margin-right:15px;" align="left">
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-| **Mrs Nalini Ram**<br>HOD/Humanities  |  |  
+| **Mrs Nalini Ram**<br>HOD/Humanities  | **Mr Kevin Loh** <br> HOD/Student Management |  
 |   |   |   |
 
 <img src="/images/Key%20Personel%20Photos/elamaran.jpg" style="width:30%;margin-right:15px;" align="left">
@@ -60,12 +61,12 @@ variant: markdown
 
 <img src="/images/Key%20Personel%20Photos/patricia%20lye.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/Key%20Personel%20Photos/kumutha.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/sarah%20lah.jpg" style="width:30%;margin-right:15px;" align="left">
-<br clear="left">
+<img src="/images/Key%20Personel%20Photos/vinod.jpg)" style="width:30%;margin-right:15px;" align="left">
 
+<br clear="left">
 |   |   |   |
 |---|---|---|
-|  **Miss Patricia Lye**<br>SH/Computing  |  **Miss Kumutha**<br>Assistant Year Head  | **Miss Sarah Lah Xin Ying**<br>SH/Biology  |
+|  **Miss Patricia Lye**<br>SH/Computing  |  **Miss Kumutha**<br>Assistant Year Head  | **Mr Vinod Kumar**<br>SH/Biology  |
 |   |   |   |
 
 
