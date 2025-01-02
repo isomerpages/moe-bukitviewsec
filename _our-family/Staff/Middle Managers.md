@@ -78,7 +78,7 @@ variant: markdown
 
 |   |   |   |
 |---|---|---|
-|  **Mr Kendrick Tan**<br>SH/Ed-Tech |**Mr Billy Chew**<br>SH Math  |  |
+|  **Mr Kendrick Tan**<br>SH/Ed-Tech |**Mr Billy Chew**<br>SH/Math  |  |
 |   |   |   |
 
 <br clear="left">
