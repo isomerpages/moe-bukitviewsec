@@ -71,8 +71,8 @@ variant: markdown
 |  **Miss Patricia Lye**<br>SH/Computing  |  **Miss Kumutha**<br>Assistant Year Head  | **Mr Vinod Kumar**<br>SH/Biology  |
 |   |   |   |
 
-<img src="/images/Key%20Personel%20Photos/Kendrick.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/Billy_Chew.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Key%20Personel%20Photos/Kendrick.jpg" style="width:30%;margin-right:70px;" align="left">
+<img src="/images/Key%20Personel%20Photos/Billy_Chew.jpg" style="width:30%;margin-right:15px" align="left">
 
 <br clear="left">
 
