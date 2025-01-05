@@ -19,7 +19,8 @@ as a learning tool.
 <br>
 <br><strong>PLD Information for Parents</strong>
 </p>
-<p>Please click here to view the slides.</p>
+<p>Please click <a href="/files/PDLP/PDLP_Information_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view the slides.</p>
 <p>To proceed with the purchase of the PLD, please fill in the online form
 at this link: <a href="https://go.gov.sg/pdlpadmin" rel="noopener nofollow" target="_blank">https://go.gov.sg/pdlpadmin</a>
 </p>
