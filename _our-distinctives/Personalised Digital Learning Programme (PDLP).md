@@ -55,22 +55,11 @@ a culture of collaborative learning through use of technology.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h6jig6fUm-g"></iframe>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Chromebook-during-JOULES-programme-300x200.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Chromebook-in-class-300x203.jpg">
-</div>
-<p>
-<br>
-</p>
+<p></p>
 <p>Our teachers tap on educational technology to design effective lessons.
 Technology is used not only to promote active, engaged, and self-directed
 learning, but also enables teachers to better track their students’ understanding
 of concepts taught and assess learning.</p>
-<div class="iframe-wrapper">
-<iframe height="496" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mSbZQNJwPuI"></iframe>
-</div>
 <p><strong>Singapore Student Learning Space (SLS)</strong>
 </p>
 <p>As part of its commitment to nurturing future-ready learners, the Ministry
