@@ -2,6 +2,7 @@
 title: Home Based Learning
 permalink: /our-curriculum/hbl/
 description: ""
+variant: markdown
 ---
 ## Home-Based Learning
 
@@ -14,7 +15,3 @@ We seek your understanding that there are differences between learning from home
 *   The student may determine his/her own pace of learning as he/she is not confined to a physical space and/or closely supervised by the teacher in a classroom.
 *   The teacher does not have full control of the learning environment and is unable to intervene spontaneously during the learning process.
 *   Students’ learning cannot be monitored and evaluated onsite.
-
-**Home-Based Learning Timetable**
-
-The timetable will be class based to ensure lessons are customised and will be&nbsp;**sent to all parents through Parents Gateway**.
