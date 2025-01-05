@@ -24,8 +24,8 @@ view the slides.</p>
 <p>To proceed with the purchase of the PLD, please fill in the online form
 at this link: <a href="https://go.gov.sg/pdlpadmin" rel="noopener nofollow" target="_blank">https://go.gov.sg/pdlpadmin</a>
 </p>
-<p>If you are unable to submit the form online, please click here for a hardcopy
-version.</p>
+<p>If you are unable to submit the form online, please click <a href="/files/PDLP/IP4_Letter_to_Parents_for_PDLP_Procurement_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
+a hardcopy version.</p>
 <p>Please submit the online or hardcopy form by <strong>17 January 2025</strong>.</p>
 <p>More details will be provided at a later date on your child/ward’s PLD
 collection date.</p>
