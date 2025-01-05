@@ -111,3 +111,53 @@ misuse of the device.</p>
 <p>For parents' who would like to change their DMA Options, you may click
 the following link: <strong><a href="https://go.gov.sg/ictserviceparent" rel="noopener noreferrer nofollow" target="_blank">BVSS Parent ICT Service Request Form</a></strong>
 </p>
+<p></p>
+<p><strong>Cyberwellness Resources for Parents</strong>
+</p>
+<ul>
+<li>
+<p><a href="https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2025/pld/go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/moe-cyber-wellness</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2025/pld/go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/better-internet-sg</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2025/pld/go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank"><u>sure.nlb.gov.sg</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2025/pld/go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank"><u>help123.sg</u></a>
+</p>
+</li>
+</ul>
+<p><strong>Additional Resources for Parents</strong>
+</p>
+<ul>
+<li>
+<p><a href="https://www.bukitviewsec.moe.edu.sg/files/Sec%201%20Registration/Infographic_on_the_PLD_Initiative_2023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>PLD Initiative Infographic</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.bukitviewsec.moe.edu.sg/files/Sec%201%20Registration/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank"><u>Parent Handbook (I) 2025</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.bukitviewsec.moe.edu.sg/files/Sec%201%20Registration/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank"><u>Parent Handbook (II) 2025</u></a>
+</p>
+</li>
+</ul>
+<p></p>
+<blockquote>
+<p><strong>Strengthening Digital Literacy&nbsp;</strong>
+</p>
+</blockquote>
+<p><a href="https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2025/pld/go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/news/press-releases/-/media/files/news/press/2020/infosheet-on-strengthening-digital-literacy.pdf<br></u></a>
+</p>
+<blockquote>
+<p><strong>Digital Literacy and Technological Skills</strong>
+</p>
+</blockquote>
+<p><a href="https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2025/pld/go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan/digital-literacy-and-technological-skills</u></a>
+</p>
