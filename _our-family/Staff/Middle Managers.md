@@ -62,7 +62,7 @@ variant: markdown
 
 <img src="/images/Key%20Personel%20Photos/patricia%20lye.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/Key%20Personel%20Photos/kumutha.jpg" style="width:30%;margin-right:15px;" align="left">
-
+<img src="/images/Key%20Personel%20Photos/joshua_lee.jpg" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
