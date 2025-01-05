@@ -30,7 +30,7 @@ version.</p>
 collection date.</p>
 <p></p>
 <p></p>
-<p>Bukit View Secondary aim to develop students who are:</p>
+<h3>Bukit View Secondary aim to develop students who are:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Ethical Digital Users</strong>&nbsp;– promote positive engagement,
