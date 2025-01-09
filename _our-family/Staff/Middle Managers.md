@@ -79,7 +79,7 @@ variant: markdown
 
 |   |   |   |
 |---|---|---|
-|  **Mr Kendrick Tan**<br>SH/Ed-Tech |**Mr Vinod Kumar**<br>SH/Biology |**Mr Billy Chew**<br>SH/Math  |  |
+|  **Mr Kendrick Tan**<br>SH/Ed-Tech |**Mr Vinod Kumar**<br>SH/Biology &amp; Lower Sec Science|**Mr Billy Chew**<br>SH/Math  |  |
 |   |   |   |
 
 <br clear="left">
