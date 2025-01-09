@@ -13,10 +13,9 @@ Device (PLD).</p>
 S1 2025. The device comes with 3 years of warranty and insurance coverage
 and includes the following accessories; Logitech Rugged Combo 4 (casing
 &amp; keyboard) and Apple Pencil (USB-C).</p>
-<p>Please complete the application form through the FormSG link provided
-through Parents Gateway or you may click <a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">here</a> by <strong><u>17 January 2025</u></strong> to
-ensure that the procurement process could go according to schedule. <strong>When filling up the form, please ensure you enter your child's/ward's full name, NRIC and class correctly.</strong>
-</p>
+<p>Please acknowledge the Parental Consent for the Purchase of PLD through
+PG notification by <strong><u>17 January 2025</u></strong> to ensure that
+the procurement process could go according to schedule.</p>
 <p>The school encourages parents to authorise the option for students to
 collect the device, so that your child/ward can collect it together with
 his/her classmate in school.</p>
@@ -24,34 +23,9 @@ his/her classmate in school.</p>
 <p>Should you have a change in your email address, do update it in the Parents
 Gateway(PG) app. Information on the registration for the DMA will be sent
 via PG&nbsp; on a later date.</p>
-<h4><strong>Important Actions For Parents (Sec 1 2025)</strong></h4>
-<p>Please complete the application form through the FormSG link provided
-through Parents Gateway or you may click <a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> by <strong><u>17 January 2025</u></strong> to
-ensure that the procurement process could go according to schedule. When
-filling up the form, please ensure you enter your child's/ward's full name,
-NRIC and class correctly.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Intent to Purchase PLD</p>
-</li>
-<li>
-<p>Edusave Withdrawal</p>
-</li>
-<li>
-<p>Authorisation to collect PLD</p>
-</li>
-</ul>
-<p>Parents/Guardians without a Singpass account may request for a hardcopy
-letter from your child’s/ward’s Form Teacher or from the school’s General
-Office.</p>
-<p>The school encourages parents to authorise the option for students to
-collect the device, so that your child/ward can collect it together with
-his/her classmates in school.</p>
-<p>Should you have a change in your email address, do update it in the Parents
-Gateway(PG) app. Information on the registration for the DMA will be sent
-via PG&nbsp; on a later date.&nbsp;
-<br>
+<p>For more information, please visit <a href="https://www.bukitviewsec.moe.edu.sg/our-distinctives/pdlp/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
+<p></p>
 <h4><strong>Financial Assistance</strong></h4>
 <p>Subsidies are available to students who require financial assistance.
 Singapore Citizens who are already on MOE FAS or School-based FAS will
