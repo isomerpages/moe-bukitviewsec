@@ -49,14 +49,14 @@ variant: markdown
 |   |   |   |
 
 
-<img src="/images/Key%20Personel%20Photos/Ms_Chun_Kai_Xin.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/Mr_Lim_Swee_Beng.jpg" style="width:30%;margin-right:15px;" align="left">
-<img style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Key%20Personel%20Photos/Ms_Chun_Kai_Xin.jpg" style="width:30%;margin-right:30px;" align="left">
+<img src="/images/Mr_Lim_Swee_Beng.jpg" style="width:30%;margin-right:20px;" align="left">
+<img style="width:30%;margin-right:20 px;" align="">
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-| **Ms Chun Kai XIn**<br>HOD/ MT Languages  | **Mr Lim Swee Beng** <br> SH/ Chinese Language |  |
+| **Ms Chun Kai XIn**<br>HOD/ MT Languages  | **Mr Lim Swee Beng** <br> SH/ Chinese Language |  
 |   |   |   |
 
 <img src="/images/Key%20Personel%20Photos/elamaran.jpg" style="width:30%;margin-right:15px;" align="left">
