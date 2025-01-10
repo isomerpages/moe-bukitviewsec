@@ -48,6 +48,17 @@ variant: markdown
 | **Mrs Nalini Ram**<br>HOD/Humanities  | **Mr Kevin Loh** <br> HOD/Student Management |  **Mr Lee Jia Hao** <br> Year Head |
 |   |   |   |
 
+
+<img src="/images/Key%20Personel%20Photos/Ms_Chun_Kai_Xin.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Key%20Personel%20Photos/Mr_Lim_Swee_Beng.jpg" style="width:30%;margin-right:15px;" align="left">
+<img style="width:30%;margin-right:15px;" align="left">
+<br clear="left">
+
+|   |   |   
+|---|---|
+| **Ms Chun Kai XIn**<br>HOD/ MT Languages  | **Mr Lim Swee Beng** <br> SH/ Chinese Language |   |
+|   |   |   
+
 <img src="/images/Key%20Personel%20Photos/elamaran.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/Key%20Personel%20Photos/muhd%20fadly.jpg" style="width:30%;margin-right:15px;" align="left"> 
 <img src="/images/Key%20Personel%20Photos/felix%20wong.jpg" style="width:30%;margin-right:15px;" align="left">
