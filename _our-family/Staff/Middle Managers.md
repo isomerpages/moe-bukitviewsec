@@ -56,7 +56,7 @@ variant: markdown
 
 |   |   |   |
 |---|---|---|
-| **Ms Chun Kai XIn**<br>HOD/ MT Languages  | **Mr Lim Swee Beng** <br> SH/ Chinese Language |  
+| **Ms Chun Kai XIn**<br>HOD/ MT Languages  | **Mr Lim Swee Beng** <br> SH/ Chinese Language |  |
 |   |   |   |
 
 <img src="/images/Key%20Personel%20Photos/elamaran.jpg" style="width:30%;margin-right:15px;" align="left">
