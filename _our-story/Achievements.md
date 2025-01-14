@@ -7,6 +7,28 @@ variant: markdown
 ## Achievements
 
 
+### O and N Level Achievements 
+
+#### GCE ‘O’ Level 2024
+Congratulations to the GCE ‘O’ Level class of 2024 on your outstanding achievements. 
+* 66.7% eligible for JC
+* 96.7% eligible for Poly
+
+Special Mention 
+* 16 Bukit Viewans with 6 Distinctions or more 
+* 32 Bukit Viewans with 4 or more Distinctions
+
+#### GCE ‘N’ Level 2024
+Congratulations to the GCE ‘N’ level class of 2024 on your outstanding achievements.
+
+Special Mention
+* 7 Bukit Viewans qualifying for PFP.
+* 16 Bukit Viewans with 3 or more Distinctions
+
+
+
+
+
 #### SCDF Award&nbsp;for saving a man's life
 
 We are proud of Darryl Lee (4D 2021) who raced as a first responder to someone who just had a heart attack.&nbsp;
