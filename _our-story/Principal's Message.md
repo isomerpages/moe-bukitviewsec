@@ -20,7 +20,7 @@ As the BVSS Brand turns 39 this year, we stride forward to nurture every learner
 
 
 *Bukit View, the Place to Be*<br>
-*New Heights We Scale Everyday*
+*Building Vistas Sowing Success*
 
 Mr Jaswant Singh <br>
 Principal<br>
