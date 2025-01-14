@@ -10,6 +10,7 @@ variant: markdown
 ### O and N Level Achievements 
 
 #### GCE ‘O’ Level 2024
+![](/images/Achievements/O_Level.jpg)
 Congratulations to the GCE ‘O’ Level class of 2024 on your outstanding achievements. 
 * 66.7% eligible for JC
 * 96.7% eligible for Poly
@@ -19,6 +20,7 @@ Special Mention
 * 32 Bukit Viewans with 4 or more Distinctions
 
 #### GCE ‘N’ Level 2024
+![](/images/Achievements/N_Level.jpg)
 Congratulations to the GCE ‘N’ level class of 2024 on your outstanding achievements.
 
 Special Mention
