@@ -45,7 +45,7 @@ unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<p><strong>OVERVIEW OF BUKIT VIEW SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong>
+<p><strong>OVERVIEW OF BUKIT VIEW SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -83,15 +83,19 @@ Education lessons, secondary students will have the opportunity to develop
 a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>At BUKIT VIEW Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>At Bukit View Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Sexual Education/MOE.jpg">
 </div>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons</strong>
 </p>
 <h4><strong>SECONDARY 1</strong></h4>
+<p><strong>Secondary 1</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -116,11 +120,14 @@ which are of prime concern at this age.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
-<br>At the end of the lesson, students will be able to:</p>
+</p>
+<p>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
-<br>(e.g.Term 1 Week 2)</p>
+</p>
+<p><strong>(e.g.Term 1 Week 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -130,8 +137,8 @@ which are of prime concern at this age.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Steady or Not
-<br>Lesson 1</p>
+<p>Steady or Not</p>
+<p>Lesson 1</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,14 +158,14 @@ are reflective of our values and principles</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there
 are different forms of love (e.g. familial, platonic, romantic love)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance
-and understand what builds healthy and supportive relationships, both online
-and offline</p>
+of, and understand what builds healthy and supportive relationships, both
+online and offline</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what dating
 is, and recognise that the readiness and interest in dating vary among
 individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -172,19 +179,19 @@ individuals</p>
 sexual grooming and on respecting one’s right to safety. Students will
 also learn about the legal provisions against sexual abuse, and the impact
 of sexual abuse on victims, including the psychological impact on the sense
-of self.&nbsp;
-<br>
-<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+of self.&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;understand that physical and psychological abuse from
-others, especially those we know and trust, can have strong negative effects
-on a person’s self-concept</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that physical
+and psychological abuse from others, especially those we know and trust,
+can have strong negative effects on a person’s self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -200,13 +207,15 @@ will gain awareness of the health, legal and moral issues related to viewing,
 downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
 will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
+<p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;understand and accept that as we work towards becoming our best
-self, there will be times when we make mistakes, and recognise the importance
-of exercising moral courage in facing up to consequences</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand and accept
+that as we work towards becoming our best self, there will be times when
+we make mistakes, and recognise the importance of exercising moral courage
+in facing up to consequences</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there
 are moral and legal consequences of risky sexual behaviours, pornography
 access and acting irresponsibly or maliciously when online (e.g. spreading
@@ -250,7 +259,8 @@ of online falsehoods, flouting copyright laws, etc.)</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p>(e.g.Term 1 Week 2)</p>
+<p><strong>(e.g.Term 1 Week 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -269,13 +279,14 @@ stereotypes are (e.g. males traditionally as breadwinners and females traditiona
 as doing household chores) and how gender stereotypes are formed. &nbsp;Students
 will discuss how one’s understanding of gender roles should not be limited
 by gender stereotypes, for example women can be pilots, while men can be
-nurses.
-<br>
-<br>Students learn to focus on their personal strengths to pursue their interests
+nurses.</p>
+<p>&nbsp;</p>
+<p>Students learn to focus on their personal strengths to pursue their interests
 and build their self- confidence.</p>
-<p>&nbsp;Students will also learn about the definitions of biological sex,
-gender identity, gender expression and sexual orientation. They will learn
-to treat everyone with respect and empathy.</p>
+<p>&nbsp;</p>
+<p>Students will also learn about the definitions of biological sex, gender
+identity, gender expression and sexual orientation. They will learn to
+treat everyone with respect and empathy.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -287,7 +298,7 @@ of one’s own unique qualities and characteristics as a male or female</p>
 orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -302,9 +313,9 @@ It emphasises the need for help-seeking, peer support and positive peer
 influence. The lesson encourages the safe and responsible use of social
 media, and aims to deepen students’ conviction, and extend a call to action
 to students to taking appropriate decisions to safeguard their well-being
-and safety.
-<br>
-<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+and safety.</p>
+<p>&nbsp;</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -314,7 +325,7 @@ situations and the importance of exercising discretion to reduce risks
 and avoid negative consequences, both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -331,7 +342,6 @@ This lesson emphasises the importance of responsible decision-making, the
 value of sexual abstinence, the need for help seeking. Students will be
 aware of Singapore laws protecting minors, such as the legal consequences
 of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of self-respect
@@ -341,12 +351,11 @@ risky situations and the importance of exercising discretion to reduce
 risks and avoid negative consequences, both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 </tbody>
 </table>
-<hr>
 <h4><strong>SECONDARY 3</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -380,7 +389,8 @@ risks and avoid negative consequences, both offline and online</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p>(e.g.Term 1 Week 2)</p>
+<p><strong>(e.g.Term 1 Week 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -409,13 +419,13 @@ we interact with others and the choices we make, both online and offline</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand
 that expectations of oneself and others may differ and can affect one’s
 emotions, thoughts and behaviours</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognise
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise
 what healthy dating relationships involve and know that readiness is important
 when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -425,7 +435,7 @@ when entering into a dating relationship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
-a breakup and know that relationship building involves person emotions
+a breakup and know that relationship-building involves personal emotions
 and vulnerabilities, and changes and challenges. Students will also learn
 that a decision to end a relationship will have consequences on oneself
 and others, and that grief and loss due to rejections and broken relationships
@@ -449,7 +459,7 @@ are healthy ways of coping with broken relationships, and family and friends
 are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -470,21 +480,21 @@ also learn that sexting, voyeurism and other related sexual offences are
 never justifiable and they can seek help in times of need.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognise the importance
-of being informed of social and moral issues of the day and the need to
-reflect on these issues, and weigh them against our own moral standpoints
-as we form our perspectives about them</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;understand that we strengthen
-our character when we commit to sound values-based viewpoints (e.g. respect
-for life) and decisions, and speak and act in alignment with our beliefs</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+recognise the importance of being informed of social and moral issues of
+the day and the need to reflect on these issues, and weigh them against
+our own moral standpoints as we form our perspectives about them</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+understand that we strengthen our character when we commit to sound values-based
+viewpoints (e.g. respect for life) and decisions, and speak and act in
+alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 1</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
-<hr>
 <h4><strong>SECONDARY 4</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -516,7 +526,8 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p>(e.g.Term 1 Week 2)</p>
+<p><strong>(e.g.Term 1 Week 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -528,20 +539,14 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson aims to help students think critically about gender stereotypes
-that exist in our society in the contexts of career and family (e.g. males
-typically perceived as main breadwinners and females typically perceived
-as main caregivers in the family), and the impact of these stereotypes
-on individuals. Students will learn to be aware of possible gender stereotypes
-that may affect one’s family and future decisions. They will also learn
-to reframe their perspectives and not judge others based on their own or
-others’ values and principles, with regard to gender stereotypes.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</a>
+</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;understand what gender stereotypes
-comprise, e.g. notions of masculinity and femininity vary over time and
-space, and are shaped by societal expectations</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what gender
+stereotypes comprise, e.g. notions of masculinity and femininity vary over
+time and space, and are shaped by societal expectations</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that imposing gender
 stereotypes on oneself and others can limit one’s experiences, cause harm
 to the self-esteem of oneself and others and should be avoided</p>
@@ -549,7 +554,7 @@ to the self-esteem of oneself and others and should be avoided</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -577,16 +582,16 @@ pillars of support</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise emotions caused
 by traumatic situations, e.g. bullying, abuse and dating violence, and
 understand the physiological and psychological, social impact on victims</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;understand that we need moral
-courage and wisdom to recognise and end relationships that are unhealthy
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we need
+moral courage and wisdom to recognise and end relationships that are unhealthy
 and cause harm to our mental and emotional well-being</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;understand the importance of
-ensuring that non-verbal messages match with verbal ones, when communicating
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand the importance
+of ensuring that non-verbal messages match with verbal ones, when communicating
 personal and emotional boundaries in a relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -596,14 +601,12 @@ personal and emotional boundaries in a relationship</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson focuses on building a positive relationship with one’s partner
-in a marriage. Students will understand that while a marriage, defined
-in Singapore as a union between a man and a woman, requires mutual commitment
-and effort like the other relationships in their lives, what sets a marriage
-apart is its lifelong commitment. Students will learn that what really
-matters to sustain and maintain a long-term romantic relationship leading
-to marriage is understanding the other person’s perspective and effectively
-communicating with each other.&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment.</a>
+</p>
+<p>&nbsp;Students will learn that what really matters in &nbsp;sustaining
+and maintaining a long-term romantic relationship that leads to marriage,
+is understanding the other person’s perspective and effectively communicating
+with each other.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that long-term
@@ -618,7 +621,7 @@ a couple handles conflict is critical to the success of their marriage</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -645,7 +648,7 @@ that we strengthen our character when we commit to sound values-based viewpoints
 our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 </tbody>
@@ -682,7 +685,8 @@ our beliefs</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p>(e.g.Term 1 Week 2)</p>
+<p><strong>(e.g.Term 1 Week 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -705,12 +709,12 @@ in consideration of the well-being of themselves and others.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; understand that we strengthen our character
-when we commit to sound values-based viewpoints (e.g. respect for life)
-and decisions, and speak and act in alignment with our beliefs</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we strengthen
+our character when we commit to sound values-based viewpoints (e.g. respect
+for life) and decisions, and speak and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 6</p>
 </td>
 </tr>
 </tbody>
@@ -730,7 +734,10 @@ to sex and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
 family values are the key messages.</p>
-<p><strong>At Bukit View Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<p></p>
+<p><strong>At Bukit View Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
+</p>
+<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -751,12 +758,13 @@ family values are the key messages.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p>(e.g. Term 3 Week 9)</p>
+<p><strong>(e.g. Term 3 Week 9)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and
@@ -768,7 +776,7 @@ faithful, correct, and consistent condom use).</p>
 healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -782,12 +790,14 @@ decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Information for Parents</strong>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;Information for Parents</strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary
