@@ -179,11 +179,11 @@ individuals</p>
 sexual grooming and on respecting one’s right to safety. Students will
 also learn about the legal provisions against sexual abuse, and the impact
 of sexual abuse on victims, including the psychological impact on the sense
-of self.&nbsp;</p>
-<p>&nbsp;</p>
+of self.&nbsp;
+<br>
+</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that physical
@@ -282,9 +282,8 @@ by gender stereotypes, for example women can be pilots, while men can be
 nurses.</p>
 <p>&nbsp;</p>
 <p>Students learn to focus on their personal strengths to pursue their interests
-and build their self- confidence.</p>
-<p>&nbsp;</p>
-<p>Students will also learn about the definitions of biological sex, gender
+and build their self- confidence.
+<br>Students will also learn about the definitions of biological sex, gender
 identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
 <p>&nbsp;</p>
@@ -317,7 +316,6 @@ and safety.</p>
 <p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky
@@ -410,7 +408,6 @@ well-being as well as relationships with others. Students will also learn
 how emotional reactions can affect relationships positively or negatively.
 Students will also learn that maturity and readiness are important when
 entering into a dating relationship.&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that
@@ -442,7 +439,6 @@ and others, and that grief and loss due to rejections and broken relationships
 is normal and that one can recover from the experience. They will learn
 that there are healthy ways of coping with breakdowns in relationships
 and that family and friends are important pillars of support.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that
@@ -539,8 +535,14 @@ alignment with our beliefs</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</a>
-</p>
+<p>This lesson aims to help students think critically about gender stereotypes
+that exist in our society in the contexts of career and family (e.g. males
+typically perceived as main breadwinners and females typically perceived
+as main caregivers in the family), and the impact of these stereotypes
+on individuals. Students will learn to be aware of possible gender stereotypes
+that may affect one’s family and future decisions. They will also learn
+to reframe their perspectives and not judge others based on their own or
+others’ values and principles, with regard to gender stereotypes.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -555,6 +557,7 @@ to the self-esteem of oneself and others and should be avoided</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 6</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -601,12 +604,16 @@ personal and emotional boundaries in a relationship</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment.</a>
-</p>
-<p>&nbsp;Students will learn that what really matters in &nbsp;sustaining
-and maintaining a long-term romantic relationship that leads to marriage,
-is understanding the other person’s perspective and effectively communicating
-with each other.&nbsp;</p>
+<p>This lesson focuses on building a positive relationship with one’s partner
+in a marriage. Students will understand that while a marriage, defined
+in Singapore as a union between a man and a woman, requires mutual commitment
+and effort like the other relationships in their lives, what sets a marriage
+apart is its lifelong commitment.</p>
+<p></p>
+<p>Students will learn that what really matters in &nbsp;sustaining and maintaining
+a long-term romantic relationship that leads to marriage, is understanding
+the other person’s perspective and effectively communicating with each
+other.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that long-term
