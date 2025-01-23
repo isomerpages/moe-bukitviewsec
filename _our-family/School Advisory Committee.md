@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /our-family/sac/
 description: ""
+variant: markdown
 ---
 ## School Advisory Committee
 
@@ -17,9 +18,8 @@ The SAC consists of:
 |---|---|
 | Mr Lim Boon Lye  | Chairman  |
 |  Mr Jaswant Singh | Secretary  |
-|  Ms Chua Ann Hee | Member  |
-|  Dr Jonathan Loh | Member  |
 |  Mr Ong Chai | Member  |
-|  Mr Russel Low | Member  |
-| Mr Sam Pang  |  Member |
-|   |   |
+|  Dr Jonathan Loh Yuin Han | Member  |
+|  Mdm Chua Ann Hee | Member  |
+| Mr Eric Poh Kuan Heng  |  Member |
+| Dr Kevin Lee Yang Pin   | Member  |
