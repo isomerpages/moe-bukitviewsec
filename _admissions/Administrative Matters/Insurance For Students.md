@@ -26,7 +26,7 @@ by NTUC Income upon verification and approval of the claim.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Admin Matters/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet Year 2024</a></strong>
+<p><strong><a href="/files/Admin Matters/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet Year 2025</a></strong>
 </p>
 </li>
 </ul>
