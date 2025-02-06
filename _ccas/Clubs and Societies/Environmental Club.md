@@ -35,14 +35,14 @@ The Environmental Club was formally started in 2005. We are a group of students 
 
 |Day(s)   |  Time |
 |---|---|
-| Friday |  2:40 pm – 5:30 pm |
+| Wednesday  |  2:40 pm – 5:40 pm |
 |   |   |
 
 #### TEACHERS-IN-CHARGE
-| | |
-| --- | --- |
-|Mrs Toh Kai Poh  | Miss Chun Kai Xin |
-| | |
+| | | |
+| --- | --- | --- |
+|Mr Johnny Tan Chong Han |Ms Ang Kim Leng | Mr Vinod Kumar S/O Rajasegaran |
+| | | |
 
 #### HIGHLIGHT OF THE YEAR
 
