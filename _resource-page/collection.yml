@@ -2,5 +2,4 @@ collections:
   resource-page:
     output: true
     order:
-      - CCA Training Timetable 2025.md
       - Year End Sales of Textbooks & Uniform Schedule In School.md
