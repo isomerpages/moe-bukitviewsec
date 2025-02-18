@@ -51,12 +51,13 @@ variant: markdown
 
 <img src="/images/Key%20Personel%20Photos/Ms_Chun_Kai_Xin.jpg" style="width:30%;margin-right:30px;" align="left">
 <img src="/images/Mr_Lim_Swee_Beng.jpg" style="width:30%;margin-right:20px;" align="left">
+<img src="/images/Mdm_Ang_Kim_Leng.jpg" style="width:30%;margin-right:20px;" align="left">
 
 <br clear="left">
 
 |   |   |   |
 |---|---|---|
-| **Ms Chun Kai XIn**<br>HOD/ MT Languages  | **Mr Lim Swee Beng** <br> SH/ Chinese Language |   |
+| **Ms Chun Kai XIn**<br>HOD/ MT Languages  | **Mr Lim Swee Beng** <br> SH/ Chinese Language |  **Ms Ang Kim Leng** <br> SH/ Geography |
 |   |   |   |
 
 <img src="/images/Key%20Personel%20Photos/elamaran.jpg" style="width:30%;margin-right:15px;" align="left">

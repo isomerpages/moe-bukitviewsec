@@ -29,7 +29,6 @@ The Band seeks to bring out the best in all our members. Our members are given o
 | Friday  | 1:30 pm – 4:30 pm  |
 |   |   |
 
-_**Note: Secondary One members only practice on Wednesdays until they join the main band in Term 2.**_
 
 #### TEACHERS-IN-CHARGE
 
