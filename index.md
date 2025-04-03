@@ -31,10 +31,4 @@ sections:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
       id: resources
-  - infobar:
-      title: Test
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
 ---
