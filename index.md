@@ -27,10 +27,4 @@ sections:
       url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
       image: /images/bvss_23_030.jpg
       alt: Image alt text
-  - infobar:
-      title: 2025 Sec 1 Registration
-      id: infobar
-      description: For more information on 2025 Sec 1 Registration
-      button: CLICK HERE
-      url: /admissions/secondary-one-2025/sec12025/
 ---
