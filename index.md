@@ -27,16 +27,4 @@ sections:
       url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
       image: /images/bvss_23_030.jpg
       alt: Image alt text
-  - infocols:
-      title: Learn more here...
-      id: infocols
-      infoboxes:
-        - title: CONNECT WITH US
-          description: Infobox description
-        - title: BVSS STORIES
-          description: Infobox description
-        - title: ANNOUNCEMENTS AND NEWS
-          description: Infobox description
-        - title: Infobox
-          description: https://www.instagram.com/bukitviewsecondary/
 ---
