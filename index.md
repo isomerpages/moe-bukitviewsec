@@ -37,4 +37,6 @@ sections:
           description: Infobox description
         - title: ANNOUNCEMENTS AND NEWS
           description: Infobox description
+        - title: Infobox
+          description: https://www.instagram.com/bukitviewsecondary/
 ---
