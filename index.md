@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Images/webpage banner 0504.png
+      background: /images/Homepage/BVSS_Website_Cover_copy.png
       key_highlights:
         - title: JOULES (ALP)
           description: ""
