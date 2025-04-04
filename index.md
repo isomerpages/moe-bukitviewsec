@@ -18,13 +18,23 @@ sections:
         - title: Positive Education
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
-        - title: instagram
-          description: Connect with us
-          url: https://www.instagram.com/bukitviewsecondary
   - infopic:
       description: Find out more about Bukit View Sec in the WeSTories Publications
       button: Click here
       url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
       image: /images/bvss_23_030.jpg
       alt: Image alt text
+  - textcards:
+      title: "#BVSS"
+      id: textcards
+      description: Connect with us!
+      cards:
+        - title: Facebook
+          description: ""
+          linktext: Click here!
+          url: https://www.facebook.com/bukitviewsecondary/
+        - title: Instagram
+          description: ""
+          linktext: Click here!
+          url: https://www.instagram.com/bukitviewsecondary
 ---
