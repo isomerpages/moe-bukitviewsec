@@ -18,12 +18,9 @@ sections:
         - title: Positive Education
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
-  - infopic:
-      description: Find out more about Bukit View Sec in the WeSTories Publications
-      button: Click here
-      url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
-      image: /images/bvss_23_030.jpg
-      alt: Image alt text
+  - resources:
+      title: BUILDING VISTAS SOWING SUCCESS
+      id: resources
   - textcards:
       title: "#BVSS"
       id: textcards
@@ -37,7 +34,10 @@ sections:
           description: ""
           linktext: Click here!
           url: https://www.instagram.com/bukitviewsecondary
-  - resources:
-      title: BUILDING VISTAS SOWING SUCCESS
-      id: resources
+  - infopic:
+      description: Find out more about Bukit View Sec in the WeSTories Publications
+      button: Click here
+      url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
+      image: /images/bvss_23_030.jpg
+      alt: Image alt text
 ---
