@@ -37,4 +37,7 @@ sections:
           description: ""
           linktext: Click here!
           url: https://www.instagram.com/bukitviewsecondary
+  - resources:
+      title: BUILDING VISTAS SOWING SUCCESS
+      id: resources
 ---
