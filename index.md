@@ -34,6 +34,10 @@ sections:
           description: ""
           linktext: Click here!
           url: https://www.instagram.com/bukitviewsecondary
+        - title: Contact Us
+          description: ""
+          linktext: Learn more
+          url: https://www.bukitviewsec.moe.edu.sg/our-story/contact-us/
   - infopic:
       description: Find out more about Bukit View Sec in the WeSTories Publications
       button: Click here
