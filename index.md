@@ -42,6 +42,6 @@ sections:
       description: Find out more about Bukit View Secondary school!
       button: Click here
       url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
-      image: /images/Homepage/BVSS_Students_in_4_boxes_copy.png
+      image: /images/Homepage/BVSS_Students_in_4_boxes.png
       alt: Image alt text
 ---
