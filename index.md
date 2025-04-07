@@ -42,6 +42,6 @@ sections:
       description: Find out more about Bukit View Sec in the WeSTories Publications
       button: Click here
       url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
-      image: /images/bvss_23_030.jpg
+      image: /images/Homepage/BVSS_Students_in_4_boxes_copy.png
       alt: Image alt text
 ---
