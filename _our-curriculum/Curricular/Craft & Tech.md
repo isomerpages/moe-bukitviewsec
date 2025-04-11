@@ -60,7 +60,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr. Sirajutheen
-<br>(Year Head)</p>
+<br>(YH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yap Xiu Feng</p>
