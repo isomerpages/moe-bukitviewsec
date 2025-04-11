@@ -164,18 +164,23 @@ and the current affairs.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Humanities/HI_1.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Humanities/HI_2.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lower secondary students listening attentively to the student guide on
+the significance of the Former Ford Factory.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students interacting with oral interviews available at the museum.</p>
 </td>
 </tr>
 </tbody>
@@ -211,10 +216,11 @@ development.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students witnessing how British soldiers planned for war with the Japanese.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students learning the significance of the Fort Gate in the defence of
+Singapore during British colonial rule.</p>
 </td>
 </tr>
 </tbody>
@@ -247,15 +253,3 @@ efforts. Their findings highlighted both the strengths and limitations
 of solutions like reverse vending machines. Based on their research, the
 team proposed improvements to enhance the functionality and accessibility
 of blue recycling bins to better serve community needs.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Department%20photos/humans3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Department%20photos/humans4.jpg">
-</div>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
