@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr John Pravin Raj</p>
+<p>Mr John Praveen Raj</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Joy Chen</p>
@@ -61,7 +61,7 @@ variant: tiptap
 <p>Mrs Susan Pang – Ong Lee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Dharani Dinesh</p>
+<p>Mr Norafiq Ismail</p>
 </td>
 </tr>
 <tr>
@@ -69,15 +69,15 @@ variant: tiptap
 <p>Ms Seah Koon Lay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Norafiq Ismail</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Gerard Nonis</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sunita Sivahnanthan</p>
+<p></p>
 </td>
 </tr>
 <tr>
