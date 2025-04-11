@@ -3,6 +3,7 @@ title: Cyber Wellness
 permalink: /our-curriculum/Co-Curricular/cyberwellness/
 description: ""
 third_nav_title: Co Curricular
+variant: markdown
 ---
 ## Cyber Wellness
 
@@ -16,6 +17,16 @@ Parents play a key role in their children’s growth. To help your child stay sa
 * Model good digital habits for your child. (e.g. not using the phone when having dinner)
 * Set ground rules for internet use.
 * Navigate the internet together to understand their usage.
+
+##### CYBER WELLNESS Resources for Parents
+
+*   [go.gov.sg/moe-cyber-wellness](https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2025/pld/go.gov.sg/moe-cyber-wellness)
+    
+*   [go.gov.sg/better-internet-sg](https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2025/pld/go.gov.sg/moe-cyber-wellness)
+    
+*   [sure.nlb.gov.sg](https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2025/pld/go.gov.sg/moe-cyber-wellness)
+    
+*   [help123.sg](https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2025/pld/go.gov.sg/moe-cyber-wellness)
 
 ##### CYBER WELLNESS SAFETY TIPS TO ALL PARENTS
 
@@ -60,4 +71,4 @@ As parents, you too can play a role in helping your child to handle or avoid cyb
  *   Stop all forms of communication and interactions with the cyber bully; and
  *   Save evidence of the cyber bullying incident and report it to the school staff.
 
-The key is to establish a strong relationship with your child. Chat with them regularly and encourage them to share about their online activities. You, too, can share your experiences in using the Internet and over time, your child will be more ready to share with you should they encounter issues in their online activities.  
+The key is to establish a strong relationship with your child. Chat with them regularly and encourage them to share about their online activities. You, too, can share your experiences in using the Internet and over time, your child will be more ready to share with you should they encounter issues in their online activities.
