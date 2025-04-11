@@ -153,7 +153,9 @@ knowledge and be future-ready citizens who are concerned about sustainability
 and the current affairs.</p>
 <p></p>
 <h4>Key Programmes</h4>
+<blockquote>
 <h4><strong><u>History</u></strong></h4>
+</blockquote>
 <p>Historical Investigation (HI) at Bukit View Secondary School transforms
 traditional historical inquiry into an engaging, experiential learning
 journey. Through a four-stage approach of asking questions, gathering data,
@@ -175,7 +177,9 @@ places, students form meaningful connections with the subject matter, transformi
 knowledge learnt in class into tangible understanding and cultivating a
 genuine appreciation for how humanities shape our modern world.</p>
 <p></p>
+<blockquote>
 <h4><strong><u>Geography</u></strong></h4>
+</blockquote>
 <p>Students in Secondary 1 and 2 take part in Geographical Investigation
 (GI), where they collect and analyse data related to their surroundings
 within and beyond Bukit Batok. These field-based inquiries are enhanced
