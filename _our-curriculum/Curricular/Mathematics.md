@@ -70,13 +70,24 @@ appreciating the relevance of Mathematics in their lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Lee Jia Hao (YH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Billy Chew (SH/Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Joshua Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Liu Sijian (ST)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhd Na'im Bin Sa'dollah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joshua Tan</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -140,6 +151,17 @@ appreciating the relevance of Mathematics in their lives.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gopi Krishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Faye Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
