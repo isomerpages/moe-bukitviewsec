@@ -156,6 +156,30 @@ and the current affairs.</p>
 <blockquote>
 <h4><strong><u>History</u></strong></h4>
 </blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Historical Investigation (HI) at Bukit View Secondary School transforms
 traditional historical inquiry into an engaging, experiential learning
 journey. Through a four-stage approach of asking questions, gathering data,
@@ -167,6 +191,30 @@ develop essential communication and teamwork skills while building digital
 literacy through Google Workspace platforms. This comprehensive approach
 ensures both immediate educational impact and valuable long-term skills
 development.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Our students also participate in Learning journeys which serve as valuable
 educational experiences that bridge the gap between classroom learning
 and real-world applications. By visiting significant places and engaging
