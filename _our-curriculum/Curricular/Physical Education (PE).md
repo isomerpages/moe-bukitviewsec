@@ -14,7 +14,7 @@ variant: markdown
 |   |   |
 |---|---|
 |  **Head of Department:** | Mr Chin Wey Thur  |
-| Mr Felix Wong |  Mr Elamaran |
+| Mr Felix Wong (DM) |  Mr Elamaran (DM) |
 |  Mrs Susan Pang | Mr Koh Si Yao  |
 |  Mdm Elke Cheong  |   |
 ||
