@@ -245,6 +245,26 @@ by digital tools to promote self-directed and experiential learning.</p>
 <p>Our students also participate in national and inter-school platforms to
 further develop their geographical thinking. In 2024, they achieved a Bronze
 Award in the NUS Geography Challenge.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Humanities/Geo_comp_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Humanities/Geo_comp_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>In the International Humanities Symposium at NJC, a team of students investigated
 how technology and artificial intelligence can improve domestic recycling
 in Singapore. Through interviews and surveys conducted in the Bukit Batok
