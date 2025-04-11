@@ -153,15 +153,45 @@ knowledge and be future-ready citizens who are concerned about sustainability
 and the current affairs.</p>
 <p></p>
 <h4>Key Programmes</h4>
-<p><strong>Geographical Investigation</strong> 
-<br>Geographical Investigation allows students to have authentic learning
-experiences. Students are exposed to a variety of methods of data collection
-and analysis, allowing them to dive deep into exploring the themes and
-issues in their Geography curricula. Secondary 1 and 2 Bukit Viewans explore
-Bukit Batok’s nature parks and the neighbourhood, while Secondary 4 students
-venture out to Gardens by the Bay to examine tourism facilities. Our Geography
-team also leverages on 360° photographs and interactive maps to complement
-students’ field experience.</p>
+<h4><strong><u>History</u></strong></h4>
+<p>Historical Investigation (HI) at Bukit View Secondary School transforms
+traditional historical inquiry into an engaging, experiential learning
+journey. Through a four-stage approach of asking questions, gathering data,
+analysing sources, and drawing conclusions, students investigate significant
+historical events through museums visits and digital archives. The programme
+encourages creative expression through innovative assessments like comic
+strips and collective diaries. Through collaborative project work, students
+develop essential communication and teamwork skills while building digital
+literacy through Google Workspace platforms. This comprehensive approach
+ensures both immediate educational impact and valuable long-term skills
+development.</p>
+<p>Our students also participate in Learning journeys which serve as valuable
+educational experiences that bridge the gap between classroom learning
+and real-world applications. By visiting significant places and engaging
+with authentic environments, students develop a deeper understanding of
+how humanities subjects like geography, history, and social studies intersect
+with their everyday lives. Through such immersive encounters with significant
+places, students form meaningful connections with the subject matter, transforming
+knowledge learnt in class into tangible understanding and cultivating a
+genuine appreciation for how humanities shape our modern world.</p>
+<p></p>
+<h4><strong><u>Geography</u></strong></h4>
+<p>Students in Secondary 1 and 2 take part in Geographical Investigation
+(GI), where they collect and analyse data related to their surroundings
+within and beyond Bukit Batok. These field-based inquiries are enhanced
+by digital tools to promote self-directed and experiential learning.</p>
+<p>Our students also participate in national and inter-school platforms to
+further develop their geographical thinking. In 2024, they achieved a Bronze
+Award in the NUS Geography Challenge.</p>
+<p>In the International Humanities Symposium at NJC, a team of students investigated
+how technology and artificial intelligence can improve domestic recycling
+in Singapore. Through interviews and surveys conducted in the Bukit Batok
+area, they analysed local recycling behaviours and reviewed international
+efforts. Their findings highlighted both the strengths and limitations
+of solutions like reverse vending machines. Based on their research, the
+team proposed improvements to enhance the functionality and accessibility
+of blue recycling bins to better serve community needs.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/Department%20photos/humans3.jpg">
 </div>
@@ -170,69 +200,5 @@ students’ field experience.</p>
 </div>
 <p>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 </p>
-<p><strong>Historical Investigation</strong> 
-<br>Historical Investigation (HI) in Bukit View is designed to create authentic
-learning experiences for students in their inquiry of significant historical
-events. The four stages of Historical Inquiry (Asking questions, Gathering
-Data, Analysing sources, Drawing conclusions) come alive in HI, where students
-visit the National Museum of Singapore (NMS) to interact with historical
-sources. HI also taps on alternative assessments such as the creation of
-comics strips or collective diary to allow the outflow of students’ creativity
-as they demonstrate their understanding of historical events and concepts.
-In Bukit View, we also leverage on the use of virtual reality and Google
-Classroom to increase students’ interests and deepen their understanding
-of history.</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/2022 Humanities 10.jpeg">
-</div>
-<p>
-<br>
-</p>
-<p><strong>Learning Journeys</strong> 
-<br>Through the various learning journeys, Bukit Viewans also have the opportunity
-to see the relevance of Humanities to the real world. Visits to Parliamentary
-Sittings for example allow Bukit Viewans to understand the functions and
-roles of a government. Our overseas learning journeys also seek to allow
-students to have authentic learning experiences of History and Geography
-beyond what is offered in Singapore.</p>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/2022 Humanities 7.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/2022 Humanities 9.jpeg">
-</div>
-<p>
-<br>
-<br>
-</p>
-<p>
-<br>
-<br>
-<br>
-</p>
-<h4>Achievements</h4>
-<p>Given the robust Humanities learning experiences offered, Bukit Viewans
-have been performing well in the various fields of Humanities. In 2022
-for example, our students attained the Bronze Medal Award for the Individual
-Component of the NUS Geography Challenge. Students also actively participate
-and present in Model United Nations Conferences where they engage in &nbsp;discussions
-on current affairs with like-minded students from other schools.</p>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Department%20photos/humans1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Department%20photos/humans2.jpg">
-</div>
 <p></p>
