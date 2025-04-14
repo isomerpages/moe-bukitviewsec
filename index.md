@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Images/bvss_website.png
+      background: /images/School_Website_Mainpage_bigger_no_sky_and_with_vision.png
       key_highlights:
         - title: JOULES (ALP)
           description: ""
