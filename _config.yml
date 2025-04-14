@@ -3,7 +3,7 @@ url: https://bukitviewsec.moe.edu.sg
 favicon: /images/Bukit_View_Secondary_School_logo.png
 colors:
   primary-color: "#f5cd23"
-  secondary-color: "#152b99"
+  secondary-color: "#0e1e6e"
   media-colors:
     - title: media-color-one
       color: "#f8df88"
