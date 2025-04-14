@@ -2,13 +2,13 @@ title: Bukit View Secondary School
 url: https://bukitviewsec.moe.edu.sg
 favicon: /images/Bukit_View_Secondary_School_logo.png
 colors:
-  primary-color: "#2b2865"
-  secondary-color: "#2b2865"
+  primary-color: "#f5cd23"
+  secondary-color: "#f8c81c"
   media-colors:
     - title: media-color-one
-      color: "#345d05"
+      color: "#26245b"
     - title: media-color-two
-      color: "#417505"
+      color: "#282765"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
