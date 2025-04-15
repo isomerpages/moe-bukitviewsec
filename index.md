@@ -22,6 +22,7 @@ sections:
   - resources:
       id: resources
       subtitle: BUILDING VISTAS SOWING SUCCESS
+      title: BUILDING VISTAS SOWING SUCCESS
   - textcards:
       title: "#BVSS"
       id: textcards
