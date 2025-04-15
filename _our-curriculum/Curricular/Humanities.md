@@ -242,6 +242,26 @@ genuine appreciation for how humanities shape our modern world.</p>
 (GI), where they collect and analyse data related to their surroundings
 within and beyond Bukit Batok. These field-based inquiries are enhanced
 by digital tools to promote self-directed and experiential learning.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Humanities/GI_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department photos/Humanities/GI_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Our students also participate in national and inter-school platforms to
 further develop their geographical thinking. In 2024, they achieved a Bronze
 Award in the NUS Geography Challenge.</p>
