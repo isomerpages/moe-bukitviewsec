@@ -159,7 +159,6 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 </tbody>
 </table>
 <hr>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
