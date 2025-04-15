@@ -20,8 +20,8 @@ sections:
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
       variant: image
   - resources:
-      title: BUILDING VISTAS                               SOWING SUCCESS
       id: resources
+      subtitle: BUILDING VISTAS SOWING SUCCESS
   - textcards:
       title: "#BVSS"
       id: textcards
