@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<h2>Parent Support Group </h2>
+<h2></h2>
+<h2>Parent Support Group</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Parent/PSG_logo.png">
+</div>
 <p></p>
 <h3><strong><u>BVSS PSG ROLES</u></strong></h3>
 <table style="minWidth: 75px">
@@ -100,7 +104,9 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/parenting_WS_1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
