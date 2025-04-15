@@ -21,7 +21,6 @@ sections:
       variant: image
   - resources:
       id: resources
-      subtitle: Bukit View Secondary school
       title: BUILDING VISTAS SOWING SUCCESS
   - textcards:
       title: "#BVSS"
