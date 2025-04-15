@@ -267,7 +267,8 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T1</p>
+<p><strong>T1</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parent Engagement Session</p>
@@ -278,7 +279,8 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>T2</p>
+<p><strong>T2</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>BVSS Cross Country</p>
@@ -294,7 +296,8 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T3</p>
+<p><strong>T3</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Teachers’ Day Appreciation Lunch</p>
@@ -311,7 +314,8 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>T4</p>
+<p><strong>T4</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Study Night Snacks Support</p>
