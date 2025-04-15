@@ -329,7 +329,12 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 </tbody>
 </table>
 <hr>
-<h4>Keep In Touch!</h4>
+<h4><strong>Join BVSS Parent Support Group (PSG) today!</strong></h4>
+<p>Be part of the team that help bring out the best in your child’s secondary
+school experience. Scan the QR code and complete the form to be a member
+of the PSG. (<em>* PSG members are also part of a PSG WhatsApp chat group where parents can connect with other parents and share resources.)</em>
+</p>
+<p></p>
 <p>Follow us on Facebook:&nbsp;<a href="https://www.facebook.com/BukitViewSecondaryPSG" rel="noopener noreferrer nofollow" target="_blank">Bukit View Secondary PSG</a> 
 <br>Find us on Instagram:&nbsp;<a href="https://www.instagram.com/bukitviewsecpsg" rel="noopener noreferrer nofollow" target="_blank">@bukitviewsecpsg</a> 
 <br>Email us:&nbsp;<a href="mailto:psgbvss@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psgbvss@gmail.com</a>
