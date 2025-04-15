@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School_Website_Mainpage_with_colourful_vision_smaller_v9.png
+      background: /images/School_Website_Mainpage_with_colourful_vision_smaller_v10.png
       key_highlights:
         - title: JOULES (ALP)
           description: ""
