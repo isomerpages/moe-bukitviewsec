@@ -335,6 +335,9 @@ school experience. Scan the QR code and complete the form to be a member
 of the PSG. (<em>* PSG members are also part of a PSG WhatsApp chat group where parents can connect with other parents and share resources.)</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parent/QR_code.png">
+</div>
 <p>Follow us on Facebook:&nbsp;<a href="https://www.facebook.com/BukitViewSecondaryPSG" rel="noopener noreferrer nofollow" target="_blank">Bukit View Secondary PSG</a> 
 <br>Find us on Instagram:&nbsp;<a href="https://www.instagram.com/bukitviewsecpsg" rel="noopener noreferrer nofollow" target="_blank">@bukitviewsecpsg</a> 
 <br>Email us:&nbsp;<a href="mailto:psgbvss@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psgbvss@gmail.com</a>
