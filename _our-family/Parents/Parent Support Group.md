@@ -99,7 +99,7 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>Parenting Workshops </strong></h4>
+<h4><strong>Parenting Workshops</strong></h4>
 </th>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong> Motivating your kid to succeed</strong>
+<p><strong>Motivating your kid to succeed</strong>
 </p>
 </td>
 </tr>
@@ -260,30 +260,75 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 </table>
 <hr>
 <h4><strong>BVSS PSG Activities</strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>T1</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parent Engagement Session</p>
+</li>
+<li>
+<p>School Leaders Engagement &amp; Parenting Workshop 1 (Coaching for Parents)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>T2</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>BVSS Cross Country</p>
+</li>
+<li>
+<p>Parenting Workshop 2 (5 Love Languages)</p>
+</li>
+<li>
+<p>Forward Bound</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T3</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Teachers’ Day Appreciation Lunch</p>
+</li>
+<li>
+<p>Parenting Workshop 3 (Topic to be confirmed)</p>
+</li>
+<li>
+<p>Graduating Cohort Encouragement Board</p>
+</li>
+<li>
+<p>Study Night Snacks Support</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>T4</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Study Night Snacks Support</p>
+</li>
+<li>
+<p>Parent-Child Bonding Workshop</p>
+</li>
+<li>
+<p>BVSS Open House</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><br></h4>
-<p>
-<br>
-</p>
+<hr>
 <h4>Keep In Touch!</h4>
 <p>Follow us on Facebook:&nbsp;<a href="https://www.facebook.com/BukitViewSecondaryPSG" rel="noopener noreferrer nofollow" target="_blank">Bukit View Secondary PSG</a> 
 <br>Find us on Instagram:&nbsp;<a href="https://www.instagram.com/bukitviewsecpsg" rel="noopener noreferrer nofollow" target="_blank">@bukitviewsecpsg</a> 
