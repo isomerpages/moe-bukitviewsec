@@ -9,21 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Department%20photos/Group%20Photo/mathematics%20department.jpg">
 </div>
-<p><strong>Vision</strong>
-</p>
-<p>To inspire a love for learning Mathematics and to nurture persevering,
-diligent, and resourceful problem-solvers.</p>
-<p><strong>Mission</strong>
-</p>
-<p>To develop confident and self-directed learners.</p>
-<p>The Mathematics Department believes that everyone has the potential to
-succeed in Mathematics. Regardless of starting points, our teachers maintain
-high expectations for all students, providing support and empowerment to
-help them reach their fullest potential. Our curriculum fosters problem-solving
-abilities, digital literacy, and self-directedness, emphasizing critical
-thinking to connect mathematical concepts to real-world applications. Through
-this journey, Bukit Viewans gain mathematical confidence and competence,
-appreciating the relevance of Mathematics in their lives.</p>
+<p></p>
 <h4>Our Teachers</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -169,6 +155,22 @@ appreciating the relevance of Mathematics in their lives.</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<h4>Vision</h4>
+<p>To inspire a love for learning Mathematics and to nurture persevering,
+diligent, and resourceful problem-solvers.</p>
+<hr>
+<h4>Mission</h4>
+<p>To develop confident and self-directed learners.</p>
+<p>The Mathematics Department believes that everyone has the potential to
+succeed in Mathematics. Regardless of starting points, our teachers maintain
+high expectations for all students, providing support and empowerment to
+help them reach their fullest potential. Our curriculum fosters problem-solving
+abilities, digital literacy, and self-directedness, emphasizing critical
+thinking to connect mathematical concepts to real-world applications. Through
+this journey, Bukit Viewans gain mathematical confidence and competence,
+appreciating the relevance of Mathematics in their lives.</p>
+<hr>
 <h4>Key Programmes and Achievements</h4>
 <h6><u>S3 Math Modelling</u></h6>
 <p>Mathematical modeling uses mathematics to represent and analyze real-world
