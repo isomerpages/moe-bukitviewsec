@@ -117,37 +117,13 @@ towards human emotions and experience, while the Learning for Life Programme
 <p>The robust curriculum helps students to do well in school, post-secondary
 education and life.</p>
 <h4>Pedagogy</h4>
-<p>Enhancing English Learning and Teaching is a key approach developed in
-partnership with the Ministry of Education. This approach employs four
-teaching strategies:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Retelling</p>
-</li>
-<li>
-<p>Process Writing</p>
-</li>
-<li>
-<p>Reciprocal Teaching</p>
-</li>
-<li>
-<p>Creative, Critical and Inventive Thinking</p>
-</li>
-</ul>
-<p>Students experience student-centric lessons and take ownership of their
-learning. Information and Communications Technology is harnessed to further
-both self-directed and collaborative learning. Visible Thinking strategies
-are taught to enhance thinking disposition to enable better learning outcome.</p>
-<p>Differentiated Instruction is another key approach to maximise the potential
-of all students. Customising lessons and opportunities for students of
-similar ability ensures strong language development.</p>
-<h4>Collaboration</h4>
-<p>Enhancing English Learning and Teaching is a partnership with MOE’s English
-Language and Literature Branch. On top of being one of the pioneering schools,
-Bukit View Secondary School teachers were featured in videos for training
-teachers nationwide and in lesson study cycles culminating in an article
-for Northstar Online Publication.</p>
-<p>The National KidsRead programme sees scores of students collaborating
-with the National Library Board to read stories aloud to primary one and
-two pupils. This nationwide reading programme promotes a love for reading
-and cultivates good reading habits among young Singaporeans.</p>
+<p>To enhance the teaching and learning of the English Language, the department
+employs a range of pedagogical approaches. These include Process Writing,
+developed in collaboration with the Ministry of Education, Visible Thinking
+routines, and both self-directed and collaborative learning supported by
+Information and Communications Technology (ICT). We also emphasize peer
+assessment to promote metacognition and encourage the responsible use of
+Artificial Intelligence to support learning. Additionally, we leverage
+feedback to drive assessment for learning.</p>
+<h4>Key Programmes/ Activities</h4>
+<p></p>
