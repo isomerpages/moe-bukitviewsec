@@ -109,6 +109,7 @@ challenges and how they relate to local contexts, preparing them for an
 interconnected world.</p>
 </li>
 </ol>
+<hr>
 <h4>Mission</h4>
 <p>The Humanities Department is dedicated to empowering students to explore
 the complexities of the human experience through critical inquiry, cultural
@@ -118,6 +119,7 @@ with the world around them. By fostering critical thinking, promoting global
 awareness, and encouraging responsible citizenship, we prepare our students
 to become informed, compassionate, and active participants in a diverse
 and interconnected global society.</p>
+<hr>
 <h4>Curriculum</h4>
 <p>Our Social Studies Curriculum prepares students to be future-ready citizens
 by helping them understand Singapore’s connections with the world and the
@@ -139,6 +141,7 @@ understand and interpret the interactions between people and their environments.
 Key topics include tropical rainforests, housing, tourism, and tectonics
 and sustainable development, providing students with real-world connections
 and critical thinking opportunities.</p>
+<hr>
 <h4>Pedagogy</h4>
 <p>In Bukit View Secondary, our Humanities lessons are centred on the main
 pedagogical approach of Inquiry-Based Learning, with the teachers facilitating
@@ -151,7 +154,7 @@ and interactive story maps also enhance engagement and self-directed learning.
 We hope that Bukit Viewans will develop critical thinking skills, co-construct
 knowledge and be future-ready citizens who are concerned about sustainability
 and the current affairs.</p>
-<p></p>
+<hr>
 <h4>Key Programmes</h4>
 <blockquote>
 <h4><strong><u>History</u></strong></h4>
@@ -234,7 +237,7 @@ with their everyday lives. Through such immersive encounters with significant
 places, students form meaningful connections with the subject matter, transforming
 knowledge learnt in class into tangible understanding and cultivating a
 genuine appreciation for how humanities shape our modern world.</p>
-<p></p>
+<hr>
 <blockquote>
 <h4><strong><u>Geography</u></strong></h4>
 </blockquote>
