@@ -37,7 +37,7 @@ variant: tiptap
 <p>Mr Arthur Kok (Lead Teacher)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Fadly (SH/Lit &amp; Drama)</p>
+<p>Mr Muhammad Fadly (SH/Lit &amp; Drama)</p>
 </td>
 </tr>
 <tr>
@@ -90,6 +90,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4>Vision</h4>
+<p>We nurture students to be proficient in the English Language, who can
+wield it effectively to achieve desired outcome.</p>
+<h4>Mission</h4>
+<p>To provide the opportunity and platform to nurture empathetic communicators,
+discerning readers and creative enquirer.</p>
 <h4>Curriculum</h4>
 <p>A good command of English is vital in this shrinking interconnected global
 village. The English curriculum recognises and leverages on the usefulness
