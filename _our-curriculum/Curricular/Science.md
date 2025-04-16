@@ -134,10 +134,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>VISION:</strong>&nbsp;Creative Thinker, Passionate Learner, with
-a spirit of scientific inquiry and empathy for man and nature.
-<br><strong>MISSION:</strong>&nbsp;To inculcate pupils with relevant knowledge,
-skills and values through providing meaningful and engaging experiences.</p>
+<h4>Vision</h4>
+<p>Creative Thinker, Passionate Learner, with a spirit of scientific inquiry
+and empathy for man and nature.</p>
+<hr>
+<h4>Mission&nbsp;</h4>
+<p>To inculcate pupils with relevant knowledge, skills and values through
+providing meaningful and engaging experiences.</p>
+<hr>
 <h4>Curriculum</h4>
 <p>The Science curriculum in Bukit View is designed to inculcate students
 with relevant knowledge, skills and values through meaningful and engaging
@@ -296,6 +300,7 @@ and pure Biology)
 </tr>
 </tbody>
 </table>
+<hr>
 <h4>Pedagogy</h4>
 <p><strong>Inquiry-Based Learning</strong>
 <br>The department provide opportunities for students to enjoy Science and
