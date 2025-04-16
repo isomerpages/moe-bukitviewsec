@@ -87,6 +87,7 @@ variant: tiptap
 <h4>Mission</h4>
 <p>To provide students with Computational Thinking skills to participate
 in a rapidly changing technological environment.</p>
+<hr>
 <h4>Key Achievements and Activities</h4>
 <p><strong>Code for Fun for Secondary 1</strong> 
 <br>This programme is a set of hands-on-mind-on lessons that reinforce the
