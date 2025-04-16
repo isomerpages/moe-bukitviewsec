@@ -125,5 +125,5 @@ Information and Communications Technology (ICT). We also emphasize peer
 assessment to promote metacognition and encourage the responsible use of
 Artificial Intelligence to support learning. Additionally, we leverage
 feedback to drive assessment for learning.</p>
-<h4>Key Programmes/ Activities</h4>
+<h4>Key Programmes</h4>
 <p></p>
