@@ -134,6 +134,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h4>Vision</h4>
 <p>Creative Thinker, Passionate Learner, with a spirit of scientific inquiry
 and empathy for man and nature.</p>
