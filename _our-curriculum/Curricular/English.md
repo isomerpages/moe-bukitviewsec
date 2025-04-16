@@ -93,9 +93,11 @@ variant: tiptap
 <h4>Vision</h4>
 <p>We nurture students to be proficient in the English Language, who can
 wield it effectively to achieve desired outcome.</p>
+<hr>
 <h4>Mission</h4>
 <p>To provide the opportunity and platform to nurture empathetic communicators,
 discerning readers and creative enquirer.</p>
+<hr>
 <h4>Curriculum</h4>
 <p>A good command of English is vital in this shrinking interconnected global
 village. The English curriculum recognises and leverages on the usefulness
@@ -116,6 +118,7 @@ towards human emotions and experience, while the Learning for Life Programme
 (LLP) inculcates values through drama.</p>
 <p>The robust curriculum helps students to do well in school, post-secondary
 education and life.</p>
+<hr>
 <h4>Pedagogy</h4>
 <p>To enhance the teaching and learning of the English Language, the department
 employs a range of pedagogical approaches. These include Process Writing,
@@ -125,6 +128,7 @@ Information and Communications Technology (ICT). We also emphasize peer
 assessment to promote metacognition and encourage the responsible use of
 Artificial Intelligence to support learning. Additionally, we leverage
 feedback to drive assessment for learning.</p>
+<hr>
 <h4>Key Programmes</h4>
 <p><strong>EL and Lit Week</strong>
 </p>
