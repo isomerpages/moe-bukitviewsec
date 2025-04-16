@@ -145,11 +145,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h4>Vision</h4>
 <p>To develop culturally aware, effective bi-linguists who are confident
 and world ready.</p>
 <hr>
-<h4>Mission </h4>
+<h4>Mission</h4>
 <p>Mother Tongue Language learning provides a link to the heritage of students’
 ethnic groups, and anchors their identity in the global world. At Bukit
 View, we deepen students’ understanding and heighten their appreciation
