@@ -95,14 +95,22 @@ is unable to intervene spontaneously during the learning process.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>T2W5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Authentic Learning Week</p>
+<p>Thu, 24 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>One day scheduled for S3 (TBC)</p>
+<p>Only for S4 Express and S5N</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fri, 25 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Only for S3</p>
 </td>
 </tr>
 <tr>
@@ -110,10 +118,11 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>T2W7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 5<sup>th</sup> May</p>
+<p>Mon, 5<sup>th</sup> May<strong> (Cancelled)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S1 – 5</p>
+<p>School holiday due to polling day. No replacement day.</p>
 </td>
 </tr>
 <tr>
