@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Images/webpage banner 0504.png
+      background: /images/School_Website_Mainpage_v16.png
       key_highlights:
         - title: JOULES (ALP)
           description: ""
@@ -18,16 +18,31 @@ sections:
         - title: Positive Education
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
+      variant: image
+  - resources:
+      id: resources
+      title: BUILDING VISTAS SOWING SUCCESS
+  - textcards:
+      title: "#BVSS"
+      id: textcards
+      description: Connect with us!
+      cards:
+        - title: Facebook
+          description: ""
+          linktext: Click here!
+          url: https://www.facebook.com/bukitviewsecondary/
+        - title: Instagram
+          description: ""
+          linktext: Click here!
+          url: https://www.instagram.com/bukitviewsecondary
+        - title: Contact Us
+          description: ""
+          linktext: Click here!
+          url: https://www.bukitviewsec.moe.edu.sg/our-story/contact-us/
   - infopic:
-      description: Find out more about Bukit View Sec in the WeSTories Publications
+      description: Find out more about Bukit View Secondary school!
       button: Click here
       url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
-      image: /images/bvss_23_030.jpg
+      image: /images/Homepage/BVSS_Students_in_4_boxes.png
       alt: Image alt text
-  - infobar:
-      title: 2025 Sec 1 Registration
-      id: infobar
-      description: For more information on 2025 Sec 1 Registration
-      button: CLICK HERE
-      url: /admissions/secondary-one-2025/sec12025/
 ---

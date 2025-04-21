@@ -2,11 +2,10 @@
 title: Rimmi Kaur Dhanoa (Class of 2021)
 permalink: /our-family/Students/rimmi/
 description: ""
-third_nav_title: Students
 ---
 ## Rimmi Kaur Dhanoa (Class of 2021)
 
-<img src="/images/Rimmi Kaur Dhanoa 1.jpg" style="width:49%" align=right>
+<img src="/images/Rimmi Kaur Dhanoa 1.jpg" style="width:49%" align="right">
 
 Rimmi loves interacting with people. Thinking about her fellow Peer Support Leaders (PSLs) and Girls’ Brigade (GB) sisters, she intimates, “I am grateful for being part of an amazing family.”  
 

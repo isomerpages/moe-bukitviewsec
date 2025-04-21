@@ -9,9 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Department%20photos/Group%20Photo/computing%20department.jpg">
 </div>
-<h4>Mission</h4>
-<p>To provide students with Computational Thinking skills to participate
-in a rapidly changing technological environment.</p>
 <h4>Our Teachers</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -66,14 +63,6 @@ in a rapidly changing technological environment.</p>
 <p>Mrs Leong Wee Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Toh-Liang Kai Poh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Richard Lim Teow Huat</p>
 </td>
 </tr>
@@ -95,6 +84,10 @@ in a rapidly changing technological environment.</p>
 </tr>
 </tbody>
 </table>
+<h4>Mission</h4>
+<p>To provide students with Computational Thinking skills to participate
+in a rapidly changing technological environment.</p>
+<hr>
 <h4>Key Achievements and Activities</h4>
 <p><strong>Code for Fun for Secondary 1</strong> 
 <br>This programme is a set of hands-on-mind-on lessons that reinforce the
