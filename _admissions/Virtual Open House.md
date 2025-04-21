@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Virtual Open House</h2>
 <h4>BVSS Stories</h4>
-<p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/bvss_westories.pdf"><img style="width: 100%" height="auto" width="100%" alt="files/bvss_westories.pdf" src="/images/Admissions/Virtual open house/The_BVSS_Stories_Coverpage.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/files/bvss_westories.pdf"><img style="width: 100%" height="auto" width="100%" alt="files/bvss_westories.pdf" src="/images/Admissions/Virtual open house/The_BVSS_Stories_Coverpage.png"></a>
 <h4>2024 0pen House</h4>
 <p></p>
 <div class="iframe-wrapper">
