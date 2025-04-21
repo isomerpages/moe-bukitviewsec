@@ -26,4 +26,5 @@ variant: tiptap
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h6jig6fUm-g"></iframe>
 </div>
 <h4>School Campus and Facilities</h4>
+<p></p><a class="isomer-image-wrapper" href="https://view.genially.com/5f9b6034482d2210111180c6/interactive-image-bukit-view-secondary-school-virtual-tour"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Admissions/Virtual open house/virtual_school_tour.png"></a>
 <p></p>
