@@ -1,10 +1,10 @@
 ---
-title: Virtual Open House
-permalink: /admissions/voh/
+title: More About BVSS
+permalink: /admissions/aboutbvss/
 description: ""
 variant: tiptap
 ---
-<h2>Virtual Open House</h2>
+<h2>More about BVSS</h2>
 <h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="files/bvss_westories.pdf" src="/images/Admissions/Virtual open house/The_BVSS_Stories_Coverpage.png">
