@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h2>Virtual Open House</h2>
-<h4>BVSS Stories</h4><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/BVSS%20Stories/The_BVSS_Stories.pdf"><img style="width: 60%;" height="auto" width="100%" alt="files/bvss_westories.pdf" src="/images/Admissions/Virtual open house/The_BVSS_Stories_Coverpage.png"></a>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="files/bvss_westories.pdf" src="/images/Admissions/Virtual open house/The_BVSS_Stories_Coverpage.png">
+</div>
+<p><a href="/files/BVSS Stories/The_BVSS_Stories.pdf" rel="noopener nofollow" target="_blank">Click here for the BVSS Stories</a>
+</p>
 <h4>2024 0pen House</h4>
 <p></p>
 <div class="iframe-wrapper">

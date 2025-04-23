@@ -55,7 +55,7 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>T1W6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 10<sup>th</sup> Feb</p>
+<p>Mon, 10 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S1 – 2, 4 – 5</p>
@@ -66,7 +66,7 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>T1W8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 26<sup>th</sup> Feb</p>
+<p>Wed, 26 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S1 – 5</p>
@@ -77,7 +77,7 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>T1W10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 10<sup>th</sup> Mar</p>
+<p>Mon, 10 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S1 – 5</p>
@@ -88,7 +88,7 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>T2W3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 9<sup>th</sup> Apr</p>
+<p>Wed, 9<sup> </sup>Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S1 – 5 &nbsp;</p>
@@ -115,10 +115,21 @@ is unable to intervene spontaneously during the learning process.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>T2W6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri, 2 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S1 – 5 &nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>T2W7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 5<sup>th</sup> May<strong> (Cancelled)</strong>
+<p>Mon, 5 May<strong> (Cancelled)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,7 +141,7 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>T2W9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 23<sup>rd</sup> May</p>
+<p>Fri, 23 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S1 – 5</p>
@@ -155,7 +166,7 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>T3W2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 8<sup>th</sup> Jul</p>
+<p>Tue, 8 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S1 – 3</p>
@@ -166,7 +177,7 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>T3W5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue – Thu, 15<sup>th</sup> – 17<sup>th</sup> Jul</p>
+<p>Tue – Thu, 15 – 17 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S1 – 3</p>

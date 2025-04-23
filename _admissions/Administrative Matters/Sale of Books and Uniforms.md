@@ -338,10 +338,16 @@ and time .</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>WALK-IN PURCHASE (IN SCHOOL)</strong>
+<summary><strong>WALK-IN PURCHASE (IN SCHOOL) –</strong><em> Currently Unavailable</em>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<details class="isomer-details">
+<summary>This option is currently unavailable. Further details will be advised
+at a later date.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -388,7 +394,12 @@ and time .</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please refer to the Walk in Purchase schedule Section below for the date
+<p>
+<br>
+<br>
+<br>
+<br><strong>End of Year BVSS : Sales of Book &amp; Uniform Schedule</strong>
+<br>Please refer to the Walk in Purchase schedule Section below for the date
 and time .</p>
 </td>
 </tr>
