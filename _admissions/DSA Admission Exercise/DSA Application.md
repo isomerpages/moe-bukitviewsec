@@ -9,16 +9,17 @@ third_nav_title: DSA Admission Exercise
 </p>
 <p></p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 11am on Tuesday,
-7 May 2024 to 3pm on Monday, 3 June 2024. For more details, please refer
-to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+The application is free-of-charge and will be open from 7 May 2025, 11
+am to 3 June 2025, 3 pm. For more details, please refer to MOE website
+– <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Only shortlisted candidates will be invited for interviews.</p>
+<p>You will receive notification from the school by 18 Jul 2025, if your
+child has been shortlisted to undergo Direct School Admission (DSA) selection.</p>
 </li>
 <li>
-<p>The school’s decision on the offer is final. All applicants will be informed
-of these offers by mid September 2024.</p>
+<p>All applicants will receive their application outcomes between 25 Aug
+and 4 Sep 2025.</p>
 </li>
 </ul>
 <p><strong>BVSS DSA-Sec Talent Areas</strong>
@@ -508,7 +509,7 @@ aeromodels. During model building, students can be exposed to wood dust,
 etc, and while flying, students can be expected to be out in the sun. Student
 must be physically fit enough to take part in such activities. Students
 who are asthmatic, with skin conditions such as eczema, or have physical
-impairments will not be suitable.)</p>
+impairments may not be suitable for the CCA.)</p>
 </td>
 </tr>
 </tbody>
@@ -545,8 +546,7 @@ in relevant Sports CCA.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted candidates will be assessed based on their Sports abilities,
-qualities and potential in respective Sports areas through the following
-criteria:</p>
+qualities and potential in Badminton through the following criteria:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Performance tasks and</p>
@@ -592,8 +592,7 @@ in relevant Sports CCA.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted candidates will be assessed based on their Sports abilities,
-qualities and potential in respective Sports areas through the following
-criteria:</p>
+qualities and potential in Table Tennis through the following criteria:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Performance tasks and</p>
@@ -640,8 +639,7 @@ in relevant Sports CCA.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted candidates will be assessed based on their Sports abilities,
-qualities and potential in respective Sports areas through the following
-criteria:</p>
+qualities and potential in Track and Field through the following criteria:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Performance tasks and</p>
@@ -687,8 +685,7 @@ in relevant Sports CCA.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted candidates will be assessed based on their Sports abilities,
-qualities and potential in respective Sports areas through the following
-criteria:</p>
+qualities and potential in Volleyball through the following criteria:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Performance tasks and</p>
