@@ -23,74 +23,7 @@ for direct entry to the Secondary 1 cohort of 2026.</p>
 <p>Students who are successfully admitted to BVSS via DSA are expected to
 honour their commitment to the school by participating in the activities
 related to the talent they are selected for.</p>
-<h4>BVSS DSA-Sec Talent Areas</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>DSA Main Category</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>DSA Talent Area</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Leadership and Uniformed Groups</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>* Leadership</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Performing Arts</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>* Choir
-<br>* Concert Band
-<br>* Modern Dance
-<br>* English Drama</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science, Technology, Engineering and Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>* Coding
-<br>* Environmental Science
-<br>* STEM - Aerospace and Aviation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sports and Games</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>* Badminton (Boys)
-<br>* Table Tennis
-<br>* Track and Field
-<br>* Volleyball (Girls)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>BVSS DSA Selection Criteria</h3>
+<h4><strong><u>BVSS DSA-Sec Talent Areas</u></strong></h4>
 <h4>Leadership and Uniformed Groups</h4>
 <p><strong>Leadership</strong>
 <br>
