@@ -14,7 +14,7 @@ third_nav_title: DSA Admission Exercise
 It seeks to promote holistic education and provide students an opportunity
 to demonstrate a more diverse range of achievements and talents in seeking
 admission to a secondary school.</p>
-<p><strong>Parents and students are encouraged to choose wisely based on the students’ aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the students’ talents. </strong>
+<p><strong>Parents and students are encouraged to choose wisely based on the students’ aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the students’ talents.</strong>
 </p>
 <p>The Bukit View Secondary School (BVSS) DSA Exercise 2025 invites students
 in Primary 6 or equivalent (for overseas students) in 2025 with exceptional
@@ -90,7 +90,8 @@ related to the talent they are selected for.</p>
 </tr>
 </tbody>
 </table>
-<h5>BVSS DSA Selection Criteria</h5>
+<h3>BVSS DSA Selection Criteria</h3>
+<h4>Leadership and Uniformed Groups</h4>
 <p><strong>Leadership</strong>
 <br>
 </p>
@@ -99,13 +100,15 @@ related to the talent they are selected for.</p>
 </div>
 <p><strong><u>Programmes, activities and opportunities</u></strong>
 <br>Students will be equipped with leadership skills, competencies and knowledge.
-They will be developed to serve as student leaders (councillor / peer support
-leader / CCA leader), and be given opportunities and platforms to apply
-their leadership skills. Students may also be selected as ambassadors to
-represent the school during the School Open House, Sec 1 Orientation and
-Student Environmental Leadership Conference.</p>
+They will be developed to serve as student leaders (Student Leader Council
+/ CCA leader), and be given opportunities and platforms to apply their
+leadership skills. Students may also be selected as ambassadors to represent
+the school during the School Open House, Sec 1 Orientation and Student
+Environmental Leadership Conference.</p>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/" rel="noopener noreferrer nofollow" target="_blank">webpage.</a>
 </p>
+<p></p>
+<h4>Performing Arts</h4>
 <p><strong>Choir</strong>
 <br>
 </p>
@@ -175,6 +178,7 @@ by institutions of higher learning. Drama Club students will also have
 the opportunity to participate in collaborative workshops or performances
 with other schools that offer Drama LLP.</p>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/drama/" rel="noopener noreferrer nofollow" target="_blank">CCA webpage</a>.</p>
+<p></p>
 <p><strong>Coding</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -294,5 +298,6 @@ teamwork. They will be able to enhance their repertoire of skills during
 trainings, and have the opportunity to participate in friendly matches
 and National School Games (NSG) competitions.</p>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
-<p><strong>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.</strong>
+<p><strong>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at </strong>
+<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a><strong>.</strong>
 </p>
