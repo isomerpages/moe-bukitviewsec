@@ -179,6 +179,7 @@ the opportunity to participate in collaborative workshops or performances
 with other schools that offer Drama LLP.</p>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/drama/" rel="noopener noreferrer nofollow" target="_blank">CCA webpage</a>.</p>
 <p></p>
+<h4>Science, Technology, Engineering and Mathematics</h4>
 <p><strong>Coding</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -235,6 +236,8 @@ Program (FEP)</p>
 and aerospace competitions such as Singapore Amazing Flying Machine Competition
 (SAFMC), Drone Odyssey Challenge, and other competitions.</p>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+<p></p>
+<h4>Sports and Games</h4>
 <p><strong>Badminton (Boys)</strong>
 </p>
 <div class="isomer-image-wrapper">
