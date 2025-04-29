@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h2>Achievements</h2>
+<h3>Singapore Youth Festival 2025 Arts Presentation</h3>
+<p>Congratulations to our Performing Arts Groups!</p>
+<p><strong><u>Choir</u></strong> - Achieved Certificate of Accomplishment.</p>
+<p><strong><u>Concert Band</u></strong> - Achieved Certificate of Accomplishment.</p>
+<hr>
 <h3>Uniformed Group Awards</h3>
 <p>Congratulations to our Uniformed Groups for achieving the highest attainable
 unit awards!</p>
