@@ -14,7 +14,8 @@ schools that participated, only 25 schools appear in the Divisional Rankings
 and Bukit View was placed 14th out of these 25 schools.</p>
 <p>Source: <a href="https://nsg.rjcat.com/sectrack_2025/ss_home.php?mypage=divscore.htm" rel="noopener noreferrer nofollow" target="_blank">https://nsg.rjcat.com/sectrack_2025/ss_home.php?mypage=divscore.htm</a>
 </p>
-<p>Congratulations to all our student athletes who participated in the NSG!</p>
+<p>Congratulations to all our student athletes who participated in the NSG!
+Read more about Sai's and Darshan's achievements <a href="https://www.bukitviewsec.moe.edu.sg/our-family/students/2025/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
