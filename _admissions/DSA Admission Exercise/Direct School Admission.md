@@ -128,11 +128,11 @@ blocks of modern Internet of Things (IoT) and smart cities. They will have
 the opportunities to represent the school in various competitions like
 Microsoft Imagine Cup Junior Challenge, Singapore Energy Grand Challenge
 (Youth) and 3D-tronics micro:bit Asia Challenge.</p>
-<p>For more information, please refer to the<a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a> .</p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a> .</p>
 <p><strong>Environmental Science</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental-300x200.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/environment.jpg">
 </div>
 <p>
 <br><strong><u>Programmes, activities and opportunities</u></strong>
@@ -174,7 +174,7 @@ and aerospace competitions such as Singapore Amazing Flying Machine Competition
 <p><strong>Badminton (Boys)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/badminton%20dsa_edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/badminton.jpg">
 </div>
 <p>
 <br><strong><u>Programmes, activities and opportunities</u></strong>
@@ -189,7 +189,7 @@ Competitions.</p>
 <p><strong>Table Tennis</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Table-Tennis-300x185.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/Table_Tennis_DSA.jpg">
 </div>
 <p>
 <br><strong><u>Programmes, activities and opportunities</u></strong>
@@ -223,7 +223,7 @@ boundaries, while staying active.</p>
 <p><strong>Volleyball (Girls)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/volleyball(girl).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/volleyball.jpg">
 </div>
 <p>
 <br><strong><u>Programmes, activities and opportunities</u></strong>
