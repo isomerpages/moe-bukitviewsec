@@ -9,13 +9,46 @@ variant: tiptap
 <p><strong>B Division Boys</strong> - Out of 102 secondary schools that participated,
 only 22 schools appear in the Divisional Rankings and Bukit View was placed
 11th out of these 22 schools.</p>
-<p><strong>C Division Boys </strong>-<strong> </strong> Out of 102 secondary
+<p><strong>C Division Boys </strong>-<strong> </strong>Out of 102 secondary
 schools that participated, only 25 schools appear in the Divisional Rankings
 and Bukit View was placed 14th out of these 25 schools.</p>
 <p>Source: <a href="https://nsg.rjcat.com/sectrack_2025/ss_home.php?mypage=divscore.htm" rel="noopener noreferrer nofollow" target="_blank">https://nsg.rjcat.com/sectrack_2025/ss_home.php?mypage=divscore.htm</a>
 </p>
 <p>Congratulations to all our student athletes who participated in the NSG!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/2025 NSG/Sai.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/2025 NSG/Dharshan.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/2025 NSG/NSG_semis.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/2025 NSG/NSG_school_records.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h3>Singapore Youth Festival 2025 Arts Presentation</h3>
 <p>Congratulations to our Performing Arts Groups!</p>
