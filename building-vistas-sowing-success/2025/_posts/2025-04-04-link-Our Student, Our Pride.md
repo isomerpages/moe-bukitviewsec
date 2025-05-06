@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.bukitviewsec.moe.edu.sg/our-family/students/2025/
+external: https://www.bukitviewsec.moe.edu.sg/our-family/students/2025/
 ---
