@@ -11,7 +11,7 @@ third_nav_title: DSA Admission Exercise
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11
 am to 3 June 2025, 3 pm. For more details, please refer to MOE website
-– <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+– <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>You will receive notification from the school by 18 Jul 2025, if your
@@ -549,7 +549,7 @@ in relevant Sports CCA.</p>
 qualities and potential in Badminton through the following criteria:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Performance tasks and</p>
+<p>Performance tasks</p>
 </li>
 <li>
 <p>Interview component</p>
@@ -642,7 +642,7 @@ in relevant Sports CCA.</p>
 qualities and potential in Track and Field through the following criteria:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Performance tasks and</p>
+<p>Performance tasks</p>
 </li>
 <li>
 <p>Interview component</p>
@@ -688,7 +688,7 @@ in relevant Sports CCA.</p>
 qualities and potential in Volleyball through the following criteria:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Performance tasks and</p>
+<p>Performance tasks</p>
 </li>
 <li>
 <p>Interview component</p>
