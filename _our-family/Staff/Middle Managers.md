@@ -3,95 +3,362 @@ title: Middle Managers
 permalink: /our-family/Staff/mm/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
-## Middle Managers
-
-<img src="/images/Key%20Personel%20Photos/zane%20tye.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/sharmila%20gopal.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/sirajutheen.jpg" style="width:30%;margin-right:15px;" align="left">
-<br clear="left">
-
-|   |   |   |
-|---|---|---|
-| **Mrs Zane Tye**<br>School Staff Developer  | **Miss S.Gopal**<br>HOD/CCE  |  **Mr Sirajutheen**<br>Year Head |
-|   |   |   |
-
-<img src="/images/Key%20Personel%20Photos/irni%20prasad.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/wai%20kam%20hao.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/alex%20chia.jpg" style="width:30%;margin-right:15px;" align="left">
-<br clear="left">
-
-|   |   |   |
-|---|---|---|
-| **Mrs Irni Karen**<br>HOD/Mathematics  | **Mr Wai Kam Hoa**<br>HOD/Craft &amp; Tech  |**Mr Alexander Chia**<br>HOD/Ed Tech|
-|   |   |   |
-
-<img src="/images/Key%20Personel%20Photos/toh%20yeok%20tee.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/chin%20wey%20thur.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/ng%20wuay%20boon.jpg" style="width:30%;margin-right:15px;" align="left">
-<br clear="left">
-
-|   |   |   |
-|---|---|---|
-| **Mdm Toh Yeok Tee**<br>HOD/English Language  |  **Mr Chin Wey Thur**<br>HOD/PE &amp; CCA | **Mr Ng Wuay Boon**<br>HOD/Science   |
-|   |   |   |
-
-
-<img src="/images/Key%20Personel%20Photos/nalini%20ram.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/Kevin.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/jia_hao.jpg" style="width:30%;margin-right:15px;" align="left">
-<br clear="left">
-
-|   |   |   |
-|---|---|---|
-| **Mrs Nalini Ram**<br>HOD/Humanities  | **Mr Kevin Loh** <br> HOD/Student Management |  **Mr Lee Jia Hao** <br> Year Head |
-|   |   |   |
-
-
-<img src="/images/Key%20Personel%20Photos/Ms_Chun_Kai_Xin.jpg" style="width:30%;margin-right:30px;" align="left">
-<img src="/images/Mr_Lim_Swee_Beng.jpg" style="width:30%;margin-right:20px;" align="left">
-<img src="/images/Mdm_Ang_Kim_Leng.jpg" style="width:30%;margin-right:20px;" align="left">
-
-<br clear="left">
-
-|   |   |   |
-|---|---|---|
-| **Ms Chun Kai XIn**<br>HOD/ MT Languages  | **Mr Lim Swee Beng** <br> SH/ Chinese Language |  **Ms Ang Kim Leng** <br> SH/ Geography |
-|   |   |   |
-
-<img src="/images/Key%20Personel%20Photos/elamaran.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/muhd%20fadly.jpg" style="width:30%;margin-right:15px;" align="left"> 
-<img src="/images/Key%20Personel%20Photos/felix%20wong.jpg" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-|   |   |   |
-|---|---|---|
-| **Mr Elamaran**<br>Discipline Master  |   **Mr Muhd Fadly**<br>SH/Lit &amp; Drama  |      **Mr Felix Wong**<br>SH/Student Management |
-|   |   |   |
-
-
-<img src="/images/Key%20Personel%20Photos/patricia%20lye.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/kumutha.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/joshua_lee.jpg" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-|   |   |   |
-|---|---|---|
-|  **Miss Patricia Lye**<br>SH/Computing  |  **Miss Kumutha**<br>Assistant Year Head  |  **Mr Joshua Lee**<br> Assistant Year Head |
-|   |   |   |
-
-<img src="/images/Key%20Personel%20Photos/Kendrick.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/vinod.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/Billy_Chew.jpg" style="width:30%;margin-right:15px" align="left">
-
-<br clear="left">
-
-|   |   |   |
-|---|---|---|
-|  **Mr Kendrick Tan**<br>SH/Ed-Tech |**Mr Vinod Kumar**<br>SH/Biology &amp; Lower Sec Science|**Mr Billy Chew**<br>SH/Math  |  |
-|   |   |   |
-
-<br clear="left">
+<h2>Middle Managers</h2>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/zane%20tye.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/sharmila%20gopal.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/sirajutheen.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Zane Tye</strong>
+<br>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Miss S.Gopal</strong>
+<br>HOD/CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Sirajutheen</strong>
+<br>Year Head</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/irni%20prasad.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/wai%20kam%20hao.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/alex%20chia.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Irni Karen</strong>
+<br>HOD/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Wai Kam Hoa</strong>
+<br>HOD/Craft &amp; Tech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Alexander Chia</strong>
+<br>HOD/Ed Tech</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/toh%20yeok%20tee.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/chin%20wey%20thur.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/ng%20wuay%20boon.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Toh Yeok Tee</strong>
+<br>HOD/English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chin Wey Thur</strong>
+<br>HOD/PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ng Wuay Boon</strong>
+<br>HOD/Science</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/nalini%20ram.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/jia_hao.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/Ms_Chun_Kai_Xin.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Nalini Ram</strong>
+<br>HOD/Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lee Jia Hao</strong> 
+<br>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chun Kai XIn</strong>
+<br>HOD/ MT Languages</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Mr_Lim_Swee_Beng.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Mdm_Ang_Kim_Leng.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lim Swee Beng</strong> 
+<br>SH/ Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Ang Kim Leng</strong> 
+<br>SH/ Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/elamaran.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/muhd%20fadly.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/felix%20wong.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Elamaran</strong>
+<br>Discipline Master</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Muhd Fadly</strong>
+<br>SH/Lit &amp; Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Felix Wong</strong>
+<br>SH/Student Management</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/patricia%20lye.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/kumutha.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/joshua_lee.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Patricia Lye</strong>
+<br>SH/Computing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Kumutha</strong>
+<br>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Joshua Lee</strong>
+<br>Assistant Year Head</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/Kendrick.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/vinod.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/Billy_Chew.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Kendrick Tan</strong>
+<br>SH/Ed-Tech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Vinod Kumar</strong>
+<br>SH/Biology &amp; Lower Sec Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Billy Chew</strong>
+<br>SH/Math</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
