@@ -164,16 +164,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_TAN_YI_XUN_KENDRICK.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/Mr_Lim_Swee_Beng.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
