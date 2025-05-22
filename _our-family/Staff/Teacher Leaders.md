@@ -3,25 +3,46 @@ title: Teacher Leaders
 permalink: /our-family/Staff/tl/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
-## Teacher Leaders
-
-<img src="/images/Key%20Personel%20Photos/arthur%20kok.jpg" style="width:30%;margin-right:75px;" align="left">
-<img src="/images/Key%20Personel%20Photos/mr%20nazar.jpg" style="width:30%;margin-right:15px;" align="left">
-
-
-|   |   |   |
-|---|---|---|
-|  **Mr Arthur Kok**<br>LT/English Language |  **Mr Mohd Nazar**<br>ST/Social Studies |   |
-|   |   |   |
-
-<img src="/images/Key%20Personel%20Photos/liu%20si%20jian.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/may%20loke.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/Key%20Personel%20Photos/stalin%20ramasamy.jpg" style="width:30%;margin-right:15px;" align="left">
-<br clear="left">
-
-|   |   |   |
-|---|---|---|
-|  **Mr Liu Sijian**<br>ST/Maths | **Miss Loke Puay Yin**<br>ST/Art  | **Mr Ramasamy Stalin**<br>ST/Tamil Language  |
-|   |   |   |
+<h2>Teacher Leaders</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_MOHD_NAZAR_BIN_HJH_MOIDEEN.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MISS_MAY_LOKE_PUAY_YIN.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_LIU_SIJIAN.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_STALIN_RAMASAMY.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p></p>
