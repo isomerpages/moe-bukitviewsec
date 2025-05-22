@@ -6,32 +6,6 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h2>School Leaders</h2>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/Mr%20Jaswant%20Singh.jpg">
-</div>
-<p>Mr Jaswant Singh
-<br>Principal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -45,6 +19,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_JASWANT_SINGH.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -52,25 +29,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" src="/images/Mr%20Mak%20Yew%20Chong2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_MAK_YEW_CHONG.jpg">
 </div>
-<p>Mr Mak Yew Chong
-<br>Vice-Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" src="/images/Key%20Personel%20Photos/Mrs_Anna_Ling.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MRS_ANNA_LING.jpg">
 </div>
-<p>Mrs Anna Ling
-<br>Vice-Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/Mr%20Justin%20Neo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_JUSTIN_NEO_KIM_HANG.jpg">
 </div>
-<p>Mr Justin Neo
-<br>Vice-Principal (Administration)</p>
 </td>
 </tr>
 <tr>
