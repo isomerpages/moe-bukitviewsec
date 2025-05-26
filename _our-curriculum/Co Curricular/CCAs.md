@@ -3,135 +3,215 @@ title: CCAs
 permalink: /our-curriculum/co-curricular/ccas/
 description: ""
 third_nav_title: Co Curricular
-variant: markdown
+variant: tiptap
 ---
-## CCAs
-
-CCAs are an integral part of Bukit Viewans’ holistic, well-rounded education. CCAs help nurture qualities such as resilience, confidence and perseverance, which prepare Bukit Viewans to adapt and do well in a rapidly changing world. Outstanding Bukit Viewans may also be asked to serve in the Student Council.
-
-#### **CCA Training Timetable 2025**
-
-&nbsp;CCA venues and Schedules can be found in the link below. 
- [CCA Training Timetable 2025](/cca-training-timetable-2025/)
-
-#### Uniformed Groups
-
-<table>
-	<tbody><tr>
-		<td width="25%">
-			<a href="/ccas/Uniformed-Groups/npcc/">
-				<img src="/images/npcc.jpg"> <center> NPCC </center>
-			</a>
-		</td>
-		<td width="25%">
-			<a href="/ccas/Uniformed-Groups/ncc/">
-				<img src="/images/ncc.jpg"> <center> NCC </center>
-			</a>
-		</td>
-		<td width="25%">
-			<a href="/ccas/Uniformed-Groups/gb/">
-				<img src="/images/girl%20brigade.jpg"> <center> Girls' Brigade </center>
-			</a>
-		</td>
-		<td>
-			<a href="/ccas/Uniformed-Groups/bb/">
-				<img src="/images/boy%20brigade.jpg"> <center> Boys' Brigade </center>
-			</a>
-		</td>
-	</tr>
-</tbody></table>
-
-#### Visual and Performing Arts
-
-<table>
-		<tbody><tr>
-		<td width="25%">
-			<a href="/ccas/Visual-and-Performing-Arts/drama/">
-				<img src="/images/drama.jpg"> <center> Drama Club </center>
-			</a>
-		</td>
-		<td width="25%">
-			<a href="/ccas/Visual-and-Performing-Arts/concertb/">
-				<img src="/images/concert.jpg"> <center> Concert Band </center>
-			</a>
-		</td>
-		<td width="25%">
-			<a href="/ccas/Visual-and-Performing-Arts/Choir/">
-				<img src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/picture1.png"> <center> Choir </center>
-			</a>
-		</td>
-		<td width="25%">
-			<a href="/ccas/Visual-and-Performing-Arts/dance/">
-				<img src="/images/dance.jpg"> <center> Dance Club </center>
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td width="25%">
-			<a href="/ccas/Visual-and-Performing-Arts/media/">
-				<img src="/images/media.jpg"> <center> Media &amp; Publicity Club </center>
-			</a>
-		</td>
-		<td width="25%">		</td>
-		<td width="25%">  	</td>
-		<td width="25%">		</td>
-	</tr>
-</tbody></table>
-
-#### Clubs and Societies 
-
-<table>
-	<tbody><tr>
-		<td width="25%">
-			<a href="/ccas/Clubs-and-Societies/environmental/">
-				<img src="/images/environmental.jpg"> <center> Environmental Club </center>
-			</a>
-		</td>
-		<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club">
-				<img src="/images/infocomm.jpg"> <center> Infocomm Club </center>
-			</a>
-		</td>
-		<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club">
-				<img src="/images/youth%20flying.jpg"> <center> Singapore Youth Flying Club </center>
-			</a>
-		</td>
-		<td width="25%">		</td>
-	</tr>
-</tbody></table>
-
-#### Physical Sports
-
-<table>
-	<tbody><tr>
-		<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/sport-and-games/badminton">
-				<img src="/images/baminton(boy).jpg"> <center> Badminton <br>(Boys Only) </center>
-			</a>
-		</td>
-		<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/sport-and-games/floorball">
-					<img src="/images/floorball(girl).jpg"> <center> Floorball </center>
-			</a>
-		</td>
-			<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis">
-				<img src="/images/table%20tennis.jpg"> <center> Table Tennis </center>
-			</a>
-		</td>
-		<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/sport-and-games/track-n-field">
-				<img src="/images/track%20n%20field.jpg"> <center> Track &amp; Field </center>
-			</a>
-		</td>
-			</tr>
-			<tr>
-		<td width="25%">
-			<a href="/our-curriculum/co-curricular/ccas/sport-and-games/volleyball">
-				<img src="/images/volleyball(girl).jpg"> <center> Volleyball <br> (Girls Only) </center>
-			</a>
-		</td>
-		<td width="25%">		</td>
-		<td width="25%">		</td>
-	</tr></tbody></table>
+<h2>CCAs</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2025 CCA/CCA_group.jpg">
+</div>
+<p>CCAs are an integral part of Bukit Viewans’ holistic, well-rounded education.
+CCAs help nurture qualities such as resilience, confidence and perseverance,
+which prepare Bukit Viewans to adapt and do well in a rapidly changing
+world. Outstanding Bukit Viewans may also be asked to serve in the Student
+Council.</p>
+<h4><strong>CCA Training Timetable 2025</strong></h4>
+<p>&nbsp;CCA venues and Schedules can be found in the link below. <a href="/cca-training-timetable-2025/" rel="noopener noreferrer nofollow" target="_blank">CCA Training Timetable 2025</a>
+</p>
+<h4>Uniformed Groups</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/npcc.jpg">
+</div>
+<p><a href="/ccas/Uniformed-Groups/npcc/" rel="noopener noreferrer nofollow" target="_blank">NPCC</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/ncc.jpg">
+</div>
+<p><a href="/ccas/Uniformed-Groups/ncc/" rel="noopener noreferrer nofollow" target="_blank">NCC</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/girl%20brigade.jpg">
+</div>
+<p><a href="/ccas/Uniformed-Groups/gb/" rel="noopener noreferrer nofollow" target="_blank">Girls' Brigade</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/boy%20brigade.jpg">
+</div>
+<p><a href="/ccas/Uniformed-Groups/bb/" rel="noopener noreferrer nofollow" target="_blank">Boys' Brigade</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Visual and Performing Arts</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/drama.jpg">
+</div>
+<p><a href="/ccas/Visual-and-Performing-Arts/drama/" rel="noopener noreferrer nofollow" target="_blank">Drama Club</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/concert.jpg">
+</div>
+<p><a href="/ccas/Visual-and-Performing-Arts/concertb/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Choir/picture1.png">
+</div>
+<p><a href="/ccas/Visual-and-Performing-Arts/Choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/dance.jpg">
+</div>
+<p><a href="/ccas/Visual-and-Performing-Arts/dance/" rel="noopener noreferrer nofollow" target="_blank">Dance Club</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/media.jpg">
+</div>
+<p><a href="/ccas/Visual-and-Performing-Arts/media/" rel="noopener noreferrer nofollow" target="_blank">Media &amp; Publicity Club</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Clubs and Societies</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/environmental.jpg">
+</div>
+<p><a href="/ccas/Clubs-and-Societies/environmental/" rel="noopener noreferrer nofollow" target="_blank">Environmental Club</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/infocomm.jpg">
+</div>
+<p><a href="/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club" rel="noopener noreferrer nofollow" target="_blank">Infocomm Club</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/youth%20flying.jpg">
+</div>
+<p><a href="/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club" rel="noopener noreferrer nofollow" target="_blank">Singapore Youth Flying Club</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Physical Sports</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/baminton(boy).jpg">
+</div>
+<p><a href="/our-curriculum/co-curricular/ccas/sport-and-games/badminton" rel="noopener noreferrer nofollow" target="_blank">Badminton <br>(Boys Only)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/floorball(girl).jpg">
+</div>
+<p><a href="/our-curriculum/co-curricular/ccas/sport-and-games/floorball" rel="noopener noreferrer nofollow" target="_blank">Floorball</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/table%20tennis.jpg">
+</div>
+<p><a href="/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis" rel="noopener noreferrer nofollow" target="_blank">Table Tennis</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/track%20n%20field.jpg">
+</div>
+<p><a href="/our-curriculum/co-curricular/ccas/sport-and-games/track-n-field" rel="noopener noreferrer nofollow" target="_blank">Track &amp; Field</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/volleyball(girl).jpg">
+</div>
+<p><a href="/our-curriculum/co-curricular/ccas/sport-and-games/volleyball" rel="noopener noreferrer nofollow" target="_blank">Volleyball <br>(Girls Only)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
