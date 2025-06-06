@@ -147,8 +147,7 @@ Day. Emcees are selected from the list of students nominated by the English
 teachers. They go through auditions, weekly training and practices, and
 learn to think on their feet and adapt to changes. In the process, students
 hone resilience and commitment to excel.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/English Dept/emcee_training.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Student_Emcee.png">
 </div>
 <p></p>
