@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Curricular
 variant: tiptap
 ---
-<h2>English</h2>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Department%20photos/Group%20Photo/ENGLISH_LANGUAGE_AND_LITERATURE_2023_2024.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Department photos/Department logo/EL_Department.png">
 </div>
 <h4>Our Teachers</h4>
 <table style="minWidth: 50px">
@@ -61,15 +60,7 @@ variant: tiptap
 <p>Mrs Susan Pang – Ong Lee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Norafiq Ismail</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Seah Koon Lay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -155,8 +146,7 @@ Day. Emcees are selected from the list of students nominated by the English
 teachers. They go through auditions, weekly training and practices, and
 learn to think on their feet and adapt to changes. In the process, students
 hone resilience and commitment to excel.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/English Dept/emcee_training.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Student_Emcee.png">
 </div>
 <p></p>

@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Curricular
 variant: tiptap
 ---
-<h2>Craft &amp; Tech</h2>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Department%20photos/Group%20Photo/craft%20&amp;%20technology%20department.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Department photos/Department logo/CnT_Department_2.png">
 </div>
 <h4>Our Teachers</h4>
 <table style="minWidth: 125px">

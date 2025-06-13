@@ -1,6 +1,6 @@
 ---
-title: School Book List & Uniform
-permalink: /booklists-and-uniform/
+title: School's Service Provider
+permalink: /schools-service-provider/
 variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
@@ -8,85 +8,7 @@ third_nav_title: Administrative Matters
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
-<h4><strong><u>Booklist</u></strong></h4>
-<details class="isomer-details">
-<summary><strong>BOOKLIST 2025</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level (2025)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Booklist</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/BVSS_2025_Booklist_and_Stationery_List__Sec_1_.pdf" rel="noopener nofollow" target="_blank"> </a>
-<a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_1_Dec2024.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 1)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_2_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 2) </a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_3_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 3)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_4_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 4)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 5</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_5_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 5)</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
-</div>
-<h4><strong><u>Bookshop and School Uniform &amp; PE Attire Vendor</u></strong></h4>
+<h3><strong><u>School Bookshop</u></strong></h3>
 <h4><strong>Pacific Bookstore Pte Ltd</strong></h4>
 <p>Textbooks and stationery can be purchased from our school bookshop. Online
 purchase and home delivery services are available only during the year-end
@@ -190,6 +112,87 @@ this page by clicking here
 </div>
 </details>
 </div>
+<p></p>
+<blockquote>
+<h3><strong><em>Booklist</em></strong></h3>
+<details class="isomer-details">
+<summary><strong>BOOKLIST 2025</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level (2025)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Booklist</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_1_Dec2024.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 1)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_2_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 2)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_3_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 3)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_4_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 4)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_5_.pdf" rel="noopener nofollow" target="_blank">BVSS 2025 Booklist and Stationery List (Sec 5)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<h4></h4>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
+</div>
+<h3><strong><u>School Uniform &amp; PE Attire</u></strong></h3>
 <h4><strong>In-Trend Uniforms</strong></h4>
 <p>School uniforms and PE attire can be purchased at the retail store and
 are also available at our school bookshop, with limited sizes in stock.
@@ -204,13 +207,19 @@ size availability in school bookshop, kindly contact the company directly.</p>
 <summary><strong><u>Opening Hours During the School Term</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong><em>Retail Store:</em></strong>
 <br>10.00 AM TO 6.00 PM (MON TO FRI)
 <br>10.00 AM TO 3.00 PM (SAT)
-<br><strong><sup>Closed on Sundays and Public Holidays</sup></strong>
+<br>
+</p>
+<p><strong><sup>Closed on Sundays and Public Holidays</sup></strong>
 <br><strong><em><sup>Please note that for any visits to the Retail Store during the December period, an appointment must be made at least 1-2 days in advance.</sup></em></strong>
-<br>For purchases in the school bookshop, please check availability and arrange
+<br>
+</p>
+<p>For purchases in the school bookshop, please check availability and arrange
 an appointment by contacting the bookstore directly.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -302,5 +311,5 @@ this page by clicking here</p>
 </div>
 </details>
 </div>
-<p></p>
+<h4></h4>
 <p></p>
