@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Curricular
 variant: tiptap
 ---
-<h2>Computing</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department photos/Department logo/Computing_Department.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Department photos/Department logo/Computing_Department.png">
 </div>
 <h4>Our Teachers</h4>
 <table style="minWidth: 50px">
