@@ -5,10 +5,8 @@ description: ""
 third_nav_title: Curricular
 variant: tiptap
 ---
-<h2>Mother Tongue</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Department%20photos/Group%20Photo/mother%20tongue%20languages.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Department photos/Department logo/MT_Department_3.png">
 </div>
 <h4>Our Teachers</h4>
 <table style="minWidth: 75px">
