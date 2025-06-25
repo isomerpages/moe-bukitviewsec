@@ -2,4 +2,5 @@ collections:
   resource-page:
     output: true
     order:
+      - Strategic Planning Management Committee.md
       - Year End Sales of Textbooks & Uniform Schedule In School.md
