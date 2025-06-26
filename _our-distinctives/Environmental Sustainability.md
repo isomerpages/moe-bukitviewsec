@@ -55,10 +55,7 @@ This initiative encourages students to recycle plastic, paper, metal, and
 e-waste, promoting a zero-waste culture.</p>
 <p></p>
 <p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>3. Environmental Advocacy Programme</strong>
-</p>
+<h4><strong><u>3. Environmental Advocacy Programme</u></strong></h4>
 <p>Every class has an appointed Environmental Advocate who champions green
 habits and sustainable thinking among their peers. Advocates are equipped
 with environmental knowledge through a Sustainability Advocacy e-module
