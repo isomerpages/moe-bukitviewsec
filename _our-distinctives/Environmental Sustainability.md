@@ -98,10 +98,13 @@ e-waste, promoting a zero-waste culture.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Distinctives/Environmental/Sembenviro1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Distinctives/Environmental/Sembenviro2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Distinctives/Environmental/Sembenviro2.jpg">
 </div>
 </td>
 </tr>
@@ -148,4 +151,7 @@ role in reducing food waste and supporting tree growth.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Distinctives/Environmental/S1_Tree_care.jpg">
+</div>
 <p></p>
