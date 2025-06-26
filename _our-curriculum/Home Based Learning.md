@@ -174,13 +174,13 @@ is unable to intervene spontaneously during the learning process.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T3W5</p>
+<p>T3W3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tue – Thu, 15 – 17 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S1 – 3</p>
+<p>S1 – 5</p>
 </td>
 </tr>
 </tbody>
