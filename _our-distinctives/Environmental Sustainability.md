@@ -48,12 +48,65 @@ and individual awards, the initiative reinforces long-term sustainable
 behaviour and empowers Bukit Viewans to take daily action for a greener
 future.</p>
 <p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Distinctives/Environmental/GB1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Distinctives/Environmental/GB2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Our Distinctives/Environmental/GB3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Distinctives/Environmental/GB4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4><strong><u>2. Sembenviro Recycling League</u></strong></h4>
 <p>BVSS actively participates in this competition, <strong>achieving second place in the secondary school category</strong>.
 This initiative encourages students to recycle plastic, paper, metal, and
 e-waste, promoting a zero-waste culture.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Distinctives/Environmental/Sembenviro2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4><strong><u>3. Environmental Advocacy Programme</u></strong></h4>
 <p>Every class has an appointed Environmental Advocate who champions green
