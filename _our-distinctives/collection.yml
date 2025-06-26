@@ -2,6 +2,7 @@ collections:
   our-distinctives:
     output: true
     order:
+      - Environmental Sustainability.md
       - Positive Education.md
       - JOULES (ALP).md
       - Arts X Values (LLP).md
