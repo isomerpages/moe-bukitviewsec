@@ -12,6 +12,9 @@ sections:
         - title: JOULES (ALP)
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/joules-alp/
+        - title: Environmental Sustainability
+          description: ""
+          url: https://bukitviewsec.moe.edu.sg/environmental-sustainability/
         - title: Arts X Values (LLP)
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/llp/
