@@ -346,6 +346,6 @@ Singapore Science Centre.</p>
 <p>Sec 2: Designing solutions for future Smart Cities; Water testing using
 water robots</p>
 <p>More information on our <strong>JOULES ALP</strong> is available at this
-link.
+<a href="https://www.bukitviewsec.moe.edu.sg/our-distinctives/joules-alp/" rel="noopener nofollow" target="_blank">link</a>.
 <br>
 </p>
