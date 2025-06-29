@@ -2,6 +2,7 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Principal's Message.md
       - All Staff.md
       - Student Leaders' Council.md
       - Rimmi Kaur Dhanoa (Class of 2021).md
