@@ -2,10 +2,8 @@ collections:
   our-family:
     output: true
     order:
+      - Staff/Strategic Planning Management Committee.md
       - Staff/.keep
-      - Staff/School Leaders.md
-      - Staff/Middle Managers.md
-      - Staff/Teacher Leaders.md
       - Our Students, Our Pride/2025.md
       - Our Students, Our Pride/2024.md
       - Our Students, Our Pride/.keep

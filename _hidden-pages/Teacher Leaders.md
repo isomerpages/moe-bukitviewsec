@@ -2,7 +2,6 @@
 title: Teacher Leaders
 permalink: /our-family/Staff/tl/
 description: ""
-third_nav_title: Staff
 variant: tiptap
 ---
 <h2>Teacher Leaders</h2>
