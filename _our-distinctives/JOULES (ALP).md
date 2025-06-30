@@ -45,6 +45,11 @@ wide programmes such as:</p>
 <li>
 <p>Secondary 3 JOULES+ programme (one day experience at Ngee Ann Polytechnic)</p>
 </li>
+<li>
+<p>Experiential learning journeys within the local community designed to
+help lower secondary students understand STEM concepts and sustainable
+practices in real-life applications.</p>
+</li>
 </ul>
 <p><strong>Propagate and emPower</strong>&nbsp;– providing student-leaders
 with the opportunity to pursue their interest in design thinking, programming,
@@ -52,20 +57,17 @@ the environment and sustainable energy.
 <br>Some of these opportunities include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Thinking Hats Programme (Talent Development Programme for Sec 1 &amp;
-2)</p>
+<p>Student Environmental Leadership Conference (SELC) (Sec 2 – 3)</p>
 </li>
 <li>
-<p>Student Environmental Leadership Conference (SELC) (Sec 1 – 4)</p>
+<p>Shell Nxplorers (Sec 2 - 3)</p>
 </li>
 <li>
-<p>Singapore Junior Water Prize (SJWP) (Sec 2 &amp; 3)</p>
+<p>Overseas immersion programme where students explore STEM, sustainability,
+and environmental conservation in real-life contexts.</p>
 </li>
 <li>
-<p>Conducting guided Eco-trails for Primary Schools (Sec 1 – 4)</p>
-</li>
-<li>
-<p>Advanced Elective Modules (Sec 2 – 4):</p>
+<p>Harnessing the Maker Space to transform their ideas into tangible prototypes.</p>
 </li>
 </ul>
 <p></p>
@@ -103,7 +105,7 @@ to contribute as student leaders as they progress in the JOULES programme.</p>
 <p>Criteria: For Sec 2 students who</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>obtain A1, A2, B3 for Science in Sec 1,</p>
+<p>obtain A1, A2, B3 for Science in Sec 1 or A for Sec 1 Joules,</p>
 </li>
 <li>
 <p>show keen interest in environment and sustainable energy.</p>

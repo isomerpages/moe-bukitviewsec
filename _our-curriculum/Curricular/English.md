@@ -36,15 +36,15 @@ variant: tiptap
 <p>Mr Arthur Kok (Lead Teacher)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Fadly (SH/Lit &amp; Drama)</p>
+<p>Mr Muhammad Fadly (SH/Lit)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr John Praveen Raj</p>
+<p>Mr Tan Huong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joy Chen</p>
+<p>Mrs Susan Pang – Ong Lee Ling</p>
 </td>
 </tr>
 <tr>
@@ -52,15 +52,15 @@ variant: tiptap
 <p>Mr Mohamad Zulkefly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Huong</p>
+<p>Mdm Joy Chen</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Susan Pang – Ong Lee Ling</p>
+<p>Ms Seah Koon Lay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Seah Koon Lay</p>
+<p>Mr John Praveen Raj</p>
 </td>
 </tr>
 </tbody>

@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2><strong>NCC</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Group Photo/NCC_Formal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC_Formal.jpg">
 </div>
 <h4>BACKGROUND</h4>
 <p><strong>National Cadet Corps (Land)</strong>&nbsp;is a Uniformed Group
@@ -97,10 +97,10 @@ of preparation for competition or special occasions).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lin I Chen</p>
+<p>Mr Joshua Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joshua Lee</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -157,16 +157,16 @@ and Sports Championship.</p>
 <p>Gold Award
 <br>(2011 – 2017)
 <br>Distinction Award
-<br>(2018 – 2023)</p>
+<br>(2018 – 2024)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Outstanding Cadet Award 2022</strong>
+<p><strong>Outstanding Cadet Award 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RIZWANUDEEN RAFIUDEEN (4E)</p>
+<p>MSG (NCC) THIVESHRAJ SEVA</p>
 </td>
 </tr>
 <tr>
@@ -239,10 +239,10 @@ and Sports Championship.</p>
 <p>Unit Sergeant Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Nadhir Hilmi Bin Muhammad Nidzamuddin</p>
+<p>MUHAMMAD HAZIQ BIN ALIAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3C</p>
+<p>3A</p>
 </td>
 </tr>
 <tr>
@@ -250,10 +250,10 @@ and Sports Championship.</p>
 <p>Assistant Sergeant Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohamed Sheldon Bin Abdul Manaf</p>
+<p>AYDEN NG JIA XUN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3B</p>
+<p>3F</p>
 </td>
 </tr>
 <tr>
