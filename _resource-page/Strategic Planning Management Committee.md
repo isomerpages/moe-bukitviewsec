@@ -6,8 +6,9 @@ description: ""
 ---
 <h3><strong>Strategic Planning Management Committee (SPMC)</strong></h3>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -27,12 +28,13 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_JASWANT_SINGH.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -48,6 +50,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_JUSTIN_NEO_KIM_HANG.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -71,6 +76,9 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MRS_IRNI_PRASAD.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -92,6 +100,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_CHIN_WEY_THUR.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -115,6 +126,9 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MS_CHUN_KAI_XIN.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -136,6 +150,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MISS_PATRICIA_LYE_MAY_KIN.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -159,6 +176,9 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MDM_ANG_KIM_LENG.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -180,6 +200,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_ARTHUR_KOK_KUM_CHIEW.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -203,8 +226,14 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_LIU_SIJIAN.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
