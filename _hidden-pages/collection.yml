@@ -2,6 +2,7 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Middle Managers.md
       - School Leaders.md
       - Principal's Message.md
       - All Staff.md
