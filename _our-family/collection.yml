@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Staff/Strategic Planning Management Committee.md
       - Staff/.keep
       - Staff/School Leaders.md
       - Staff/Middle Managers.md
