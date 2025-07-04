@@ -90,17 +90,101 @@ for the good of others.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_VIA_2.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_2_VIA_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><sub>BVSS environmental advocates sharing about recycling with Bt Batok residents.</sub></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><sub>Teaching residents about dengue prevention.</sub></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>SEC THREE (The Local Community)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_VIA_1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_VIA_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><sub>Cleaner streets, Healthier communities: Plogging for a Purpose (combining jogging with picking up litter).</sub></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><sub>Educating young children about being environmentally friendly</sub></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>SEC FOUR/FIVE (The Elderly &amp; Others)</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_VIA_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4_VIA_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><sub>Showcasing hospitality &amp; culinary skills learnt with elderly residents in Bt Batok.</sub></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><sub>Bridging Generations, One Swipe at a Time: Bt Viewans helping the elderly navigate the digital world.</sub></strong>
+</p>
 </td>
 </tr>
 </tbody>
