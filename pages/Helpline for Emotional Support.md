@@ -28,11 +28,10 @@ description: ""
 <p>WhatsApp - 6669 1771</p>
 </li>
 <li>
-<p>Online webchat through the chat widget hosted on&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">mindline.sg</a>&nbsp;website
-(<a rel="noopener noreferrer nofollow" target="_blank">https://mindline.sg/fsmh</a>)</p>
+<p>Online webchat through the chat widget hosted on&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">mindline.sg</a>&nbsp;website (<a rel="noopener noreferrer nofollow" target="_blank">https://mindline.sg/fsmh</a>)</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <h3><strong><u>Danger of Violence and Abuse (available 24 hours)</u></strong></h3>
 <p>National Anti-Violence and Sexual Harassment Helpline (NAVH) – 1800 777
 0000</p>
@@ -50,7 +49,6 @@ description: ""
 <p>Monday – Friday, 9am - 5pm &nbsp;(excluding public holidays)</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><em>Note: Information correct as at 14.07.2025</em></strong>
 </p>
-<p></p>
