@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Student Well Being/.keep
       - Curricular/.keep
       - Curricular/Curricular.md
       - Curricular/Computing.md
