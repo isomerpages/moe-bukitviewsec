@@ -40,16 +40,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Helpline for Emotional Support</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://bukitviewsec.moe.edu.sg/helpline-for-emotional-support/" rel="noopener nofollow" target="_blank">Helpline</a> 
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
