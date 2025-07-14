@@ -170,104 +170,118 @@ this journey, Bukit Viewans gain mathematical confidence and competence,
 appreciating the relevance of Mathematics in their lives.</p>
 <hr>
 <h4>Key Programmes and Achievements</h4>
-<h6><u>S3 Math Modelling</u></h6>
-<p>Mathematical modeling uses mathematics to represent and analyze real-world
-situations. Students develop essential data handling skills, interpreting
-data through digital tools like Desmos and Excel. Working in groups, they
-refine their models to improve accuracy, gaining valuable communication
-and collaboration skills. This project enhances their ability to communicate
-complex ideas and strengthens their scientific and mathematical communication.</p>
+<h6><strong><u>Applied Learning Week 2025</u></strong></h6>
+<p><strong>S3 Math Mission Its Possible</strong>
+</p>
+<p>In this interactive group activity, students become codebreakers on a
+mission to crack codes and uncover digits. Working collaboratively, they
+solve real-world math puzzles across different stations—including the library,
+canteen, and AVA room—using skills in geometry, percentages, algebra, and
+more. It’s a fun, immersive way to apply mathematical thinking, build teamwork,
+and make learning unforgettable!</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/S3 Math Modelling Task 2022.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/Math_possible1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/Math_possible2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/Math_possible3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>S2 Data Handling Performance Task</strong>
+</p>
+<p>In this real-world task, students take on the role of young statisticians.
+They design and conduct surveys, organise data using Google Sheets, and
+present their findings through appropriate graphs such as pie charts, bar
+graphs, and pictograms. Working in teams, they draw meaningful conclusions
+from the data and reflect on how data can be used—or misused—to influence
+opinions. The task builds students’ analytical thinking and communication
+skills in a fun and practical way.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/data1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/data2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>S2 Financial Literacy Workshop</strong>
+</p>
+<p>Through this hands-on workshop, students learn essential money management
+skills to make informed financial decisions. They explore real-life scenarios
+involving budgeting, saving, needs vs wants, and the power of compound
+interest. Interactive activities and role-playing games help students develop
+financial responsibility and understand the long-term impact of their choices.
+The workshop equips them with practical life skills to navigate their future
+with confidence.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/finance1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/finance2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>The World is Our Classroom – Learning from URA</strong>
+<br>Students gained real-world insights into how Mathematics is used in urban
+planning through a sharing session by an officer from the Urban Redevelopment
+Authority (URA). From map scales to data analysis and modelling, the session
+showed how math shapes the way our city is designed and developed.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/authentic_learning.jpg">
 </div>
 <p></p>
-<h6><u>S1 Amazing Race - “Math Mission: It’s Possible”</u></h6>
-<p>Our Secondary 1 students took on an exciting challenge to solve math problems
-positioned throughout the school. As they solved each problem, they uncovered
-hints to break a code. This hands-on approach emphasizes learning through
-experience, allowing students to engage deeply, develop metacognitive skills,
-and gain 21st-century competencies.</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/Math Amazing Race 2022 pic 1.jpeg">
-</div>
-<p>
-<br>
+<h4><strong>SASMO 2025 Results</strong></h4>
+<p><strong>Total 2 Gold, 2 Silver, 14 Bronze, 8 Honorable Mention</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/Math Amazing Race 2022 pic 2.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/Math Amazing Race 2022 winners.jpg">
-</div>
 <p></p>
-<h6><u>Innovation with AlgeCards</u></h6>
-<p>As part of a Lesson Study initiative in 2009, we developed AlgeCards in
-collaboration with Assistant Professor Dr. Leong Yew Hoong from NIE-MME.
-These teaching aids support algebraic learning across the school, accompanied
-by pre-made lesson plans tailored to our students' learning needs.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/Dept_Time_Teaching_Algebra_using_Algecards.jpg">
-</div>
-<p><u>S2 Statistics and Data Handling Lesson Package</u>
+<p><strong>Sec 1 (12 participants): 2 Gold, 1 Bronze, 3 Honorable Mention</strong>
 </p>
-<p>Our interactive lesson package introduces students to foundational spreadsheet
-skills through hands-on experiences with real-world data. They learn to
-organize, interpret, and visually represent data through charts, developing
-data analysis skills to make informed decisions. This enriching experience
-strengthens their analytical thinking, creativity, and teamwork skills,
-which are invaluable for future learning and real-life applications.</p>
-<p></p>
-<p><u>Flipped Learning Resources</u>
-</p>
-<p>Our teachers integrate ICT tools to foster student-directed learning.
-Google Classroom facilitates resource sharing, while interactive tools
-like Kahoot and Quizziz support formative assessments. Video lessons complement
-learning, and platforms like DESMOS and SLS promote collaborative learning.
-Success Criteria, Self-Assessment checklists, and 'Test My Understanding'
-assignments empower students to monitor their progress and take steps to
-enhance their learning journey.</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/Engaged Learning using ICT 1.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/Engaged Learning Using ICT 2.jpeg">
-</div>
-<p></p>
-<h6><u>In-house Math Olympiad Training</u></h6>
-<p>Led by our senior teacher, Mr. Liu Sijan, our Math Olympiad Training program
-sharpens students' advanced mathematical skills over ten sessions. This
-program fosters critical and creative thinking, preparing students to compete
-at both national and international levels.</p>
-<p></p>
-<p><strong>Principles of Accounts (POA)</strong>
-</p>
-<p>In today’s dynamic business landscape, our POA course extends beyond numbers,
-instilling fundamental accounting knowledge and critical financial management
-skills. Students gain insights into accounting as an information system
-essential for making sound business decisions.</p>
-<p><u>Secondary Two Financial Literacy Programme</u>
-</p>
-<p>Our Financial Literacy programme introduces students to principles like
-delayed gratification, saving, and budgeting. This foundational knowledge
-encourages responsible financial habits and empowers students to make informed
-choices throughout their lives.</p>
-<p></p>
-<h6><strong><u>Student Achievements</u></strong></h6>
-<p>SMO 2024 Award Winners</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/SMO_Prize_WInner.jpg">
-</div>
-<p>Bronze (Senior) GIBSON BONG HOONG NIEN</p>
-<p>Bronze (Open) GIBSON BONG HOONG NIEN</p>
-<p>&nbsp;</p>
-<p><strong>SASMO 2024 Award Winners</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/SASMO_Prize_Winners.jpg">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -277,80 +291,328 @@ choices throughout their lives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Silver</strong>
-</p>
+<p>YANG HAOQING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Bronze</strong>
-</p>
+<p>Grade 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Honourable Mention</strong>
-</p>
+<p>GOLD</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>BAE JUN SOO</p>
-<p>CHIN GUAN CHUNG</p>
+<p>YANG HAOXUAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FANG ZHEN QUAN, JOSEPH</p>
-<p>LUCIUS TOH EN CI</p>
-<p>JAYDEN YAM ZHI MING</p>
-<p>LIM WEE KIAT JACKIE</p>
-<p>LIM JIA YING</p>
-<p>S TANVEER SHEIK</p>
-<p>SUN HAO CHENG</p>
-<p>PRABHOO KARUNAKARAN</p>
-<p>BAE JUNHO</p>
-<p>KIM JOONSU</p>
-<p>JERRELL TAN YI FENG</p>
-<p>YUE HAO MIN ETHAN</p>
-<p>GIBSON BONG HOONG NIEN</p>
-<p>KHAMBHATI MOIZ HUZEFA</p>
-<p>ZHANG ZHENGYU</p>
+<p>Grade 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ONG ZHI NING BERNICE</p>
-<p>SELVASEKARAN PREETI</p>
-<p>LAKSHMAN SHANTHI KUMAR</p>
-<p>KARNATI SAI EASHAN</p>
-<p>SENTHIL KUMAR HARISH</p>
-<p>M SAI SIDDHAN</p>
-<p>RAJA BHARADH</p>
-<p>DING QIUSHUO</p>
-<p>LIM YI HENG IAN</p>
-<p>TAY LEZANE</p>
+<p>GOLD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIU CHEN XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KEN REYNALD CHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SAANJALI BANGALE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DARREN LOO TZE YUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
+<p></p>
+<p><strong>Sec 2 (19 participants): 6 Bronze, 3 Honorable Mention</strong>
 </p>
-<p><strong>S1 NIE Math Challenge (2024)</strong>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SELVASEKARAN PREETI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOW WEN HUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAY FRANSISCA QUEK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG ZHI ENR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ONG ZHI NING BERNICE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PUTU AIMEE SITA MERTAYASA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JOHN VARGHESE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LUCIUS TOH EN CI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN ZI YANG JAKE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Sec 3 (4 participants): 1 Silver, 2 Bronze, 1 Honorable Mention</strong>
 </p>
-<p><strong>Certificate of Participation with High Distinction</strong>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SUN HAO CHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SANJAY KARTHIGEYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM JIA YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHONG CHEE EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Sec 4 (30 participants): 1 Silver, 5 Bronze, 1 Honorable Mention</strong>
 </p>
-<p>Kaeden Bak Xuan Qi</p>
-<p>Tan Kai Rui</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOW RUI HENG REUVEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CLARENCE TEO JUN JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JERRELL TAN YI FENG (CHEN YIFENG)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAJA BHARADH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ROSIE AUGUSTA SAMUEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TER HENG RUI ELVIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SIDHARTH LWIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
-<p><strong>Certificate of Participation with Distinction</strong>
-</p>
-<p>Ang Yun Li Uliz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Ashton Wong Wei Chieh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Chevelle Aw Yun En</p>
-<p>Chia Jia Xuan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Chong Kai Xin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Elisa Chang Jia Ying</p>
-<p>Jeanne Lee Yixuan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Lee Ying Chuo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Lee Yong Rui</p>
-<p>Low Wen Hui&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Min Thant Ye Naung&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Ophelia Ong Xin Ya</p>
-<p>Selvasekaran Preeti&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Swaminatha Raja Madhumitha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Tan Zi Yang Jake</p>
-<p>Zhang Zijing</p>
 <p>&nbsp;</p>
+<p></p>
