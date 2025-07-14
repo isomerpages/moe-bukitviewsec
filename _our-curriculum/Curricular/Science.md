@@ -314,6 +314,43 @@ which leverages on engaging workshops developed by the Singapore Science
 Centre to enhance their learning experiences in Science through authentic
 contexts such as gastronomy, forensic science, rocket propulsion, energy
 transfer and more!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_1G_water_energy.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_1G_xenophone.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Jam_Making1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Water_Rocket3.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>(E) NXplorers 2.0 Journey</strong>
 </p>
 <p>NXplorers 2.0 Journey is championed by Science Centre Singapore and Shell
@@ -322,7 +359,6 @@ to food, water and energy challenges. Through the process, students learn
 systems thinking, scenario planning, and develop change management skills
 - all highly relevant skill sets that inspire and equip students to be
 positive agents of change.</p>
-<p>&nbsp;</p>
 <p>Only 20 teams were selected as finalists and awarded a <strong>Seed Fund of SGD 2500</strong> to
 build a working prototype.&nbsp;</p>
 <p>The Bukit View team was <strong>one of a few teams invited </strong>by
@@ -330,6 +366,10 @@ the organiser of <strong>STEM Teacher FeST</strong> to showcase their project
 - <strong>New Epic Rainwater Device Specialists (NERDS</strong>) at the
 inaugural event where the GOH was the DGE. The organiser commented that
 the idea of using rainwater to generate electricity and water crop is very <strong>innovative</strong>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Gibson__Moiz3G__Myat2C.jpg">
+</div>
 <p><strong><u>Applied Learning Programme (ALP) – a multi-disciplinary approach to learning Science</u></strong>
 </p>
 <p>With globalisation and rapid technological advancements, we are moving
