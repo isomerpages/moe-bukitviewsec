@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curricular
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student well Being/student_wellbeing4.jpg">
+</div>
 <p>At Bukit View Secondary School, we are committed to creating a caring
 and enabling environment where every student feels safe, supported, and
 empowered to be their best. We believe that student well-being is the foundation
@@ -129,3 +133,139 @@ and active citizenship.</p>
 a school environment where every student feels seen, supported, and inspired
 to thrive. Together as educators, parents, and peers, we create the conditions
 for our students to flourish in school and beyond.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student well Being/student_wellbeing3.jpg">
+</div>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h3><strong>Helpline for Emotional Support</strong></h3>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Mental Well-being</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Samaritans of Singapore (SOS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>24-hour Hotline - 1767</p>
+</li>
+<li>
+<p>24-hour CareText (Whatsapp) - 9151 1767</p>
+</li>
+<li>
+<p>CareMail (Email) - <a rel="noopener noreferrer nofollow" target="_blank">pat@sos.org.sg</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Mindline (available 24 hours)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Helpline – 1771</p>
+</li>
+<li>
+<p>WhatsApp - 6669 1771</p>
+</li>
+<li>
+<p>Online webchat through the chat widget hosted on&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">mindline.sg</a>&nbsp;website
+(<a rel="noopener noreferrer nofollow" target="_blank">https://mindline.sg/fsmh</a>)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Danger of Violence and Abuse (available 24 hours)</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Anti-Violence and Sexual Harassment Helpline (NAVH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Helpline - 1800 77 0000</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Counselling Support</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOUCHline</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Helpline - 1800 377 2252</p>
+</li>
+</ul>
+<p>Monday – Friday, 9am – 6pm (excluding public holidays)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver Ribbon</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Helpline - 6386 1928&nbsp;</p>
+</li>
+</ul>
+<p>Monday – Friday, 9am - 5pm &nbsp;(excluding public holidays)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><em>Note: Information correct as at 14.07.2025</em></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
