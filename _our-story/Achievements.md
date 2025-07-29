@@ -5,6 +5,39 @@ description: ""
 variant: tiptap
 ---
 <h2>Achievements</h2>
+<p></p>
+<h3>Young Technopreneur Challenge 2025</h3>
+<p>The Young Technopreneur Challenge 2025 Finals held on Saturday, 26 July
+2025 is a competition that challenges students to step up as changemakers—designing
+bold, impactful solutions aligned with the UN Sustainable Development Goals,
+Singapore Green Plan 2030, and the Sustainable South West Masterplan.</p>
+<p>Congratulations to our Infocomm Club members comprising of Faheem Ahamed
+(2D), Boddu Chetan Varma (3C), Lee Jung Kye (3F) and Davian Tan Jun Hao
+(3F) for achieving 1st place and Best Presentation Award.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Young_Technopreneur_Challenge_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Young_Technopreneur_Challenge_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Source: <a href="https://www.facebook.com/juniorachievementsingapore" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/juniorachievementsingapore</a>
+</p>
 <h3>NSG Track &amp; Field</h3>
 <p><strong>B Division Boys</strong> - Out of 102 secondary schools that participated,
 only 22 schools appear in the Divisional Rankings and Bukit View was placed
