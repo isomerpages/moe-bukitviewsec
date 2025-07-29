@@ -227,22 +227,152 @@ the practice of Musicking. With reference to the 21st Century Competencies
 and Student Outcomes (Ministry Of Education, 2018), students would collaborate
 with each other to learn from one other in a school community setting.</p>
 <p>Students would have the opportunity to experience the following:</p>
-<p>1 . Instrumental learning (Ukulele, Guitar, Drums, Keyboard)
-<br>2 . Local songs module
-<br>3 . Pop band module
-<br>4 . Opportunities to be coached by actual practitioners</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Instrumental learning (Ukulele, Guitar, Drums, Keyboard)</p>
+</li>
+<li>
+<p>Local songs module</p>
+</li>
+<li>
+<p>Pop band module</p>
+</li>
+<li>
+<p>IT module (Garageband or Bandlab)</p>
+</li>
+<li>
+<p>Rap Module</p>
+</li>
+</ol>
 <p>Music is assessed twice a year. Assessments include research work, individual
 instrumental assessments, ensemble work and listening tests. Weightage
 for each component vary by year.</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/photo_2022-12-24_04-10-27.jpg">
-</div>
 <p><strong>Key programmes</strong>
-<br>1 . Amazing Race@Esplanade – Secondary 1
-<br>2 . SYF Celebrations – Illuminate! &amp; Evolution!
-<br>3 . Lunchtime showcase – Secondary 2
-<br>4 . Attending concerts</p>
-<p><strong>Collaborations</strong>
-<br>1 . Arts Jam @BVPS
-<br>2 . Joint collaboration with Mother Tongue department to teach local songs
-in the classroom</p>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>SYF Youth Station Project (song composition)</p>
+</li>
+<li>
+<p>Youth Day performances</p>
+</li>
+<li>
+<p>Open Mic performances</p>
+</li>
+<li>
+<p>Performing Arts-Based Learning (PABL)</p>
+</li>
+<li>
+<p>Enrichment programmes – Drumming</p>
+</li>
+</ol>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department photos/C&amp;T (Music)/Youth_Station_Project_Elliot.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/C&amp;T (Music)/Zi_Xuan_performing_on_the_piano_for_Youth_Day.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/C&amp;T (Music)/Tori_playing_on_the_guitar_for_Youth_Day_2024.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Youth Day Performances</h4>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/C&amp;T (Music)/Ronnieca_sinigng_solo_for_Youth_Day.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department photos/C&amp;T (Music)/Open_Mic_2024.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/C&amp;T (Music)/Open_Mic_2024_performers.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Open Mic Performances</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/C&amp;T (Music)/Drumming_enrichment_programme_students.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/C&amp;T (Music)/Drumming_enrichment_programme_students_in_Music_Room.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Drumming enrichment programme</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/C&amp;T (Music)/Maestro_Quek_Ling_Siong_introducing_CO_instruments_for_PABL.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/C&amp;T (Music)/Excited_students_waiting_for_PABL_to_start.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Performing Arts-Based Learning (PABL)</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
