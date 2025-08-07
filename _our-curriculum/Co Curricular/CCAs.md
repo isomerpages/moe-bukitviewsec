@@ -27,14 +27,20 @@ Council.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/ccas/Uniformed-Groups/npcc/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/npcc.jpg"></a>
+<p>NPCC</p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/ccas/Uniformed-Groups/ncc/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/ncc.jpg"></a>
+<p>NCC</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/ccas/Uniformed-Groups/gb/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/gb.jpg"></a>
+<p><strong>Girls' Brigade</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/ccas/Uniformed-Groups/bb/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/bb.jpg"></a>
+<p><strong>Boyss Brigade</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -48,18 +54,27 @@ Council.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/drama/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/drama.jpg"></a>
+<p>Drama Club</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/concertb/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/band.jpg"></a>
+<p><strong>Concert Band</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/Choir/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/choir.jpg"></a>
+<p><strong>Choir</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/dance/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/dance.jpg"></a>
+<p><strong>Dance Club</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/media/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/media.jpg"></a>
+<p><strong>Media &amp; Publicity Club</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -76,12 +91,18 @@ Council.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/ccas/Clubs-and-Societies/environmental/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/env.jpg"></a>
+<p><strong>Environmental Club</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/infocomm.jpg"></a>
+<p><strong>Infocomm Club</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/syfc.jpg"></a>
+<p><strong>Singapore Youth Flying Club</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -98,18 +119,28 @@ Council.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/badminton/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/badminton.jpg"></a>
+<p><strong>Badminton (Boys Only)</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/floorball/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/floorball.jpg"></a>
+<p><strong>Floorball</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/table_tennis.jpg"></a>
+<p><strong>Table Tennis</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/track-n-field/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/tnf.jpg"></a>
+<p><strong>Track &amp; Field</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/volleyball.jpg"></a>
+<p><strong>Volleyball (Girls Only)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
