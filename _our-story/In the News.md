@@ -5,6 +5,27 @@ description: ""
 variant: tiptap
 ---
 <h2>In the News</h2>
+<p></p>
+<h4>LEAP Award 2025</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/In the news/LEAP_Award_2025_1.jpg">
+</div>
+<p></p>
+<p>The LEAP Award, which stands for “Listening Educator for Advancement and
+Progress Award”, was launched by the late former President S R Nathan in
+2011 and awarded by Singapore Hokkien Huay Kuan annually to recognise exceptional
+teachers who have made a positive impact in nurturing their students from
+the heart.</p>
+<p>Ms Joy Chen was chosen from a pool of 329 nominated teachers to emerge
+as one of the 20 to be granted this award. Do watch the video below to
+hear her belief and what the students have to say about Ms Joy. (2.39 to
+3.10)</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LJGfBLFzQJM?si=YCNbwM5rpEzOjUC1&amp;start=159"></iframe>
+</div>
+<p>Read more about it here: <a href="https://www.shhk.com.sg/newsroom/leap-award-2025/" rel="noopener noreferrer nofollow" target="_blank">https://www.shhk.com.sg/newsroom/leap-award-2025/</a>
+</p>
 <h4>Most Inspiring Tamil Teachers' Award 2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
