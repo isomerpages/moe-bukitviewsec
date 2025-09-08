@@ -6,7 +6,28 @@ variant: tiptap
 ---
 <h2>In the News</h2>
 <h4>Most Inspiring Tamil Teachers' Award 2025</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/In the news/MITT_2025_from_Tamilmurasu.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/In the news/Stalin_MITT.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Mr Stalin Ramasamy was among the winners for the Most Inspiring Tamil
 Teachers' Award, given for Tamil Language teachers who has made significant
 contributions to the teaching and learning of Tamil Language using innovative
