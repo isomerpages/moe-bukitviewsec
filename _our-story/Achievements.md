@@ -86,8 +86,11 @@ Read more about Sai's and Darshan's achievements <a href="https://www.bukitviews
 <p></p>
 <h3>Singapore Youth Festival 2025 Arts Presentation</h3>
 <p>Congratulations to our Performing Arts Groups!</p>
+<p><strong><u>Dance Club</u></strong> - Achieved Certificate of Distinction.</p>
+<p><strong><u>Drama Club</u></strong> - Achieved Certificate of Accomplishment.</p>
 <p><strong><u>Choir</u></strong> - Achieved Certificate of Accomplishment.</p>
 <p><strong><u>Concert Band</u></strong> - Achieved Certificate of Accomplishment.</p>
+<p></p>
 <hr>
 <h3>Uniformed Group Awards</h3>
 <p>Congratulations to our Uniformed Groups for achieving the highest attainable
