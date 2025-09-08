@@ -17,7 +17,7 @@ lessons more engaging and interactive.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>TLLPC Instagram:<strong> </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/tllpc/p/DN-YJfBj1TI/?img_index=10</a>
+<p>TLLPC Instagram:<strong> </strong><a href="https://www.instagram.com/tllpc/p/DN-YJfBj1TI/?img_index=10" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/tllpc/p/DN-YJfBj1TI/?img_index=10</a>
 </p>
 </li>
 </ul>
@@ -25,11 +25,11 @@ lessons more engaging and interactive.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Tamil Murasu</em>: <a rel="noopener noreferrer nofollow" target="_blank">https://www.tamilmurasu.com.sg/singapore/tamil-teachers-are-ones-who-ensure-enduring-language-lasts-contemporary-expertise-dinesh-vasudoss</a>
+<p><em>Tamil Murasu</em>: <a href="https://www.tamilmurasu.com.sg/singapore/tamil-teachers-are-ones-who-ensure-enduring-language-lasts-contemporary-expertise-dinesh-vasudoss" rel="noopener noreferrer nofollow" target="_blank">https://www.tamilmurasu.com.sg/singapore/tamil-teachers-are-ones-who-ensure-enduring-language-lasts-contemporary-expertise-dinesh-vasudoss</a>
 </p>
 </li>
 <li>
-<p><em>Mediacorp Vasantham</em>: <a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/reel/DN-yw8KARTn/?igsh=MWk3M2R2Y3V4eG5seg%3D%3D</a>
+<p><em>Mediacorp Vasantham</em>: <a href="https://www.instagram.com/reel/DN-yw8KARTn/?igsh=MWk3M2R2Y3V4eG5seg%3D%3D" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/reel/DN-yw8KARTn/?igsh=MWk3M2R2Y3V4eG5seg%3D%3D</a>
 </p>
 </li>
 </ul>
