@@ -5,6 +5,38 @@ description: ""
 variant: tiptap
 ---
 <h2>Achievements</h2>
+<h3>Floorball NSG League 3 2025</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Sports &amp; Games/Floorball/Floorball_C_div_3.jpg">
+</div>
+<p>Floorball boys was only introduced as a CCA in 2024. Our C Division boys
+has made the school proud by achieving 3rd placing in the Floorball C Division
+Boys League 3. With the result, Bukit View Secondary school has also been
+promoted to League 2 for 2026.</p>
+<p>Congratulations to the boys!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Sports &amp; Games/Floorball/Floorball_C_div_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Sports &amp; Games/Floorball/Floorball_C_div_1.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h3>Young Technopreneur Challenge 2025</h3>
 <p>The Young Technopreneur Challenge 2025 Finals held on Saturday, 26 July
@@ -86,8 +118,11 @@ Read more about Sai's and Darshan's achievements <a href="https://www.bukitviews
 <p></p>
 <h3>Singapore Youth Festival 2025 Arts Presentation</h3>
 <p>Congratulations to our Performing Arts Groups!</p>
+<p><strong><u>Dance Club</u></strong> - Achieved Certificate of Distinction.</p>
+<p><strong><u>Drama Club</u></strong> - Achieved Certificate of Accomplishment.</p>
 <p><strong><u>Choir</u></strong> - Achieved Certificate of Accomplishment.</p>
 <p><strong><u>Concert Band</u></strong> - Achieved Certificate of Accomplishment.</p>
+<p></p>
 <hr>
 <h3>Uniformed Group Awards</h3>
 <p>Congratulations to our Uniformed Groups for achieving the highest attainable
