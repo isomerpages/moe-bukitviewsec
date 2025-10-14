@@ -43,15 +43,15 @@ sections:
           linktext: Click here!
           url: https://www.bukitviewsec.moe.edu.sg/our-story/contact-us/
   - infopic:
-      description: Find out more about Bukit View Secondary school!
-      button: Click here
-      url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
-      image: /images/Homepage/BVSS_Students_in_4_boxes.png
-      alt: Image alt text
-  - infopic:
       title: Open House 2025
       id: infopic
       description: Do join us on 15 November 2025 from 8.30 am - 12.30 pm
       image: /images/Open_House.png
+      alt: Image alt text
+  - infopic:
+      description: Find out more about Bukit View Secondary school!
+      button: Click here
+      url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
+      image: /images/Homepage/BVSS_Students_in_4_boxes.png
       alt: Image alt text
 ---
