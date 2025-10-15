@@ -54,4 +54,21 @@ sections:
       url: https://www.bukitviewsec.moe.edu.sg/admissions/voh
       image: /images/Homepage/BVSS_Students_in_4_boxes.png
       alt: Image alt text
+  - infopic:
+      title: THE PRESIDENT'S AWARD FOR TEACHERS (PAT) 2026
+      id: infopic
+      description: The nomination period for the PAT opens on 21 October 2025 and will
+        close on 12pm, 9 January 2026.
+      button: Click here to vote
+      url: https://go.gov.sg/pat2026
+      image: /images/Homepage/PAT.jpg
+      alt: Image alt text
+  - infopic:
+      title: THE OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026
+      id: infopic
+      description: The nomination period for the OYEA opens on 21 October 2025 and
+        will close on 12pm, 9 January 2026.
+      button: Click here to vote
+      url: https://go.gov.sg/oyea2026
+      alt: Image alt text
 ---
