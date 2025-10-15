@@ -37,6 +37,9 @@ contributions to the teaching and learning of Tamil Language using innovative
 methods, including the effective use of educational technology to make
 lessons more engaging and interactive.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/In the news/Stalin_MITT_2025.png">
+</div>
 <p>You may find out more through the links below:</p>
 <p><strong>Social Media:</strong>
 </p>
