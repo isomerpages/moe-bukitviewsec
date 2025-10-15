@@ -543,6 +543,9 @@ water robots</p>
 <p><strong><u>Appreciation – Chemistry Learning Day 2025 Digital Innovation Series</u></strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department photos/Science/CLD_2025.png">
+</div>
 <p>Congratulations to Mdm Fatimah Begum for her valuable contribution to
 the Teaching and Learning of Chemistry!
 <br>
