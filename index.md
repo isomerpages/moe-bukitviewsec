@@ -25,6 +25,12 @@ sections:
   - resources:
       id: resources
       title: BUILDING VISTAS SOWING SUCCESS
+  - infopic:
+      title: Open House 2025
+      id: infopic
+      description: Do join us on 15 November 2025 from 8.30 am - 12.30 pm
+      image: /images/Open_House.png
+      alt: Image alt text
   - textcards:
       title: "#BVSS"
       id: textcards
@@ -42,12 +48,6 @@ sections:
           description: ""
           linktext: Click here!
           url: https://www.bukitviewsec.moe.edu.sg/our-story/contact-us/
-  - infopic:
-      title: Open House 2025
-      id: infopic
-      description: Do join us on 15 November 2025 from 8.30 am - 12.30 pm
-      image: /images/Open_House.png
-      alt: Image alt text
   - infopic:
       description: Find out more about Bukit View Secondary school!
       button: Click here
