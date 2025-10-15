@@ -71,4 +71,5 @@ sections:
       button: Click here to vote
       url: https://go.gov.sg/oyea2026
       alt: Image alt text
+      image: /images/Homepage/OYEA.jpg
 ---
