@@ -8,6 +8,9 @@ variant: tiptap
 <p></p>
 <h3>Yellowren Inter-School Canvas Art Competition</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Yellowren.jpg">
+</div>
 <p>On August 23rd, our team of Sec 3 students comprising of Ewing-chow Elyssa
 Grace (3E), Nur Qayla Maisarah binte Mohamad Fairul (3E), Tori Tan Hui
 Qi (3E) and En Wong (3E) took part in the Yellowren Inter-school Canvas
