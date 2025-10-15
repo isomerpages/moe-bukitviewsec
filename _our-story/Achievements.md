@@ -5,8 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h2>Achievements</h2>
-<h3>Floorball NSG League 3 2025</h3>
 <p></p>
+<h3>Yellowren Inter-School Canvas Art Competition</h3>
+<p></p>
+<p>On August 23rd, our team of Sec 3 students comprising of Ewing-chow Elyssa
+Grace (3E), Nur Qayla Maisarah binte Mohamad Fairul (3E), Tori Tan Hui
+Qi (3E) and En Wong (3E) took part in the Yellowren Inter-school Canvas
+Art Competition held at the Lower Seletar Reservoir and achieved the <strong>Honorable Mention Award</strong>!</p>
+<p>For their efforts, they received cash prize, a school trophy and a certificate
+of participation each.</p>
+<hr>
+<h3>Floorball NSG League 3 2025</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Sports &amp; Games/Floorball/Floorball_C_div_3.jpg">
 </div>
@@ -37,7 +46,7 @@ promoted to League 2 for 2026.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <h3>Young Technopreneur Challenge 2025</h3>
 <p>The Young Technopreneur Challenge 2025 Finals held on Saturday, 26 July
 2025 is a competition that challenges students to step up as changemakers—designing
@@ -70,6 +79,7 @@ Singapore Green Plan 2030, and the Sustainable South West Masterplan.</p>
 </table>
 <p>Source: <a href="https://www.facebook.com/juniorachievementsingapore" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/juniorachievementsingapore</a>
 </p>
+<hr>
 <h3>NSG Track &amp; Field</h3>
 <p><strong>B Division Boys</strong> - Out of 102 secondary schools that participated,
 only 22 schools appear in the Divisional Rankings and Bukit View was placed
@@ -115,14 +125,13 @@ Read more about Sai's and Darshan's achievements <a href="https://www.bukitviews
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <h3>Singapore Youth Festival 2025 Arts Presentation</h3>
 <p>Congratulations to our Performing Arts Groups!</p>
 <p><strong><u>Dance Club</u></strong> - Achieved Certificate of Distinction.</p>
 <p><strong><u>Drama Club</u></strong> - Achieved Certificate of Accomplishment.</p>
 <p><strong><u>Choir</u></strong> - Achieved Certificate of Accomplishment.</p>
 <p><strong><u>Concert Band</u></strong> - Achieved Certificate of Accomplishment.</p>
-<p></p>
 <hr>
 <h3>Uniformed Group Awards</h3>
 <p>Congratulations to our Uniformed Groups for achieving the highest attainable
