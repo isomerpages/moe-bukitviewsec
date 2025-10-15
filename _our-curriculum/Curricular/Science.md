@@ -540,6 +540,10 @@ water robots</p>
 <p>More information on our <strong>JOULES ALP</strong> is available at this
 <a href="https://www.bukitviewsec.moe.edu.sg/our-distinctives/joules-alp/" rel="noopener nofollow" target="_blank">link</a>.</p>
 <p></p>
-<p>
+<p><strong><u>Appreciation – Chemistry Learning Day 2025 Digital Innovation Series</u></strong>
+</p>
+<p></p>
+<p>Congratulations to Mdm Fatimah Begum for her valuable contribution to
+the Teaching and Learning of Chemistry!
 <br>
 </p>
