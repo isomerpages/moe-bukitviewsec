@@ -1,5 +1,5 @@
 collections:
-  zz-archiveref:
+  z-archive-ref:
     output: true
     order:
       - Teacher Leaders.md
