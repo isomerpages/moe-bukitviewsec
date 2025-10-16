@@ -293,6 +293,38 @@ in their chemical knowledge and skills. It seeks to promote the excitement
 in learning and doing Chemistry as well as to identify and develop chemistry
 talents. SJChO is organized by Singapore National Institute of Chemistry
 with support from the Ministry of Education (MOE).</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NAME</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CLASS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>AWARD</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YE WENKAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>(B) Singapore Junior Physics Olympiad (SJPO)</strong>
 </p>
 <p>This annual competition aims to encourage the <strong>study and appreciation of physics</strong> beyond
@@ -300,11 +332,131 @@ the school curriculum and provides opportunities for students to solve
 novel physics problems that require <strong>critical and inventive thinking</strong>.
 SJPO is organised by the Institute of Physics, Singapore (IPS) with support
 from the Ministry of Education (MOE).</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NAME</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CLASS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>AWARD</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY KAI YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SONALI SENAPATI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>(C) Singapore Junior Biology Olympiad (SJBO)</strong>
 </p>
 <p>SJBO provides a platform for upper secondary students to challenge themselves
 further in the area of Biology and is an initiative built on their strong
-grasp on fundamentals.</p>
+grasp on fundamentals. It aims to promote the advancement of Biology for
+Secondary School students, by encouraging the improvement of education
+in Biology and the training of those interested in Biology.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NAME</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>CLASS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>AWARD</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY KAI YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ROSIE AUGUSTA SAMUEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NATALIE NATA YEW</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TER JIA XUAN SONYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>REBECCA RAJAN GEORGE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONORABLE MENTION</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong><u>Enrichment through Learning Journeys and Competitions</u></strong>
 </p>
 <p><strong>(D) Scientist for a Day (SFAD)</strong>
@@ -386,6 +538,15 @@ Singapore Science Centre.</p>
 <p>Sec 2: Designing solutions for future Smart Cities; Water testing using
 water robots</p>
 <p>More information on our <strong>JOULES ALP</strong> is available at this
-<a href="https://www.bukitviewsec.moe.edu.sg/our-distinctives/joules-alp/" rel="noopener nofollow" target="_blank">link</a>.
+<a href="https://www.bukitviewsec.moe.edu.sg/our-distinctives/joules-alp/" rel="noopener nofollow" target="_blank">link</a>.</p>
+<p></p>
+<p><strong><u>Appreciation – Chemistry Learning Day 2025 Digital Innovation Series</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department photos/Science/CLD_2025.png">
+</div>
+<p>Congratulations to Mdm Fatimah Begum for her valuable contribution to
+the Teaching and Learning of Chemistry!
 <br>
 </p>

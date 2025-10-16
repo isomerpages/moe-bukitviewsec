@@ -7,6 +7,9 @@ variant: tiptap
 <h2>More about BVSS</h2>
 <h4></h4>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="files/bvss_westories.pdf" src="/images/Admissions/Virtual open house/The_BVSS_Stories_Coverpage.png">
 </div>
 <p><a href="/files/BVSS Stories/The_BVSS_Stories.pdf" rel="noopener nofollow" target="_blank">Click here for the BVSS Stories</a>
