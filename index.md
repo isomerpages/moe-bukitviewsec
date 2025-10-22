@@ -28,7 +28,9 @@ sections:
   - infopic:
       title: Open House 2025
       id: infopic
-      description: Do join us on 15 November 2025 from 8.30 am - 12.30 pm
+      description: Join us at the BVSS Open House 2025 on Saturday, 15 November, 8.30
+        a.m. – 12.30 p.m. Come and discover why Bukit View Secondary School is
+        the place to be!
       image: /images/Open_House.png
       alt: Image alt text
   - textcards:
@@ -57,8 +59,8 @@ sections:
   - infopic:
       title: THE PRESIDENT'S AWARD FOR TEACHERS (PAT) 2026
       id: infopic
-      description: The nomination period for the PAT opens on 21 October 2025 and will
-        close on 12pm, 9 January 2026.
+      description: The nomination period for the PAT opens on 21 October 2025 and
+        closes at 12.00 p.m. on 9 January 2026.
       button: Click here to vote
       url: https://go.gov.sg/pat2026
       image: /images/Homepage/PAT.jpg
@@ -67,7 +69,7 @@ sections:
       title: THE OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026
       id: infopic
       description: The nomination period for the OYEA opens on 21 October 2025 and
-        will close on 12pm, 9 January 2026.
+        closes at 12.00 p.m. on 9 January 2026.
       button: Click here to vote
       url: https://go.gov.sg/oyea2026
       alt: Image alt text

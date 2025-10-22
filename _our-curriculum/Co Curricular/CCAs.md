@@ -39,7 +39,7 @@ Council.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/ccas/Uniformed-Groups/bb/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA Page/CCA main page/bb.jpg"></a>
-<p><strong>Boyss Brigade</strong>
+<p><strong>Boys' Brigade</strong>
 </p>
 </td>
 </tr>
