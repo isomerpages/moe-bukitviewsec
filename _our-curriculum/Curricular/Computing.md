@@ -33,12 +33,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Computing</strong>
+<p><strong>Computing (G1/G2/G3)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CPA</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
