@@ -211,15 +211,6 @@ at Gardens By the Bay**</p>
 <div class="iframe-wrapper">
 <iframe height="515" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rV2fPgIim0o"></iframe>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/en1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/en2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/en3.jpg">
-</div>
 <p>
 <br>
 </p>
