@@ -28,7 +28,9 @@ sections:
   - infopic:
       title: Open House 2025
       id: infopic
-      description: Do join us on 15 November 2025 from 8.30 am - 12.30 pm
+      description: Join us at the BVSS Open House 2025 on Saturday, 15 November, 8.30
+        a.m. – 12.30 p.m. Come and discover why Bukit View Secondary School is
+        the place to be!
       image: /images/Open_House.png
       alt: Image alt text
   - textcards:
