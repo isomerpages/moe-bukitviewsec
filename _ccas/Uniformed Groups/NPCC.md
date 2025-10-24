@@ -10,11 +10,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/NPCC_Formal.jpg">
 </div>
 <h4><strong>BACKGROUND</strong></h4>
-<p>The BVSS NPCC Unit was formed back in 1986, making it one of the school's
-pioneer uniformed groups with a rich and storied history.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/NPCC/npcc12.jpg">
 </div>
+<p>The BVSS NPCC Unit was formed back in 1986, making it one of the school's
+pioneer uniformed groups with a rich and storied history.</p>
 <p>Bukit View NPCC cadets are actively engaged in activities that aim to
 develop their potential as youth-leaders who are imbued with sound values
 and a strong moral compass. As the only youth organization in Singapore
@@ -26,7 +26,8 @@ we aim to achieve the following:</p>
 <div class="isomer-card-title">OUR CORPS MISSION &amp; VISION</div>
 <div class="isomer-card-description">To develop our members to be active citizens and community leaders, by
 working in partnership with the Singapore Police Force to fight crime and
-keep Singapore safe.</div>
+keep Singapore safe. To become the best youth organization in Singapore,
+one that actively helps to make Singapore the safest place in the world.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -38,8 +39,8 @@ keep Singapore safe.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">OUR UNIT VALUES</div>
-<div class="isomer-card-description">Grit: To succeed Zest: To learn Gratitude: In thriving PERSEVERING FORWARD
-BOUND</div>
+<div class="isomer-card-description">Grit: To succeed; Zest: To learn; Gratitude: In thriving; PERSEVERING
+FORWARD BOUND</div>
 </div>
 </div>
 </div>
@@ -49,7 +50,7 @@ BOUND</div>
 <summary><strong>SHOWCASES &amp; EVENTS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4><strong>[2024]</strong></h4>
+<h4><strong>[2025]</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Learning Experiences</strong>
@@ -74,7 +75,7 @@ cooking, to community crime prevention discussions and advocacy.</p>
 </p>
 </li>
 <li>
-<p><strong>Annual Crime Scene Investigation Competition</strong>
+<p><strong>Annual Area 16 Games Day</strong>
 </p>
 </li>
 </ul>
@@ -92,7 +93,7 @@ cooking, to community crime prevention discussions and advocacy.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2023 Unit Overall Proficiency Award</strong>
+<p><strong>2024 Unit Overall Proficiency Award</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,32 +103,32 @@ cooking, to community crime prevention discussions and advocacy.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2024 Promotions to Station Inspector (NPCC):</strong>
+<p><strong>2025 Promotions to Station Inspector (NPCC):</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Station Inspector (NPCC) Tammy Yong</p>
+<p>Station Inspector (NPCC) Nur Daniya Ashlynn Binte Muhammad Khalid</p>
 </li>
 <li>
-<p>Station Inspector (NPCC)&nbsp; Harijit V.R</p>
+<p>Station Inspector (NPCC) Dina Qhaisara Khan Binte Hafiz Khan</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2024 SPF-NPCC Badge:&nbsp;</strong>
+<p><strong>2025 SPF-NPCC Badge:&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Station Inspector (NPCC) Tammy Yong</p>
+<p>Station Inspector (NPCC) Dina Qhaisara Khan Binte Hafiz Khan</p>
 </li>
 <li>
-<p>Staff Sergeant (NPCC) Naw Htee Moo Khu, Augustina</p>
+<p>Staff Sergeant (NPCC) Louanne Goh Han En</p>
 </li>
 </ul>
 </td>
@@ -138,7 +139,7 @@ cooking, to community crime prevention discussions and advocacy.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff Sergeant (NPCC): Vidhula Deivasigamani</p>
+<p>Staff Sergeant (NPCC): Nur Insyirah Binte Solaiman</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +147,7 @@ cooking, to community crime prevention discussions and advocacy.</p>
 <p><strong>Best Unit Cadet (Male):</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff Sergeant (NPCC) Tan Han Cong Bean</p>
+<p>Staff Sergeant (NPCC) Gunasekaran Barani Kumar</p>
 </td>
 </tr>
 </tbody>
@@ -156,13 +157,7 @@ cooking, to community crime prevention discussions and advocacy.</p>
 </details>
 </div>
 <p></p>
-<p>
-<br>
-</p>
 <p></p>
-<p>
-<br>
-</p>
 <p></p>
 <h4><strong>PHOTO GALLERY</strong></h4>
 <p>Please click to view the photos of event.</p>
@@ -171,18 +166,30 @@ cooking, to community crime prevention discussions and advocacy.</p>
 <summary><strong>BVSS Joint National Uniform Group Camp</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/CCA%20Page/Uniformed%20Groups/NPCC/01npcc1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/NPCC/joint_camp_1.jpg">
 </div>
 </td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/NPCC/joint_camp2.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
 <p>NPCC cadets together with their NCC counterparts bonded through activities
 designed to challenge them physically and mentally in a spirit of learning
@@ -208,6 +215,12 @@ their NCC peers.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/NPCC/cssp2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/NPCC/CSSP1.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/NPCC/02npcc2.jpg">
 </div>
@@ -235,7 +248,7 @@ officers from Bukit Batok Neighborhood Police Centre</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Annual Crime Scene Investigation Competition&nbsp;</strong>
+<summary><strong>Annual Area 16 Games Day&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
@@ -249,17 +262,20 @@ officers from Bukit Batok Neighborhood Police Centre</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/CCA%20Page/Uniformed%20Groups/NPCC/03npcc3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/NPCC/area_games_day_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/NPCC/area_games_day1.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<ul>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>Organized by NPCC HQ, BVSS Sec 3 Cadets put their heads together in a battle of wits to solve a crime in a race against time in a simulation.</strong>
-</p>
+<p>Organized by schools in NPCC Area 16, Cadets come together to participate
+in various sports and games.</p>
 </li>
 </ul>
-</th>
+</td>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
@@ -325,20 +341,11 @@ Unit Routine Orders</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Officer in Command</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A/ASP (NPCC) Afiq Ismail</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>(Acting) Deputy Officer in Command</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vianne Tan</p>
+<p>P/INSP (NPCC) Ms Vianne Tan</p>
 </td>
 </tr>
 <tr>
@@ -380,7 +387,8 @@ Unit Routine Orders</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P/CI (NPCC) Nur Syahirah Razak</p>
+<p>CI (NPCC) Nur Syahirah Razak</p>
+<p>CI (NPCC) Nur Insyirah Razak</p>
 </td>
 </tr>
 </tbody>
@@ -390,6 +398,7 @@ Unit Routine Orders</p>
 <details class="isomer-details">
 <summary>List of EXCO Members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -411,7 +420,7 @@ Unit Routine Orders</p>
 <p>Unit Chief&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) DINA QHAISARA KHAN BINTE HAFIZ KHAN</p>
+<p>SGT (NPCC) KESHA JELITA BINTE MOHAMED ZAINAL</p>
 </td>
 </tr>
 <tr>
@@ -420,7 +429,7 @@ Unit Routine Orders</p>
 <p>(Training &amp; Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) NUR DANIYA ASHLYNN BINTE MUHAMMAD KHALID</p>
+<p>SGT (NPCC) TOOBA @ LIN LEI KYE SYN OO</p>
 </td>
 </tr>
 <tr>
@@ -429,7 +438,7 @@ Unit Routine Orders</p>
 <p>(Operations &amp; Administration)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) LOUANNE GOH HAN EN</p>
+<p>SGT (NPCC) NEO YUTING (LIANG YUTING)</p>
 </td>
 </tr>
 <tr>
@@ -437,7 +446,7 @@ Unit Routine Orders</p>
 <p>Squad Leader (Sec 1)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) GUNASEKARAN BARANIKUMAR</p>
+<p>SGT (NPCC) CHANDRAMOHAN KAAVYA</p>
 </td>
 </tr>
 <tr>
@@ -445,7 +454,7 @@ Unit Routine Orders</p>
 <p>Squad Leader (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) MOHD HAIRI FAHMI BIN MOHD FADIL</p>
+<p>CPL (NPCC) DEEBAK S/O RAJA GANESH</p>
 </td>
 </tr>
 <tr>
@@ -453,7 +462,7 @@ Unit Routine Orders</p>
 <p>Squad Leader (Sec 2)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) RAJA BHARADH</p>
+<p>SGT (NPCC) HEMNATH VELMURUGAN</p>
 </td>
 </tr>
 <tr>
@@ -461,15 +470,15 @@ Unit Routine Orders</p>
 <p>Squad Leader (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) NUR INSYIRAH BINTE SOLAIMAN</p>
+<p>CPL (NPCC) ZARA DZAFIRA BINTE MUHAMMAD FARHAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cadet Well-being &amp; Safety Specialist</p>
+<p>Overseeing Squad Leader (Sec 1 &amp; 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) NUR ZARA BINTE MOHAMMAD NAJIB</p>
+<p>SGT (NPCC) GOPI DHIRAJ</p>
 </td>
 </tr>
 <tr>
@@ -477,7 +486,7 @@ Unit Routine Orders</p>
 <p>Quartermaster</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) DARSHINI SRI</p>
+<p>CPL (NPCC) HAZIQAH INSYIRAH BINTE MALIK FAIZAL</p>
 </td>
 </tr>
 </tbody>

@@ -276,6 +276,119 @@ showed how math shapes the way our city is designed and developed.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Mathematics/authentic_learning.jpg">
 </div>
 <p></p>
+<h4><strong>SINGAPORE MATHEMATICAL OLYMPIAD (SMO) 2025</strong></h4>
+<p><strong>Junior Section</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YANG HAOXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YANG HAOQING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JOHN VARGHESE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRONZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG ZHI ENR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONOURABLE MENTION</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Senior Section</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SUN HAOCHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONOURABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BAE JUNHO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONOURABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TER JIA XUAN SONYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONOURABLE MENTION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOW RUI HENG REUVEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HONOURABLE MENTION</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>SASMO 2025 Results</strong></h4>
 <p><strong>Total 2 Gold, 2 Silver, 14 Bronze, 8 Honorable Mention</strong>
 </p>
