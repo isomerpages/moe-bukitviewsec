@@ -28,7 +28,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MRS_ANNA_LING.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Key Personel Photos/Updated/MRS_ANNA_LING.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
