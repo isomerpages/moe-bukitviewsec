@@ -94,7 +94,7 @@ variant: tiptap
 <p>Mr Aw Kang Foong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lim Tse Jiang Russell</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ variant: tiptap
 <p>Mdm Fatimah Begum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lin I Chen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -121,7 +121,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lim Ying Faye</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -540,13 +540,13 @@ water robots</p>
 <p>More information on our <strong>JOULES ALP</strong> is available at this
 <a href="https://www.bukitviewsec.moe.edu.sg/our-distinctives/joules-alp/" rel="noopener nofollow" target="_blank">link</a>.</p>
 <p></p>
-<p><strong><u>Appreciation – Chemistry Learning Day 2025 Digital Innovation Series</u></strong>
+<p><strong><u>Contribution to Teaching Fraternity</u></strong>
 </p>
-<p></p>
+<p>Appreciation to Mdm Fatimah for Chemistry Learning Day 2025 and Digital
+Innovation Series.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Department photos/Science/CLD_2025.png">
 </div>
-<p>Congratulations to Mdm Fatimah Begum for her valuable contribution to
-the Teaching and Learning of Chemistry!
+<p>
 <br>
 </p>
