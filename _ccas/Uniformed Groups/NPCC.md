@@ -10,11 +10,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/NPCC_Formal.jpg">
 </div>
 <h4><strong>BACKGROUND</strong></h4>
-<p>The BVSS NPCC Unit was formed back in 1986, making it one of the school's
-pioneer uniformed groups with a rich and storied history.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/NPCC/npcc12.jpg">
 </div>
+<p>The BVSS NPCC Unit was formed back in 1986, making it one of the school's
+pioneer uniformed groups with a rich and storied history.</p>
 <p>Bukit View NPCC cadets are actively engaged in activities that aim to
 develop their potential as youth-leaders who are imbued with sound values
 and a strong moral compass. As the only youth organization in Singapore
@@ -26,7 +26,8 @@ we aim to achieve the following:</p>
 <div class="isomer-card-title">OUR CORPS MISSION &amp; VISION</div>
 <div class="isomer-card-description">To develop our members to be active citizens and community leaders, by
 working in partnership with the Singapore Police Force to fight crime and
-keep Singapore safe.</div>
+keep Singapore safe. To become the best youth organization in Singapore,
+one that actively helps to make Singapore the safest place in the world.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -38,8 +39,8 @@ keep Singapore safe.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">OUR UNIT VALUES</div>
-<div class="isomer-card-description">Grit: To succeed Zest: To learn Gratitude: In thriving PERSEVERING FORWARD
-BOUND</div>
+<div class="isomer-card-description">Grit: To succeed; Zest: To learn; Gratitude: In thriving; PERSEVERING
+FORWARD BOUND</div>
 </div>
 </div>
 </div>
