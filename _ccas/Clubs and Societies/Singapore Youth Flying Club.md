@@ -132,6 +132,13 @@ the club’s activities</p>
 Centre</p>
 </li>
 </ul>
+<p></p>
+<h4>Photo Gallery</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Singapore Amazing Flying Machine Competition (SAFMC) @ Singapore Science
+Centre</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -139,68 +146,85 @@ Centre</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/group%20photo%20@safmc.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Clubs and Societies/Youth Flying Club/SAFMC.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/launch%20glider.jpg">
-</div>
-</th>
-</tr>
-<tr>
+</td>
 <td rowspan="1" colspan="1">
 <p>Group photo at SAFMC</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Launch glider</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/make%20glider.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Clubs and Societies/Youth Flying Club/SAFMC2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/practise%20flight%20simulator.jpg">
-</div>
+<p>Make Glider @ SAFMC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Make Glider</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Practise flight simulator</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/graduates%20of%20swift%20(syfc%20work-up%20and%20introduction%20to%20flight%20training)%20course.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Clubs and Societies/Youth Flying Club/SAFMC3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Clubs%20and%20Societies/Youth%20Flying%20Club/swift%20course%20badge.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Graduates of SWIFT (SYFC Work-up and Introduction to Flight Training)
-course</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Swift course badge</p>
+<p>Launch Glider @ SAFMC</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Practise flight simulator</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Clubs and Societies/Youth Flying Club/flight_simulator.jpg">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Aerobot Challenge @ Ngee Ann Polytechnic</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Clubs and Societies/Youth Flying Club/aerobot_challenge1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aerobot Challenge Training Session</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Clubs and Societies/Youth Flying Club/aerobot_challenge2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student piloting drone at Aerobot Challenge</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</div>
+</details>
+</div>
 <h4>AWARDS AND ACHIEVEMENTS</h4>
 <table style="minWidth: 75px">
 <colgroup>
