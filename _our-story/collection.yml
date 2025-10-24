@@ -2,9 +2,9 @@ collections:
   our-story:
     output: true
     order:
-      - School Leaders' Message.md
       - Vision, Mission, Values, Motto.md
       - Logo and Song.md
+      - School Leaders' Message.md
       - Past Principals.md
       - Achievements.md
       - In the News.md
