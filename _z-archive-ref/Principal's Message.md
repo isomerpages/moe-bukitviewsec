@@ -4,24 +4,23 @@ permalink: /our-story/prin-msg/
 description: ""
 variant: markdown
 ---
-## Principal's Message
-
-<img src="/images/Mr%20Jaswant%20Singh.jpg" style="width:30%" align="right">
-We are 39!
-
-The BVSS Curriculum is anchored on the tenets of Positive Education, namely Positive Relationships, Positive Emotions, Positive Health, Positive Engagement, Positive Accomplishment, and Positive Purpose.
-These Positive Education efforts are driven through two pillars of student development – Learning Strategies and Social Skills Development. 
-
-A key feature of the BVSS Curriculum is the provision of multi-modal development opportunities which strive to develop each student’s potential to the maximum. Engagement in STEM is structured to develop 21CC-ready graduands, while confidence, articulate expression, and character are nurtured through the Arts x Values curriculum. A wide range of subject offerings harness students’ passion to learn and grow while an extensive suite of CCAs, Enrichment Programmes, Lifeskills Development, and VIA outreach efforts strengthen students’ resilience, sense of community, and character. Leadership Development and Recognition mould Bukit Viewans into all-rounded, confident persons.
-
-Buttressed by accomplished alumni, an active Parent Support Group, and a dedicated School Advisory Committee, BVSS inspires and enables students to realise their aspirations.
-
-As the BVSS Brand turns 39 this year, we stride forward to nurture every learner, constantly guided by our Mission to remain ‘A dynamic institution that adds value to all by valuing learners, valuing learning and learning values’, and our Motto ‘Care &amp; Share, Achieve &amp; Excel’.
+## **School Leaders' Message**
 
 
-*Bukit View, the Place to Be*<br>
-*Building Vistas Sowing Success*
+A warm welcome to Bukit View Secondary School (BVSS)!
 
-Mr Jaswant Singh <br>
-Principal<br>
-Bukit View Secondary School<br>
+As BVSS approaches its 40th year in 2026, the School Leadership Team extends our heartfelt appreciation to all who have been part of the BVSS journey - our staff, students, parents, alumni, and partners. We also extend our gratitude to the many past School Leaders and staff whose dedication and contributions have enabled BVSS to grow from strength to strength, and we celebrate their achievements. Together, we have built a vibrant, caring and enabling community anchored on our school values of Zest, Grit and Gratitude, inspired by our school vision of nurturing Engaged Learners, Empathetic Citizens and Ethical Advocates, and underpinned by the principles of Positive Education.
+
+At BVSS, we believe that every student has unique strengths and the potential to grow. We are committed to supporting the holistic development of every Bukit Viewan, nurturing them to discover their strengths, develop the values and 21st century competencies, as well as the digital literacy and technological skills, that will enable them to thrive and harness the opportunities in our rapidly changing world.
+
+A key feature of the BVSS Curriculum is the provision of multi-modal development opportunities that strive to bring out each student’s fullest potential. Engagement in Science, Technology, Engineering and Mathematics (STEM) education nurtures adaptability and inventive thinking, while confidence, articulate expression, and character are strengthened through the Arts×Values curriculum. In addition, BVSS instills a deep sense of environmental stewardship in every Bukit Viewan by integrating sustainability into education, fostering innovation, and inspiring meaningful actions for a greener future. A wide range of subject offerings ignite students’ passion for learning, while an extensive suite of co-curricular activities (CCAs), enrichment programmes, lifeskills and leadership development, and Values in Action (VIA) outreach efforts build resilience, leadership, civic literacy, and a strong sense of community. Through these experiences, our students learn not only to do well, but also to do good. 
+
+We take pride in our dedicated staff who inspire learning and model the school’s values through their professionalism and care. Our partnerships with parents, alumni, and the community have also been instrumental in enriching our students’ learning experiences and broadening their horizons.
+
+As we look ahead to our 40th Anniversary and beyond, we remain steadfast in our mission to be a dynamic institution that adds value to all, by valuing learners, valuing learning, and learning values, nurturing Bukit Viewans who will lead with purpose, passion, resilience, and gratitude.
+
+Together, let us continue to build a community filled with care and learning, and with the continued partnership of our stakeholders, we are confident that Bukit View Secondary School will always be the place to be!
+
+*Your partners in education,*<br>
+Mrs Lee Hui Xin, Mr Mak Yew Chong, Mrs Anna Ling and Mr Justin Neo<br>
+BVSS School Leadership Team
