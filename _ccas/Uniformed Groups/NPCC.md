@@ -326,20 +326,11 @@ Unit Routine Orders</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Officer in Command</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A/ASP (NPCC) Afiq Ismail</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>(Acting) Deputy Officer in Command</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vianne Tan</p>
+<p>P/INSP (NPCC) Ms Vianne Tan</p>
 </td>
 </tr>
 <tr>
@@ -381,7 +372,8 @@ Unit Routine Orders</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P/CI (NPCC) Nur Syahirah Razak</p>
+<p>CI (NPCC) Nur Syahirah Razak</p>
+<p>CI (NPCC) Nur Insyirah Razak</p>
 </td>
 </tr>
 </tbody>
@@ -391,6 +383,7 @@ Unit Routine Orders</p>
 <details class="isomer-details">
 <summary>List of EXCO Members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -412,7 +405,7 @@ Unit Routine Orders</p>
 <p>Unit Chief&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) DINA QHAISARA KHAN BINTE HAFIZ KHAN</p>
+<p>SGT (NPCC) KESHA JELITA BINTE MOHAMED ZAINAL</p>
 </td>
 </tr>
 <tr>
@@ -421,7 +414,7 @@ Unit Routine Orders</p>
 <p>(Training &amp; Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) NUR DANIYA ASHLYNN BINTE MUHAMMAD KHALID</p>
+<p>SGT (NPCC) TOOBA @ LIN LEI KYE SYN OO</p>
 </td>
 </tr>
 <tr>
@@ -430,7 +423,7 @@ Unit Routine Orders</p>
 <p>(Operations &amp; Administration)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) LOUANNE GOH HAN EN</p>
+<p>SGT (NPCC) NEO YUTING (LIANG YUTING)</p>
 </td>
 </tr>
 <tr>
@@ -438,7 +431,7 @@ Unit Routine Orders</p>
 <p>Squad Leader (Sec 1)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) GUNASEKARAN BARANIKUMAR</p>
+<p>SGT (NPCC) CHANDRAMOHAN KAAVYA</p>
 </td>
 </tr>
 <tr>
@@ -446,7 +439,7 @@ Unit Routine Orders</p>
 <p>Squad Leader (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) MOHD HAIRI FAHMI BIN MOHD FADIL</p>
+<p>CPL (NPCC) DEEBAK S/O RAJA GANESH</p>
 </td>
 </tr>
 <tr>
@@ -454,7 +447,7 @@ Unit Routine Orders</p>
 <p>Squad Leader (Sec 2)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) RAJA BHARADH</p>
+<p>SGT (NPCC) HEMNATH VELMURUGAN</p>
 </td>
 </tr>
 <tr>
@@ -462,15 +455,15 @@ Unit Routine Orders</p>
 <p>Squad Leader (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) NUR INSYIRAH BINTE SOLAIMAN</p>
+<p>CPL (NPCC) ZARA DZAFIRA BINTE MUHAMMAD FARHAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cadet Well-being &amp; Safety Specialist</p>
+<p>Overseeing Squad Leader (Sec 1 &amp; 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) NUR ZARA BINTE MOHAMMAD NAJIB</p>
+<p>SGT (NPCC) GOPI DHIRAJ</p>
 </td>
 </tr>
 <tr>
@@ -478,7 +471,7 @@ Unit Routine Orders</p>
 <p>Quartermaster</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT (NPCC) DARSHINI SRI</p>
+<p>CPL (NPCC) HAZIQAH INSYIRAH BINTE MALIK FAIZAL</p>
 </td>
 </tr>
 </tbody>
