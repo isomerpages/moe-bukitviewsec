@@ -67,26 +67,34 @@ communicate ideas in their school work</div>
 <details class="isomer-details">
 <summary>To take part in the following competitions/ activities</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>In 2023/2024</p>
-<ul data-tight="true" class="tight">
+<p>In 2024/2025</p>
+<ul>
 <li>
 <p>BBSS X SCOGA Campus Legend Competition</p>
 </li>
 <li>
-<p>Design Thinking with Robotics and Computational Thinking International
-Competition (DrCT)</p>
+<p>Bebras</p>
 </li>
 <li>
-<p>ICTExplore 2024</p>
+<p>BuildingBloCS</p>
+</li>
+<li>
+<p>BrainHack</p>
+</li>
+<li>
+<p>ICTExplore&nbsp;</p>
 </li>
 <li>
 <p>National Youth Tech Championship</p>
 </li>
 <li>
-<p>Brainhack 2024</p>
+<p>National Junior Informatics Olympiad</p>
 </li>
 <li>
-<p>BuildingBloCS</p>
+<p>National Software Competition</p>
+</li>
+<li>
+<p>Young Technopreneur Challenge</p>
 </li>
 </ul>
 </div>
@@ -116,56 +124,29 @@ Competition (DrCT)</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>DrCT Competition 2024</strong>
+<p><strong>Bebras</strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>1 Gold 7 Silver 7 Bronze and 4 Honorable Mentions</p>
+<p>3 Gold, 3 Silver, 9 Bronze and 10 Honorable Mentions</p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>BrainHack 2024</strong>
+<p><strong>National Junior Informatics Olympiad</strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>2nd Runner Up: Khambhati Moiz Huzefa and Tan Rui Zhi</p>
+<p>4 Gold, 3 Silver, 13 Bronze and 6 Honorable Mentions</p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>ICTxplore 2024</strong>
+<p><strong>Young Technoprenuer Challenge</strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Third Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>DrCT Competition 2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Gold, 6 Silver, 9 Bronze and 8 Honorable Mention</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>National Software Competition 2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Gold and 2 Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Animation using Scratch Competition 2023</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ho Le Min - Second Place</p>
+<p>First prize and Best presentation</p>
 </td>
 </tr>
 </tbody>
@@ -175,28 +156,6 @@ Competition (DrCT)</p>
 </details>
 </div>
 <h4><strong>PHOTO GALLERY</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Please click to view the photos of event.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
-</div>
-</details>
-</div>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -347,7 +306,7 @@ Competition (DrCT) title for your card</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chong Han</p>
+<p>Mr Kendrick Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -359,6 +318,7 @@ Competition (DrCT) title for your card</div>
 <details class="isomer-details">
 <summary>List of EXCO Members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -385,10 +345,10 @@ Competition (DrCT) title for your card</div>
 <p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aung Kaung Myat</p>
+<p>Lau Jun Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-E</p>
+<p>3F</p>
 </td>
 </tr>
 <tr>
@@ -396,63 +356,106 @@ Competition (DrCT) title for your card</div>
 <p>Vice- Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ye Wen Kai</p>
+<p>Lee Jung Kye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-G</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kim Joonsu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S3-F</p>
+<p>3F</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tech for Good Champion</p>
+<p>Elamaran Neerasree</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jayden Khoo</p>
-<p>Anandhan Sriram</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S3-F</p>
-<p>S3-D</p>
+<p>3E</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin and Logistics</p>
+<p>Head of Welfare</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loh Xuan, Earlena</p>
-<p>Ewan Chang</p>
-<p>Rebecca Rajan George</p>
+<p>Nihal Naushad Bin Mohammed Muzammeen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-D</p>
-<p>S3-E</p>
-<p>S3-G</p>
-<p></p>
+<p>3D</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Media and Communications</p>
+<p>Welfare committee member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shaby Ankith</p>
-<p>Bryan Tan Ka Kiat</p>
-<p>Jerell Tan</p>
+<p>Boddu Chetan Varma</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-G</p>
-<p>S3-A</p>
-<p>S3-G</p>
-<p></p>
+<p>3C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Media and Communications</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Denise Cristine Billar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Media and Communications committee member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ayden Soh Yan Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Tech for Good</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kam Siu Haap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tech for Good committee member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jovie Lim Jun Le</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Admin and Logistics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Jun Hao Davian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin and Logistics Committee member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tsang Yan Jun Merwin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
 </td>
 </tr>
 </tbody>
