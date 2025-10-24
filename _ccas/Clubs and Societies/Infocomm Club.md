@@ -161,7 +161,7 @@ communicate ideas in their school work</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Infocomm club/World_Water_Day_project_making.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Clubs and Societies/Infocomm Club/World_Water_Day.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -185,7 +185,7 @@ infocomm club members have created</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Infocomm club/NYTC_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Clubs and Societies/Infocomm Club/National_Youth_Tech_Championship__replace_current_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -198,59 +198,63 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ict" src="/images/CCA Page/Infocomm club/ICTExplore_at_NP.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ict" src="/images/CCA Page/Clubs and Societies/Infocomm Club/Young_Technoprenuer.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">ICT Explore</div>
-<div class="isomer-card-description">Familiarising oneself with technology-related courses at Ngee Ann Polytechnic
-(NP)</div>
+<div class="isomer-card-title">Young Technopreneur</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="lk" src="/images/CCA Page/Infocomm club/CCA_awareness_2024__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="lk" src="/images/CCA Page/Clubs and Societies/Infocomm Club/VIA_teaching_elderly_Google_translate.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">CCA Awareness Day</div>
-<div class="isomer-card-description">Showcasing and outlining the CCA’s activities and objectives during the
-2024 Secondary One Orientation programme</div>
+<div class="isomer-card-title">VIA</div>
+<div class="isomer-card-description">Teaching the elderly in the use of Google translate</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="DCT" src="/images/CCA Page/Infocomm club/DrCT_presentation_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Olympiad" src="/images/CCA Page/Clubs and Societies/Infocomm Club/National_Junior_Informatics_Olympiad_Please_replace_DrCT_photo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Design Thinking with Robotics and Computational Thinking International
-Competition (DrCT) title for your card</div>
-<div class="isomer-card-description">Testing our knowledge of algorithmic thinking and programming skills</div>
+<div class="isomer-card-title">National Junior Informatics Olympiad</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sports Enrichment Programme (SEP)" src="/images/CCA Page/Infocomm club/Sports_Enrichment_Programme.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="LJ" src="/images/CCA Page/Clubs and Societies/Infocomm Club/Learning_Journey_to_Trueworld_Studios.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Sports Enrichment Programme (SEP) with Environmental Club</div>
-<div class="isomer-card-description">Bonding with CCA mates and emphasising the importance of physical activity</div>
+<div class="isomer-card-title">Learning Journey to Trueworld Studios</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt=".." src="/images/CCA Page/Infocomm club/Robotics.jpg">
+<img style="width: 100%" height="auto" width="100%" alt=".." src="/images/CCA Page/Clubs and Societies/Infocomm Club/Robotics_with_AI_replace_Robotics_Session_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Robotics Session</div>
+<div class="isomer-card-title">Robotics with AI</div>
 <div class="isomer-card-description">Learning to programme robots to solve real-world problems</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="VR" src="/images/CCA Page/Clubs and Societies/Infocomm Club/VR_Arkio_3D_City_Building_Workshop.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">VR Arkio 3D City Building Workshop</div>
 </div>
 </div>
 </div>
