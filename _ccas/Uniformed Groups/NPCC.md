@@ -93,7 +93,7 @@ cooking, to community crime prevention discussions and advocacy.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2023 Unit Overall Proficiency Award</strong>
+<p><strong>2024 Unit Overall Proficiency Award</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,32 +103,32 @@ cooking, to community crime prevention discussions and advocacy.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2024 Promotions to Station Inspector (NPCC):</strong>
+<p><strong>2025 Promotions to Station Inspector (NPCC):</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Station Inspector (NPCC) Tammy Yong</p>
+<p>Station Inspector (NPCC) Nur Daniya Ashlynn Binte Muhammad Khalid</p>
 </li>
 <li>
-<p>Station Inspector (NPCC)&nbsp; Harijit V.R</p>
+<p>Station Inspector (NPCC) Dina Qhaisara Khan Binte Hafiz Khan</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2024 SPF-NPCC Badge:&nbsp;</strong>
+<p><strong>2025 SPF-NPCC Badge:&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Station Inspector (NPCC) Tammy Yong</p>
+<p>Station Inspector (NPCC) Dina Qhaisara Khan Binte Hafiz Khan</p>
 </li>
 <li>
-<p>Staff Sergeant (NPCC) Naw Htee Moo Khu, Augustina</p>
+<p>Staff Sergeant (NPCC) Louanne Goh Han En</p>
 </li>
 </ul>
 </td>
@@ -139,7 +139,7 @@ cooking, to community crime prevention discussions and advocacy.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff Sergeant (NPCC): Vidhula Deivasigamani</p>
+<p>Staff Sergeant (NPCC): Nur Insyirah Binte Solaiman</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ cooking, to community crime prevention discussions and advocacy.</p>
 <p><strong>Best Unit Cadet (Male):</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff Sergeant (NPCC) Tan Han Cong Bean</p>
+<p>Staff Sergeant (NPCC) Gunasekaran Barani Kumar</p>
 </td>
 </tr>
 </tbody>
