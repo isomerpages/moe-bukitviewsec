@@ -21,6 +21,6 @@ As we look ahead to our 40th Anniversary and beyond, we remain steadfast in our 
 
 Together, let us continue to build a community filled with care and learning, and with the continued partnership of our stakeholders, we are confident that Bukit View Secondary School will always be the place to be!
 
-*Your partners in education,*<br>
+Your partners in education,<br>
 Mrs Lee Hui Xin, Mr Mak Yew Chong, Mrs Anna Ling and Mr Justin Neo<br>
 BVSS School Leadership Team
