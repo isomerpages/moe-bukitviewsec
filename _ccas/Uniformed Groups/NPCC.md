@@ -50,7 +50,7 @@ FORWARD BOUND</div>
 <summary><strong>SHOWCASES &amp; EVENTS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4><strong>[2024]</strong></h4>
+<h4><strong>[2025]</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Learning Experiences</strong>
@@ -75,7 +75,7 @@ cooking, to community crime prevention discussions and advocacy.</p>
 </p>
 </li>
 <li>
-<p><strong>Annual Crime Scene Investigation Competition</strong>
+<p><strong>Annual Area 16 Games Day</strong>
 </p>
 </li>
 </ul>
@@ -157,13 +157,7 @@ cooking, to community crime prevention discussions and advocacy.</p>
 </details>
 </div>
 <p></p>
-<p>
-<br>
-</p>
 <p></p>
-<p>
-<br>
-</p>
 <p></p>
 <h4><strong>PHOTO GALLERY</strong></h4>
 <p>Please click to view the photos of event.</p>
@@ -172,18 +166,30 @@ cooking, to community crime prevention discussions and advocacy.</p>
 <summary><strong>BVSS Joint National Uniform Group Camp</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/CCA%20Page/Uniformed%20Groups/NPCC/01npcc1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/NPCC/joint_camp_1.jpg">
 </div>
 </td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/NPCC/joint_camp2.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
 <p>NPCC cadets together with their NCC counterparts bonded through activities
 designed to challenge them physically and mentally in a spirit of learning
@@ -209,6 +215,12 @@ their NCC peers.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/NPCC/cssp2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/NPCC/CSSP1.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/NPCC/02npcc2.jpg">
 </div>
@@ -236,7 +248,7 @@ officers from Bukit Batok Neighborhood Police Centre</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Annual Crime Scene Investigation Competition&nbsp;</strong>
+<summary><strong>Annual Area 16 Games Day&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
@@ -250,17 +262,20 @@ officers from Bukit Batok Neighborhood Police Centre</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/CCA%20Page/Uniformed%20Groups/NPCC/03npcc3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/NPCC/area_games_day_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/NPCC/area_games_day1.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<ul>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>Organized by NPCC HQ, BVSS Sec 3 Cadets put their heads together in a battle of wits to solve a crime in a race against time in a simulation.</strong>
-</p>
+<p>Organized by schools in NPCC Area 16, Cadets come together to participate
+in various sports and games.</p>
 </li>
 </ul>
-</th>
+</td>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
