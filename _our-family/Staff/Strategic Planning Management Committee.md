@@ -7,41 +7,6 @@ third_nav_title: Staff
 ---
 <h3><strong>Strategic Planning Management Committee (SPMC)</strong></h3>
 <p></p>
-<p></p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_MAK_YEW_CHONG.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MRS_ANNA_LING.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_JUSTIN_NEO_KIM_HANG.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -62,6 +27,28 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Key Personel Photos/Updated/Mrs_Lee_Hui_Xin.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_MAK_YEW_CHONG.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Key Personel Photos/Updated/MRS_ANNA_LING.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_JUSTIN_NEO_KIM_HANG.jpg">
+</div>
 </td>
 </tr>
 <tr>
