@@ -127,10 +127,12 @@ place.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XN_eWtkgs5M"></iframe>
 </div>
 <h4>Personalised Digital Learning Programme</h4>
-<p><strong>For 2025 onwards, Secondary 1 students will be using Apple iPad as their personal learning device. Every iPad will come bundled with Apple pencil and casing with smart keyboard to maximise the affordances of the iPad as a learning tool.</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h6jig6fUm-g"></iframe>
+<p>Secondary 1 students will be using Apple iPad as their personal learning
+device. Every iPad will come bundled with Apple pencil and casing with
+smart keyboard to maximise the affordances of the iPad as a learning tool.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Distinctives/PDLP.jpg">
 </div>
 <h4>School Campus and Facilities</h4>
 <p></p><a class="isomer-image-wrapper" href="https://view.genially.com/5f9b6034482d2210111180c6/interactive-image-bukit-view-secondary-school-virtual-tour"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Admissions/Virtual open house/virtual_school_tour.png"></a>
