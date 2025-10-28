@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2><strong>NCC</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC_Formal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Group Photo/NCC_Formal.jpg">
 </div>
 <h4>BACKGROUND</h4>
 <p><strong>National Cadet Corps (Land)</strong>&nbsp;is a Uniformed Group
