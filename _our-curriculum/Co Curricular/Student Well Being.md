@@ -124,7 +124,7 @@ personal excellence:</p>
 <p>Most Zesty Award – for enthusiasm and positivity</p>
 </li>
 <li>
-<p>Most Zestful Award – for active participation in school life</p>
+<p>Most Grateful Award – for active participation in school life</p>
 </li>
 </ul>
 <p>These awards reflect our school’s emphasis on gratitude, resilience, positivity,
@@ -190,8 +190,7 @@ for our students to flourish in school and beyond.</p>
 <p>WhatsApp - 6669 1771</p>
 </li>
 <li>
-<p>Online webchat through the chat widget hosted on&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">mindline.sg</a>&nbsp;website
-(<a rel="noopener noreferrer nofollow" target="_blank">https://mindline.sg/fsmh</a>)</p>
+<p>Online webchat through the chat widget hosted on&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">mindline.sg</a>&nbsp;website (<a rel="noopener noreferrer nofollow" target="_blank">https://mindline.sg/fsmh</a>)</p>
 </li>
 </ul>
 </td>
