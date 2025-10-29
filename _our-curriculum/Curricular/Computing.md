@@ -113,37 +113,29 @@ passion in Computing with coverage of logic gates and text-based programming</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/G3_Computing.png">
 </div>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <h4>Key Achievements and Activities</h4>
 <p><strong>Code for Fun for Secondary 1</strong> 
-<br>This programme is a set of hands-on-mind-on lessons that reinforce the
-learning of STEM concepts in the classroom. The use of M5GO Microcontrollers
-in learning enables the student to “see, feel, touch, control, and imagine”.</p>
+<br>This programme offers a series of engaging, hands-on and minds-on lessons
+designed to reinforce the learning of STEM concepts taught in the classroom.
+The integration of M5GO Microcontrollers into the learning process enables
+the student to “see, feel, touch, control, and imagine”&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width:90%" height="auto" width="100%" src="/images/S1 enrichment_scratch.jpeg">
 </div>
 <p></p>
 <p><strong>Smart City Project for Secondary 2</strong> 
-<br>In Sec 2, students built on what they have learnt in Sec 1 Joules.&nbsp;
+<br>In Sec 2, students built on what they have learnt the year before in Joules.
 Students learnt how to interface micro:bit with sensor:bit and other external
 input and output devices. The students then apply what they have learnt
-in creating their smart cities projects.</p>
+in creating their own Smart City projects which encourages creativity,
+problem solving and real-world application of computational thinking.&nbsp;</p>
 <p><strong>Enrichment for Students Taking Computer Applications</strong>
-<br>In the Scratch workshop, Secondary Two students dived into the world of
-interactive game creation using the Scratch platform. They brought their
-ideas to life by building engaging projects like a movement-chasing game
-and a thrilling fruit machine game. Along the way, they gained valuable
-hands-on experience in game development, sharpening their coding skills
-and unleashing their creativity.</p>
-<p>The Secondary Three students participated in a Tello drones workshop,
-where they learned the basics of drone operation, including First-Person
-View (FPV) flying and programming drones for autonomous flight using the
-DroneBlocks app. The workshop concluded with an exciting course challenge
-that allowed students to test and showcase their drone control skills.</p>
-<p></p>
+<br>Secondary Three students participated in a Tello drones workshop, where
+they learned the basics of drone operation, including First-Person View
+(FPV) flying and programming drones for autonomous flight using the DroneBlocks
+app. The workshop concluded with an exciting course challenge that allowed
+students to test and showcase their drone control skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Computing/CPA_enrichment_drones.jpg">
 </div>
@@ -151,18 +143,16 @@ that allowed students to test and showcase their drone control skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Computing/CPA_enrichment_drones_1_.jpg">
 </div>
 <p><strong>Enrichment for Computing students</strong> 
-<br>Our drone enrichment workshop for Secondary Three Computing students provided
-students with a hands-on introduction to drone technology and programming.
-Participants learned the basics of the Tello drone, setting up a development
-environment using Python and the djitellopy library. By the end of the
-workshop, they had practiced essential commands to control drone movement,
-programming the drones to take off, land, and navigate simple flight patterns.
-The experience also introduced students to AI tasks, such as face tracking,
-where they successfully programmed the drones to autonomously follow a
-face. This workshop equipped students with foundational skills in drone
-operation and programming, sparking interest in further exploration of
-drone technology.</p>
-<p></p>
+<br>Our drone enrichment workshop for Secondary Three Computing students offers
+a hands-on introduction to drone technology and programming. Students learnt
+the basics of the Tello drone, setting up a development environment using
+Python and the djitellopy library. By the end of the workshop, students
+would have programmed the drone and had practiced essential flight commands
+such as take-off, landing and basic navigation. The experience also introduced
+students to AI tasks, such as face tracking, where they successfully programmed
+the drones to autonomously follow a face. This workshop equipped students
+with foundational skills in drone operation and programming, sparking further
+interest in drone technology.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Computing/Computing_enrichment_drones.jpg">
 </div>
@@ -192,14 +182,10 @@ drone technology.</p>
 <p>National Olympiad in Informatics</p>
 </li>
 <li>
-<p>National Youth AI Prompt Design Challenge 2024</p>
+<p>National Youth AI Prompt Design Challenge</p>
 </li>
 <li>
 <p>Navigate Your Future Tides Global Innovation Camp</p>
-</li>
-<li>
-<p>Young Technopreneur Challenge 2022 by HP Inc, JA Singapore and South West
-CDC</p>
 </li>
 <li>
 <p>Sentinal Challenge</p>
