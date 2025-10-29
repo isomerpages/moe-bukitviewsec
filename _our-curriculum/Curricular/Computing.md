@@ -82,9 +82,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Mission</h4>
-<p>To provide students with Computational Thinking skills to participate
+<h4>Vision</h4>
+<p>Every student is equipped with Computational Thinking skills to participate
 in a rapidly changing technological environment.</p>
+<h4>Mission</h4>
+<p>To nurture ethical learners who apply computational thinking to solve
+real-world problems and contribute meaningfully in a technology-driven
+world.</p>
 <hr>
 <h4>Key Achievements and Activities</h4>
 <p><strong>Code for Fun for Secondary 1</strong> 
