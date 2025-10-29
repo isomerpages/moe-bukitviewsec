@@ -89,7 +89,20 @@ in a rapidly changing technological environment.</p>
 <p>To nurture ethical learners who apply computational thinking to solve
 real-world problems and contribute meaningfully in a technology-driven
 world.</p>
-<hr>
+<h4>Value of Computing Subjects</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Value_of_Computing_Subjects.png">
+</div>
+<h4>Focus Areas in the Computing Syllabus</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Focus_Areas_in_the_Computing_Syllabus.png">
+</div>
+<p><strong>G1 Computing </strong>develops essential skills for work and studies
+with coverage of software basics, web applications and document processing</p>
+<p>
+<br>
+</p>
 <h4>Key Achievements and Activities</h4>
 <p><strong>Code for Fun for Secondary 1</strong> 
 <br>This programme is a set of hands-on-mind-on lessons that reinforce the
