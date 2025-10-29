@@ -81,8 +81,8 @@ that they would like to delve deeper into and advocate to their classmates.
 Students will apply then what they have learnt by presenting a skit and
 a facilitating an extension activity through their choice of the three
 drama tools.
-<br>Selected Secondary 2 students will also be featured in our annual LLP
-showcase which will resume in 2024.</p>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts%20X%20Values%20(LLP)/drama%20in%20curriculum.jpg">
 </div>
@@ -118,9 +118,7 @@ in Art.</p>
 <br>After their two years journey in LLP, Secondary 2 students will be given
 the opportunity to showcase their talent at a public platform. Supported
 by the drama teachers, students would have autonomy in choosing the topic,
-coming up with original scripts and devising their performance on stage.
-Before the pandemic, Sec 2 LLP students have performed at the Singapore
-Heritage Festival (2018) and a showcase at Jurong Library (2019).</p>
+coming up with original scripts and devising their performance on stage.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts%20X%20Values%20(LLP)/assembly.jpeg">
 </div>

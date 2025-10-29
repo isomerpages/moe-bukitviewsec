@@ -82,37 +82,60 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Mission</h4>
-<p>To provide students with Computational Thinking skills to participate
+<h4>Vision</h4>
+<p>Every student is equipped with Computational Thinking skills to participate
 in a rapidly changing technological environment.</p>
-<hr>
+<h4>Mission</h4>
+<p>To nurture ethical learners who apply computational thinking to solve
+real-world problems and contribute meaningfully in a technology-driven
+world.</p>
+<h4>Value of Computing Subjects</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Value_of_Computing_Subjects.png">
+</div>
+<h4>Focus Areas in the Computing Syllabus</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Focus_Areas_in_the_Computing_Syllabus.png">
+</div>
+<p><strong>G1 Computing </strong>develops essential skills for work and studies
+with coverage of software basics, web applications and document processing</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/G1_Computing.png">
+</div>
+<p><strong>G2 Computing </strong>has a stronger focus on problem-solving
+skills with coverage of more spreadsheet functions and block-based programming.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/G2_Computing.png">
+</div>
+<p><strong>G3 Computing </strong>caters to students who display talent or
+passion in Computing with coverage of logic gates and text-based programming</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/G3_Computing.png">
+</div>
+<p></p>
 <h4>Key Achievements and Activities</h4>
 <p><strong>Code for Fun for Secondary 1</strong> 
-<br>This programme is a set of hands-on-mind-on lessons that reinforce the
-learning of STEM concepts in the classroom. The use of M5GO Microcontrollers
-in learning enables the student to “see, feel, touch, control, and imagine”.</p>
+<br>This programme offers a series of engaging, hands-on and minds-on lessons
+designed to reinforce the learning of STEM concepts taught in the classroom.
+The integration of M5GO Microcontrollers into the learning process enables
+the student to “see, feel, touch, control, and imagine”&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width:90%" height="auto" width="100%" src="/images/S1 enrichment_scratch.jpeg">
 </div>
 <p></p>
 <p><strong>Smart City Project for Secondary 2</strong> 
-<br>In Sec 2, students built on what they have learnt in Sec 1 Joules.&nbsp;
+<br>In Sec 2, students built on what they have learnt the year before in Joules.
 Students learnt how to interface micro:bit with sensor:bit and other external
 input and output devices. The students then apply what they have learnt
-in creating their smart cities projects.</p>
+in creating their own Smart City projects which encourages creativity,
+problem solving and real-world application of computational thinking.&nbsp;</p>
 <p><strong>Enrichment for Students Taking Computer Applications</strong>
-<br>In the Scratch workshop, Secondary Two students dived into the world of
-interactive game creation using the Scratch platform. They brought their
-ideas to life by building engaging projects like a movement-chasing game
-and a thrilling fruit machine game. Along the way, they gained valuable
-hands-on experience in game development, sharpening their coding skills
-and unleashing their creativity.</p>
-<p>The Secondary Three students participated in a Tello drones workshop,
-where they learned the basics of drone operation, including First-Person
-View (FPV) flying and programming drones for autonomous flight using the
-DroneBlocks app. The workshop concluded with an exciting course challenge
-that allowed students to test and showcase their drone control skills.</p>
-<p></p>
+<br>Secondary Three students participated in a Tello drones workshop, where
+they learned the basics of drone operation, including First-Person View
+(FPV) flying and programming drones for autonomous flight using the DroneBlocks
+app. The workshop concluded with an exciting course challenge that allowed
+students to test and showcase their drone control skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Computing/CPA_enrichment_drones.jpg">
 </div>
@@ -120,18 +143,16 @@ that allowed students to test and showcase their drone control skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Computing/CPA_enrichment_drones_1_.jpg">
 </div>
 <p><strong>Enrichment for Computing students</strong> 
-<br>Our drone enrichment workshop for Secondary Three Computing students provided
-students with a hands-on introduction to drone technology and programming.
-Participants learned the basics of the Tello drone, setting up a development
-environment using Python and the djitellopy library. By the end of the
-workshop, they had practiced essential commands to control drone movement,
-programming the drones to take off, land, and navigate simple flight patterns.
-The experience also introduced students to AI tasks, such as face tracking,
-where they successfully programmed the drones to autonomously follow a
-face. This workshop equipped students with foundational skills in drone
-operation and programming, sparking interest in further exploration of
-drone technology.</p>
-<p></p>
+<br>Our drone enrichment workshop for Secondary Three Computing students offers
+a hands-on introduction to drone technology and programming. Students learnt
+the basics of the Tello drone, setting up a development environment using
+Python and the djitellopy library. By the end of the workshop, students
+would have programmed the drone and had practiced essential flight commands
+such as take-off, landing and basic navigation. The experience also introduced
+students to AI tasks, such as face tracking, where they successfully programmed
+the drones to autonomously follow a face. This workshop equipped students
+with foundational skills in drone operation and programming, sparking further
+interest in drone technology.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Computing/Computing_enrichment_drones.jpg">
 </div>
@@ -161,14 +182,10 @@ drone technology.</p>
 <p>National Olympiad in Informatics</p>
 </li>
 <li>
-<p>National Youth AI Prompt Design Challenge 2024</p>
+<p>National Youth AI Prompt Design Challenge</p>
 </li>
 <li>
 <p>Navigate Your Future Tides Global Innovation Camp</p>
-</li>
-<li>
-<p>Young Technopreneur Challenge 2022 by HP Inc, JA Singapore and South West
-CDC</p>
 </li>
 <li>
 <p>Sentinal Challenge</p>
@@ -185,24 +202,30 @@ Shawn from 4F) embarked on a learning journey to BSM Singapore to explore
 the maritime industry. During this experience, they participated in the
 selection process for the Global Online Maritime Innovation Hackathon,
 jointly organized by Junior Achievement and BSM. Out of 20 teams, Bukit
-View Secondary was one of four teams selected to represent Singapore. Partnered
-with students from Cyprus, they worked together online to develop a solution
-for the challenge statement: “Develop an innovative business idea on how
-AI can transform the work of maritime professionals for the better.” We
-are proud to announce that the BVSS-Cyprus team emerged as the winner of
-the challenge. Their winning idea was a mental health wellness platform
-tailored for seafarers, using AI and telehealth to support mental health
-through screening and identifying those needing assistance.</p>
+View Secondary was proud to be one of four teams selected to represent
+Singapore. Teamed up with students from Cyprus, they collaborated online
+to develop a solution for the challenge statement: “Develop an innovative
+business idea on how AI can transform the work of maritime professionals
+for the better.” Their winning solution was a mental health wellness platform
+designed specifically for seafarers, integrating AI and telehealth to support
+mental health through screening and identifying those needing assistance.
+We are proud to share that the BVSS-Cyprus team emerged as the overall
+winner of the challenge.&nbsp;</p>
 <p></p>
-<p>ICTXPLORE was a two-day workshop at Ngee Ann Polytechnic (NP), featuring
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/maritime_competition.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_intern_at_BSM.jpg">
+</div>
+<p>
+<br>ICTXPLORE was a two-day workshop at Ngee Ann Polytechnic (NP), featuring
 competitive elements in Data Science, Cybersecurity, and Digital Forensics.
 A total of 15 students participated during the September school holidays.
 One of our teams, consisting of Janelle Ong (4D), Ye Wen Kai (3G), Lee
 Jung Kye (2C), and Joben Ong (2C), secured third place.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Computing/MOE_CPDD_AGM_079.jpg">
-</div>
 <p>The Animation and Game Making Competition, organized by MOE, invites secondary
 schools offering Computer Applications to submit their best Secondary 2
 animation and Secondary 3 game to compete with top entries from other schools.
@@ -216,7 +239,7 @@ from NIE and MOE.</p>
 <p></p>
 <p>Additionally, Bukit View Secondary earned the Sustained Gold award, presented
 to schools that have achieved three consecutive years of Gold awards. We
-are proud to be the only school to have earned this recognition for 2024.</p>
+are proud to be the only school to have earned this recognition in 2024.</p>
 <p></p>
 <p>Gibson Bong Hoong Nien (4G) achieved a Silver award, and Gordon Lim De
 Yuan (4F) received a Participation award in the National Olympiad in Informatics
@@ -229,5 +252,6 @@ Champion out of 34 schools represented.</p>
 <p></p>
 <p>Ho Li Shan (S2-E) represented the school in the Animation and Game Making
 Competition 2022 organised by CPDD Computing unit and achieved Platinum
-which the top three entries out of 82 entries.</p>
+which is the top three entries out of 82 entries.</p>
+<p></p>
 <p></p>

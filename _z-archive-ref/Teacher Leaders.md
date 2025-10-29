@@ -1,6 +1,6 @@
 ---
 title: Teacher Leaders
-permalink: /our-family/Staff/tl/
+permalink: /teacher-leaders/
 description: ""
 variant: tiptap
 ---
