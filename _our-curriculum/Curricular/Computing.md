@@ -202,24 +202,30 @@ Shawn from 4F) embarked on a learning journey to BSM Singapore to explore
 the maritime industry. During this experience, they participated in the
 selection process for the Global Online Maritime Innovation Hackathon,
 jointly organized by Junior Achievement and BSM. Out of 20 teams, Bukit
-View Secondary was one of four teams selected to represent Singapore. Partnered
-with students from Cyprus, they worked together online to develop a solution
-for the challenge statement: “Develop an innovative business idea on how
-AI can transform the work of maritime professionals for the better.” We
-are proud to announce that the BVSS-Cyprus team emerged as the winner of
-the challenge. Their winning idea was a mental health wellness platform
-tailored for seafarers, using AI and telehealth to support mental health
-through screening and identifying those needing assistance.</p>
+View Secondary was proud to be one of four teams selected to represent
+Singapore. Teamed up with students from Cyprus, they collaborated online
+to develop a solution for the challenge statement: “Develop an innovative
+business idea on how AI can transform the work of maritime professionals
+for the better.” Their winning solution was a mental health wellness platform
+designed specifically for seafarers, integrating AI and telehealth to support
+mental health through screening and identifying those needing assistance.
+We are proud to share that the BVSS-Cyprus team emerged as the overall
+winner of the challenge.&nbsp;</p>
 <p></p>
-<p>ICTXPLORE was a two-day workshop at Ngee Ann Polytechnic (NP), featuring
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/maritime_competition.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_intern_at_BSM.jpg">
+</div>
+<p>
+<br>ICTXPLORE was a two-day workshop at Ngee Ann Polytechnic (NP), featuring
 competitive elements in Data Science, Cybersecurity, and Digital Forensics.
 A total of 15 students participated during the September school holidays.
 One of our teams, consisting of Janelle Ong (4D), Ye Wen Kai (3G), Lee
 Jung Kye (2C), and Joben Ong (2C), secured third place.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/Computing/MOE_CPDD_AGM_079.jpg">
-</div>
 <p>The Animation and Game Making Competition, organized by MOE, invites secondary
 schools offering Computer Applications to submit their best Secondary 2
 animation and Secondary 3 game to compete with top entries from other schools.
@@ -233,7 +239,7 @@ from NIE and MOE.</p>
 <p></p>
 <p>Additionally, Bukit View Secondary earned the Sustained Gold award, presented
 to schools that have achieved three consecutive years of Gold awards. We
-are proud to be the only school to have earned this recognition for 2024.</p>
+are proud to be the only school to have earned this recognition in 2024.</p>
 <p></p>
 <p>Gibson Bong Hoong Nien (4G) achieved a Silver award, and Gordon Lim De
 Yuan (4F) received a Participation award in the National Olympiad in Informatics
@@ -246,6 +252,6 @@ Champion out of 34 schools represented.</p>
 <p></p>
 <p>Ho Li Shan (S2-E) represented the school in the Animation and Game Making
 Competition 2022 organised by CPDD Computing unit and achieved Platinum
-which the top three entries out of 82 entries.</p>
+which is the top three entries out of 82 entries.</p>
 <p></p>
 <p></p>
