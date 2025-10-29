@@ -100,7 +100,21 @@ world.</p>
 </div>
 <p><strong>G1 Computing </strong>develops essential skills for work and studies
 with coverage of software basics, web applications and document processing</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/G1_Computing.png">
+</div>
+<p><strong>G2 Computing </strong>has a stronger focus on problem-solving
+skills with coverage of more spreadsheet functions and block-based programming.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/G2_Computing.png">
+</div>
+<p><strong>G3 Computing </strong>caters to students who display talent or
+passion in Computing with coverage of logic gates and text-based programming</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/G3_Computing.png">
+</div>
 <p>
+<br>
 <br>
 </p>
 <h4>Key Achievements and Activities</h4>
@@ -247,4 +261,5 @@ Champion out of 34 schools represented.</p>
 <p>Ho Li Shan (S2-E) represented the school in the Animation and Game Making
 Competition 2022 organised by CPDD Computing unit and achieved Platinum
 which the top three entries out of 82 entries.</p>
+<p></p>
 <p></p>
