@@ -33,6 +33,8 @@ sections:
         the place to be!
       image: /images/Open_House.png
       alt: Image alt text
+      button: Click here for more details
+      url: https://www.bukitviewsec.moe.edu.sg/admissions/aboutbvss/
   - textcards:
       title: "#BVSS"
       id: textcards
