@@ -19,58 +19,60 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Time</h4>
+<p><strong>Time</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<h4>Activities</h4>
+<p><strong>Activities</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>8.45 am</h4>
+<p>8.45 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Performing Arts group performances and student ambassador sharing</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4>9.30 am</h4>
-</td>
-<td rowspan="1" colspan="1">
-<h4>Sharing by Principal</h4>
+<p>Performing Arts group performances and student ambassador sharing</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>10.30 am</h4>
+<p>9.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Performing Arts group performances</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4>11.15 am</h4>
-</td>
-<td rowspan="1" colspan="1">
-<h4>Sharing by Principal</h4>
+<p>Sharing by Principal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>11.45 am</h4>
+<p>10.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Performing Arts group performances</h4>
+<p>Performing Arts group performances</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>12.15 pm</h4>
+<p>11.15 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Student ambassador sharing</h4>
+<p>Sharing by Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.45 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performing Arts group performances</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student ambassador sharing</p>
 </td>
 </tr>
 </tbody>
@@ -82,17 +84,17 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>School Tour Timings</strong></h4>
+<p>School Tour Timings</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>10.00 am</h4>
+<p>10.00 am</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>12.00 pm</h4>
+<p>12.00 pm</p>
 </td>
 </tr>
 </tbody>
