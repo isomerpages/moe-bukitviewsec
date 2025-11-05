@@ -10,6 +10,93 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House.png">
 </div>
 <p></p>
+<h3><strong>Hall Activities</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>Time</h4>
+</th>
+<th rowspan="1" colspan="1">
+<h4>Activities</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>8.45 am</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Performing Arts group performances and student ambassador sharing</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>9.30 am</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Sharing by Principal</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>10.30 am</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Performing Arts group performances</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>11.15 am</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Sharing by Principal</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>11.45 am</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Performing Arts group performances</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>12.15 pm</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Student ambassador sharing</h4>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>School Tour Timings</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>10.00 am</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>12.00 pm</h4>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Open House FAQ</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
