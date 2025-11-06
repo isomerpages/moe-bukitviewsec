@@ -5,52 +5,117 @@ variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
-<h3><strong>PURCHASE OF BOOKS AND UNIFORMS FOR ACADEMIC YEAR 2025</strong></h3>
+<h3><strong>PURCHASE OF BOOKS AND UNIFORMS FOR ACADEMIC YEAR 2026</strong></h3>
 <p>School textbooks and uniforms can be purchased from our approved vendors,
 either online* or directly at the school during specified dates (see walk-in
 purchase schedule below).</p>
 <p><strong>Important Information for Parents and Students:</strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>STUDENTS OFFERED SBB SUBJECTS (SBB)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Students who are uncertain about whether they will be offered SBB subjects
-should refrain from purchasing textbooks at this time.</p>
+<p><strong>STUDENTS OFFERED SBB SUBJECTS (SBB)</strong>
+</p>
+<p>Students who are uncertain whether they will be offered <strong>SBB subjects</strong> should
+delay purchasing textbooks until confirmation.</p>
 </li>
 <li>
-<p>Do take note: Purchases from our school bookshop are non-refundable, and
-only books in their original condition can be exchanged. For instance,
-books with students' names written in them cannot be exchanged.</p>
+<p>Purchases made from the school bookshop are <strong>non-refundable</strong>.
+<br>Only books in their <strong>original condition</strong> may be exchanged.
+<br>Books with students’ names written in them <strong>cannot be exchanged</strong>.</p>
 </li>
 </ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>MOE FAS AND SCHOOL-BASED FAS STUDENTS (2025)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>MOE FAS AND SCHOOL-BASED FAS STUDENTS (2026)</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Online purchases are not available for FAS students.</p>
 </li>
 <li>
 <p>Once FAS approval is granted, the school will contact parents to arrange
-for collection process</p>
+for
+<br>collection process</p>
 </li>
 <li>
-<p>Parents with FAS approval from other schools should contact the General
-Office to arrange a collection details</p>
+<p>Parents with FAS approval from other schools should contact the
+<br>General Office to arrange a collection details</p>
 </li>
 </ul>
+<blockquote>
+<h3><strong>Booklist</strong></h3>
+<details class="isomer-details">
+<summary><strong>BOOKLIST 2026</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level (2026)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Booklist</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>booklists will be published later.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Admin Matters/2025Booklist/BVSS_2026_Booklist_and_Stationery_List__Sec_2_.pdf" rel="noopener nofollow" target="_blank">BVSS 2026 Booklist and Stationery List (Sec 2)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Admin Matters/2025Booklist/BVSS_2026_Booklist_and_Stationery_List__Sec_3_.pdf" rel="noopener nofollow" target="_blank">BVSS 2026 Booklist and Stationery List (Sec 3)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_4_.pdf" rel="noopener nofollow" target="_blank">BVSS</a>
+<a href="/files/Admin Matters/2025Booklist/BVSS_2026_Booklist_and_Stationery_List__Sec_4_.pdf" rel="noopener nofollow" target="_blank">BVSS 2026 Booklist and Stationery List (Sec 4)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Admin Matters/2025Booklist/BVSS_2026_Booklist_and_Stationery_List__Sec_5_.pdf" rel="noopener nofollow" target="_blank">BVSS 2026 Booklist and Stationery List (Sec 5)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/booklists-and-uniform/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">2025 Booklist</div><div class="isomer-card-description">Booklist are available for download. Please click on the link to view or download the booklist.</div><div class="isomer-card-link">2025 Booklist</div></div></a>
-</div>
+<h4></h4>
+</blockquote>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
