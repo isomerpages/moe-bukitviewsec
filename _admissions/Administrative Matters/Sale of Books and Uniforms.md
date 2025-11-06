@@ -5,20 +5,16 @@ variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
-<h3><strong>SALES OF BOOKS AND UNIFORMS </strong><br></h3>
-<h3><strong>FOR ACADEMIC YEAR 2026</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
-</div>
-<p>School textbooks and uniforms can be purchased from our approved vendors,
-either online* or directly at the school during specified dates (see walk-in
-purchase schedule below).</p>
-<h4><strong>Important Information for Parents and Students:</strong></h4>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
+<h2><strong>SALES OF BOOKS AND UNIFORMS FOR ACADEMIC YEAR 2026</strong></h2>
+<hr>
+<p></p>
+<p>School textbooks and uniforms can be purchased from our approved vendors,
+either online* or directly at the school during specified dates (see walk-in
+purchase schedule below).</p>
+<h4><br><strong>Important Information for Parents and Students:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>STUDENTS OFFERED SBB SUBJECTS (SBB)</strong>
@@ -28,15 +24,15 @@ purchase schedule below).</p>
 <p>Students who are uncertain whether they will be offered <strong>SBB subjects</strong> should
 delay purchasing textbooks until confirmation.</p>
 </li>
-</ul>
-</li>
 <li>
 <p>Purchases made from the school bookshop are <strong>non-refundable</strong>.
 Only books in their <strong>original condition</strong> may be exchanged.
 Books with students’ names written in them <strong>cannot be exchanged</strong>.</p>
 </li>
+</ul>
+</li>
 <li>
-<p><strong>MOE FAS AND SCHOOL-BASED FAS STUDENTS (2026)</strong>
+<p> <strong>MOE FAS AND SCHOOL-BASED FAS STUDENTS (2026)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -47,24 +43,20 @@ Books with students’ names written in them <strong>cannot be exchanged</strong
 for collection process</p>
 </li>
 <li>
-<p>Parents with FAS approval from other schools should contact the</p>
-</li>
-<li>
-<p>General Office to arrange a collection details</p>
+<p>Parents with FAS approval from other schools should contact the General
+Office to arrange a collection details</p>
 </li>
 </ul>
 </li>
 </ul>
-<hr>
 <h4><strong>2026 BOOKLIST</strong></h4>
+<p><strong>Please refer to the booklist links below:-</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2026 Booklist</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Please refer to the booklist links below:-</strong>
-</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -136,7 +128,9 @@ for collection process</p>
 </div>
 </details>
 </div>
-<h4><strong>PURCHASE OF</strong> <strong>BOOKS AND UNIFORMS</strong></h4>
+<p></p>
+<p></p>
+<h4><strong>PURCHASE OF BOOKS AND UNIFORMS</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Purchase of Textbooks &amp; Stationery</strong>
@@ -517,8 +511,8 @@ longer queues during peak periods.</p>
 </div>
 </details>
 </div>
-<p></p>
-<h4><strong>[</strong>🗓️ <strong>Year-End] Walk-In Purchase &amp; FAS Collection @ BVSS</strong></h4>
+<p>&nbsp;</p>
+<h4>🗓️ <strong>Year-End Walk-In Purchase &amp; FAS Collection @ BVSS</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Walk-In Purchase / FAS Collection @ BVSS : Sales of Book &amp; Uniform Schedule</strong>
@@ -544,8 +538,4 @@ only
 </div>
 </details>
 </div>
-<p>
-<br>
-</p>
-<p></p>
 <p></p>
