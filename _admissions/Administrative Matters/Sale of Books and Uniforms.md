@@ -283,13 +283,13 @@ or download the booklist.</p>
 <div class="isomer-card-title">Sec 1</div>
 <div class="isomer-card-description">To be published later</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s2_2026_bvss_b00klist" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Sec 2</div><div class="isomer-card-link">(Sec 2) BVSS 2026 Booklist and Stationery List</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="/files/Admin%20Matters/2026Booklist/s2_2026_bvss_b00klist.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Sec 2</div><div class="isomer-card-link">(Sec 2) BVSS 2026 Booklist and Stationery List</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s3_2026_bvss_b00klist" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sec 3</div>
 <div class="isomer-card-link">(Sec 3) BVSS 2026 Booklist and Stationery List</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s4_2026_bvss_b00klist" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Sec 4</div><div class="isomer-card-description"></div><div class="isomer-card-link">(Sec 4) BVSS 2026 Booklist and Stationery List</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s4_2026_bvss_b00klist" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Sec 4</div><div class="isomer-card-link">(Sec 4) BVSS 2026 Booklist and Stationery List</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s5_2026_bvss_b00klist" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sec 5</div>
@@ -297,7 +297,11 @@ or download the booklist.</p>
 </div>
 </a>
 </div>
-<p></p>
+<p><a href="/files/Admin Matters/2026Booklist/s2_2026_bvss_b00klist.pdf" rel="noopener nofollow" target="_blank">file </a>
+</p>
+<p>
+<br><a href="https://www.bukitviewsec.moe.edu.sg/files/BVSS%20Stories/The_BVSS_Stories.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.bukitviewsec.moe.edu.sg/files/BVSS%20Stories/The_BVSS_Stories.pdf</a>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>2026 Booklist</summary>
