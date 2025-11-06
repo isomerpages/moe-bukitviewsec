@@ -40,12 +40,13 @@ for
 <br>General Office to arrange a collection details</p>
 </li>
 </ul>
-<blockquote>
-<h3><strong>Booklist</strong></h3>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>BOOKLIST 2026</strong>
+<summary><strong>Booklist</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -114,11 +115,17 @@ for
 </table>
 </div>
 </details>
-<h4></h4>
-</blockquote>
+</div>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 <hr>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -132,30 +139,31 @@ for
 <th rowspan="1" colspan="1">
 <h4><strong>Purchase of Textbooks &amp; Stationery</strong></h4>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>To Take Note:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Textbook Purchases:</strong> It is recommended to purchase school
-textbooks from the approved vendor to ensure the correct editions and titles
-as prescribed by the school.</p>
+<p><strong>Textbook Purchases:</strong> Parents are encouraged to purchase
+school textbooks from the <strong>approved vendor</strong> to ensure the
+correct editions and titles as prescribed by the school.</p>
 </li>
 <li>
-<p><strong>Self-Collections:</strong>For students who purchase items online,
-please adhere to the self-collection date selected when collecting items
-from the school.</p>
+<p><strong>Self-Collections:</strong> For students who purchase items online,
+please adhere to the <strong>selected self-collection date</strong> when
+collecting items from the school.</p>
 </li>
 </ul>
-<p>These are the purchase options available:</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>ONLINE PURCHASE</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>||| Purchase Options:</strong>
+</p>
 <p></p>
+<p>.🛒<strong> ONLINE PURCHASE (Textbooks &amp; Stationery)</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -164,22 +172,13 @@ from the school.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Methods of Purchase</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Online Purchase</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Process</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Login to Pacific Bookstores at <a rel="noopener noreferrer nofollow" target="_blank"><u>www.pacificbookstores.com</u></a>
 <br>
-<br>Website Launch Date: 04/11/2024</p>
+<br><strong>Website Launch Date: </strong>06/11/2025</p>
 </td>
 </tr>
 <tr>
@@ -206,11 +205,9 @@ from the school.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Home Delivery Service
-<br>(Delivery charge of $14.90 applies)</p>
-</li>
-<li>
-<p>Self-Collection at School Bookshop</p>
+<p><strong>Home Delivery Service</strong> – Delivery charge of $14.90 applies.</p>
+<p>• <strong>Self-Collection at BVSS Bookshop</strong> – Refer to dates and
+times stated online.</p>
 </li>
 </ul>
 </td>
@@ -221,19 +218,28 @@ from the school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kindly refer to the Dates and Time stated online
-<br>(To be selected when placing orders online)</p>
+<p>Kindly refer to the dates and times stated on the website.
+<br><em>(Select your preferred option during checkout.)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Additional Information</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents are <strong>strongly encouraged to pre-order</strong> to avoid long
+queues and enjoy shorter waiting times. Payment is required upon order
+via <strong>VISA</strong>, <strong>MASTERCARD</strong>, <strong>Debit Cards</strong>,
+or <strong>PayNow</strong>.</p>
 </td>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>WALK-IN PURCHASE (IN SCHOOL)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>🏫 <strong>WALK-IN PURCHASE (IN SCHOOL)</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -255,7 +261,11 @@ from the school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Purchases made directly at the school bookshop</p>
+<p>Parents who prefer to purchase directly may do so at the <strong>BVSS Bookshop</strong> on
+the dates stated in the <strong><em>Year-End Walk-In Sales &amp; FAS Collection Schedule</em></strong>.</p>
+<p></p>
+<p>Please note that there may be <strong>long queues and longer waiting times</strong> during
+peak periods.</p>
 </td>
 </tr>
 <tr>
@@ -264,23 +274,9 @@ from the school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Cash &nbsp;</p>
-</li>
-<li>
-<p>PayNow</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mode of Receipt</strong>
+<p>• Cash
+<br>• PayNow <em>(scan QR code)</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;N.A</p>
 </td>
 </tr>
 <tr>
@@ -296,14 +292,10 @@ and time .</p>
 </tbody>
 </table>
 <p></p>
-</div>
-</details>
-</div>
-<p>Please refer to the booklist for further details.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>For Enquiries or Assistance</strong>
 <br>Please contact the vendor directly:
 <br>Pacific Bookstores Pte Ltd.
