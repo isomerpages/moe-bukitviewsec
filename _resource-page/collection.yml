@@ -2,4 +2,5 @@ collections:
   resource-page:
     output: true
     order:
+      - 2026 B00klist.md
       - Year End Sales of Textbooks & Uniform Schedule In School.md
