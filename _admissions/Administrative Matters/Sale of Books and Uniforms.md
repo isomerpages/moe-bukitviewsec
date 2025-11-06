@@ -81,11 +81,18 @@ Office to arrange a collection details</p>
 </tbody>
 </table>
 <h4><strong>Pacific Bookstores Pte Ltd</strong></h4>
-<p><strong>Vendor:</strong> Pacific Bookstores Pte Ltd
-<br><strong>Website:</strong>  <a href="https://www.pacificbookstores.com" rel="noopener" target="_blank">www.pacificbookstores.com</a>
-<br><strong>Tel:</strong> 6929 8012 &nbsp;|&nbsp; <strong>Email:</strong> 
-<a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
-</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Pacific Bookstores Pte Ltd</div>
+<div class="isomer-card-description">Website: www.pacificbookstores.com Tel: 6929 8012 Email: sales@pacificbookstores.com</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <details class="isomer-details">
 <summary><strong>🛒 Online Purchase (Textbooks &amp; Stationery) <em>*</em></strong><em>recommended</em>
 </summary>
