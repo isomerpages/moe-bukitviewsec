@@ -5,25 +5,29 @@ variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
-<h3><strong>PURCHASE OF BOOKS AND UNIFORMS FOR ACADEMIC YEAR 2026</strong></h3>
+<h2><strong>SALES OF BOOKS AND UNIFORMS FOR ACADEMIC YEAR 2026</strong></h2>
 <p>School textbooks and uniforms can be purchased from our approved vendors,
 either online* or directly at the school during specified dates (see walk-in
 purchase schedule below).</p>
-<p><strong>Important Information for Parents and Students:</strong>
-</p>
+<h4><strong>Important Information for Parents and Students:</strong></h4>
+<hr>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>STUDENTS OFFERED SBB SUBJECTS (SBB)</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Students who are uncertain whether they will be offered <strong>SBB subjects</strong> should
 delay purchasing textbooks until confirmation.</p>
 </li>
+</ul>
+</li>
 <li>
 <p>Purchases made from the school bookshop are <strong>non-refundable</strong>.
-<br>Only books in their <strong>original condition</strong> may be exchanged.
-<br>Books with students’ names written in them <strong>cannot be exchanged</strong>.</p>
+Only books in their <strong>original condition</strong> may be exchanged.
+Books with students’ names written in them <strong>cannot be exchanged</strong>.</p>
 </li>
-</ul>
+<li>
 <p><strong>MOE FAS AND SCHOOL-BASED FAS STUDENTS (2026)</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -32,20 +36,27 @@ delay purchasing textbooks until confirmation.</p>
 </li>
 <li>
 <p>Once FAS approval is granted, the school will contact parents to arrange
-for
-<br>collection process</p>
+for collection process</p>
 </li>
 <li>
-<p>Parents with FAS approval from other schools should contact the
-<br>General Office to arrange a collection details</p>
+<p>Parents with FAS approval from other schools should contact the</p>
+</li>
+<li>
+<p>General Office to arrange a collection details</p>
 </li>
 </ul>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+</li>
+</ul>
+<hr>
+<h4><strong>2026 BOOKLIST</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Booklist</strong>
+<summary><strong>2026 Booklist</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Please refer to the booklist links below:-</strong>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -113,38 +124,18 @@ for
 </tr>
 </tbody>
 </table>
+<p></p>
 </div>
 </details>
 </div>
+<h4><strong>PURCHASE OF</strong> <strong>BOOKS AND UNIFORMS</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Purchase of Textbooks &amp; Stationery</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-<hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="Purchase of Textbooks &amp; Stationery" src="/images/Admin Matters/book_stack.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <h4><strong>Purchase of Textbooks &amp; Stationery</strong></h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
 <p>To Take Note:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -156,14 +147,16 @@ correct editions and titles as prescribed by the school.</p>
 <p><strong>Self-Collections:</strong> For students who purchase items online,
 please adhere to the <strong>selected self-collection date</strong> when
 collecting items from the school.</p>
+<hr>
 </li>
 </ul>
 <p></p>
-<p><strong>||| Purchase Options:</strong>
+<p><strong>Purchase Options:</strong>
 </p>
 <p></p>
-<p>.🛒<strong> ONLINE PURCHASE (Textbooks &amp; Stationery)</strong>
+<p>🛒<strong> ONLINE PURCHASE (Textbooks &amp; Stationery)</strong>
 </p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -238,8 +231,10 @@ or <strong>PayNow</strong>.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
 <p>🏫 <strong>WALK-IN PURCHASE (IN SCHOOL)</strong>
 </p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -292,216 +287,16 @@ and time .</p>
 </tbody>
 </table>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>For Enquiries or Assistance</strong>
-<br>Please contact the vendor directly:
-<br>Pacific Bookstores Pte Ltd.
-<br>Tel: 69298012 Email: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
 <p></p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Admin Matters/shirt.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</details>
+<details class="isomer-details">
+<summary><strong>Purchase of School Uniforms / PE Attire</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <h4><strong>Purchase of School Uniforms / PE Attire</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>These are the purchase options available:</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>ONLINE PURCHASE</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Methods of Purchase</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Online Purchase</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Process</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Login to Order <a rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mode of Payments</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PayNow</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mode of Receipt</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Home Delivery Service</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Delivery (Date/Time)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kindly refer to the Dates and Time stated online
-<br>(To be selected when placing orders online)</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>WALK-IN PURCHASE (IN SCHOOL) –</strong><em> Currently Unavailable</em>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<details class="isomer-details">
-<summary>This option is currently unavailable. Further details will be advised
-at a later date.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Methods of Purchase</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Walk -in Purchase in School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Process</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Purchases made directly at the school</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mode of Payments</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Cash &nbsp;</p>
-</li>
-<li>
-<p>PayNow</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Operating Hours</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br><strong>End of Year BVSS : Sales of Book &amp; Uniform Schedule</strong>
-<br>Please refer to the Walk in Purchase schedule Section below for the date
-and time .</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>WALK-IN PURCHASE (RETAIL STORE)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Methods of Purchase</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Walk -in Purchase in @ Retail</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Process</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Purchase directly from the store.
-<br>IN-TREND UNIFORMS 1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore
-415934</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Operating Hours</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -510,78 +305,217 @@ and time .</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Section</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Details</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mon - Fri</strong>
+<p><strong>Vendor</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10am to 6 pm</p>
+<p><strong>In-Trend Uniforms Pte Ltd</strong> Website: <a href="https://www.intrenduniforms.com/" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sat</strong>
+<p><strong>Payment Modes</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10am to 3pm</p>
+<p>• PayNow <em>(UEN: 52946428D)</em> • Cash • NTUC e-Vouchers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Key Notes</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• For made-to-measure uniforms, kindly contact the retail store to schedule
+an appointment. • Students appealing for transfer – please <strong>do not</strong> purchase
+uniforms yet, as goods sold are <strong>not refundable</strong>. • Check
+all purchases before leaving the shop. • Original receipt is required for
+product exchange within <strong>7 days from date of purchase</strong>. •
+For hygiene and safety, no trying of uniforms is allowed in school.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>- Closed on Sundays and Public Holidays</p>
+<p>🛍️ <strong>ONLINE PURCHASE</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Field</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Details</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Website</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Orders can be placed online at <a href="https://www.intrenduniforms.com/bukit-view-secondary-school" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a> to
+avoid queues and waiting time.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mode of Payments</strong>
+<p><strong>Process</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Cash</p>
-</li>
-<li>
-<p>PayNow</p>
-</li>
-</ul>
+<p><strong>Step 1:</strong> Order and pay online – select <em>“Bukit View Secondary School”</em>. <strong>Step 2:</strong> Choose <em>“Delivery”</em> option.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Delivery Information</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Orders will be dispatched by a local courier within <strong>3–5 working days</strong> from
+date of order. Parents are advised to place orders early to avoid delays
+during the peak period.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Reference Links</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• <a href="https://chatgpt.com/c/690b823f-2f30-8323-9fa0-060f134d5453#" rel="noopener noreferrer nofollow" target="_blank">Information for Sale of Uniforms for BVSS</a> 
+</p>
+<p> <a href="https://www.intrenduniforms.com/size-guide-video" rel="noopener noreferrer nofollow" target="_blank">Size Guide / Video</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operating Hours (for queries)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon – Fri: 10 am – 6 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Contact</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>In-Trend Uniforms Pte Ltd</strong> Tel: 6741 0930 Email: <a href="https://www.intrenduniforms.com/" rel="noopener noreferrer nofollow" target="_blank">sales@itu.com.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>🏫 <strong>WALK-IN PURCHASE (Retail Store / In-School Sales)</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Field</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Details</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Retail Store</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>In-Trend Uniforms</strong> 1 Kaki Bukit Road 1, #01-31 Enterprise
+One, Singapore 415934 Nearest MRT: UBI (approx. 10 min walk)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>In-School Walk-In Schedule</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents/guardians who prefer to purchase uniforms in school are requested
+to follow the schedule planned by BVSS to ensure safe distancing and shorter
+waiting times.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Venue (In School)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Block C Level 1 Classrooms (C1-01 to C1-04)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Advisory</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Only <strong>one (1) adult</strong> may accompany each student. Please expect
+longer queues during peak periods.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Contact</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>In-Trend Uniforms Pte Ltd</strong> Tel: 6741 0930 Email: <a href="mailto:sales@itu.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@itu.com.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 </div>
 </details>
 </div>
 <p></p>
-<p>Please click the link below for further details.
-<br><a href="/files/Admin Matters/Information_for_Sale_of_Uniforms_2024_BVSS.pdf" rel="noopener nofollow" target="_blank">Information for Sale of Uniforms for BVSS</a>
-<br>For sizing chart, please refer to <a href="https://www.intrenduniforms.com/size-guide-video" rel="noopener noreferrer nofollow" target="_blank"><u>InTrend Uniforms - Size Guide</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>For Enquiries or Assistance</strong>
-<br>Please contact the vendor directly:
-<br>IN-TREND UNIFORMS
-<br>(refer to the above for business operation hours)
-<br>Tel: 67410930 Email: <a href="mailto:sales@itu.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sales@itu.com.sg</u></a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>[2025 Year-End] Walk In Purchase &amp; FAS Collection @ Bukit View Sec School</strong></h4>
+<h4><strong>[</strong>🗓️ <strong>Year-End] Walk-In Purchase &amp; FAS Collection @ BVSS</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Admin Matters/2026_bOOK_AND_UNIFORM_SCHEDULE.jpg">
+</div>
+<p></p>
+<h4></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Walk-In Purchase / FAS Collection @ BVSS : Sales of Book &amp; Uniform Schedule</strong>
