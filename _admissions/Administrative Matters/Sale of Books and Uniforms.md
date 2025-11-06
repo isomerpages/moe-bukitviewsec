@@ -8,7 +8,7 @@ third_nav_title: Administrative Matters
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
-<h2><strong>SALES OF BOOKS &amp; UNIFORMS<sup> FOR  YEAR 2026</sup></strong></h2>
+<h2><strong>SALES OF BOOKS &amp; UNIFORMS<sup> FOR YEAR 2026</sup></strong></h2>
 <hr>
 <p></p>
 <p>School textbooks and uniforms can be purchased from our approved vendors,
@@ -266,12 +266,9 @@ peak periods.</p>
 </div>
 </details>
 <p></p>
-<blockquote>
-<p><strong>2026 BOOKLIST</strong>
-<br>Booklist are available for download. Please click on the link to view
+<h4><strong>2026 BOOKLIST</strong></h4>
+<p>Booklist are available for download. Please click on the link to view
 or download the booklist.</p>
-</blockquote>
-<p></p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -279,14 +276,13 @@ or download the booklist.</p>
 <div class="isomer-card-title">Sec 1</div>
 <div class="isomer-card-description">To be published later</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s2_2026_bvss_b00klist" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Sec 2</div><div class="isomer-card-link">(Sec 2) BVSS 2026 Booklist and Stationery List </div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s2_2026_bvss_b00klist" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Sec 2</div><div class="isomer-card-link">(Sec 2) BVSS 2026 Booklist and Stationery List</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s3_2026_bvss_b00klist" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sec 3</div>
 <div class="isomer-card-link">(Sec 3) BVSS 2026 Booklist and Stationery List</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s4_2026_bvss_b00klist" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Sec 4</div><div class="isomer-card-description">
-</div><div class="isomer-card-link">(Sec 4) BVSS 2026 Booklist and Stationery List </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s4_2026_bvss_b00klist" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Sec 4</div><div class="isomer-card-description"></div><div class="isomer-card-link">(Sec 4) BVSS 2026 Booklist and Stationery List</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s5_2026_bvss_b00klist" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sec 5</div>
