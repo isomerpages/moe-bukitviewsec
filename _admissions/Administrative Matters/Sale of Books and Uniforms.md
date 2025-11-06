@@ -511,11 +511,6 @@ longer queues during peak periods.</p>
 </div>
 <p></p>
 <h4><strong>[</strong>🗓️ <strong>Year-End] Walk-In Purchase &amp; FAS Collection @ BVSS</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Admin Matters/2026_bOOK_AND_UNIFORM_SCHEDULE.jpg">
-</div>
-<p></p>
-<h4></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Walk-In Purchase / FAS Collection @ BVSS : Sales of Book &amp; Uniform Schedule</strong>
@@ -523,12 +518,11 @@ longer queues during peak periods.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>For Walk-in Purchase and FAS collections @ Bukit View Secondary School
 only
-<br><a href="/files/Admin Matters/2024_Year_End_Sales_and_FAS_collection_at_BVSS__Bookshop_and_School_Uniform_.pdf" rel="noopener nofollow" target="_blank">Year-End Sales &amp; FAS Collection at BVSS Schedule</a>
+<br><a href="/files/Admin Matters/2026 Books &amp; Uniform/2025_Year_End_Sales_and_FAS_collection_at_BVSS__Bookshop_and_School_Uniform_.pdf" rel="noopener nofollow" target="_blank">Year-End Sales &amp; FAS Collection at BVSS Schedule</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/bOOK_AND_UNIFORM_SCHEDULE.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Admin Matters/2026_bOOK_AND_UNIFORM_SCHEDULE.jpg">
 </div>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
