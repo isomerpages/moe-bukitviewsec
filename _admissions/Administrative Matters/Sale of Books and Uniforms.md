@@ -269,6 +269,7 @@ peak periods.</p>
 <p><strong>2026 BOOKLIST</strong>
 <br>Booklist are available for download. Please click on the link to view
 or download the booklist.</p>
+</blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>2026 Booklist</summary>
@@ -301,7 +302,8 @@ or download the booklist.</p>
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BVSS 2026 Booklist and Stationery List (Sec 2)</p>
+<p><a href="/files/Admin Matters/2026Booklist/BVSS_2026_Booklist_and_Stationery_List__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">BVSS 2026 Booklist and Stationery List (Sec 2)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -309,7 +311,8 @@ or download the booklist.</p>
 <p>Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BVSS 2026 Booklist and Stationery List (Sec 3)</p>
+<p><a href="/files/Admin Matters/2026Booklist/BVSS_2026_Booklist_and_Stationery_List__Sec_3_.pdf" rel="noopener nofollow" target="_blank">BVSS 2026 Booklist and Stationery List (Sec 3)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -317,7 +320,8 @@ or download the booklist.</p>
 <p>Sec 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BVSSBVSS 2026 Booklist and Stationery List (Sec 4)</p>
+<p><a href="/files/Admin Matters/2026Booklist/BVSS_2026_Booklist_and_Stationery_List__Sec_4_.pdf" rel="noopener nofollow" target="_blank">BVSS 2026 Booklist and Stationery List (Sec 4)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -325,7 +329,8 @@ or download the booklist.</p>
 <p>Sec 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BVSS 2026 Booklist and Stationery List (Sec 5)</p>
+<p><a href="/files/Admin Matters/2026Booklist/BVSS_2026_Booklist_and_Stationery_List__Sec_5_.pdf" rel="noopener nofollow" target="_blank">BVSS 2026 Booklist and Stationery List (Sec 5)</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -334,8 +339,6 @@ or download the booklist.</p>
 </div>
 </details>
 </div>
-</blockquote>
-<p></p>
 <p></p>
 <p><strong>To Take Note:</strong>
 </p>
