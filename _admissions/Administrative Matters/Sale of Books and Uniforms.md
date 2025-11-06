@@ -58,6 +58,9 @@ Office to arrange a collection details</p>
 </div>
 <p></p>
 <h3><strong>PURCHASE OF BOOKS AND UNIFORMS</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -76,7 +79,7 @@ Office to arrange a collection details</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Pacific Bookstores Pte Ltd</strong></h3>
+<h4><strong>Pacific Bookstores Pte Ltd</strong></h4>
 <p><strong>Vendor:</strong> Pacific Bookstores Pte Ltd
 <br><strong>Website:</strong>  <a href="https://www.pacificbookstores.com" rel="noopener" target="_blank">www.pacificbookstores.com</a>
 <br><strong>Tel:</strong> 6929 8012 &nbsp;|&nbsp; <strong>Email:</strong> 
@@ -372,16 +375,19 @@ date selected when collecting items from the school.</div>
 </tbody>
 </table>
 <h4><strong>In-Trend Uniforms Pte Ltd</strong></h4>
-<p><strong>Website: </strong>www.intrenduniforms.com
-<br><strong>Tel:</strong> 6741 0930 &nbsp;|&nbsp; <strong>endor:</strong> In-Trend
-Uniforms Pte Ltd
-<br><strong>Website:</strong>  <a href="https://www.intrenduniforms.com" rel="noopener" target="_blank">www.intrenduniforms.com</a>
+<p><strong>Website:</strong>  <a href="https://www.intrenduniforms.com" rel="noopener" target="_blank">www.intrenduniforms.com</a>
 <br><strong>Tel:</strong> 6741 0930 &nbsp;|&nbsp; <strong>Email:</strong> 
 <a href="mailto:sales@itu.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@itu.com.sg</a>
 <br><strong>Retail Store:</strong> 1 Kaki Bukit Rd 1, #01-31 Enterprise One,
 Singapore 415934 (MRT: UBI ~10 min walk)
 <br><strong>Hours:</strong> Mon–Fri 10am–6pm, Sat 10am–3pm (closed Sun &amp;
 PH)</p>
+<blockquote>
+<p>Please click the link below for further details. <a href="/files/Admin Matters/2026 Books &amp; Uniform/Information_for_Sale_of_Uniforms_2025_BVSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for Sale of Uniforms – BVSS</a>
+<br>For sizing chart, please refer to <a href="https://www.intrenduniforms.com/size-guide-video" rel="noopener noreferrer nofollow" target="_blank"><u>InTrend Uniforms - Size Guide</u></a>
+</p>
+</blockquote>
+<p></p>
 <details class="isomer-details">
 <summary>🛍️ <strong>Online Purchase (School Uniforms / PE Attire)</strong>
 </summary>
