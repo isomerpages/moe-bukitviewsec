@@ -13,86 +13,7 @@ third_nav_title: Administrative Matters
 <p>School textbooks and uniforms can be purchased from our approved vendors,
 either online* or directly at the school during specified dates (see walk-in
 purchase schedule below).</p>
-<h4><strong>2026 BOOKLIST</strong></h4>
-<p><strong>Please refer to the booklist links below:-</strong>
-</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>2026 Booklist</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level (2026)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Booklist</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>booklists will be published later.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/2025Booklist/BVSS_2026_Booklist_and_Stationery_List__Sec_2_.pdf" rel="noopener nofollow" target="_blank">BVSS 2026 Booklist and Stationery List (Sec 2)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/2025Booklist/BVSS_2026_Booklist_and_Stationery_List__Sec_3_.pdf" rel="noopener nofollow" target="_blank">BVSS 2026 Booklist and Stationery List (Sec 3)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_4_.pdf" rel="noopener nofollow" target="_blank">BVSS</a>
-<a href="/files/Admin Matters/2025Booklist/BVSS_2026_Booklist_and_Stationery_List__Sec_4_.pdf" rel="noopener nofollow" target="_blank">BVSS 2026 Booklist and Stationery List (Sec 4)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 5</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/2025Booklist/BVSS_2026_Booklist_and_Stationery_List__Sec_5_.pdf" rel="noopener nofollow" target="_blank">BVSS 2026 Booklist and Stationery List (Sec 5)</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
+<h4></h4>
 <p><strong>Important Information for Parents and Students:</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -236,7 +157,7 @@ Office to arrange a collection details</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Home Delivery Service
-<br><em>(Delivery charge of $14.90 applies)</em> 
+<br><em>(Delivery charge of $14.90 applies)</em>
 </p>
 </li>
 <li>
@@ -340,6 +261,79 @@ peak periods.</p>
 </p>
 </div>
 </details>
+<p></p>
+<blockquote>
+<p><strong>2026 BOOKLIST</strong>
+<br>Booklist are available for download. Please click on the link to view
+or download the booklist.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2026 Booklist</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level (2026)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Booklist</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>booklists will be published later.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BVSS 2026 Booklist and Stationery List (Sec 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BVSS 2026 Booklist and Stationery List (Sec 3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BVSSBVSS 2026 Booklist and Stationery List (Sec 4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BVSS 2026 Booklist and Stationery List (Sec 5)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</div>
+</details>
+</div>
+</blockquote>
+<p></p>
+<p></p>
 <p><strong>To Take Note:</strong>
 </p>
 <div class="isomer-card-grid">
@@ -377,7 +371,7 @@ date selected when collecting items from the school.</div>
 </tr>
 </tbody>
 </table>
-<h4><strong> In-Trend Uniforms Pte Ltd</strong></h4>
+<h4><strong>In-Trend Uniforms Pte Ltd</strong></h4>
 <p><strong>Website: </strong>www.intrenduniforms.com
 <br><strong>Tel:</strong> 6741 0930 &nbsp;|&nbsp; <strong>endor:</strong> In-Trend
 Uniforms Pte Ltd
@@ -438,7 +432,7 @@ website.</p>
 <p>Refer to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Admin Matters/2026 Books &amp; Uniform/Information_for_Sale_of_Uniforms_2025_BVSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for Sale of Uniforms – BVSS</a> 
+<p><a href="/files/Admin Matters/2026 Books &amp; Uniform/Information_for_Sale_of_Uniforms_2025_BVSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for Sale of Uniforms – BVSS</a>
 </p>
 </li>
 <li>
@@ -475,7 +469,7 @@ website.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Home Delivery <em>(within 3–5 working days)</em> 
+<p>Home Delivery <em>(within 3–5 working days)</em>
 </p>
 </li>
 <li>
