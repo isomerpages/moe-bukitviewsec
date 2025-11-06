@@ -5,14 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">In-Trend Uniforms Pte Ltd</div><div class="isomer-card-description">For: School Uniforms &amp; PE Attire
-📍 1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934
-🌐 Website: www.intrenduniforms.com
-
-📞 6741 0930 ✉️ sales@itu.com.sg
-
-💰 Payment: PayNow (UEN 52946428D)</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">In-Trend Uniforms Pte Ltd</div><div class="isomer-card-description">For: School Uniforms &amp; PE Attire 📍 1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934 🌐 Website: www.intrenduniforms.com</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
+<p></p>
 <h2><strong>SALES OF BOOKS &amp; UNIFORMS<sup> FOR YEAR 2026</sup></strong></h2>
 <hr>
 <p>Parents and students may purchase <strong>school textbooks, stationery, and uniforms</strong> from
@@ -100,7 +95,7 @@ to view or download the booklists.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>To Take Note : </strong>
+<p><strong>To Take Note :</strong>
 </p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -133,7 +128,7 @@ Building C, Singapore 409959 🌐 Website: www.pacificbookstores.com</div>
 <p></p>
 <h4>📦 <strong>Purchase Options</strong></h4>
 <details class="isomer-details">
-<summary><strong>🛒 Online Purchase (Textbooks &amp; Stationery) </strong>
+<summary><strong>🛒 Online Purchase (Textbooks &amp; Stationery)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
@@ -145,7 +140,7 @@ Building C, Singapore 409959 🌐 Website: www.pacificbookstores.com</div>
 <p><strong>Website Launch Date: </strong>06November 2025</p>
 </li>
 <li>
-<p><strong>Payments:</strong> 
+<p><strong>Payments:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -157,7 +152,7 @@ Building C, Singapore 409959 🌐 Website: www.pacificbookstores.com</div>
 </ul>
 </li>
 <li>
-<p><strong>Collection Method:</strong> 
+<p><strong>Collection Method:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -187,7 +182,7 @@ Building C, Singapore 409959 🌐 Website: www.pacificbookstores.com</div>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parents preferring to buy directly may do so during the <strong>Year-End Walk-In Sales &amp; </strong>
+<p>Parents preferring to buy directly may do so during the <strong>Year-End Walk-In Sales &amp;</strong>
 </p>
 </li>
 <li>
@@ -208,14 +203,9 @@ peak periods.</p>
 </ul>
 </li>
 </ul>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">In-Trend Uniforms Pte Ltd</div><div class="isomer-card-description">For: School Uniforms &amp; PE Attire
-📍 1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934
-🌐 Website: www.intrenduniforms.com
-
-📞 6741 0930 ✉️ sales@itu.com.sg
-
-💰 Payment: PayNow (UEN 52946428D)</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">In-Trend Uniforms Pte Ltd</div><div class="isomer-card-description">For: School Uniforms &amp; PE Attire 📍 1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934 🌐 Website: www.intrenduniforms.com</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
+<p></p>
 </div>
 </details>
 <h4></h4>
@@ -255,24 +245,12 @@ peak periods.</p>
 <a href="mailto:sales@itu.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@itu.com.sg</a>
 </p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">In-Trend Uniforms Pte Ltd</div><div class="isomer-card-description">For: School Uniforms &amp; PE Attire
-📍 1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934
-
-🌐 Website: www.intrenduniforms.com
-
-📞 6741 0930 ✉️ sales@itu.com.sg
-
-💰 Payment: PayNow (UEN 52946428D)</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
 <p>
 <br>
 </p>
-<blockquote>
 <p>Please click the link below for further details.</p>
-<p><a href="/files/Admin Matters/2026 Books &amp; Uniform/Information_for_Sale_of_Uniforms_2025_BVSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for Sale of Uniforms – BVSS</a>
-<br>For sizing chart, please refer to <a href="https://www.intrenduniforms.com/size-guide-video" rel="noopener noreferrer nofollow" target="_blank"><u>InTrend Uniforms - Size Guide</u></a>
-</p>
-</blockquote>
+<p>Information for Sale of Uniforms – BVSS
+<br>For sizing chart, please refer to InTrend Uniforms - Size Guide</p>
 <p></p>
 <details class="isomer-details">
 <summary>🛍️ <strong>Online Purchase (School Uniforms / PE Attire)</strong>
