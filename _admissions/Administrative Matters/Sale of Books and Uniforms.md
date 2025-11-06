@@ -340,7 +340,7 @@ or download the booklist.</p>
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Admin Matters/2026Booklist/BVSS_2026_Booklist_and_Stationery_List__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">BVSS 2026 Booklist and Stationery List (Sec 2)</a>
+<p><a href="/files/Admin Matters/2026Booklist/s2_2026_bvss_b00klist.pdf" rel="noopener noreferrer nofollow" target="_blank">BVSS 2026 Booklist and Stationery List (Sec 2)</a>
 </p>
 </td>
 </tr>
