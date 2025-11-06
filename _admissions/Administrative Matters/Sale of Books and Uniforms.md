@@ -5,12 +5,20 @@ variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
-<h2><strong>SALES OF BOOKS AND UNIFORMS FOR ACADEMIC YEAR 2026</strong></h2>
+<h3><strong>SALES OF BOOKS AND UNIFORMS </strong><br></h3>
+<h3><strong>FOR ACADEMIC YEAR 2026</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
+</div>
 <p>School textbooks and uniforms can be purchased from our approved vendors,
 either online* or directly at the school during specified dates (see walk-in
 purchase schedule below).</p>
 <h4><strong>Important Information for Parents and Students:</strong></h4>
-<hr>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>STUDENTS OFFERED SBB SUBJECTS (SBB)</strong>
