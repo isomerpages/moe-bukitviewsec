@@ -404,9 +404,9 @@ during the peak period.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• <a href="https://chatgpt.com/c/690b823f-2f30-8323-9fa0-060f134d5453#" rel="noopener noreferrer nofollow" target="_blank">Information for Sale of Uniforms for BVSS</a> 
+<p>• <a href="https://chatgpt.com/c/690b823f-2f30-8323-9fa0-060f134d5453#" rel="noopener noreferrer nofollow" target="_blank">Information for Sale of Uniforms for BVSS</a>
 </p>
-<p> <a href="https://www.intrenduniforms.com/size-guide-video" rel="noopener noreferrer nofollow" target="_blank">Size Guide / Video</a>
+<p><a href="https://www.intrenduniforms.com/size-guide-video" rel="noopener noreferrer nofollow" target="_blank">Size Guide / Video</a>
 </p>
 </td>
 </tr>
