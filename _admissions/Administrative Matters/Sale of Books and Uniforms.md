@@ -58,10 +58,16 @@ Office to arrange a collection details</p>
 </details>
 </div>
 <p></p>
-<h3><strong>PURCHASE OF BOOKS AND UNIFORMS</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Untitled_design.png">
 </div>
+<h3><strong>PURCHASE OF BOOKS AND UNIFORMS</strong></h3>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -297,7 +303,7 @@ or download the booklist.</p>
 </div>
 </a>
 </div>
-<p><a href="/files/Admin Matters/2026Booklist/s2_2026_bvss_b00klist.pdf" rel="noopener nofollow" target="_blank">file </a>
+<p><a href="/files/Admin Matters/2026Booklist/s2_2026_bvss_b00klist.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 <p>
 <br><a href="https://www.bukitviewsec.moe.edu.sg/files/BVSS%20Stories/The_BVSS_Stories.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.bukitviewsec.moe.edu.sg/files/BVSS%20Stories/The_BVSS_Stories.pdf</a>
