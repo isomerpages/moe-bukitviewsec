@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">In-Trend Uniforms Pte Ltd</div><div class="isomer-card-description">For: School Uniforms &amp; PE Attire 📍 1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934 🌐 Website: www.intrenduniforms.com</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
-<p></p>
-<h2><strong>SALES OF BOOKS &amp; UNIFORMS<sup> FOR YEAR 2026</sup></strong></h2>
+<h2><strong>SALES OF BOOKS &amp; UNIFORMS</strong><br><strong><sup>YEAR 2026</sup></strong></h2>
 <hr>
 <p>Parents and students may purchase <strong>school textbooks, stationery, and uniforms</strong> from
 the school’s approved vendors either:</p>
@@ -22,13 +19,30 @@ the school’s approved vendors either:</p>
 </ul>
 <p>Purchasing online is <strong>strongly encouraged</strong> to avoid queues
 and waiting times.</p>
-<h4></h4>
-<p>🧾 <strong>Important Information for Parents and Students:</strong>
-</p>
+<h4>🧾 <strong>Important Information for Parents and Students:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Only purchase items from the <strong>approved vendors</strong> listed below
-to ensure the correct editions and uniform design.</p>
+<p>Only purchase items from the <strong>approve</strong>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">🟦 Card 1:Delivery (Home Delivery Service)</div>
+<div class="isomer-card-description">Orders will be sent directly to your address once ready. At checkout,
+please choose between Express Shipping (1–3 working days, S$10) Normal
+Shipping (3–5 working days, S$7)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">🟩 Self-Pickup (Retail Store)</div>
+<div class="isomer-card-description">You may opt to collect your order in person at either the In-Trend Retail
+Store (10 AM – 6 PM).</div>
+</div>
+</div>
+</div>
+<p><strong>d vendors</strong> listed below to ensure the correct editions
+and uniform design.</p>
 </li>
 <li>
 <p>Students who are unsure of their <strong>Subject-Based Banding (SBB)</strong> subjects
@@ -43,31 +57,6 @@ written inside cannot be exchanged.</p>
 contacted separately by the school once approval is confirmed.</p>
 </li>
 </ul>
-<p></p>
-<h4>📘 <strong>BOOKLISTS (2026)</strong></h4>
-<p>Booklists are available for download. Please click on the links below
-to view or download the booklists.</p>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">📘 Sec 1</div>
-<div class="isomer-card-description">Textbooks &amp; Stationery List to be published later</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="/files/Admin%20Matters/2026Booklist/s2_2026_bvss_b00klist.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📗 Sec 2</div><div class="isomer-card-link">S2 Booklist &amp; Stationery List</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s3_2026_bvss_b00klist" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">📙 Sec 3</div>
-<div class="isomer-card-link">S3 Booklist &amp; Stationery List</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s4_2026_bvss_b00klist" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📔 Sec 4</div><div class="isomer-card-link">S4 Booklist &amp; Stationery List</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s5_2026_bvss_b00klist" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">📕 Sec 5</div>
-<div class="isomer-card-link">S5 Booklist &amp; Stationery List</div>
-</div>
-</a>
-</div>
 <p></p>
 <p></p>
 <table style="width: 0px">
@@ -120,63 +109,83 @@ dates stated on the vendor’s website.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Pacific Bookstores Pte Ltd</div>
-<div class="isomer-card-description">For: Textbooks &amp; Stationery 📍 Address: 14 Arumugam Road, #04-01 LTC
-Building C, Singapore 409959 🌐 Website: www.pacificbookstores.com</div>
+<div class="isomer-card-description">📍 14 Arumugam Road, #04-01 LTC Building C, Singapore 409959 🌐 www.pacificbookstores.com
+ |  📞 6929 8012 |  ✉️ sales@pacificbookstores.com</div>
 </div>
 </div>
 </div>
 <p></p>
-<h4>📦 <strong>Purchase Options</strong></h4>
+<h4>📘 <strong>BOOKLISTS (2026)</strong></h4>
+<p>Booklists are available for download.
+<br>Please click on the links below to view or download.</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">📘 Sec 1</div>
+<div class="isomer-card-description">Textbooks &amp; Stationery List to be published later</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="/files/Admin%20Matters/2026Booklist/s2_2026_bvss_b00klist.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📗 Sec 2</div><div class="isomer-card-link">S2 Booklist &amp; Stationery List</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s3_2026_bvss_b00klist" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">📙 Sec 3</div>
+<div class="isomer-card-link">S3 Booklist &amp; Stationery List</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s4_2026_bvss_b00klist" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📔 Sec 4</div><div class="isomer-card-link">S4 Booklist &amp; Stationery List</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s5_2026_bvss_b00klist" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">📕 Sec 5</div>
+<div class="isomer-card-link">S5 Booklist &amp; Stationery List</div>
+</div>
+</a>
+</div>
+<p></p>
+<h4>📘 <strong>Textbooks &amp; Stationery – Purchase Options</strong></h4>
 <details class="isomer-details">
-<summary><strong>🛒 Online Purchase (Textbooks &amp; Stationery)</strong>
+<summary><strong>🛒 Online Purchase </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parents may order via <a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
-</p>
+<p>Parents are encouraged to order online through <a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>.</p>
 </li>
 <li>
-<p><strong>Website Launch Date: </strong>06November 2025</p>
+<p><strong>Website Launch Date: </strong>06 November 2025</p>
 </li>
-<li>
-<p><strong>Payments:</strong>
+</ul>
+<p></p>
+<p><strong>Mode of Payment:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Debit / Credit Cards |</p>
+<p>Debit / Credit Cards</p>
 </li>
 <li>
 <p>PayNow</p>
 </li>
 </ul>
-</li>
-<li>
-<p><strong>Collection Method:</strong>
+<p><strong>Mode of Receipt:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Home Delivery ($14.90 charge) or</p>
+<p><strong>Home Delivery</strong> (Delivery charge of $14.90 applies)</p>
 </li>
 <li>
-<p>Self-Collection at School Bookshop</p>
+<p><strong>Self-Collection</strong> at School Bookshop</p>
 </li>
 </ul>
-</li>
-<li>
-<p>C<strong>ollection Details:</strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Refer to dates stated online and select preferred option during checkout.</p>
-</li>
-</ul>
+<p><strong>Collection Details:</strong>
+<br>Refer to the dates stated on the vendor’s website and select your preferred
+option during checkout.</p>
 </li>
 </ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>🏫 Walk-In Purchase (Textbooks &amp; Stationery) ~ in school</strong>
+<summary><strong>🏫 Walk-In Purchase (In School)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -188,21 +197,20 @@ Building C, Singapore 409959 🌐 Website: www.pacificbookstores.com</div>
 <li>
 <p><strong>FAS Collection Schedule</strong>.</p>
 </li>
-<li>
+</ul>
 <p><strong>Payments:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Cash| PayNow (QR Code)
-<br>Please expect longer waiting times during peak periods..</p>
+<p>Cash|</p>
 </li>
 <li>
-<p>lease note that there may be long queues and longer waiting times during
+<p>PayNow (via QR Code)</p>
+</li>
+</ul>
+<p>Please note that there may be long queues and longer waiting times during
 peak periods.</p>
-</li>
-</ul>
-</li>
-</ul>
+<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">In-Trend Uniforms Pte Ltd</div><div class="isomer-card-description">For: School Uniforms &amp; PE Attire 📍 1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934 🌐 Website: www.intrenduniforms.com</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
@@ -220,7 +228,7 @@ peak periods.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="https://www.bukitviewsec.moe.edu.sg/images/Admin%20Matters/shirt.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="https://www.bukitviewsec.moe.edu.sg/images/Admin%20Matters/shirt.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -234,16 +242,12 @@ peak periods.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Delivery (Home Delivery Service)</div>
-<div class="isomer-card-description">1. Select “Delivery” at checkout. 2. Enter home address. Options: Express
-(1–3 days | $10) / Normal (3–5 days | $7). Items delivered once ready.</div>
+<div class="isomer-card-title">For: School Uniforms &amp; PE Attire</div>
+<div class="isomer-card-description">📍 1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934 🌐 www.intrenduniforms.com |
+ 📞 6741 0930 |  ✉️ sales@itu.com.sg</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<p><strong>Website:</strong>  <a href="https://www.intrenduniforms.com" rel="noopener" target="_blank">www.intrenduniforms.com</a>
-<br><strong>Tel:</strong> 6741 0930 &nbsp;|&nbsp; <strong>Email:</strong> 
-<a href="mailto:sales@itu.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@itu.com.sg</a>
-</p>
+</div>
 <p></p>
 <p>
 <br>
@@ -252,33 +256,63 @@ peak periods.</p>
 <p>Information for Sale of Uniforms – BVSS
 <br>For sizing chart, please refer to InTrend Uniforms - Size Guide</p>
 <p></p>
+<p>👕 <strong>School Uniforms / PE Attire – Purchase Options</strong>
+</p>
+<p></p>
 <details class="isomer-details">
-<summary>🛍️ <strong>Online Purchase (School Uniforms / PE Attire)</strong>
+<summary>🛍️ <strong>Online Purchase </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Parents and students are encouraged to purchase uniforms <strong>online</strong> to
+avoid long queues and waiting times.
+<br>You can place your order at <a href="https://www.intrenduniforms.com/bukit-view-secondary-school" rel="noopener noreferrer nofollow" target="_blank">Intrenduniforms.com/bukit-view-secondary-school</a>
+</p>
+<p></p>
+<p><strong>Steps for Online Purchase</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit the website and select Bukit View Secondary School from the school
+list.</p>
+</li>
+<li>
+<p>Add the required uniform items to your cart.</p>
+</li>
+<li>
+<p>Choose your preferred delivery or self-pickup option (see below).</p>
+</li>
+<li>
+<p>Complete payment via PayNow.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Delivery (Home Delivery Service)</div>
+<div class="isomer-card-description">Orders will be sent directly to your address once ready. At checkout,
+please choose between Express Shipping (1–3 working days, S$10) Normal
+Shipping (3–5 working days, S$7)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">🟩 Self-Pickup (Retail Store)</div>
+<div class="isomer-card-description">You may opt to collect your order in person at either the In-Trend Retail
+Store (10 AM – 6 PM).</div>
+</div>
+</div>
+</div>
+<p></p>
 </div>
 </details>
-<h3>Online Purchase</h3>
-<ol>
-<li>
-<p>Visit <a href="https://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a> and
-select <em>Bukit View Secondary School</em>.</p>
-</li>
-<li>
-<p>Add required items to cart.</p>
-</li>
-<li>
-<p>Choose either <strong>Delivery</strong> or <strong>Self-Pickup</strong> (see
-below).</p>
-</li>
-<li>
-<p>Pay via PayNow.</p>
-</li>
-</ol>
-<blockquote>
 <p></p>
-</blockquote>
+<p></p>
+<p></p>
+<h3></h3>
+<p></p>
 <details class="isomer-details">
 <summary><strong>🏬 Walk-In Purchase (retail store / in school)</strong>
 </summary>
