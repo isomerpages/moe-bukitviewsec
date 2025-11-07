@@ -22,7 +22,7 @@ the school’s approved vendors either:</p>
 <p>Purchasing online is <strong>strongly encouraged</strong> to avoid queues
 and waiting times.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__2_.png">
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/bvss-booklists" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📘 Booklists (2026)</div><div class="isomer-card-description">Download the latest booklists for each level.</div><div class="isomer-card-link">BVSS Booklist</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.pacificbookstores.com/" class="isomer-card">
@@ -51,11 +51,12 @@ written inside cannot be exchanged.</p>
 <p>Parents of <strong>MOE FAS or School-Based FAS students</strong> will be
 contacted separately by the school once approval is confirmed.</p>
 <p></p>
+<p></p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__10_.png">
 </div>
-</li>
-</ul>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
@@ -81,7 +82,7 @@ contacted separately by the school once approval is confirmed.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>Pacific Bookstores Pte Ltd</strong></h4>
+<h4><strong>🟦 Pacific Bookstores Pte Ltd</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -92,7 +93,7 @@ contacted separately by the school once approval is confirmed.</p>
 </div>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__2_.png">
 </div>
 <p><strong>To Take Note :</strong>
 </p>
@@ -113,35 +114,11 @@ dates stated on the vendor’s website.</div>
 </div>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__2_.png">
 </div>
-<h4>📘 <strong>BOOKLISTS (2026)</strong></h4>
-<p>Booklists are available for download.
-<br>Please click on the links below to view or download.</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">📘 Sec 1</div>
-<div class="isomer-card-description">Textbooks &amp; Stationery List to be published later</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.bukitviewsec.moe.edu.sg/files/Admin%20Matters/2026Booklist/s2_2026_bvss_b00klist.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📗 Sec 2</div><div class="isomer-card-link">S2 Booklist &amp; Stationery List</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.bukitviewsec.moe.edu.sg/files/Admin%20Matters/2026Booklist/s3_2026_bvss_b00klist.pdf" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">📙 Sec 3</div>
-<div class="isomer-card-link">S3 Booklist &amp; Stationery List</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.bukitviewsec.moe.edu.sg/files/Admin%20Matters/2026Booklist/s4_2026_bvss_b00klist.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📔 Sec 4</div><div class="isomer-card-link">S4 Booklist &amp; Stationery List</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.bukitviewsec.moe.edu.sg/files/Admin%20Matters/2026Booklist/s5_2026_bvss_b00klist.pdf" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">📕 Sec 5</div>
-<div class="isomer-card-link">S5 Booklist &amp; Stationery List</div>
-</div>
-</a>
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
-</div>
-<h4>📘 <strong>Textbooks &amp; Stationery – Purchase Options</strong></h4>
+<h4>🟦 <strong>PURCHASE OPTIONS</strong></h4>
+<p><strong>For Textbooks &amp; Stationery :</strong>
+</p>
 <details class="isomer-details">
 <summary><strong>🛒 Online Purchase</strong>
 </summary>
@@ -218,7 +195,6 @@ peak periods.</p>
 </div>
 </details>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__10_.png">
 </div>
@@ -241,7 +217,7 @@ peak periods.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>In-Trend Uniforms Pte Ltd</strong></h4>
+<h4><strong>🟦 In-Trend Uniforms Pte Ltd</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -266,7 +242,9 @@ peak periods.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
 </div>
-<h4>👕 <strong>School Uniforms / PE Attire – Purchase Options</strong></h4>
+<h4>🟦<strong><em> </em>PURCHASE OPTIONS</strong></h4>
+<p><strong><u>For School Uniforms / PE Attire</u></strong>
+</p>
 <details class="isomer-details">
 <summary>🛍️ <strong>Online Purchase</strong>
 </summary>
@@ -356,7 +334,7 @@ at the retail store or the school sales venue.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__10_.png">
 </div>
-<h4>🗓️ <strong>Year-End Walk-In Purchase &amp; FAS Collection @ BVSS</strong></h4>
+<h4>🟦  <strong>Year-End Walk-In Purchase &amp; FAS Collection @ BVSS</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>In School Sales of Book &amp; Uniform Schedule</strong>
