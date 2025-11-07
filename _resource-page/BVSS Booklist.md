@@ -4,10 +4,13 @@ permalink: /bvss-booklists/
 variant: tiptap
 description: ""
 ---
-<h2>📘 <strong>BOOKLISTS </strong></h2>
-<p></p>
-<p>(2026) Booklists are available for download.
-<br>Please click on the links below to view or download the booklists.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__9_.png">
+</div>
+<h3><strong>BOOKLISTS for 2026</strong></h3>
+<p>Booklists are available for each level. Parents and students may view
+or download the required booklist according to their cohort(no hard copies&nbsp;will
+be issued).</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -31,5 +34,18 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
 </div>
-<h4></h4>
+<h3> <strong>Purchase Information</strong></h3>
+<p>Parents may proceed to the <a href="https://www.bukitviewsec.moe.edu.sg/books-and-uniform-sales/" class="decorated-link" rel="noopener" target="_blank">Sale of Books &amp; Uniforms</a> page
+for:</p>
+<ul>
+<li>
+<p>Vendor details (Pacific Bookstores &amp; In-Trend Uniforms)</p>
+</li>
+<li>
+<p>Online / Walk-in purchase options</p>
+</li>
+<li>
+<p>Year-end FAS collection schedule</p>
+</li>
+</ul>
 <p></p>
