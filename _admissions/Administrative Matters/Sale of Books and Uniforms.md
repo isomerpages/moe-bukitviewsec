@@ -117,7 +117,7 @@ dates stated on the vendor’s website.</div>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__2_.png">
 </div>
 <h4>🟦 <strong>PURCHASE OPTIONS</strong></h4>
-<p><strong>For Textbooks &amp; Stationery :</strong>
+<p><strong><u>For Textbooks &amp; Stationery :</u></strong>
 </p>
 <details class="isomer-details">
 <summary><strong>🛒 Online Purchase</strong>
@@ -240,7 +240,7 @@ peak periods.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__2_.png">
 </div>
 <h4>🟦<strong><em> </em>PURCHASE OPTIONS</strong></h4>
 <p><strong><u>For School Uniforms / PE Attire</u></strong>
