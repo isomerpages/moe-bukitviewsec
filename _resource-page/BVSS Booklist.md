@@ -34,7 +34,7 @@ be issued).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
 </div>
-<h3> <strong>Purchase Information</strong></h3>
+<h3><strong>Purchase Information</strong></h3>
 <p>Parents may proceed to the <a href="https://www.bukitviewsec.moe.edu.sg/books-and-uniform-sales/" class="decorated-link" rel="noopener" target="_blank">Sale of Books &amp; Uniforms</a> page
 for:</p>
 <ul>
