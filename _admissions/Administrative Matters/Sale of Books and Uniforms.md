@@ -22,27 +22,8 @@ and waiting times.</p>
 <h4>🧾 <strong>Important Information for Parents and Students:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Only purchase items from the <strong>approve</strong>
-</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">🟦 Card 1:Delivery (Home Delivery Service)</div>
-<div class="isomer-card-description">Orders will be sent directly to your address once ready. At checkout,
-please choose between Express Shipping (1–3 working days, S$10) Normal
-Shipping (3–5 working days, S$7)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">🟩 Self-Pickup (Retail Store)</div>
-<div class="isomer-card-description">You may opt to collect your order in person at either the In-Trend Retail
-Store (10 AM – 6 PM).</div>
-</div>
-</div>
-</div>
-<p><strong>d vendors</strong> listed below to ensure the correct editions
-and uniform design.</p>
+<p>Only purchase items from the <strong>approved vendors</strong> listed below
+to ensure the correct editions and uniform design.</p>
 </li>
 <li>
 <p>Students who are unsure of their <strong>Subject-Based Banding (SBB)</strong> subjects
@@ -142,7 +123,7 @@ dates stated on the vendor’s website.</div>
 <p></p>
 <h4>📘 <strong>Textbooks &amp; Stationery – Purchase Options</strong></h4>
 <details class="isomer-details">
-<summary><strong>🛒 Online Purchase </strong>
+<summary><strong>🛒 Online Purchase</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -256,11 +237,10 @@ peak periods.</p>
 <p>Information for Sale of Uniforms – BVSS
 <br>For sizing chart, please refer to InTrend Uniforms - Size Guide</p>
 <p></p>
-<p>👕 <strong>School Uniforms / PE Attire – Purchase Options</strong>
-</p>
+<h4>👕 <strong>School Uniforms / PE Attire – Purchase Options</strong></h4>
 <p></p>
 <details class="isomer-details">
-<summary>🛍️ <strong>Online Purchase </strong>
+<summary>🛍️ <strong>Online Purchase</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -286,12 +266,10 @@ list.</p>
 <p>Complete payment via PayNow.</p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Delivery (Home Delivery Service)</div>
+<div class="isomer-card-title">🟦 Delivery (Home Delivery Service)</div>
 <div class="isomer-card-description">Orders will be sent directly to your address once ready. At checkout,
 please choose between Express Shipping (1–3 working days, S$10) Normal
 Shipping (3–5 working days, S$7)</div>
@@ -301,115 +279,49 @@ Shipping (3–5 working days, S$7)</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">🟩 Self-Pickup (Retail Store)</div>
 <div class="isomer-card-description">You may opt to collect your order in person at either the In-Trend Retail
-Store (10 AM – 6 PM).</div>
+Store (10 AM – 6 PM) or the BVSS Collection Point (9 AM – 5 PM). Self-pickup
+is free of charge.</div>
 </div>
 </div>
 </div>
-<p></p>
 </div>
 </details>
-<p></p>
-<p></p>
-<p></p>
-<h3></h3>
-<p></p>
 <details class="isomer-details">
 <summary><strong>🏬 Walk-In Purchase (retail store / in school)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Description</strong>
+<p>Parents who prefer to buy directly, you may visit the <strong>In-Trend Uniforms Retail Store</strong> or <strong>in School.</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Information</strong>
+<p></p>
+<p><strong><u>Retail Store</u></strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Method of Purchase</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please refer to the store’s website for business hours and directions.</p>
+</li>
+<li>
+<p>Only <strong>one adult</strong> may accompany the student inside the retail
+area.</p>
+</li>
+</ul>
+<p><strong><u>In-School Sales</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Walk-In Purchase (Retail Store / In-School Sales)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Retail Store</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>In-Trend Uniforms</p>
-<p>1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934</p>
-<p>(Nearest MRT: UBI, approx. 10-min walk)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>In-School Sales</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Uniforms and PE attire are also available for purchase during the <strong>BVSS Year-End Sales</strong> period.</p>
 </li>
 <li>
-<p>Refer to the <em>Year-End Walk-In Sales &amp; FAS Collection Schedule</em> for
+<p>Please refer to the <em>Year-End Walk-In Sales &amp; FAS Collection Schedule</em> for
 dates and timings.</p>
+<p></p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Collection Method</strong>
+<p>Uniforms and PE attire purchased in person can be collected immediately
+at the retail store or the school sales venue.</p>
+<p>Payment can be made by <strong>Cash</strong> or <strong>PayNow (QR code)</strong>.</p>
+<p><em>Please note that queues may be long during peak periods, and only one adult may accompany each student.</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Collect your items immediately upon purchase at the retail store or school
-sales venue.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mode of Payments</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Cash</p>
-</li>
-<li>
-<p>PayNow <em>(scan QR code)</em>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Additional Information</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please note that there may be <strong>long queues and longer waiting times</strong> during
-peak periods. Only <strong>one adult</strong> may accompany each student.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 </div>
 </details>
