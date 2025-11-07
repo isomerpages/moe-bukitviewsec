@@ -5,179 +5,141 @@ variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
-<h3><strong>MOE FINANCIAL ASSISTANCE SCHEME (FAS) 2025</strong></h3>
-<p>Singaporean students may apply for financial assistance from the Ministry
-of Education. MOE Financial Assistance Scheme (FAS) is granted till December
-each year.</p>
+<h2>MOE Financial Assistance Scheme (FAS) 2026</h2>
+<p>The <strong>Ministry of Education (MOE)</strong> provides financial assistance
+to <strong>needy Singapore Citizen students</strong> in Government and Government-aided
+schools to ensure that all Singaporeans can benefit from quality education</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_1.jpg">
-</div>
-<p>For more information, please refer to the<a href="/files/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank"> pamphlet</a> and
-<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE's website</a>.</p>
-<p><strong>Please take note the following:</strong>
+<p>For more information, please refer to the<a href="/files/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
+<a href="/files/MOE_FAS_Pamphlet_EL.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>and<strong>:</strong>  <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" class="decorated-link" rel="noopener" target="_new">MOE Website – Financial Assistance Scheme</a>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>For Current MOE FAS Recipients (2024)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>If your child is currently receiving FAS and would like to continue in 2025:</strong>
+<p>If you wish to apply for MOE Financial Assistance Scheme, you can submit
+your application .</p>
+<h3><strong>Eligibility Criteria</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Criterion</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Submit an updated application form with supporting documents by the deadline.</p>
-</li>
-<li>
-<p>This ensures eligibility based on updated household income or family circumstances.</p>
-</li>
-</ol>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>For ComCare Beneficiaries recipient</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>If your child is<strong> covered under MSF ComCare Assistance :</strong>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Eligibility Ceiling</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>For 2025 <strong>are automatically eligibl</strong>e for FAS.</p>
-</li>
-<li>
-<p>No separate application is required.</p>
-</li>
-<li>
-<p>Parents will receive instructions from the school on how to collect the
-FAS Approval Letter and Collection Slips for books and uniforms.</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>For Successful MOE FAS recipients (Approval Granted by Other Schools)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>If your child/ward’s FAS application was approved by another school (e.g.,
-sibling’s school or primary school for Secondary 1 students):</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Bring the <strong>FAS Approval Letter</strong> from the approving school
-to our General Office.</p>
-</li>
-<li>
-<p>The school will issue:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A <strong>FAS Approval Letter</strong> from our school</p>
-</li>
-<li>
-<p><strong>Collection Slips</strong> for books and uniforms.</p>
-</li>
-</ul>
-</li>
-</ol>
-</div>
-</details>
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__4_.png">
-</div>
-<h4><strong>[2025] MOE FAS Application has already been approved by your child’s Primary School</strong></h4>
-<p>If your child’s/ward’s MOE FAS application was approved by their primary
-school or sibling's school, please obtain the BVSS Approval Letter before
-collecting textbooks and uniforms.</p>
-<h4><strong>To Obtain the BVSS Approval Letter:</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Bring the <strong>FAS Approval Letter</strong> from the approving school
-to our General Office.</p>
-</li>
-<li>
-<p>BVSS will provide:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A <strong>BVSS Approval Letter</strong>.</p>
-</li>
-<li>
-<p>Collection slips for <strong>textbooks and uniforms</strong>.</p>
-</li>
-</ul>
-</li>
-</ol>
-<p>For any enquiries, contact our General Office at <strong>6566 1990</strong>.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gross Household Income (GHI)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$4,000 and below</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Per Capita Income (PCI)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,000 and below</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>* Per Capita Income (PCI) = Total Gross Monthly Household Income ÷ Number
+of Household Members</p>
+<blockquote>
+<p><sup>Only </sup><strong><sup>Singapore Citizen</sup></strong><sup> students are eligible.</sup>
+</p>
+</blockquote>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h3><strong>For new applicants</strong></h3>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>If you wish to apply for MOE Financial Assistance Scheme, you can submit
-your application .</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4><strong>ELIGIBILITY CRITERIA</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(Ref: <a href="/files/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet-2025</a>)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
+<h3><strong>Benefits under MOE FAS</strong></h3>
+<p>Students under the MOE FAS will receive the following support:</p>
+<ul>
 <li>
-<p>Family’s gross household income (GHI): not exceeding $3000/- per month <strong>or</strong>
+<p>Full waiver of <strong>school and miscellaneous fees</strong>
 </p>
 </li>
 <li>
-<p>Family’s per capita income (PCI): not exceeding $750/- per month</p>
+<p><strong>Free textbooks and school attire</strong>
+</p>
 </li>
 <li>
-<p>[PCI = Total Gross Monthly Household Income divided by the No. of members
-in the same household.]</p>
+<p><strong>Meal and transport subsidies</strong> (depending on level)</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>For more information such as income criterion and benefits, please refer to the pamphlet attached above or </strong>You
-may refer to the MOE website <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">MOE's website</a> for
-the press release on the revised income ceiling and enhanced subsidy for
-financial assistance before submitting your application.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<p>📄 <strong>For the full breakdown of benefits</strong>, refer to the MOE
+Financial Assistance Scheme pamphlet below.</p>
 <blockquote>
-<p><strong>Application for MOE Financial Assistance Scheme (FAS) for the year 2025 is now open.</strong>
+<p><em>Click to enlarge or download</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/MOE_FAS_Pamphlet_EL.jpg">
+</div>
 </blockquote>
+<h3>How to Apply</h3>
+<p>You are <strong>strongly encouraged</strong> to apply online:</p>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/moe-efasggas" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">🔗 MOE FAS e-Application (via Link)</div><div class="isomer-card-description">Submit your application directly through the MOE eFAS portal.
+</div><div class="isomer-card-link">Apply via MOE FAS e-form</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Admin Matters/MOE_FAS_Pamphlet_ELQR.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">📱 QR Code – MOE FAS e-Application</div>
+<div class="isomer-card-description">Scan this QR code to access the form easily.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Admin Matters/Screenshot_2025_11_07_143803.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">📲 Parents Gateway (PG)</div>
+<div class="isomer-card-description">Login to Parents Gateway → Services → Financial Assistance (eFAS link)
+to submit your application</div>
+</div>
+</div>
+</div>
+<p></p>
+<h3>⚙️ Important Notes</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Apply <strong>early</strong> to receive <strong>free textbooks or uniforms</strong> before
+school starts on <strong>2 January 2026</strong>.</p>
+</li>
+<li>
+<p><strong>Applications may be made throughout the year</strong> as the financial
+circumstances of each family may change.</p>
+</li>
+<li>
+<p><strong>Fresh applications must be submitted for every school year.</strong>
+</p>
+</li>
+<li>
+<p><strong>ComCare recipients</strong> who are auto-granted FAS should contact
+the school at <strong>6288 9382</strong> to confirm status.</p>
+</li>
+<li>
+<p>Do <strong>not purchase</strong> textbooks or uniforms before approval –
+no reimbursement will be provided</p>
+<p></p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
@@ -203,98 +165,6 @@ submit all their applications using one form.</p>
 <li>
 <p><strong>Parents/Guardians may apply for MOE FAS through the following modes:</strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Online Application (Singpass required)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Parent Gateway (PG app)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>MOE eFAS Link</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Available on Parent Gateway under</p>
-<p>Service tab &gt; Financial Assistance.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Admin Matters/Slide1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer" target="_blank"><u>https://go.gov.sg/moe-efas</u></a><u><br></u>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="https://www.yuhuasec.moe.edu.sg/images/11111111.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<ul data-tight="true" class="tight">
-<li>
-<p>Please read the instructions in the eFAS and prepare the softcopy of the
-required documents before you begin your e-application.</p>
-</li>
-<li>
-<p>You will receive an acknowledgement email upon successful submission of
-eFAS application.</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Hardcopy Application Form</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Obtain From the General Office.</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Download the Form</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>You may obtain the application form from the school’s General Office.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="/files/Admin Matters/MOE_FAS_Application_Form_2025_BVSS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-Download &amp; Print the MOE FAS Application Form.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Upon completion, the application form is to be submitted directly to school,
-together with copies of the supporting documents as indicated in the form.</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
 </li>
 </ul>
 </td>
