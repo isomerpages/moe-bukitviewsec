@@ -2,5 +2,4 @@ collections:
   resource-page:
     output: true
     order:
-      - BVSS Booklist.md
       - Year End Sales of Textbooks & Uniform Schedule In School.md
