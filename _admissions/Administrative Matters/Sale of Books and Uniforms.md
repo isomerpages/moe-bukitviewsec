@@ -22,9 +22,8 @@ the school’s approved vendors either:</p>
 <p>Purchasing online is <strong>strongly encouraged</strong> to avoid queues
 and waiting times.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
 </div>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/bvss-booklists" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📘 Booklists (2026)</div><div class="isomer-card-description">Download the latest booklists for each level.</div><div class="isomer-card-link">BVSS Booklist</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.pacificbookstores.com/" class="isomer-card">
 <div class="isomer-card-body">
@@ -76,7 +75,7 @@ contacted separately by the school once approval is confirmed.</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<h4><strong>Purchase of Textbooks &amp; Stationery</strong></h4>
+<h3><strong>Purchase of Textbooks &amp; Stationery</strong></h3>
 </th>
 </tr>
 </tbody>
