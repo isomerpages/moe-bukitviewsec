@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__13_.png">
+</div>
 <h2><strong>SALES OF BOOKS &amp; UNIFORMS</strong><br><strong><sup>YEAR 2026</sup></strong></h2>
-<hr>
 <p>Parents and students may purchase <strong>school textbooks, stationery, and uniforms</strong> from
 the school’s approved vendors either:</p>
 <ul>
@@ -19,6 +21,19 @@ the school’s approved vendors either:</p>
 </ul>
 <p>Purchasing online is <strong>strongly encouraged</strong> to avoid queues
 and waiting times.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__2_.png">
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📘 Booklists (2026)</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <h4>🧾 <strong>Important Information for Parents and Students:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -36,10 +51,12 @@ written inside cannot be exchanged.</p>
 <li>
 <p>Parents of <strong>MOE FAS or School-Based FAS students</strong> will be
 contacted separately by the school once approval is confirmed.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__10_.png">
+</div>
 </li>
 </ul>
-<p></p>
-<p></p>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
@@ -55,7 +72,7 @@ contacted separately by the school once approval is confirmed.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Purchase of Textbooks &amp; Stationery" src="https://www.bukitviewsec.moe.edu.sg/images/Admin%20Matters/book_stack.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Purchase of Textbooks &amp; Stationery" src="https://www.bukitviewsec.moe.edu.sg/images/Admin%20Matters/book_stack.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -65,6 +82,19 @@ contacted separately by the school once approval is confirmed.</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong>Pacific Bookstores Pte Ltd</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Pacific Bookstores Pte Ltd</div>
+<div class="isomer-card-description">📍 14 Arumugam Road, #04-01 LTC Building C, Singapore 409959 🌐 www.pacificbookstores.com
+ |  📞 6929 8012 |  ✉️ sales@pacificbookstores.com</div>
+</div>
+</div>
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
+</div>
 <p><strong>To Take Note :</strong>
 </p>
 <div class="isomer-card-grid">
@@ -83,23 +113,12 @@ dates stated on the vendor’s website.</div>
 </div>
 </div>
 </div>
-<p></p>
-<h4><strong>Pacific Bookstores Pte Ltd</strong></h4>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Pacific Bookstores Pte Ltd</div>
-<div class="isomer-card-description">📍 14 Arumugam Road, #04-01 LTC Building C, Singapore 409959 🌐 www.pacificbookstores.com
- |  📞 6929 8012 |  ✉️ sales@pacificbookstores.com</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
 </div>
-</div>
-</div>
-<p></p>
 <h4>📘 <strong>BOOKLISTS (2026)</strong></h4>
 <p>Booklists are available for download.
 <br>Please click on the links below to view or download.</p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -120,7 +139,9 @@ dates stated on the vendor’s website.</div>
 </div>
 </a>
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
+</div>
 <h4>📘 <strong>Textbooks &amp; Stationery – Purchase Options</strong></h4>
 <details class="isomer-details">
 <summary><strong>🛒 Online Purchase</strong>
@@ -197,8 +218,11 @@ peak periods.</p>
 <p></p>
 </div>
 </details>
-<h4></h4>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__10_.png">
+</div>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -219,26 +243,31 @@ peak periods.</p>
 </tbody>
 </table>
 <h4><strong>In-Trend Uniforms Pte Ltd</strong></h4>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">For: School Uniforms &amp; PE Attire</div>
+<div class="isomer-card-title">In-Trend Uniforms Pte Ltd</div>
 <div class="isomer-card-description">📍 1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934 🌐 www.intrenduniforms.com |
  📞 6741 0930 |  ✉️ sales@itu.com.sg</div>
 </div>
 </div>
 </div>
-<p></p>
-<p>
-<br>
+<p><strong>Please click the link below for further details.</strong>
 </p>
-<p>Please click the link below for further details.</p>
-<p>Information for Sale of Uniforms – BVSS
-<br>For sizing chart, please refer to InTrend Uniforms - Size Guide</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Admin Matters/2026 Books &amp; Uniform/Information_for_Sale_of_Uniforms_2025_BVSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for Sale of Uniforms – BVSS </a>
+</p>
+</li>
+<li>
+<p>For sizing chart, please refer to <a href="https://www.intrenduniforms.com/size-guide-video" rel="noopener nofollow" target="_blank"> InTrend Uniforms - Size Guide</a>
+</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
+</div>
 <h4>👕 <strong>School Uniforms / PE Attire – Purchase Options</strong></h4>
-<p></p>
 <details class="isomer-details">
 <summary>🛍️ <strong>Online Purchase</strong>
 </summary>
@@ -322,18 +351,19 @@ at the retail store or the school sales venue.</p>
 <p>Payment can be made by <strong>Cash</strong> or <strong>PayNow (QR code)</strong>.</p>
 <p><em>Please note that queues may be long during peak periods, and only one adult may accompany each student.</em>
 </p>
-<p></p>
 </div>
 </details>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__10_.png">
+</div>
 <h4>🗓️ <strong>Year-End Walk-In Purchase &amp; FAS Collection @ BVSS</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Walk-In Purchase / FAS Collection @ BVSS : Sales of Book &amp; Uniform Schedule</strong>
+<summary><strong>In School Sales of Book &amp; Uniform Schedule</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For Walk-in Purchase and FAS collections @ Bukit View Secondary School
-only
+<p>
 <br><a href="/files/Admin Matters/2026 Books &amp; Uniform/2025_Year_End_Sales_and_FAS_collection_at_BVSS__Bookshop_and_School_Uniform_.pdf" rel="noopener nofollow" target="_blank">Year-End Sales &amp; FAS Collection at BVSS Schedule</a>
 </p>
 <div class="isomer-image-wrapper">
