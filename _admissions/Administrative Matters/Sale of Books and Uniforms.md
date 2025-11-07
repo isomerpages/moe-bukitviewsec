@@ -28,16 +28,14 @@ and waiting times.</p>
 <p><strong><u>Sales of Books &amp; Uniforms — Quick Access</u></strong>
 <br>Access key information and purchase options for your child’s 2026 textbooks,
 stationery, and uniform</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/bvss-booklists" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📚 Booklists (2026)</div><div class="isomer-card-description">Download the latest booklists for each level.
-
-</div><div class="isomer-card-link">View Booklists</div></div></a><a rel="noopener noreferrer nofollow" href="https://www.pacificbookstores.com/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">🏫Textbooks &amp; Stationery</div><div class="isomer-card-description">Purchase through Pacific Bookstores – online or in school.</div><div class="isomer-card-link">Visit Pacific Bookstores</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.bukitviewsec.moe.edu.sg/files/Admin%20Matters/2026%20Books%20&amp;%20Uniform/Information_for_Sale_of_Uniforms_2025_BVSS.pdf" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/bvss-booklists" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📚 Booklists (2026)</div><div class="isomer-card-description">Download the latest booklists for each level.</div><div class="isomer-card-link">View Booklists</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.pacificbookstores.com/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">👕Uniforms &amp; PE Attire</div>
-<div class="isomer-card-description">Purchase through In-Trend Uniforms – online or retail.</div>
-<div class="isomer-card-link">Download Information for Sale of Uniforms – BVSS</div>
+<div class="isomer-card-title">🏫Textbooks &amp; Stationery</div>
+<div class="isomer-card-description">Purchase through Pacific Bookstores – online or in school.</div>
+<div class="isomer-card-link">Visit Pacific Bookstores</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.bukitviewsec.moe.edu.sg/files/Admin%20Matters/2026%20Books%20&amp;%20Uniform/Information_for_Sale_of_Uniforms_2025_BVSS.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">👕Uniforms &amp; PE Attire</div><div class="isomer-card-description">Purchase through In-Trend Uniforms – online or retail.</div><div class="isomer-card-link">Download Information for Sale of Uniforms – BVSS</div></div></a>
 </div>
 <h4>🧾 <strong>Important Information for Parents and Students:</strong></h4>
 <ul data-tight="true" class="tight">
