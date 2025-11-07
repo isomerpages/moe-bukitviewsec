@@ -25,14 +25,14 @@ and waiting times.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__2_.png">
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📘 Booklists (2026)</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📘 Booklists (2026)</div><div class="isomer-card-description">Information for Sale ofS Uniforms – BVS</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.pacificbookstores.com/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">🏫 Textbooks &amp; Stationery</div>
+<div class="isomer-card-description">Purchase through Pacific Bookstores – online or in school.</div>
+<div class="isomer-card-link">Pacific Bookstores E-Shop</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.intrenduniforms.com/bukit-view-secondary-school" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Uniforms &amp; PE Attire</div><div class="isomer-card-description">Purchase through In-Trend Uniforms – online or retail.</div><div class="isomer-card-link"> In-Trend Uniforms -BVSS</div></div></a>
 </div>
 <h4>🧾 <strong>Important Information for Parents and Students:</strong></h4>
 <ul data-tight="true" class="tight">
@@ -256,11 +256,11 @@ peak periods.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Admin Matters/2026 Books &amp; Uniform/Information_for_Sale_of_Uniforms_2025_BVSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for Sale of Uniforms – BVSS </a>
+<p><a href="/files/Admin Matters/2026 Books &amp; Uniform/Information_for_Sale_of_Uniforms_2025_BVSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for Sale of Uniforms – BVSS</a>
 </p>
 </li>
 <li>
-<p>For sizing chart, please refer to <a href="https://www.intrenduniforms.com/size-guide-video" rel="noopener nofollow" target="_blank"> InTrend Uniforms - Size Guide</a>
+<p>For sizing chart, please refer to <a href="https://www.intrenduniforms.com/size-guide-video" rel="noopener nofollow" target="_blank">InTrend Uniforms - Size Guide</a>
 </p>
 </li>
 </ul>
