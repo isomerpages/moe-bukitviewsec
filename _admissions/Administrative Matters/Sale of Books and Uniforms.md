@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Administrative Matters
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__13_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__9_.png">
 </div>
 <h2><strong>SALES OF BOOKS &amp; UNIFORMS</strong><br><strong><sup>YEAR 2026</sup></strong></h2>
 <p>Parents and students may purchase <strong>school textbooks, stationery, and uniforms</strong> from
@@ -334,7 +334,7 @@ at the retail store or the school sales venue.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__10_.png">
 </div>
-<h4>🟦  <strong>Year-End Walk-In Purchase &amp; FAS Collection @ BVSS</strong></h4>
+<h4>🟦 <strong>Year-End Walk-In Purchase &amp; FAS Collection @ BVSS</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>In School Sales of Book &amp; Uniform Schedule</strong>
