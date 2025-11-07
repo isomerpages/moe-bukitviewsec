@@ -32,7 +32,7 @@ and waiting times.</p>
 <div class="isomer-card-description">Purchase through Pacific Bookstores – online or in school.</div>
 <div class="isomer-card-link">Pacific Bookstores E-Shop</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.intrenduniforms.com/bukit-view-secondary-school" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Uniforms &amp; PE Attire</div><div class="isomer-card-description">Purchase through In-Trend Uniforms – online or retail.</div><div class="isomer-card-link"> In-Trend Uniforms -BVSS</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.intrenduniforms.com/bukit-view-secondary-school" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Uniforms &amp; PE Attire</div><div class="isomer-card-description">Purchase through In-Trend Uniforms – online or retail.</div><div class="isomer-card-link">In-Trend Uniforms -BVSS</div></div></a>
 </div>
 <h4>🧾 <strong>Important Information for Parents and Students:</strong></h4>
 <ul data-tight="true" class="tight">
@@ -125,14 +125,14 @@ dates stated on the vendor’s website.</div>
 <div class="isomer-card-title">📘 Sec 1</div>
 <div class="isomer-card-description">Textbooks &amp; Stationery List to be published later</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="/files/Admin%20Matters/2026Booklist/s2_2026_bvss_b00klist.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📗 Sec 2</div><div class="isomer-card-link">S2 Booklist &amp; Stationery List</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s3_2026_bvss_b00klist" class="isomer-card">
+</div><a rel="noopener noreferrer nofollow" href="https://www.bukitviewsec.moe.edu.sg/files/Admin%20Matters/2026Booklist/s2_2026_bvss_b00klist.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📗 Sec 2</div><div class="isomer-card-link">S2 Booklist &amp; Stationery List</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.bukitviewsec.moe.edu.sg/files/Admin%20Matters/2026Booklist/s3_2026_bvss_b00klist.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">📙 Sec 3</div>
 <div class="isomer-card-link">S3 Booklist &amp; Stationery List</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s4_2026_bvss_b00klist" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📔 Sec 4</div><div class="isomer-card-link">S4 Booklist &amp; Stationery List</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/Admin_Matters/2026Booklist/s5_2026_bvss_b00klist" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.bukitviewsec.moe.edu.sg/files/Admin%20Matters/2026Booklist/s4_2026_bvss_b00klist.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📔 Sec 4</div><div class="isomer-card-link">S4 Booklist &amp; Stationery List</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.bukitviewsec.moe.edu.sg/files/Admin%20Matters/2026Booklist/s5_2026_bvss_b00klist.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">📕 Sec 5</div>
 <div class="isomer-card-link">S5 Booklist &amp; Stationery List</div>
