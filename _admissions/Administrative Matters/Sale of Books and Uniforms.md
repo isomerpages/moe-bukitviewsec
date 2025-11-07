@@ -340,12 +340,12 @@ at the retail store or the school sales venue.</p>
 <summary><strong>In School Sales of Book &amp; Uniform Schedule</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br><a href="/files/Admin Matters/2026 Books &amp; Uniform/2025_Year_End_Sales_and_FAS_collection_at_BVSS__Bookshop_and_School_Uniform_.pdf" rel="noopener nofollow" target="_blank">Year-End Sales &amp; FAS Collection at BVSS Schedule</a>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Admin Matters/2026_bOOK_AND_UNIFORM_SCHEDULE.jpg">
 </div>
+<p>
+<br><a href="/files/Admin Matters/2026 Books &amp; Uniform/2025_Year_End_Sales_and_FAS_collection_at_BVSS__Bookshop_and_School_Uniform_.pdf" rel="noopener nofollow" target="_blank">Year-End Sales &amp; FAS Collection at BVSS Schedule</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
