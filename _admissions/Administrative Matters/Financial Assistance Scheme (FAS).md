@@ -5,10 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
-<h2>MOE Financial Assistance Scheme (FAS) 2026</h2>
+<h3><strong>MOE Financial Assistance Scheme (FAS) 2026</strong></h3>
 <p>The <strong>Ministry of Education (MOE)</strong> provides financial assistance
-to <strong>needy Singapore Citizen students</strong> in Government and Government-aided
-schools to ensure that all Singaporeans can benefit from quality education</p>
+to <strong>needy Singapore Citizen students</strong> studying in Government
+and Government-aided schools.
+<br>This ensures that all Singaporeans, regardless of background, can benefit
+fully from education.</p>
 <p></p>
 <p>For more information, please refer to the<a href="/files/Admin Matters/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
 <a href="/files/MOE_FAS_Pamphlet_EL.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>and<strong>:</strong>  <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" class="decorated-link" rel="noopener" target="_new">MOE Website – Financial Assistance Scheme</a>
@@ -89,8 +91,7 @@ Financial Assistance Scheme pamphlet below.</p>
 <h3>How to Apply</h3>
 <p>You are <strong>strongly encouraged</strong> to apply online:</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/moe-efasggas" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">🔗 MOE FAS e-Application (via Link)</div><div class="isomer-card-description">Submit your application directly through the MOE eFAS portal.
-</div><div class="isomer-card-link">Apply via MOE FAS e-form</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/moe-efasggas" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">🔗 MOE FAS e-Application (via Link)</div><div class="isomer-card-description">Submit your application directly through the MOE eFAS portal.</div><div class="isomer-card-link">Apply via MOE FAS e-form</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -137,12 +138,42 @@ the school at <strong>6288 9382</strong> to confirm status.</p>
 <li>
 <p>Do <strong>not purchase</strong> textbooks or uniforms before approval –
 no reimbursement will be provided</p>
-<p></p>
+<h3>⚙️ Important Notes</h3>
+<ul>
+<li>
+<p>Apply <strong>early</strong> to receive <strong>free textbooks or uniforms</strong> before
+school starts on <strong>2 January 2026</strong>.</p>
+</li>
+<li>
+<p><strong>Applications may be made throughout the year</strong> as family
+financial circumstances may change.</p>
+</li>
+<li>
+<p><strong>Fresh applications must be submitted for every school year.</strong>
+</p>
+</li>
+<li>
+<p><strong>ComCare recipients</strong> who are auto-granted FAS should contact
+the school at <strong>6288 9382</strong> to confirm status.</p>
+</li>
+<li>
+<p>Do <strong>not purchase</strong> textbooks or uniforms before approval –
+no reimbursement will be provided.</p>
+</li>
+</ul>
+<p>🧾 <strong>Application Outcome</strong>
+<br>Applications are processed by the <strong>school and MOE</strong>, and
+the school will <strong>notify you of the outcome</strong> once it has been
+reviewed</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
+<p></p>
+<p>APPLICATION PROCESS</p>
+<p>Application is open throughout the year. Siblings in the same school can
+submit all their applications using one form.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -150,13 +181,12 @@ no reimbursement will be provided</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>APPLICATION PROCESS</strong></h4>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application is open throughout the year. Siblings in the same school can
-submit all their applications using one form.</p>
+<p></p>
 </td>
 </tr>
 <tr>
