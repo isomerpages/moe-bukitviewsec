@@ -25,8 +25,9 @@ and waiting times.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__11_.png">
 </div>
-<p><strong><u>Sales of Books &amp; Uniforms — Quick Access</u></strong>
-<br>Access key information and purchase options for your child’s 2026 textbooks,
+<h4><strong><u>Sales of Books &amp; Uniforms — Quick Access</u></strong></h4>
+<p></p>
+<p>Access key information and purchase options for your child’s 2026 textbooks,
 stationery, and uniform</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/bvss-booklists" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📚 Booklists (2026)</div><div class="isomer-card-description">Download the latest booklists for each level.</div><div class="isomer-card-link">View Booklists</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.pacificbookstores.com/" class="isomer-card">
