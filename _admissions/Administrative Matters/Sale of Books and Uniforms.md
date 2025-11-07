@@ -25,10 +25,10 @@ and waiting times.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__2_.png">
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📘 Booklists (2026)</div><div class="isomer-card-description">Information for Sale ofS Uniforms – BVS</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/bvss-booklists" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📘 Booklists (2026)</div><div class="isomer-card-description">Download the latest booklists for each level.</div><div class="isomer-card-link">BVSS Booklist</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.pacificbookstores.com/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">🏫 Textbooks &amp; Stationery</div>
+<div class="isomer-card-title">Textbooks &amp; Stationery</div>
 <div class="isomer-card-description">Purchase through Pacific Bookstores – online or in school.</div>
 <div class="isomer-card-link">Pacific Bookstores E-Shop</div>
 </div>
