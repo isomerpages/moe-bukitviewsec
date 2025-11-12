@@ -24,7 +24,6 @@ sections:
       variant: image
   - resources:
       id: resources
-      title: BUILDING VISTAS SOWING SUCCESS
   - infopic:
       title: Open House 2025
       id: infopic
