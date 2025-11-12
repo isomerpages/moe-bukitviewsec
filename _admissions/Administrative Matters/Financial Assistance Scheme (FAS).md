@@ -81,21 +81,18 @@ of Household Members</p>
 </ul>
 <p>📄 <strong>For the full breakdown of benefits</strong>, refer to the MOE
 Financial Assistance Scheme pamphlet below.</p>
-<blockquote>
-<p><em>Click to enlarge or download</em>
+<p>Cli<em>ck to enlarge or download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Admin Matters/MOE_FAS_Pamphlet_EL.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Admin Matters/MOE_FAS_Pamphlet_EL.jpg">
 </div>
-</blockquote>
-<h3>How to Apply</h3>
-<p>You are <strong>strongly encouraged</strong> to apply online:</p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/moe-efasggas" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">🔗 MOE FAS e-Application (via Link)</div><div class="isomer-card-description">Submit your application directly through the MOE eFAS portal.</div><div class="isomer-card-link">Apply via MOE FAS e-form</div></div></a>
+<h4>📝<strong>HOW TO APPLY</strong></h4>
+<p>Parents are <strong>strongly encouraged</strong> to apply online.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/moe-efasggas" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Admin Matters/20.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">🔗 MOE FAS e-Application (via Link)</div><div class="isomer-card-description">Submit your application directly through the MOE eFAS portal.</div><div class="isomer-card-link">Apply via MOE FAS e-form</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Admin Matters/MOE_FAS_Pamphlet_ELQR.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Admin Matters/17.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -106,7 +103,7 @@ Financial Assistance Scheme pamphlet below.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Admin Matters/Screenshot_2025_11_07_143803.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Admin Matters/19.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -117,63 +114,54 @@ to submit your application</div>
 </div>
 </div>
 <p></p>
-<h3>⚙️ Important Notes</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
+</div>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>IMPORTANT NOTES</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
-<li>
-<p>Apply <strong>early</strong> to receive <strong>free textbooks or uniforms</strong> before
-school starts on <strong>2 January 2026</strong>.</p>
-</li>
-<li>
-<p><strong>Applications may be made throughout the year</strong> as the financial
-circumstances of each family may change.</p>
-</li>
-<li>
-<p><strong>Fresh applications must be submitted for every school year.</strong>
-</p>
-</li>
-<li>
-<p><strong>ComCare recipients</strong> who are auto-granted FAS should contact
-the school at <strong>6288 9382</strong> to confirm status.</p>
-</li>
-<li>
-<p>Do <strong>not purchase</strong> textbooks or uniforms before approval –
-no reimbursement will be provided</p>
-<h3>⚙️ Important Notes</h3>
-<ul>
 <li>
 <p>Apply <strong>early</strong> to receive <strong>free textbooks or uniforms</strong> before
 school starts on <strong>2 January 2026</strong>.</p>
 </li>
 <li>
 <p><strong>Applications may be made throughout the year</strong> as family
-financial circumstances may change.</p>
+financial situations change.</p>
 </li>
 <li>
 <p><strong>Fresh applications must be submitted for every school year.</strong>
 </p>
 </li>
 <li>
-<p><strong>ComCare recipients</strong> who are auto-granted FAS should contact
-the school at <strong>6288 9382</strong> to confirm status.</p>
-</li>
-<li>
 <p>Do <strong>not purchase</strong> textbooks or uniforms before approval –
 no reimbursement will be provided.</p>
 </li>
 </ul>
-<p>🧾 <strong>Application Outcome</strong>
-<br>Applications are processed by the <strong>school and MOE</strong>, and
-the school will <strong>notify you of the outcome</strong> once it has been
-reviewed</p>
-</li>
-</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__10_.png">
 </div>
 <p></p>
-<p>APPLICATION PROCESS</p>
-<p>Application is open throughout the year. Siblings in the same school can
-submit all their applications using one form.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -181,193 +169,71 @@ submit all their applications using one form.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<h4><strong> </strong>📞 <strong>OUTCOME NOTIFICATION</strong> <strong>&amp; COLLECTION</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Parents/Guardians may apply for MOE FAS through the following modes:</strong>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Application Deadline:</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p>Applications (with all required supporting documents) must be submitted
-by</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>For Sec 2 - 4 (2025)</strong> :</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday, 11 Nov 2024.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>For Sec 1 (2025)</strong> :</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday, 23 Dec 2024.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Important Note:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>If your documents are in order, we will be able to process your application
-between 7 to 10 working days and we will notify you of the status accordingly.</p>
-</li>
-<li>
-<p>If not, we will process your application when the documents are completed.</p>
-</li>
-<li>
-<p>Late or incomplete applications may delay processing.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Our School admin staff may reach out to you for clarification on your submission or the request for additional documents.</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
+<h4><strong>Outcome Notification</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__13_.png">
 </div>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4><strong>OUTCOME NOTIFICATION</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Parents/guardians will receive a <strong>call from the school</strong> regarding
-the outcome of the FAS application.</p>
+the outcome of their FAS application.</p>
+</li>
+<li>
+<p>Parents who have received an <strong>email update from MOE HQ</strong> confirming
+that the MOE FAS has been approved are advised <strong>to wait for a follow-up call from the school</strong>.</p>
+</li>
+<li>
+<p>The <strong><u>school will contact parents within the next few days to provide details on how to collect the following</u></strong>:</p>
+</li>
+<li>
+<p>o The FAS Approval Letter issued by the school.</p>
+</li>
+<li>
+<p>o The Administrative Instructions and Confirmation Slips for collection
+of textbooks and uniforms.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Approved parents will receive instructions for collecting:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>FAS Approval Letter</strong>
-</p>
-</li>
-<li>
-<p><strong>Collection Slips for Books and Uniforms</strong>
-</p>
-</li>
-</ol>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<h3><strong>Collection of Books and Uniforms </strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__13_.png">
 </div>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4><strong>COLLECTION OF BOOKS AND UNIFORMS</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p><strong>For Approved Applicants:</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol>
+<br>Parents are required to visit the <strong>General Office</strong> during
+the scheduled collection period <strong>before proceeding to the sales venues</strong> for
+books and uniforms to collect:</p>
+<ul>
 <li>
-<p><strong>[Approved by BVSS ]</strong>
-<br><u>Parents will receive</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The <strong>FAS Approval Letter issued by the school.</strong>
-</p>
-</li>
-<li>
-<p><strong>Collection Slips</strong> for books and uniforms.</p>
+<p>The <strong>FAS Approval Letter ( + Collection Slips</strong> for books
+and uniforms<strong>)</strong> issued by the school.</p>
 </li>
 </ul>
-</li>
-<li>
-<p><strong>[Approve by other Schools]</strong>
-<br><u>Instructions for Collection:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Visit the General Office during the scheduled collection period.</p>
-</li>
-<li>
-<p>Bring the FAS Approval Letter and Collection Slips for verification.</p>
-</li>
-</ul>
-</li>
-</ol>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Note:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>FAS applicants are advised not to buy the books and uniforms until they
-are informed of the application outcome. Parents will not be refunded for
-purchases made before the application is approved.</p>
-</li>
-</ul>
+<br>FAS applicants are strongly advised <strong>not to purchase any books or uniforms</strong> until
+they have been officially informed of their application outcome.
+<br>The school will <strong>not provide reimbursement</strong> for any purchases
+made <strong>before approval</strong> of the FAS application.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For further information or clarification, please contact the General Office
