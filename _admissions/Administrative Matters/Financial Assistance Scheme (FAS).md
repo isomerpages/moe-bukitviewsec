@@ -60,9 +60,9 @@ of Household Members</p>
 <p><sup>Only </sup><strong><sup>Singapore Citizen</sup></strong><sup> students are eligible.</sup>
 </p>
 </blockquote>
-<hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__11_.png">
 </div>
 <h3><strong>Benefits under MOE FAS</strong></h3>
 <p>Students under the MOE FAS will receive the following support:</p>
