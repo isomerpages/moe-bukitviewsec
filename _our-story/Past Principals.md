@@ -90,9 +90,8 @@ individual strengths and personal motivation in service of learning.</p>
 safety of all Bukit Viewans and the holistic education for students continued.</p>
 <p></p>
 <h4><strong>Mr Jaswant Singh (Served: 2022 – 2025)</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Past principals/Jaswant_Singh.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Past principals/bvssjs.jpg">
 </div>
 <p>Mr Singh firmly believed in every child's potential to be an upstander
 who could elevate class and school spirit, unity and positive ethos and
