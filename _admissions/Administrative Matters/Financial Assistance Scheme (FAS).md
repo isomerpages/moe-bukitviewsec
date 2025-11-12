@@ -85,7 +85,7 @@ Financial Assistance Scheme pamphlet below.</p>
 <p><em>Click to enlarge or download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/MOE_FAS_Pamphlet_EL.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Admin Matters/MOE_FAS_Pamphlet_EL.jpg">
 </div>
 </blockquote>
 <h3>How to Apply</h3>
