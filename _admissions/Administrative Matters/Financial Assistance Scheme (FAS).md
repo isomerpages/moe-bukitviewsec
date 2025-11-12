@@ -103,7 +103,7 @@ Financial Assistance Scheme pamphlet below.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Admin Matters/19.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Admin Matters/PG_FAS.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -169,7 +169,7 @@ no reimbursement will be provided.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong> </strong>📞 <strong>OUTCOME NOTIFICATION</strong> <strong>&amp; COLLECTION</strong></h4>
+<h4>📞 <strong>OUTCOME NOTIFICATION</strong> <strong>&amp; COLLECTION</strong></h4>
 </th>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ of textbooks and uniforms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>Collection of Books and Uniforms </strong></h3>
+<h3><strong>Collection of Books and Uniforms</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__13_.png">
 </div>
