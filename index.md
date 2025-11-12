@@ -22,9 +22,6 @@ sections:
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
       variant: image
-  - resources:
-      id: resources
-      title: BUILDING VISTAS SOWING SUCCESS
   - infopic:
       title: Open House 2025
       id: infopic
@@ -35,6 +32,8 @@ sections:
       alt: Image alt text
       button: Click here for more details
       url: https://www.bukitviewsec.moe.edu.sg/admissions/aboutbvss/
+  - resources:
+      id: resources
   - textcards:
       title: "#BVSS"
       id: textcards
