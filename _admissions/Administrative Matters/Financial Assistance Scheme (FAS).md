@@ -84,7 +84,7 @@ Financial Assistance Scheme pamphlet below.</p>
 <p>Cli<em>ck to enlarge or download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Admin Matters/MOE_FAS_Pamphlet_EL.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/fas.png">
 </div>
 <h4>📝<strong>HOW TO APPLY</strong></h4>
 <p>Parents are <strong>strongly encouraged</strong> to apply online.</p>
@@ -161,7 +161,6 @@ no reimbursement will be provided.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__10_.png">
 </div>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
