@@ -77,15 +77,11 @@ the General Office by <strong><u>12 January 2026.</u></strong>
 </p>
 <ul>
 <li>
-<p><a href="/files/Sec 1 Registration/Infographic_on_the_PLD_Initiative_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Initiative Infographic</a>
+<p><a href="/files/Sec 1 Registration/ip2___parent_handbook__i__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec 1 Registration/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) 2026</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Sec 1 Registration/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) 2026</a>
+<p><a href="/files/Sec 1 Registration/ip3___parent_handbook__ii__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) 2026</a>
 </p>
 </li>
 </ul>
