@@ -38,7 +38,7 @@ sections:
           announcement: Secondary 1 students (2026) are not required to physically report
             to school on Friday 19 December 2025.  Please refer to school
             website for further instructions and the welcome PG message.
-          link_text: Click here
+          link_text: CLICK HERE
           link_url: https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2026/sec12026/
   - resources:
       id: resources
