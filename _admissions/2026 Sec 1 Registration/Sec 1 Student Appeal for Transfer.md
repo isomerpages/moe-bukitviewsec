@@ -82,7 +82,3 @@ note that admission is not guaranteed.</p>
 <p><strong>G3 AL:</strong>&nbsp; TBC</p>
 <p><strong>G2 AL:</strong> &nbsp;TBC</p>
 <p><strong>G1 AL:</strong> &nbsp;TBC</p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>G1 AL:</strong> 29</p>
