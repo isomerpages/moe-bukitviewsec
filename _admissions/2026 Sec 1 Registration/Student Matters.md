@@ -353,7 +353,7 @@ students.</p>
 </table>
 <p>For more information on Full Subject Based Banding, do click on the FSBB
 microsite link:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html</a>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html</a>
 </p>
 <p></p>
 <h4><strong>Information regarding Mother Tongue Matters</strong></h4>
