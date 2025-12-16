@@ -10,14 +10,14 @@ third_nav_title: 2026 Sec 1 Registration
 <img style="width: 100%" height="auto" width="100%" src="/images/Sec1Reg/welcome.jpg">
 </div>
 <p>
-<br>As announced by MOE, Secondary 1 students (2025) are&nbsp;<strong>not</strong>&nbsp;required
-to physically report to school after receiving their S1 Posting result.
-We look forward to welcoming your child/guardian to our school on the first
-day of school on <strong>Thursday 2 January 2025</strong>.</p>
+<br>As announced by MOE, Secondary 1 students (2026) are&nbsp;<strong>not</strong>&nbsp;required
+to physically report to school on Friday 19 December 2025. We look forward
+to welcoming your child/guardian to our school on the first day of school
+on <strong><u>Friday 2 January 2026</u></strong>.</p>
 <p>Parents/Guardians of newly posted Secondary 1 students will receive a
-welcome message via Parents Gateway (PG) by our Secondary 1 Assistant Year
-Head, Miss Kumutha. This welcome message will provide details on our orientation
-programme in 2025.</p>
+welcome message via Parents Gateway (PG) by our Year Head Mr Lee Jia Hao.
+This welcome message will provide details on our orientation programme
+in 2026.</p>
 <p>For further information regarding matters pertaining to Secondary 1 enrolment,
 please click on the icons below. For parents who require assistance, please
 contact the school for further clarification.</p>
