@@ -22,16 +22,24 @@ sections:
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
       variant: image
-  - infopic:
-      title: Open House 2025
-      id: infopic
-      description: Join us at the BVSS Open House 2025 on Saturday, 15 November, 8.30
-        a.m. – 12.30 p.m. Come and discover why Bukit View Secondary School is
-        the place to be!
-      image: /images/Open_House.png
-      alt: Image alt text
-      button: Click here for more details
-      url: https://www.bukitviewsec.moe.edu.sg/admissions/aboutbvss/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Release of GCE N- Level results
+          date: 18 December 2025
+          announcement: 2025 Sec 4NA and 4NT students, please report to school by 1.30
+            pm  and assemble in the canteen. After which, you will proceed to
+            the ISH for a briefing and to collect your results.
+          link_text: ""
+          link_url: ""
+        - title: S1 Posting Results
+          date: 19 December 2025
+          announcement: Secondary 1 students (2026) are not required to physically report
+            to school on Friday 19 December 2025.  Please refer to school
+            website for further instructions and the welcome PG message.
+          link_text: ""
+          link_url: ""
   - resources:
       id: resources
   - textcards:

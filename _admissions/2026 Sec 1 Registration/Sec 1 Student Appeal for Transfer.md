@@ -3,17 +3,16 @@ title: Sec 1 Student Appeal for Transfer
 permalink: /admissions/secondary-one-2025/studtransfer/
 description: ""
 variant: tiptap
-third_nav_title: 2025 Sec 1 Registration
+third_nav_title: 2026 Sec 1 Registration
 ---
 <h3><strong>Sec 1 Student Appeal for Transfer</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
 <h4><strong>For students requesting to transfer out of BVSS (due to serious medical conditions)</strong></h4>
-<p>Parents or guardians of students who posted to BVSS but are seeking a
-transfer out due to <strong>serious medical conditions (e.g. chronic heart conditions) or severe physical impairments (e.g. require permanent use of a wheelchair), </strong>are
-advised to approach the school in person on <strong>Thursday, 19 December 2024</strong>,
-between <strong>8:30 AM and 12:00 PM</strong> at the <strong>BVSS General Office</strong>.</p>
+<p>For students posted to BVSS but are seeking a transfer out due to <strong>serious medical conditions (e.g. chronic heart conditions) or severe physical impairments (e.g. require permanent use of a wheelchair), please approach </strong>the
+school between <strong>8:30 am and 12:00 pm on Friday, 19 December 2025</strong>,
+bringing supporting documents.</p>
 <p><strong>Required Documents</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -54,41 +53,32 @@ the school’s General Office at 6566 1990.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
 <h4><strong>For students requesting to transfer into BVSS</strong></h4>
-<p>Our transfer appeal period is open until <strong>Monday, 23 December 2024, 12:00 PM.</strong>
+<p>Our transfer appeal period is open until <strong>Monday, 22 December 2025, 12:00 PM.</strong>
 </p>
-<p>You may submit your appeal online via this link:
-<br><a href="https://go.gov.sg/bvss2025-sec1-appeal" rel="noopener nofollow" target="_blank">2025 BVSS Sec 1 Appeal </a>
-<br>– <strong><em>there is no need to visit the school in person.</em></strong>
+<p>You do not need to come in person and may submit your appeal via this
+link:
+<br><a href="https://form.gov.sg/6756641117ccd26f81e611d6" rel="noopener nofollow" target="_blank">2026 BVSS Sec 1 Appeal </a>
+<br>
 </p>
-<p>The school will contact parents whose appeals are successful by <strong>mid-January 2025</strong>.
-All applications are reviewed carefully, taking a holistic approach that
-considers academic results, passion/ interests, and reasons for the transfer.</p>
-<p><strong>Please Note:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Appeals are unlikely to be successful if the student has not met the <strong>cut-off point</strong> for
-the respective course in this year’s Secondary One Posting to Bukit View
-Secondary School.</p>
-</li>
-<li>
-<p>Applications are subject to <strong>available vacancies</strong>, and admission
-is <strong>not guaranteed</strong>.</p>
-</li>
-<li>
-<p>Students must still complete the <strong>registration exercise</strong> and
-report to their posted secondary school on <strong>2 January 2025</strong> until
-the transfer is finalised.</p>
-</li>
-</ul>
+<p>The school will contact parents whose appeals are successful by <strong>2 January 2026</strong>.</p>
+<p>Please note that students who wish to appeal for a school transfer may
+submit their appeals but are likely to be unsuccessful if they have not
+met the cut-off point for the respective courses in this year’s Secondary
+One Posting.</p>
+<p>We review every application carefully, taking a holistic view in determining
+suitability for admission, considering academic results, passion/interests,
+reason for transfer, etc. Do note that your child's score should be 19
+or lower. As the application is subject to available vacancies, please
+note that admission is not guaranteed.</p>
+<p></p>
 <p>For further assistance, please contact the school office.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
 </div>
-<h4><strong>COP for 2024 Sec 1 Cohort</strong></h4>
+<h4><strong>COP for 2026 Sec 1 Cohort</strong></h4>
 <p><strong>(REF : </strong><a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-view-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-view-secondary-school </a><strong>)</strong>
 </p>
-<p><strong>G3 AL:</strong>&nbsp; 19</p>
-<p><strong>G2 AL:</strong> &nbsp;24</p>
-<p><strong>G1 AL:</strong> 29</p>
+<p><strong>G3 AL:</strong>&nbsp; TBC</p>
+<p><strong>G2 AL:</strong> &nbsp;TBC</p>
+<p><strong>G1 AL:</strong> &nbsp;TBC</p>

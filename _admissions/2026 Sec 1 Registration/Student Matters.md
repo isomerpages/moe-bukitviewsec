@@ -3,7 +3,7 @@ title: Student Matters
 permalink: /admissions/secondary-one-2025/sm/
 description: ""
 variant: tiptap
-third_nav_title: 2025 Sec 1 Registration
+third_nav_title: 2026 Sec 1 Registration
 ---
 <h2>Student Matters</h2>
 <h4><strong>First Week of School</strong></h4>
@@ -13,41 +13,33 @@ third_nav_title: 2025 Sec 1 Registration
 <p>Once again, a very warm welcome to all new Secondary 1 Students to the
 BVSS Family!</p>
 <p>We look forward to welcoming your child/guardian to our school on the
-first day of school on <strong>Thursday 2 January 2025. </strong>
+first day of school on <strong>Friday 2 January 2026.</strong>
 </p>
-<p>Please ensure your child/ward reports to the canteen <strong><u>before 7.30 am in BVSS full uniform.</u></strong>
-</p>
-<p>Student leaders will bring them to the hall. Students who have not bought
-their uniforms may report to school in their primary school attire or PE
-attire.</p>
-<p><strong><u>S1 Orientation Programme</u></strong>
-</p>
-<p>BVSS S1 Orientation Programme will take place from <strong>Wednesday 8 January to Friday 10 January 2024</strong>.
-S1 Parents Engagement Session will take place on Friday 10 January 2024
-from 4 pm to 6.30 pm. There will be a S1 Orientation Programme Showcase
-from 6.30 pm to 8 pm and you are encouraged to join us.</p>
-<p><em>More details will be provided by the Assistant Year Head Miss Kumutha via Parents Gateway (PG) nearer to the date.</em>
-</p>
+<p>Please ensure your child/ward reports to the canteen <strong><u>before 7.40 am in BVSS PE T-shirt and brown shorts/ culottes. </u></strong>Our
+Student Leaders will guide them to find and join their form classes for
+morning assembly. Students who have not bought their uniforms may report
+to school in their primary school attire or PE attire.</p>
+<p>More details will be provided by the Year Head Mr Lee Jia Hao via Parents
+Gateway (PG) nearer to the date.</p>
 <p></p>
 <p><strong>2 . CCA Awareness Days</strong>
 </p>
 <p>The objective of CCA Awareness Day is to provide Sec 1 students with snippets
 of CCA experiences to enable them to make informed choices in their selection
 of CCAs.</p>
-<p>CCA Awareness Day will be held on <strong>Wednesday 8 Jan and Friday 10 Jan.</strong>
+<p>CCA Awareness Day will be held during the Sec 1 Orientation Programme
+on <strong>2, 5 and 6 January.</strong>
 </p>
-<p>Your child/ward will be having his/her lunch in school before the CCA
-Awareness Day. Please ensure he/she has sufficient cash to purchase food
-from the canteen.</p>
-<p><strong>3. Parents’ Day</strong>
+<p></p>
+<p><strong>3. Parents’ Engagement Session</strong>
 </p>
-<p>The objectives of Parents’ Day are to provide parents with opportunities
-to:</p>
+<p>The objectives of Parents’ Engagement Session Day are to provide parents
+with opportunities to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Gain deeper insights into our school’s Vision, Mission, Values, and&nbsp;
 approach to the holistic development of Bukit View Secondary through presentations
-by the Principal and the school’s Executive Committee members.</p>
+by the Principal and the school’s Executive Committee.</p>
 </li>
 <li>
 <p>Connect with Form Teachers to foster stronger relationships.</p>
@@ -58,19 +50,24 @@ education, including participation in school’s activities and joining the
 Parents’ Support Group.</p>
 </li>
 </ul>
-<p>S1 Parents' Day will be held on <strong>Friday 10 Jan 2025 from 4 pm to 6.30 pm in the school hall.</strong>
+<p>S1 Parents' Day will be held on <strong>Friday 9 Jan 2026 from 5.30 pm to 7.30 pm in the school hall.</strong>
 </p>
+<p></p>
 <h4><strong>Students Management Matters</strong></h4>
 <p>Please click on the link below to learn about our school attire and grooming.</p>
 <p><a href="/files/Sec 1 Registration/Sec_1_2025_Attire_and_Grooming.pdf" rel="noopener nofollow" target="_blank">School attire and grooming</a>
 </p>
+<p></p>
 <h4><strong>Personalised Digital Learning Programme (PDLP)</strong></h4>
 <p>As part of the National Digital Literacy Programme, to enhance teaching
 and learning through e-pedagogy and personalising students' learning experience,
 PDLP was launched from 2020.&nbsp;</p>
-<p>All Secondary 1 students will need to procure their own iPads. Please
-click on the following <a href="https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2024/pld/" rel="noopener noreferrer nofollow" target="_blank">link</a> for
-more details and procurement of the iPads for Sec 1 2025.</p>
+<p>In Bukit View Secondary, Secondary 1 students will be using Apple iPad
+as their personal learning device. Every iPad will come bundled with Apple
+pencil and casing with smart keyboard to maximise the affordances of the
+iPad as a learning tool. Please click on the following <a href="https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2024/pld/" rel="noopener noreferrer nofollow" target="_blank">link</a> for
+more details and procurement of the iPads for Sec 1 2026.</p>
+<p></p>
 <h4><strong>Full Subject-Based Banding (FSBB)</strong></h4>
 <p>MOE will post students to secondary school through three Posting Groups
 – Posting Groups 1, 2, and 3. Posting Groups will only be used for the
@@ -151,6 +148,7 @@ their various subjects and subject level combinations.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>26 - 30</p>
+<p>(with AL7 or better in EL and MA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1</p>
@@ -243,10 +241,10 @@ Mathematics and/or Science at a more demanding level.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>SBB Offer Letter for eligible students will be sent via Parents Gateway
-(PG) by <strong>20 December 2024.</strong>
+<p>Offer Letter(s) for eligible students will be sent via Parents Gateway
+(PG) by <strong>Monday 22 December 2025.</strong>
 </p>
-<p><strong>Deadline for submission is Tuesday 24 December 2024. &nbsp;&nbsp;</strong>
+<p><strong>Deadline for submission is Friday 26 December 2025. &nbsp;&nbsp;</strong>
 </p>
 <p>For parents whose children are eligible, and have no PG/Internet access,
 SBB Offer Letters would be ready for collection during school opening hours.
@@ -267,9 +265,9 @@ on the following criteria:</p>
 <img style="margin-left:0px;margin-top:0px;" height="187" width="472" src="https://lh7-us.googleusercontent.com/ze61l4C9NJnGGEODtX-qnjhrKcpTpFxxg6_MEvIYLIjm9EUKUJPxgQ5mRlsGdHUAs1ArtAMcEpnGyqqA8W060m1723msXuMdPsnOrnJ5C0FDocYMjQjmUwsVT5XqkizYViinT4XPyfUw">
 </div>
 <p>SBB Option Letter for students to opt for Mother Tongue at Less Demanding
-Level will be sent via Parents Gateway (PG) by <strong>20 December 2024.</strong>
+Level will be sent via Parents Gateway (PG) by <strong>Monday 22 December 2025.</strong>
 </p>
-<p><strong>Deadline for submission is Tuesday 24 December 2024. &nbsp;&nbsp;</strong>
+<p><strong>Deadline for submission is Friday December 2025. &nbsp;&nbsp;</strong>
 </p>
 <p>For parents whose children are eligible, and have no PG/Internet access,
 SBB Offer Letters would be ready for collection during school opening hours.
@@ -292,6 +290,67 @@ learning needs and pace of their students in the same form class.</p>
 subjects will be offered at G1, G2 and G3.</p>
 <p>Students will be grouped in different classes based on their subject level
 for each subject.</p>
+<p>The following curriculum policy changes will also be implemented from
+the 2024 Secondary One cohort:</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Details</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Languages (MTL) – replacement of MTL ‘B’ with G1 or G2 MTL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students who face exceptional difficulties coping with learning MTL will
+have the option to offer G1 or G2 MTL. With the greater flexibility afforded
+by the MTL offerings at G1, G2, and G3, MTL ‘B’ will be discontinued in
+secondary schools starting from the Secondary 1 cohort in 2024.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Social Studies Normal (Technical) [SS(NT)] – replacement of SS(NT) with G1 Humanities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will be able to offer G1 Humanities as a non-examinable subject
+at the lower secondary levels, in lieu of the current SS(NT).</p>
+<p>At lower secondary, G1 Humanities will comprise Social Studies and Humanities
+Exposure Modules (HEM) in Geography, History, and Literature in English
+to give students the opportunity to gain exposure to the different Humanities
+disciplines.</p>
+<p>Students offering G2 and G3 Humanities at lower secondary will continue
+with the existing offerings of Geography, History and Literature in English.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Computer Applications (CPA) – discontinued with teaching of digital competencies incorporated into other subjects and programmes</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower secondary CPA, which is currently only available for students taking
+the N(T) stream, will be discontinued. Teaching of digital competencies
+will be incorporated into other subjects/programmes for all lower secondary
+students.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>For more information on Full Subject Based Banding, do click on the FSBB
 microsite link:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html</a>
@@ -319,14 +378,19 @@ microsite link:</p>
 <p>Higher Mother Tongue (HMT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>On top of the MOE Eligibility Criteria, Bukit View Secondary offer HMT
-for students who meets the following criteria:</p>
-<p>An overall PSLE Score of 15 to 19 (inclusive); and attained AL 1/ AL 2
-in MTL or D/M in HMT</p>
-<p>Both MOE and BVSS HMT Offer Letters will be sent via PG by <strong>20 December 2024.</strong>&nbsp;Parents
+<p>In line with MOE HMT Eligibility Criteria, Bukit View Secondary offer
+HMT for students who meets the following criteria:</p>
+<p></p>
+<p>Students must get either:</p>
+<p>PSLE MTL Score of AL1/AL2</p>
+<p><strong><u>or</u></strong>
+</p>
+<p>HMTL score of Distinction/Merit</p>
+<p></p>
+<p>HMT Offer Letters will be sent via PG by <strong>22 December 2025.</strong>&nbsp;Parents
 are advised to read the “Important Information” on the Offer Letters carefully
 before making a decision.&nbsp;</p>
-<p>Please indicate your response via PG by<strong> Tuesday 24 December 2024. &nbsp;&nbsp;</strong>
+<p>Please indicate your response via PG by<strong> Friday 26 December 2025.&nbsp;</strong>
 </p>
 <p>For parents whose children are eligible, and have no PG/Internet access,
 the Offer Letters would be ready for collection during school opening hours.
@@ -346,12 +410,12 @@ on the following criteria:</p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="187" width="472" src="https://lh7-us.googleusercontent.com/ze61l4C9NJnGGEODtX-qnjhrKcpTpFxxg6_MEvIYLIjm9EUKUJPxgQ5mRlsGdHUAs1ArtAMcEpnGyqqA8W060m1723msXuMdPsnOrnJ5C0FDocYMjQjmUwsVT5XqkizYViinT4XPyfUw">
 </div>
-<p>Option Letters will be sent via PG by<strong>&nbsp;20 December 2024</strong>.
+<p>Option Letters will be sent via PG by<strong>&nbsp;22 December 2025</strong>.
 Parents are advised to read the “Important information” on the Option Letters
 carefully before making a decision.
 <br>
 </p>
-<p>Please indicate your response via PG by&nbsp;<strong>Tuesday 24 December 2024. &nbsp;&nbsp;</strong>
+<p>Please indicate your response via PG by&nbsp;<strong>Friday 26 December 2025. &nbsp;&nbsp;</strong>
 </p>
 <p>For parents whose children are eligible, and have no PG/Internet access,
 the Option Letters would be ready for collection during school opening
@@ -366,7 +430,7 @@ hours. Please call the school for more information.
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who have indicated L3 choices will receive results of your applications
-via PG by <strong>20 December 2024.</strong>
+via PG by <strong>22 December 2025.</strong>
 </p>
 <p>Successful applicants will also receive the registration process together
 with the results.&nbsp;</p>

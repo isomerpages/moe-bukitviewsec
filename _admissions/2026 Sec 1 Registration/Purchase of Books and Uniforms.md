@@ -3,17 +3,21 @@ title: Purchase of Books and Uniforms
 permalink: /admissions/secondary-one-2025/booksnuniform/
 description: ""
 variant: tiptap
-third_nav_title: 2025 Sec 1 Registration
+third_nav_title: 2026 Sec 1 Registration
 ---
 <h3><strong>Purchase of Books and Uniforms</strong></h3>
-<p>Book purchases will be by online order and home delivery as a default.&nbsp;
-However, if there is a need to purchase items in person, you are strongly
-encouraged to book an appointment so that the vendor can prepare the books
-in advance. For an appointment to purchase and self-collect books in school,
-please refer to the table below.
-<br><strong>Bookshop Vendor Website </strong>-&nbsp;<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
-<br><strong>Uniform Vendor Website</strong> - <a href="https://www.intrenduniforms.com/bukit-view-secondary-school" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.intrenduniforms.com/bukit-view-secondary-school</u></a>
-</p>
+<p>Textbooks, stationery and school uniforms may be purchased from the school’s
+approved vendors.</p>
+<p>Purchases may be made <strong>online</strong> or <strong>in school during the scheduled sales dates</strong>,
+with <strong>Self-Collection available for textbooks</strong> on these dates.</p>
+<p>Uniforms may also be purchased at the vendor’s retail outlet if required.</p>
+<h4><strong>📅 2025 Sales Dates in School</strong></h4>
+<p>These dates apply to in-school purchases for textbooks, stationery and
+uniforms.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1Reg/in_school_purchase_timetable.jpg">
+</div>
+<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Admin%20Matters/2025Booklist/BVSS_2025_Booklist_and_Stationery_List__Sec_1_Dec2024.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">2025 Sec 1 Booklist</div><div class="isomer-card-description">Sec 1 Booklist are available for download. Please click on the link to view or download the booklist.</div><div class="isomer-card-link">2025 Sec 1 Booklist</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/files/Admin%20Matters/Information_for_Sale_of_Uniforms_2024_BVSS.pdf" class="isomer-card">
 <div class="isomer-card-body">
@@ -23,23 +27,7 @@ please refer to the table below.
 </div>
 </a>
 </div>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Sales of Book &amp; Uniform Schedule</strong></h4>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Admin Matters/bOOK_AND_UNIFORM_SCHEDULE__1_.jpg">
-</div>
-<p><em>Lunch Time: 12 pm – 1pm</em>
-</p>
+<p></p>
 <h4><strong>Mode of Purchase</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
