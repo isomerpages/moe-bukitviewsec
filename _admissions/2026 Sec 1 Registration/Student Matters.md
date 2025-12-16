@@ -55,7 +55,7 @@ Parents’ Support Group.</p>
 <p></p>
 <h4><strong>Students Management Matters</strong></h4>
 <p>Please click on the link below to learn about our school attire and grooming.</p>
-<p><a href="/files/Sec 1 Registration/Sec_1_2025_Attire_and_Grooming.pdf" rel="noopener nofollow" target="_blank">School attire and grooming</a>
+<p><a href="/files/Sec_1_2026_Attire_and_Grooming_Latest_15Nov.pdf" rel="noopener nofollow" target="_blank">School attire and grooming 2026</a>
 </p>
 <p></p>
 <h4><strong>Personalised Digital Learning Programme (PDLP)</strong></h4>
