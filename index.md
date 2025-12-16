@@ -28,14 +28,16 @@ sections:
       announcement_items:
         - title: Release of GCE N- Level results
           date: 18 December 2025
-          announcement: 2025 Sec 4NA and4NT students, please report to school by 1.30
+          announcement: 2025 Sec 4NA and 4NT students, please report to school by 1.30
             pm  and assemble in the canteen. After which, you will proceed to
             the ISH for a briefing and to collect your results.
           link_text: ""
           link_url: ""
         - title: S1 Posting Results
           date: 19 December 2025
-          announcement: Please refer to school website for further instructions.
+          announcement: Secondary 1 students (2026) are not required to physically report
+            to school on Friday 19 December 2025.  Please refer to school
+            website for further instructions and the welcome PG message.
           link_text: ""
           link_url: ""
   - resources:
