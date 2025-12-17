@@ -6,159 +6,126 @@ description: ""
 third_nav_title: Administrative Matters
 ---
 <p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Admin Matters/pg.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Admin Matters/pg.png">
 </div>
-<p><strong>Parents Gateway (PG)</strong> is MOE’s official mobile application
-developed by the Ministry of Education (MOE) and GovTech. Our school uses
-Parents Gateway as the main platform to communicate with parents on school
-matters.</p>
-<p>Through the free app, parents will receive timely information about school
-activities and events (e.g. enrichment programmes, CCAs, learning journeys)
-via push notifications. Parents can also provide consent for their child’s
-activities directly through the app.</p>
-<p>Parents with children in different schools will be able to receive notifications
-for all children within the same Parents Gateway app. Each parent may download
-the app individually to receive notices.
-<br>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Parents Gateway (PG)</strong> is an initiative by the Ministry
+of Education (MOE) that facilitates communication between schools and parents
+on administrative and financial matters.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Bukit View Secondary School</strong> uses Parents Gateway as its <strong>main communication platform</strong> with
+parents for <strong>consent forms, school programmes, official letters and notifications.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__9_.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__9_.png">
 </div>
 <h4><strong>What Parents Can Do on Parents Gateway</strong></h4>
-<p><strong>Through the Parents Gateway app, parents will be able to:</strong>
-</p>
+<p>Through the Parents Gateway mobile application, parents can:</p>
 <ul>
 <li>
-<p>Access official school announcements and consent forms conveniently</p>
+<p>Receive important school updates and announcements</p>
 </li>
 <li>
-<p>Give consent for their child’s activities anytime, anywhere</p>
+<p>Provide consent for school activities and programmes</p>
 </li>
 <li>
-<p>Receive official notifications directly from the school</p>
+<p>Book appointments with teachers</p>
 </li>
 <li>
-<p>Keep track of upcoming activities for multiple children</p>
+<p>Make travel declarations and access parenting resources conveniently</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__9_.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__9_.png">
 </div>
 <h4><strong>Who Can Access Parents Gateway</strong></h4>
-<p>Parents Gateway contains sensitive student and parent information. Access
-to the app is restricted to <strong>parents and legal guardians who are SingPass holders</strong>.</p>
-<p>You are eligible to apply for SingPass if you are:</p>
-<ul>
+<p>Parents Gateway contains sensitive student and parent information.
+<br>Access is restricted to <strong>parents and legal guardians who are SingPass holders</strong>.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Eligible SingPass holders include:</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
 <li>
-<p>Singapore Citizen (SC)</p>
+<p>Singapore Citizens and Singapore Permanent Residents</p>
 </li>
 <li>
-<p>Singapore Permanent Resident (SPR)</p>
+<p>EP, PEP, EntrePass and S Pass holders</p>
 </li>
 <li>
-<p>Employment Pass (EP) or Personalised Employment Pass (PEP) holder</p>
+<p>Dependant Pass holders</p>
 </li>
 <li>
-<p>EntrePass holder</p>
+<p>Long-Term Visit Pass (LTVP / LTVP+) holders</p>
 </li>
 <li>
-<p>S Pass holder</p>
-</li>
-<li>
-<p>Dependant Pass holder (of EP, PEP, EntrePass or S Pass holders)</p>
-</li>
-<li>
-<p>Long-Term Visit Pass-Plus (LTVP+) holder</p>
-</li>
-<li>
-<p>Long-Term Visit Pass (LTVP) holder</p>
-</li>
-<li>
-<p>Selected Work Permit holders who require SingPass to access government
-digital services
-<br>(Eligibility can be checked via the WPOL Enquiry Service)</p>
+<p>Selected Work Permit holders who require SingPass for government digital
+services</p>
 </li>
 </ul>
-<p>For parents or legal guardians who are unable to onboard Parents Gateway,
-the school will continue to issue <strong>hardcopy letters and consent forms</strong> where
-necessary.</p>
+</div>
+</details>
+</div>
+<p>Parents who are unable to onboard Parents Gateway will continue to receive <strong>hardcopy letters and consent forms</strong> where
+required.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__9_.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__9_.png">
 </div>
-<h4><strong>Instruction Guide: Installing Parents Gateway</strong></h4>
+<h4><strong>Getting Started with Parents Gateway</strong></h4>
+<p>Parents are required to log in using a <strong>valid Singpass account</strong> (Singpass
+2-Step Verification is required).</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>If you have not yet set up your account, please download the <strong>Parents Gateway</strong> app
+via the <strong><a href="https://go.gov.sg/parentsgatewayapplestore" rel="noopener noreferrer nofollow" target="_blank">Apple App Store</a>&nbsp;</strong> or <strong>,<a href="https://go.gov.sg/parentsgatewaygoogleplay" rel="noopener noreferrer nofollow" target="_blank">Google Play</a>&nbsp; or <a href="https://go.gov.sg/parentsgatewayhuawei" rel="noopener noreferrer nofollow" target="_blank">Huawei AppGallery</a>.</strong>,
+and log in using your <strong>Singpass</strong>.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Screenshot_2025_12_17_151845.png">
+</div>
+<p>After installing the app, log in using your Singpass to complete the one-time
+onboarding.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__9_.png">
+</div>
+<h4><strong>Need Help with Onboarding?</strong></h4>
+<p>Parents may refer to the following resources for assistance:
+<br>🔹 View the [<strong><a href="https://www.youtube.com/watch?v=tW9jwyuovOo" rel="noopener noreferrer nofollow" target="_blank">PG Onboarding Video</a></strong>]
+<br>🔹 Refer to <strong><a href="/files/Admin Matters/Parent Gateway/Parents_Gateway_Step_by_Step_Onboarding_Guide_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a></strong>
+<a href="/files/Admin Matters/Parent Gateway/Parents_Gateway_Step_by_Step_Onboarding_Guide_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>for step-by-step instructions
+<br>🔹 For more details, you may also view the <strong>guide</strong> here:
+<a href="/files/Admin Matters/Parent Gateway/PG_Mobile_App_User_Guide__May_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway Quick-start Guide for Parents</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__9_.png">
+</div>
+<h4><strong>Important Note</strong></h4>
+<p>Parents Gateway contains sensitive student information.
+<br>Access is restricted to <strong>parents and legal guardians who are Singpass holders</strong>.</p>
+<p>Parents who are unable to access Parents Gateway will continue to receive <strong>hardcopy letters and consent forms</strong> where
+necessary.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singpass.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Step 1: SingPass Registration and 2-Step Verification (2FA)</div><div class="isomer-card-description">A valid SingPass account with 2-Step Verification (2FA) is required for onboarding.
-
-For assistance, contact the SingPass Helpdesk at 6643 0555.</div><div class="isomer-card-link">To register Singpass / 2-Step Verification</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Step 2: Download the Parents Gateway App Open the Apple App Store (iOS)
-or Google Play Store (Android) on your mobile phone. Search for “Parents
-Gateway”. Download and install the app. Enable notifications when prompted
-to receive push notifications from the school. Supported Operating Systems:
-Android 5.0 and above iOS 9.1 and above</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
-<h4></h4>
-<hr>
-<h3>Step 2: Download the Parents Gateway App</h3>
-<ol>
-<li>
-<p>Open the Apple App Store (iOS) or Google Play Store (Android) on your
-mobile phone.</p>
-</li>
-<li>
-<p>Search for <strong>“Parents Gateway”</strong>.</p>
-</li>
-<li>
-<p>Download and install the app.</p>
-</li>
-<li>
-<p>Enable notifications when prompted to receive push notifications from
-the school.</p>
-</li>
-</ol>
-<p><strong>Supported Operating Systems:</strong>
-</p>
-<ul>
-<li>
-<p>Android 5.0 and above</p>
-</li>
-<li>
-<p>iOS 9.1 and above</p>
-</li>
-</ul>
-<hr>
-<h3>Step 3: One-Time Onboarding</h3>
-<ol>
-<li>
-<p>Tap <strong>“Log in with SingPass”</strong>.</p>
-</li>
-<li>
-<p>Log in using your SingPass account and complete 2FA.</p>
-</li>
-<li>
-<p>Tap <strong>“Retrieve”</strong> to retrieve your child(ren)’s information.</p>
-</li>
-<li>
-<p>Tap <strong>“Done”</strong> to complete onboarding.</p>
-</li>
-</ol>
-<p>Once onboarding is completed, parents will begin receiving school notifications
-via the app.</p>
-<hr>
-<h2>User Guide for Parents</h2>
-<p>Parents may refer to the <strong>Parents Gateway User Guide</strong> for
-detailed instructions.
-<br>👉 <em>[Insert link to MOE User Guide or PDF]</em>
-</p>
-<hr>
-<h2>Need Assistance?</h2>
-<p>If you encounter difficulties accessing or using Parents Gateway, please
-inform your child’s <strong>Form Teacher</strong> or contact the <strong>General Office</strong> for
-assistance</p>
