@@ -32,11 +32,7 @@ uniforms.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Only purchase items from the <strong>approved vendors</strong> listed below
-to ensure the correct editions and uniform design.</p>
-</li>
-<li>
-<p>Students who are unsure of their <strong>Subject-Based Banding (SBB)</strong> subjects
-should wait until confirmation before purchasing textbooks.</p>
+to ensure the correct editions and uniform.</p>
 </li>
 <li>
 <p>Once purchased, <strong>items are non-refundable</strong>. Books with names
