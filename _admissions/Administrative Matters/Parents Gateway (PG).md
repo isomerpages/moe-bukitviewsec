@@ -23,13 +23,13 @@ third_nav_title: Administrative Matters
 <p><strong>Parents Gateway (PG)</strong> is an initiative by the Ministry
 of Education (MOE) that facilitates communication between schools and parents
 on administrative and financial matters.</p>
+<p><strong>Bukit View Secondary School</strong> uses Parents Gateway as its <strong>main communication platform</strong> with
+parents for <strong>consent forms, school programmes, official letters and notifications.</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Bukit View Secondary School</strong> uses Parents Gateway as its <strong>main communication platform</strong> with
-parents for <strong>consent forms, school programmes, official letters and notifications.</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__9_.png">
 </div>
@@ -44,6 +44,9 @@ parents for <strong>consent forms, school programmes, official letters and notif
 </li>
 <li>
 <p>Book appointments with teachers</p>
+</li>
+<li>
+<p>Update Contact Details</p>
 </li>
 <li>
 <p>Make travel declarations and access parenting resources conveniently</p>
@@ -86,7 +89,7 @@ required.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__9_.png">
 </div>
-<h4><strong>Getting Started with Parents Gateway</strong></h4>
+<h3><strong>Getting Started with Parents Gateway</strong></h3>
 <p>Parents are required to log in using a <strong>valid Singpass account</strong> (Singpass
 2-Step Verification is required).</p>
 <table style="minWidth: 25px">
@@ -110,13 +113,16 @@ and log in using your <strong>Singpass</strong>.</p>
 <p>After installing the app, log in using your Singpass to complete the one-time
 onboarding.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_12_18_102438.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__9_.png">
 </div>
 <h4><strong>Need Help with Onboarding?</strong></h4>
 <p>Parents may refer to the following resources for assistance:
 <br>🔹 View the [<strong><a href="https://www.youtube.com/watch?v=tW9jwyuovOo" rel="noopener noreferrer nofollow" target="_blank">PG Onboarding Video</a></strong>]
-<br>🔹 Refer to <strong><a href="/files/Admin Matters/Parent Gateway/Parents_Gateway_Step_by_Step_Onboarding_Guide_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a></strong>
-<a href="/files/Admin Matters/Parent Gateway/Parents_Gateway_Step_by_Step_Onboarding_Guide_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>for step-by-step instructions
+<br>🔹 Refer to <strong><a href="/files/Admin Matters/Parent Gateway/Parents_Gateway_Step_by_Step_Onboarding_Guide_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A </a></strong>for
+step-by-step instructions
 <br>🔹 For more details, you may also view the <strong>guide</strong> here:
 <a href="/files/Admin Matters/Parent Gateway/PG_Mobile_App_User_Guide__May_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway Quick-start Guide for Parents</a>
 </p>
@@ -124,8 +130,12 @@ onboarding.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__9_.png">
 </div>
 <h4><strong>Important Note</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Parents Gateway contains sensitive student information.
 <br>Access is restricted to <strong>parents and legal guardians who are Singpass holders</strong>.</p>
-<p>Parents who are unable to access Parents Gateway will continue to receive <strong>hardcopy letters and consent forms</strong> where
-necessary.</p>
+</li>
+</ul>
+<p>Should you need any clarifications or support on accessing Parents Gateway
+app, please contact the school at 65661990</p>
 <p></p>
