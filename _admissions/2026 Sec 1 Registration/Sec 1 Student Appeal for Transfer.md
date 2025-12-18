@@ -77,7 +77,7 @@ at <strong>6566 1990</strong>.</p>
 </p>
 <p>Parents do not need to visit the school in person. Appeals should be submitted
 online via the link below:
-<br>🔗 <a href="https://go.gov.sg/2026bvss-sec1-appeal" rel="noopener nofollow" target="_blank">2026 BVSS Sec 1 Appeal </a>
+<br>🔗 <a href="go.gov.sg/2026bvss-sec1-appeal" rel="noopener nofollow" target="_blank">2026 BVSS Sec 1 Appeal</a>
 </p>
 <p>Parents of students with <strong>successful appeals</strong> will be contacted
 by <strong>2 January 2026</strong>.</p>
