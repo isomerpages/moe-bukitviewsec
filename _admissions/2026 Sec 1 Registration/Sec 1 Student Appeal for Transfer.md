@@ -73,6 +73,6 @@ and <strong>reasons for transfer</strong>.</p>
 and submission of an application <strong>does not guarantee admission</strong>.</p>
 <p>For the <strong>latest cut-off point (COP) information</strong> for the <strong>2026 Secondary 1 cohort</strong>,
 please refer to <strong>MOE SchoolFinder</strong> via the link below:
-<br><a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-view-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-view-secondary-school</a>
+<br><strong><a href="https://go.gov.sg/schoolfinder-bvss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/schoolfinder-bvss</a></strong>
 </p>
-<p>For further assistance, please contact the <strong>General Office of Bukit View Secondary School</strong>.</p>
+<p>For further assistance, please contact the school at .</p>
