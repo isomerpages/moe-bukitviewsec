@@ -60,9 +60,9 @@ contact the school for further clarification.</p>
 </p>
 <p><a href="/files/Sec 1 Registration/FAQs_for_2026_S1_Parents.pdf" rel="noopener nofollow" target="_blank">FAQs for 2026 S1 Parents</a>
 </p>
+<p></p>
 <p>To know more about Full Subject Based Banding, click on the following
 link:</p>
-<p></p>
 <p><strong><u>Full Subject Based Banding</u></strong>
 <br><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>
 </p>
