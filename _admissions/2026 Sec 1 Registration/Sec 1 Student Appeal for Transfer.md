@@ -60,10 +60,15 @@ doctor must be attached to the application.</p>
 </ul>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Please bring along the relevant medical documents (stated above) to support
 your appeal for school transfer.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>For more information, you may also refer to <strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a></strong>
 </p>
 <hr>
