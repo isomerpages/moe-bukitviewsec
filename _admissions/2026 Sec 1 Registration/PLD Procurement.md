@@ -1,6 +1,6 @@
 ---
 title: PLD Procurement
-permalink: /admissions/secondary-one-2025/pld/
+permalink: /admissions/secondary-one-2026/pld/
 variant: tiptap
 description: ""
 third_nav_title: 2026 Sec 1 Registration
@@ -57,19 +57,19 @@ the General Office by <strong><u>12 January 2026.</u></strong>
 </p>
 <ul>
 <li>
-<p><a href="go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/moe-cyber-wellness</u></a>
+<p><a href="https://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/moe-cyber-wellness</u></a>
 </p>
 </li>
 <li>
-<p><a href="go.gov.sg/better-internet-sg" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/better-internet-sg</u></a>
+<p><a href="https://go.gov.sg/better-internet-sg" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/better-internet-sg</u></a>
 </p>
 </li>
 <li>
-<p><a href="sure.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sure.nlb.gov.sg</u></a>
+<p><a href="https://sure.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sure.nlb.gov.sg</u></a>
 </p>
 </li>
 <li>
-<p><a href="help123.sg" rel="noopener noreferrer nofollow" target="_blank"><u>help123.sg</u></a>
+<p><a href="https://help123.sg" rel="noopener noreferrer nofollow" target="_blank"><u>help123.sg</u></a>
 </p>
 </li>
 </ul>

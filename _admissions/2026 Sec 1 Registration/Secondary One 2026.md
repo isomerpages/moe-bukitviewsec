@@ -29,19 +29,19 @@ contact the school for further clarification.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/admissions/secondary-one-2025/sm/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1Reg/studentmatters.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/admissions/secondary-one-2026/sm/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1Reg/studentmatters.png"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/admissions/secondary-one-2025/booksnuniform/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1Reg/booksnuniform.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/admissions/secondary-one-2026/booksnuniform/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1Reg/booksnuniform.png"></a>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/bvss-fas/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1Reg/fasapplication.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/admissions/secondary-one-2025/pld/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1Reg/Purchase_of_PLD.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/admissions/secondary-one-2026/pld/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1Reg/Purchase_of_PLD.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/admissions/secondary-one-2025/studtransfer/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1Reg/studenttransfers.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/admissions/secondary-one-2026/studtransfer/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1Reg/studenttransfers.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

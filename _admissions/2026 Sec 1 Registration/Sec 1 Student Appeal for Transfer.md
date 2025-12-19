@@ -1,84 +1,115 @@
 ---
 title: Sec 1 Student Appeal for Transfer
-permalink: /admissions/secondary-one-2025/studtransfer/
+permalink: /admissions/secondary-one-2026/studtransfer/
 description: ""
 variant: tiptap
 third_nav_title: 2026 Sec 1 Registration
 ---
-<h3><strong>Sec 1 Student Appeal for Transfer</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
-</div>
-<h4><strong>For students requesting to transfer out of BVSS (due to serious medical conditions)</strong></h4>
-<p>For students posted to BVSS but are seeking a transfer out due to <strong>serious medical conditions (e.g. chronic heart conditions) or severe physical impairments (e.g. require permanent use of a wheelchair), please approach </strong>the
-school between <strong>8:30 am and 12:00 pm on Friday, 19 December 2025</strong>,
-bringing supporting documents.</p>
-<p><strong>Required Documents</strong>
+<h4>Sec 1 Student Appeal for Transfer</h4>
+<hr>
+<h3><strong>A. Appeals to Transfer Out of Bukit View Sec Sch (BVSS)</strong></h3>
+<p><em>(Serious Medical Grounds)</em>
+<br>For students <strong>posted to Bukit View Secondary School (BVSS)</strong> who
+are seeking a transfer out due to <strong>serious medical conditions</strong> (e.g.
+chronic heart conditions) or <strong>severe physical impairments</strong> (e.g.
+requiring permanent use of a wheelchair), parents may submit an appeal <strong>through the posted secondary school</strong>.</p>
+<h3>Appeal Deadline</h3>
+<p>Appeals must be submitted by <strong>12.00 pm, Monday, 22 December 2025</strong>.
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Required Documents</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>For students with serious medical condition</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>For students with <strong>serious medical condition</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Medical report or letter from a certified doctor.</p>
+<p>An<strong> official letter or medical report</strong> from a certified
+doctor must be attached to the application.</p>
 </li>
 </ul>
-</li>
-<li>
-<p>For students with <strong>severe physical impairments</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>For students with severe physical impairments</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Medical report clearly describing:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The extent of the impairment (temporary/permanent).</p>
+<p>The<strong> extent of the impairment </strong>(temporary/permanent)<strong>.</strong>
+</p>
 </li>
 <li>
-<p>The assistive device currently in use (e.g., wheelchair).</p>
+<p>The<strong> assistive device </strong>currently<strong> </strong>in use
+(e.g., wheelchair).</p>
 </li>
 </ul>
 </li>
 </ul>
-</li>
-</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Please bring along the relevant medical documents (stated above) to support
-your appeal for school transfer. For further clarification, please contact
-the school’s General Office at 6566 1990.</p>
+your appeal for school transfer.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>For more information, you may also refer to <strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a></strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
-</div>
-<h4><strong>For students requesting to transfer into BVSS</strong></h4>
-<p>Our transfer appeal period is open until <strong>Monday, 22 December 2025, 12:00 PM.</strong>
+<hr>
+<h3><strong>B. Appeals to Transfer <em>Into</em> Bukit View Secondary School (BVSS)</strong></h3>
+<p>Parents whose children are posted to another secondary school and wish
+to appeal for a transfer into BVSS may submit an appeal during the period
+stated below.</p>
+<h3>Appeal Period</h3>
+<p>Up to <strong>Friday, 26 December 2025, 12.00 pm</strong>
+<br>Parents do <strong>not</strong> need to visit the school in person. Appeals
+should be submitted online via the link : 🔗 <a href="go.gov.sg/2026bvss-sec1-appeal" rel="noopener nofollow" target="_blank">2026 BVSS Sec 1 Appeal</a>
 </p>
-<p>You do not need to come in person and may submit your appeal via this
-link:
-<br><a href="https://form.gov.sg/6756641117ccd26f81e611d6" rel="noopener nofollow" target="_blank">2026 BVSS Sec 1 Appeal </a>
-<br>
+<hr>
+<h3>Important Notes</h3>
+<p>Parents of students with <strong>successful appeals</strong> will be contacted
+by <strong>2 January 2026</strong>.
+<br>Only students who <strong>meet the Cut-Off Point (COP)</strong> for the
+respective course in the current year’s Secondary One Posting will be considered
+for transfer.
+<br>All applications will be reviewed holistically, taking into consideration
+factors such as:</p>
+<ul>
+<li>
+<p>Academic profile</p>
+</li>
+<li>
+<p>Interests and passions</p>
+</li>
+<li>
+<p>Reasons for transfer</p>
+</li>
+</ul>
+<p>Admission is subject to the school’s <strong>admission criteria</strong> and <strong>availability of vacancies</strong>.
+<br><strong>Submission</strong> of an appeal does <strong>not</strong> guarantee
+admission.</p>
+<p>For the latest <strong>2026 Secondary One Cut-Off Point (COP)</strong> information,
+please refer to MOE SchoolFinder:
+<br>👉 <a href="https://go.gov.sg/schoolfinder-bvss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/schoolfinder-bvss</a>
 </p>
-<p>The school will contact parents whose appeals are successful by <strong>2 January 2026</strong>.</p>
-<p>Please note that students who wish to appeal for a school transfer may
-submit their appeals but are likely to be unsuccessful if they have not
-met the cut-off point for the respective courses in this year’s Secondary
-One Posting.</p>
-<p>We review every application carefully, taking a holistic view in determining
-suitability for admission, considering academic results, passion/interests,
-reason for transfer, etc. Do note that your child's score should be 19
-or lower. As the application is subject to available vacancies, please
-note that admission is not guaranteed.</p>
-<p></p>
-<p>For further assistance, please contact the school office.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/White_and_Black_Minimalist_Modern_Digitak_Creative_Business_Website_Facebook_Ad__3_.png">
-</div>
-<h4><strong>COP for 2026 Sec 1 Cohort</strong></h4>
-<p><strong>(REF : </strong><a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-view-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=bukit-view-secondary-school </a><strong>)</strong>
-</p>
-<p><strong>G3 AL:</strong>&nbsp; TBC</p>
-<p><strong>G2 AL:</strong> &nbsp;TBC</p>
-<p><strong>G1 AL:</strong> &nbsp;TBC</p>
+<p>For more information on school transfer appeals, please refer to the <strong>MOE Frequently Asked Questions (FAQ)</strong>.</p>
+<hr>
+<p>For further assistance, please contact:
+<br>📞 <strong>Bukit View Secondary School General Office</strong>
+<br><strong>Tel:</strong> 6566 1990</p>

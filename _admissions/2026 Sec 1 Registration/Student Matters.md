@@ -1,6 +1,6 @@
 ---
 title: Student Matters
-permalink: /admissions/secondary-one-2025/sm/
+permalink: /admissions/secondary-one-2026/sm/
 description: ""
 variant: tiptap
 third_nav_title: 2026 Sec 1 Registration
@@ -55,7 +55,7 @@ Parents’ Support Group.</p>
 <p></p>
 <h4><strong>Students Management Matters</strong></h4>
 <p>Please click on the link below to learn about our school attire and grooming.</p>
-<p><a href="/files/Sec 1 Registration/Sec_1_2025_Attire_and_Grooming.pdf" rel="noopener nofollow" target="_blank">School attire and grooming</a>
+<p><a href="/files/Sec_1_2026_Attire_and_Grooming_Latest_15Nov.pdf" rel="noopener nofollow" target="_blank">School attire and grooming 2026</a>
 </p>
 <p></p>
 <h4><strong>Personalised Digital Learning Programme (PDLP)</strong></h4>
@@ -353,7 +353,7 @@ students.</p>
 </table>
 <p>For more information on Full Subject Based Banding, do click on the FSBB
 microsite link:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html</a>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html</a>
 </p>
 <p></p>
 <h4><strong>Information regarding Mother Tongue Matters</strong></h4>
