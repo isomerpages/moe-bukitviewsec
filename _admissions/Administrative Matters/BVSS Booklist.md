@@ -13,7 +13,7 @@ third_nav_title: Administrative Matters
 or download the required booklist according to their cohort.
 <br><em>(No hard copies will be issued.)</em>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Admin%20Matters/2026Booklist/s1_2026_bvss_b00klist.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📘 Sec 1</div><div class="isomer-card-link">S1 Booklist &amp; Stationery List</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Admin%20Matters/2026Booklist/S1_2026_bvss_b00klist.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📘 Sec 1</div><div class="isomer-card-link">S1 Booklist &amp; Stationery List</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/files/Admin%20Matters/2026Booklist/s2_2026_bvss_b00klist.pdf" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">📗 Sec 2</div>
