@@ -113,7 +113,9 @@ please refer to MOE SchoolFinder:
 <br>PG3 COP: 20</p>
 <p>PG2 COP: 24</p>
 <p>PG1 COP: 29</p>
-<p>For more information on school transfer appeals, please refer to the <strong>MOE Frequently Asked Questions (FAQ)</strong>.</p>
+<p>For more information on school transfer appeals, please refer to the
+<a href="https://www.moe.gov.sg/faq?categoryid=C52B202ABE914D03B4449016E1E2A6AF" rel="noopener nofollow" target="_blank">MOE Frequently Asked Questions (FAQ).</a>
+</p>
 <hr>
 <p>For further assistance, please contact:
 <br>📞 <strong>Bukit View Secondary School General Office</strong>
