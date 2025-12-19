@@ -18,7 +18,7 @@ uniforms.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sec1Reg/in_school_purchase_timetable.jpg">
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Admin%20Matters/2026Booklist/s1_2026_bvss_b00klist.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">2025 Sec 1 Booklist</div><div class="isomer-card-description">Sec 1 Booklist are available for download. Please click on the link to view or download the booklist.</div><div class="isomer-card-link">2025 Sec 1 Booklist</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Admin%20Matters/2026Booklist/S1_2026_bvss_b00klist.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">2026 Sec 1 Booklist</div><div class="isomer-card-description">Sec 1 Booklist are available for download. Please click on the link to view or download the booklist.</div><div class="isomer-card-link">2026 Sec 1 Booklist</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.pacificbookstores.com/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Online Purchase- Textbooks &amp; Stationery</div>
