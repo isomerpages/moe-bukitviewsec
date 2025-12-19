@@ -78,18 +78,17 @@ to appeal for a transfer into BVSS may submit an appeal during the period
 stated below.</p>
 <h3>Appeal Period</h3>
 <p>Up to <strong>Friday, 26 December 2025, 12.00 pm</strong>
-</p>
-<p>Parents do <strong>not</strong> need to visit the school in person. Appeals
+<br>Parents do <strong>not</strong> need to visit the school in person. Appeals
 should be submitted online via the link : 🔗 <a href="go.gov.sg/2026bvss-sec1-appeal" rel="noopener nofollow" target="_blank">2026 BVSS Sec 1 Appeal</a>
 </p>
 <hr>
-<h4>Important Notes</h4>
+<h3>Important Notes</h3>
 <p>Parents of students with <strong>successful appeals</strong> will be contacted
-by <strong>2 January 2026</strong>.</p>
-<p>Only students who <strong>meet the Cut-Off Point (COP)</strong> for the
+by <strong>2 January 2026</strong>.
+<br>Only students who <strong>meet the Cut-Off Point (COP)</strong> for the
 respective course in the current year’s Secondary One Posting will be considered
-for transfer.</p>
-<p>All applications will be reviewed holistically, taking into consideration
+for transfer.
+<br>All applications will be reviewed holistically, taking into consideration
 factors such as:</p>
 <ul>
 <li>
@@ -109,7 +108,6 @@ admission.</p>
 please refer to MOE SchoolFinder:
 <br>👉 <a href="https://go.gov.sg/schoolfinder-bvss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/schoolfinder-bvss</a>
 </p>
-<p></p>
 <p>For more information on school transfer appeals, please refer to the <strong>MOE Frequently Asked Questions (FAQ)</strong>.</p>
 <hr>
 <p>For further assistance, please contact:
