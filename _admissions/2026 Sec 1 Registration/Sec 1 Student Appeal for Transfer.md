@@ -79,7 +79,7 @@ stated below.</p>
 <h3>Appeal Period</h3>
 <p>Up to <strong>Friday, 26 December 2025, 12.00 pm</strong>
 <br>Parents do <strong>not</strong> need to visit the school in person. Appeals
-should be submitted online via the link : 🔗 <a href="go.gov.sg/2026bvss-sec1-appeal" rel="noopener nofollow" target="_blank">2026 BVSS Sec 1 Appeal</a>
+should be submitted online via the link : 🔗 <a href="https://go.gov.sg/2026bvss-sec1-appeal" rel="noopener nofollow" target="_blank">2026 BVSS Sec 1 Appeal</a>
 </p>
 <hr>
 <h3>Important Notes</h3>
