@@ -108,6 +108,11 @@ admission.</p>
 please refer to MOE SchoolFinder:
 <br>👉 <a href="https://go.gov.sg/schoolfinder-bvss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/schoolfinder-bvss</a>
 </p>
+<p><u>COP for 2026 Sec 1 Cohort</u>
+<br>
+<br>PG3 COP: 20</p>
+<p>PG2 COP: 24</p>
+<p>PG1 COP: 29</p>
 <p>For more information on school transfer appeals, please refer to the <strong>MOE Frequently Asked Questions (FAQ)</strong>.</p>
 <hr>
 <p>For further assistance, please contact:
