@@ -15,21 +15,8 @@ personal learning device. Every iPad will come bundled with Apple pencil
 and casing with smart keyboard to maximise the affordances of the iPad
 as a learning tool.
 <br>
-<br>
-<br><strong>PLD Information for Parents</strong>
+<br><strong>Bukit View Secondary aim to develop students who are:</strong>
 </p>
-<p>Please click <a href="/files/PDLP/PDLP_Information_for_Parents.pdf" rel="noopener nofollow" target="_blank">here</a> to
-view the slides.</p>
-<p>To proceed with the purchase of the PLD, please acknowledge through the
-PG notification that will be sent to you by 10 Jan 2025.</p>
-<p>If you are unable to submit the form online, please click <a href="/files/PDLP/IP4_Letter_to_Parents_for_PDLP_Procurement_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
-a hardcopy version.</p>
-<p>Please submit the online or hardcopy form by <strong>17 January 2025</strong>.</p>
-<p>More details will be provided at a later date on your child/ward’s PLD
-collection date.</p>
-<p></p>
-<p></p>
-<h3>Bukit View Secondary aim to develop students who are:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Ethical Digital Users</strong>&nbsp;– promote positive engagement,
