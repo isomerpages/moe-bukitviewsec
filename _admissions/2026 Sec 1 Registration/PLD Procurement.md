@@ -34,10 +34,10 @@ ensure that the procurement process could go according to schedule.&nbsp;</p>
 <p>Parental Consent for the Purchase of PLD</p>
 </li>
 <li>
-<p>PDLP Standing Order for use of Edusave funds for the PLD</p>
+<p><a href="https://go.gov.sg/edusaveformsgso" rel="noopener nofollow" target="_blank">PDLP Standing Order for use of Edusave funds for the PLD</a> 
+</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Financial Assistance</strong></h4>
 <p>Subsidies are available to students who require financial assistance.
 Singapore Citizens who are already on MOE FAS or School-based FAS will
@@ -45,7 +45,7 @@ automatically qualify for these subsidies and do not need to take any action.</p
 <p>Permanent Residents (PR) and International Students (IS) who need support
 can apply for subsidies, particularly those whose Gross Household Income
 (GHI) is below $5500 or Per Capita Income (PCI) is below $1375. If your
-child qualifies for a subsidy, please submit this <a href="/files/Sec 1 Registration/Application_for_Subsidy_for_Purchase_of_PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a> to
+child qualifies for a subsidy, please submit this <a href="/files/PDLP_APPLICATION_FOR_SUBSIDY_FOR_PURCHASE_OF_PERSONAL_LEARNING_DEVICE.pdf" rel="noopener nofollow" target="_blank">form</a> to
 the General Office by <strong><u>12 January 2026.</u></strong>
 </p>
 <p></p>
