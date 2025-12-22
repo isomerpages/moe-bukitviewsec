@@ -34,7 +34,7 @@ ensure that the procurement process could go according to schedule.&nbsp;</p>
 <p>Parental Consent for the Purchase of PLD</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/edusaveformsgso" rel="noopener nofollow" target="_blank">PDLP Standing Order for use of Edusave funds for the PLD</a> 
+<p><a href="https://go.gov.sg/edusaveformsgso" rel="noopener nofollow" target="_blank">PDLP Standing Order for use of Edusave funds for the PLD</a>
 </p>
 </li>
 </ul>
