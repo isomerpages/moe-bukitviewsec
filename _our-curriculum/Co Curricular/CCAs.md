@@ -15,8 +15,8 @@ CCAs help nurture qualities such as resilience, confidence and perseverance,
 which prepare Bukit Viewans to adapt and do well in a rapidly changing
 world. Outstanding Bukit Viewans may also be asked to serve in the Student
 Council.</p>
-<h4><strong><u>CCA Training Timetable </u></strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca-training-timetable/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">CCA SCHEDULE</div><div class="isomer-card-description"> CCA venues and Schedules can be found in the l</div><div class="isomer-card-link">View CCA Schedule</div></div></a>
+<h4><strong><u>CCA Schedule</u></strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca-training-timetable/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Training Venues &amp; Timetable</div><div class="isomer-card-description">CCA venues and training schedules are available via the link below.</div><div class="isomer-card-link">View CCA Training Timetable</div></div></a>
 </div>
 <p></p>
 <h4>Uniformed Groups</h4>
