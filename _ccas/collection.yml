@@ -2,7 +2,7 @@ collections:
   ccas:
     output: true
     order:
-      - CCA Training Timetable 2025.md
+      - CCA Training Timetable.md
       - Uniformed Groups/.keep
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/NCC.md
