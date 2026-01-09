@@ -283,6 +283,12 @@ at the Esplanade (Feb 2023)</p>
 </table>
 </div>
 </details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <h4><strong>CCA TRAINING DAY(S)/ TIME</strong></h4>
 <table style="minWidth: 50px">
