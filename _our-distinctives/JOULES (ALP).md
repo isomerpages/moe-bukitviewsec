@@ -195,13 +195,13 @@ to contribute as student leaders as they progress in the JOULES programme.</p>
 <p>Criteria: For incoming Sec 1 students who</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>obtain A/A* for Science at PSLE,</p>
+<p>obtained good grades for Science at PSLE,</p>
 </li>
 <li>
-<p>select BVSS as 1st choice of school, and</p>
+<p>selected BVSS as top three choices of school, and</p>
 </li>
 <li>
-<p>show keen interest in environment and sustainable energy.</p>
+<p>shows keen interest in STEM, the environment and sustainable energy.</p>
 </li>
 </ul>
 <p>Criteria: For Sec 2 students who</p>

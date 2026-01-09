@@ -12,15 +12,14 @@ variant: tiptap
 <h4><strong>1. BACKGROUND</strong></h4>
 <p>The BVSS Choir is a joyful, tight-knit family where differences are put
 aside to create magic through our common language of song. In the Singapore
-Youth Festival (SYF) 2023, we made Bukit View Secondary School proud by
+Youth Festival (SYF) 2025, we made Bukit View Secondary School proud by
 achieving a Certificate of Achievement.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="467.76412492422867" width="624.0000000000002" alt="" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdtB9aoblzJqTlgLQAGqteVhj7fs-qeUWpXWV-fHsYzd0A1Pm3OHZq6VmswvNQybF-GNowV6LkC0AA2MC9Eh10Q2kipJHH0N0Ea0lXrvdqaUqQlOV6sdAhuLSY00kN0PXsmnJK0pCkzygGT5RUc0adpgUCE?key=AVsL1xUYuDXUTWEQov_rnDbC">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA Page/Visual and Performing Arts/Choir/1P7A6537__1_.jpg">
 </div>
 <p>In the BVSS Choir, we aim to challenge the boundaries of our voices and
 minds and remain faithful to the friendships forged by our shared experience
 of singing together.</p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=KvoTlWboHv0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Screenshot_2024_11_15_210819.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SINGSPIRATION 2024 - Stand as One</div><div class="isomer-card-link">Click Here to Watch the Performance.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
@@ -39,6 +38,37 @@ of singing together.</p>
 <summary><strong>SHOWCASES &amp; EVENTS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4><strong>[2025]</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 1 Welcome party (February 2025)</p>
+</li>
+<li>
+<p>Choir exchange with Deyi Secondary School and Hougang Secondary School
+(April 2025)</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentation (April 2025)</p>
+</li>
+<li>
+<p>Choir camp cum Farewell to seniors (June 2025)&nbsp;</p>
+</li>
+<li>
+<p>Sing-a-long session with RN7 residents (Values-In-Action activity) (June
+2025)</p>
+</li>
+<li>
+<p>Showcase at Dance Studio (VCH) (November 2025)</p>
+</li>
+<li>
+<p>Open House showcase (November 2025)</p>
+</li>
+<li>
+<p>Overseas trip to Taiwan, Taipei (November 2025)</p>
+<p></p>
+</li>
+</ul>
 <h4><strong>[2024]</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -108,6 +138,14 @@ at the Esplanade (Feb 2023)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SYF 2023 Arts Presentations</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,14 +158,6 @@ at the Esplanade (Feb 2023)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2019 Arts Presentations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Commendation</p>
 </td>
 </tr>
 </tbody>
@@ -253,6 +283,12 @@ at the Esplanade (Feb 2023)</p>
 </table>
 </div>
 </details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <h4><strong>CCA TRAINING DAY(S)/ TIME</strong></h4>
 <table style="minWidth: 50px">
@@ -345,29 +381,7 @@ at the Esplanade (Feb 2023)</p>
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Emma Xin Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3G</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-President</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lek Zi Ying Celeste</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3D</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-President</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mungara Pujith Sai</p>
+<p>JEYARAMAN NILAA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3F</p>
@@ -378,7 +392,29 @@ at the Esplanade (Feb 2023)</p>
 <p>Vice-President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ching Ya Xian</p>
+<p>BASKAR GAYTHRI&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIN YONG EN RACHEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OLIVIA LEE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3F</p>
@@ -414,12 +450,24 @@ at the Esplanade (Feb 2023)</p>
 <p>Welfare IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Grace Phoon</p>
-<p>Wong York Yan Jeannie</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>BASKAR GAYTHRI</p>
+</li>
+<li>
+<p>ANG YUN LI ULIZ</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E</p>
-<p>3D</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>4D</p>
+</li>
+<li>
+<p>3B</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -427,10 +475,37 @@ at the Esplanade (Feb 2023)</p>
 <p>Concert Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lin Yong En Rachel</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GIAN YUU JIE</p>
+</li>
+<li>
+<p>KEITH TANG JUN JUO</p>
+</li>
+<li>
+<p>NICHOLAS ADDISON HARDINATA</p>
+</li>
+<li>
+<p>CHOO YU XUAN, ALDREA</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>2A</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3C</p>
+</li>
+<li>
+<p>3D</p>
+</li>
+<li>
+<p>3E</p>
+<p></p>
+</li>
+<li>
+<p>2H</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -438,7 +513,7 @@ at the Esplanade (Feb 2023)</p>
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brielle Lem Xinyu</p>
+<p>REGINE NGO LE XUAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3F</p>
@@ -449,10 +524,12 @@ at the Esplanade (Feb 2023)</p>
 <p>Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yove Vasa</p>
+<p>ZANN NGOH SHI XUAN</p>
+<p>LIEW QIU XIANG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3F</p>
+<p>3G</p>
 </td>
 </tr>
 </tbody>
@@ -484,10 +561,12 @@ at the Esplanade (Feb 2023)</p>
 <p>Soprano Sectional Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Grace Phoon</p>
+<p>TOK ZHI LIN, CHLOE</p>
+<p>BASKAR GAYTHRI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E</p>
+<p>3H</p>
+<p>4D</p>
 </td>
 </tr>
 <tr>
@@ -495,10 +574,12 @@ at the Esplanade (Feb 2023)</p>
 <p>Alto Sectional Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lew Yue Teng</p>
+<p>ANG YUN LI ULIZ</p>
+<p>LIEW QIU XIANG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E</p>
+<p>3B</p>
+<p>3G</p>
 </td>
 </tr>
 <tr>
@@ -506,10 +587,12 @@ at the Esplanade (Feb 2023)</p>
 <p>Tenor/ Bass Sectional Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yove Vasa</p>
+<p>IMAN HAZIQ BIN HAMIDI</p>
+<p>KEITH TANG JUN JUO &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F</p>
+<p>4D</p>
+<p>3D</p>
 </td>
 </tr>
 </tbody>
