@@ -375,29 +375,7 @@ at the Esplanade (Feb 2023)</p>
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Emma Xin Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3G</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-President</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lek Zi Ying Celeste</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3D</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-President</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mungara Pujith Sai</p>
+<p>JEYARAMAN NILAA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3F</p>
@@ -408,7 +386,29 @@ at the Esplanade (Feb 2023)</p>
 <p>Vice-President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ching Ya Xian</p>
+<p>BASKAR GAYTHRI&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIN YONG EN RACHEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OLIVIA LEE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3F</p>
@@ -444,12 +444,24 @@ at the Esplanade (Feb 2023)</p>
 <p>Welfare IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Grace Phoon</p>
-<p>Wong York Yan Jeannie</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>BASKAR GAYTHRI</p>
+</li>
+<li>
+<p>ANG YUN LI ULIZ</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E</p>
-<p>3D</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>4D</p>
+</li>
+<li>
+<p>3B</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -457,10 +469,37 @@ at the Esplanade (Feb 2023)</p>
 <p>Concert Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lin Yong En Rachel</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GIAN YUU JIE</p>
+</li>
+<li>
+<p>KEITH TANG JUN JUO</p>
+</li>
+<li>
+<p>NICHOLAS ADDISON HARDINATA</p>
+</li>
+<li>
+<p>CHOO YU XUAN, ALDREA</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>2A</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3C</p>
+</li>
+<li>
+<p>3D</p>
+</li>
+<li>
+<p>3E</p>
+<p></p>
+</li>
+<li>
+<p>2H</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -468,7 +507,7 @@ at the Esplanade (Feb 2023)</p>
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brielle Lem Xinyu</p>
+<p>REGINE NGO LE XUAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3F</p>
@@ -479,10 +518,12 @@ at the Esplanade (Feb 2023)</p>
 <p>Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yove Vasa</p>
+<p>ZANN NGOH SHI XUAN</p>
+<p>LIEW QIU XIANG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3F</p>
+<p>3G</p>
 </td>
 </tr>
 </tbody>
@@ -514,10 +555,12 @@ at the Esplanade (Feb 2023)</p>
 <p>Soprano Sectional Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Grace Phoon</p>
+<p>TOK ZHI LIN, CHLOE</p>
+<p>BASKAR GAYTHRI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E</p>
+<p>3H</p>
+<p>4D</p>
 </td>
 </tr>
 <tr>
@@ -525,10 +568,12 @@ at the Esplanade (Feb 2023)</p>
 <p>Alto Sectional Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lew Yue Teng</p>
+<p>ANG YUN LI ULIZ</p>
+<p>LIEW QIU XIANG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E</p>
+<p>3B</p>
+<p>3G</p>
 </td>
 </tr>
 <tr>
@@ -536,10 +581,12 @@ at the Esplanade (Feb 2023)</p>
 <p>Tenor/ Bass Sectional Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yove Vasa</p>
+<p>IMAN HAZIQ BIN HAMIDI</p>
+<p>KEITH TANG JUN JUO &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F</p>
+<p>4D</p>
+<p>3D</p>
 </td>
 </tr>
 </tbody>
