@@ -83,13 +83,13 @@ Education lessons, secondary students will have the opportunity to develop
 a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>At Bukit View Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>At Bukit View Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Sexual Education/MOE.jpg">
 </div>
-<p><strong>2025 Sexuality Education Lessons</strong>
+<p><strong>2026 Sexuality Education Lessons</strong>
 </p>
 <h4><strong>SECONDARY 1</strong></h4>
 <p><strong>Secondary 1</strong>
@@ -165,7 +165,7 @@ is, and recognise that the readiness and interest in dating vary among
 individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 10</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -191,7 +191,7 @@ and psychological abuse from others, especially those we know and trust,
 can have strong negative effects on a person’s self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -222,7 +222,7 @@ access and acting irresponsibly or maliciously when online (e.g. spreading
 of online falsehoods, flouting copyright laws, etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -297,7 +297,7 @@ of one’s own unique qualities and characteristics as a male or female</p>
 orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -323,7 +323,7 @@ situations and the importance of exercising discretion to reduce risks
 and avoid negative consequences, both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -349,7 +349,7 @@ risky situations and the importance of exercising discretion to reduce
 risks and avoid negative consequences, both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -422,7 +422,7 @@ when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -486,7 +486,7 @@ viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 </tbody>
@@ -594,7 +594,7 @@ personal and emotional boundaries in a relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -628,7 +628,7 @@ a couple handles conflict is critical to the success of their marriage</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -734,7 +734,8 @@ Ministry of Education, to provide Secondary 3 students with accurate information
 on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
 conducted in two segments – a mass talk segment and a classroom-based programme.
 The desired outcome of the <em>eTeens</em> programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
+empowered to make wise, informed and sensible decisions to protect themselves
+from sexually transmitted infectious diseases.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught
 skills such as decision-making, assertiveness and negotiation to say “no”
 to sex and negative peer pressure. They also learn that the impact of STIs/HIV
@@ -742,7 +743,7 @@ extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
 family values are the key messages.</p>
 <p></p>
-<p><strong>At Bukit View Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
+<p><strong>At Bukit View Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -776,14 +777,16 @@ family values are the key messages.</p>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and
 provide knowledge on:</p>
-<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
-it spreads, how to prevent infection mainly through ABC (abstinence, being
-faithful, correct, and consistent condom use).</p>
-<p>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
-healthy way.</p>
+<p>a)&nbsp;&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and
+HIV): what it is, how it spreads, how to prevent infection mainly through
+ABC (abstinence, being faithful, correct, and consistent condom use).</p>
+<p>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say 'no' to peer pressure)</p>
+<p>c)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
+healthy way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -797,7 +800,7 @@ decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -812,13 +815,13 @@ sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong>Sexuality Education lessons</strong> need to
 complete an opt-out form. This form will be communicated to parents at
-the start of the year and is also downloadable <a href="/files/Sexuality Education/2024_SEd_Opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The
-completed form is to be submitted by by 27 Jan 2025.</p>
+the start of the year and is also available <a href="/files/BVSS_2026_SEd_Parent_Opt_Out_Form__Sec_.pdf" rel="noopener nofollow" target="_blank">here</a>. The
+completed form is to be submitted by by 29 Jan 2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/Sexuality Education/2024_eTeens_Letter_and_opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> .
-&nbsp;The completed form is to be submitted by by 27 Jan 2025.</p>
+of the year and is also available <a href="/files/BVSS_2026_eTeens_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a> . &nbsp;The completed
+form is to be submitted by by 29 Jan 2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at <a rel="noopener noreferrer nofollow" target="_blank">bukitview_ss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
