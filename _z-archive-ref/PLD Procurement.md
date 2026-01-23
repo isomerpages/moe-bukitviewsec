@@ -3,7 +3,6 @@ title: PLD Procurement
 permalink: /admissions/secondary-one-2026/pld/
 variant: tiptap
 description: ""
-third_nav_title: 2026 Sec 1 Registration
 ---
 <h4><strong>Purchase of Personal Learning Device (PLD)</strong></h4>
 <p>The Personalised Digital Learning Programme (PDLP) for all secondary school

@@ -3,7 +3,6 @@ title: Sec 1 Student Appeal for Transfer
 permalink: /admissions/secondary-one-2026/studtransfer/
 description: ""
 variant: tiptap
-third_nav_title: 2026 Sec 1 Registration
 ---
 <h4>Sec 1 Student Appeal for Transfer</h4>
 <hr>

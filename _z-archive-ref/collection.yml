@@ -2,6 +2,13 @@ collections:
   z-archive-ref:
     output: true
     order:
+      - Direct School Admission.md
+      - DSA Application.md
+      - Sec 1 Student Appeal for Transfer.md
+      - PLD Procurement.md
+      - Purchase of Books and Uniforms.md
+      - Student Matters.md
+      - Secondary One 2026.md
       - Teacher Leaders.md
       - Middle Managers.md
       - Student Leaders' Council.md

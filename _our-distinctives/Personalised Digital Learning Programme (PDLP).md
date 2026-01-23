@@ -38,7 +38,7 @@ a culture of collaborative learning through use of technology.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h6jig6fUm-g"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h6jig6fUm-g"></iframe>
 </div>
 <p></p>
 <p>Our teachers tap on educational technology to design effective lessons.
@@ -60,7 +60,7 @@ enriching students’ learning experience. We believe such a learning experience
 is essential to help your child to become an active and confident user
 of technology.</p>
 <div class="iframe-wrapper">
-<iframe height="496" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F0FTP2FveSg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="496" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F0FTP2FveSg"></iframe>
 </div>
 <p><strong>Device Management Application (DMA)</strong>
 </p>
@@ -114,11 +114,15 @@ the following link: <strong><a href="https://go.gov.sg/ictserviceparent" rel="no
 </p>
 </li>
 <li>
-<p><a href="https://www.bukitviewsec.moe.edu.sg/files/Sec%201%20Registration/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank"><u>Parent Handbook (I) 2025</u></a>
+<p><a href="/files/PDLP/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) 2026</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.bukitviewsec.moe.edu.sg/files/Sec%201%20Registration/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank"><u>Parent Handbook (II) 2025</u></a>
+<p><a href="/files/PDLP/IP3___Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) 2026</a>
+</p>
+</li>
+<li>
+<p><a href="/files/PDLP/2026_Sec_1_Parent_Sharing_for_PG.pdf" rel="noopener nofollow" target="_blank">Slides shared at Parent Engagement Session</a>
 </p>
 </li>
 </ul>

@@ -3,7 +3,6 @@ title: DSA Application
 permalink: /dsa-application/
 variant: tiptap
 description: ""
-third_nav_title: DSA Admission Exercise
 ---
 <p><strong>Application Procedure</strong>
 </p>

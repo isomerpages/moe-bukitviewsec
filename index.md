@@ -33,13 +33,6 @@ sections:
             the ISH for a briefing and to collect your results.
           link_text: ""
           link_url: ""
-        - title: S1 Posting Results
-          date: 19 December 2025
-          announcement: Secondary 1 students (2026) are not required to physically report
-            to school on Friday 19 December 2025.  Please refer to school
-            website for further instructions and the welcome PG message.
-          link_text: CLICK HERE
-          link_url: https://www.bukitviewsec.moe.edu.sg/admissions/secondary-one-2026/sec12026/
   - resources:
       id: resources
   - textcards:
@@ -65,22 +58,4 @@ sections:
       url: https://www.bukitviewsec.moe.edu.sg/admissions/aboutbvss
       image: /images/Homepage/BVSS_Students_in_4_boxes.png
       alt: Image alt text
-  - infopic:
-      title: THE PRESIDENT'S AWARD FOR TEACHERS (PAT) 2026
-      id: infopic
-      description: The nomination period for the PAT opens on 21 October 2025 and
-        closes at 12.00 p.m. on 9 January 2026.
-      button: Click here to vote
-      url: https://go.gov.sg/pat2026
-      image: /images/Homepage/PAT.jpg
-      alt: Image alt text
-  - infopic:
-      title: THE OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026
-      id: infopic
-      description: The nomination period for the OYEA opens on 21 October 2025 and
-        closes at 12.00 p.m. on 9 January 2026.
-      button: Click here to vote
-      url: https://go.gov.sg/oyea2026
-      alt: Image alt text
-      image: /images/Homepage/OYEA.jpg
 ---

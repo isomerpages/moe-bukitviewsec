@@ -3,7 +3,6 @@ title: Direct School Admission
 permalink: /admissions/dsa/
 description: ""
 variant: tiptap
-third_nav_title: DSA Admission Exercise
 ---
 <h2>Direct School Admission</h2>
 <h4>Information on 2025 Direct School Admission (DSA) to Bukit View Secondary School</h4>

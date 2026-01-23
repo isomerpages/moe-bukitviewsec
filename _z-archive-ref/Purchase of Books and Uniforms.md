@@ -3,7 +3,6 @@ title: Purchase of Books and Uniforms
 permalink: /admissions/secondary-one-2026/booksnuniform/
 description: ""
 variant: tiptap
-third_nav_title: 2026 Sec 1 Registration
 ---
 <h3><strong>Purchase of Books and Uniforms</strong></h3>
 <p>Textbooks, stationery and school uniforms may be purchased from the school’s

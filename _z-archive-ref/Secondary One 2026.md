@@ -3,7 +3,6 @@ title: Secondary One 2026
 permalink: /admissions/secondary-one-2026/sec12026/
 description: ""
 variant: tiptap
-third_nav_title: 2026 Sec 1 Registration
 ---
 <h3>A very warm welcome to our BVSS Family!</h3>
 <div class="isomer-image-wrapper">

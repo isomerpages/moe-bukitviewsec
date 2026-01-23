@@ -3,7 +3,6 @@ title: Student Matters
 permalink: /admissions/secondary-one-2026/sm/
 description: ""
 variant: tiptap
-third_nav_title: 2026 Sec 1 Registration
 ---
 <h2>Student Matters</h2>
 <h4><strong>First Week of School</strong></h4>
