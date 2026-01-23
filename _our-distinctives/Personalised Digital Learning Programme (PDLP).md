@@ -121,6 +121,10 @@ the following link: <strong><a href="https://go.gov.sg/ictserviceparent" rel="no
 <p><a href="/files/PDLP/IP3___Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) 2026</a>
 </p>
 </li>
+<li>
+<p><a href="/files/PDLP/2026_Sec_1_Parent_Sharing_for_PG.pdf" rel="noopener nofollow" target="_blank">Slides shared at Parent Engagement Session</a>
+</p>
+</li>
 </ul>
 <p></p>
 <blockquote>
