@@ -846,7 +846,6 @@ alignment with our beliefs</p>
 <p><strong>&nbsp;</strong>
 </p>
 <hr>
-<hr>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
 programme developed by Health Promotion Board, in collaboration with the
