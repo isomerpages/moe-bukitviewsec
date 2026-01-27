@@ -158,8 +158,6 @@ cooking, to community crime prevention discussions and advocacy.</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
 <h4><strong>PHOTO GALLERY</strong></h4>
 <p>Please click to view the photos of event.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -293,107 +291,9 @@ in various sports and games.</p>
 </div>
 </details>
 </div>
-<p>
-<br>
-</p>
-<h4><strong>CCA TRAINING DAY(S)/ TIME</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Day(s)</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesdays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3:00 pm – 5:30 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:00 pm – 5:30 pm</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p>*Cadets will be informed of any additional/make-up training days through
 Unit Routine Orders</p>
-<h4><strong>TEACHER OFFICERS &amp; UG TEACHERS</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>(Acting) Deputy Officer in Command</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P/INSP (NPCC) Ms Vianne Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>UG Teacher &amp; Squad Officers:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>ASP (NPCC) Ang Kim Leng</p>
-</li>
-<li>
-<p>Mdm Mastura Ashari</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Volunteer Adult Leaders/Non-Teachers</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Honorary Officers</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>H/INSP (NPCC) Nurul Syafikah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Cadet Inspector</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CI (NPCC) Nur Syahirah Razak</p>
-<p>CI (NPCC) Nur Insyirah Razak</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h5><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h5>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -495,4 +395,40 @@ Unit Routine Orders</p>
 </div>
 </details>
 </div>
+<h4><strong>Volunteer Adult Leaders/Non-Teachers</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>List of <strong>Volunteer Adult Leaders/Non-Teachers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Honorary Officers</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>H/INSP (NPCC) Nurul Syafikah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Cadet Inspector</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CI (NPCC) Nur Syahirah Razak</p>
+<p>CI (NPCC) Nur Insyirah Razak</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<h5></h5>
 <p></p>
