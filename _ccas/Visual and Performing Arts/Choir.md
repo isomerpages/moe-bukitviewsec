@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Choir_Formal.jpg">
 </div>
-<h4><strong>1. BACKGROUND</strong></h4>
+<h4><strong>BACKGROUND</strong></h4>
 <p>The BVSS Choir is a joyful, tight-knit family where differences are put
 aside to create magic through our common language of song. In the Singapore
 Youth Festival (SYF) 2025, we made Bukit View Secondary School proud by
@@ -290,66 +290,6 @@ at the Esplanade (Feb 2023)</p>
 </div>
 </details>
 </div>
-<h4><strong>CCA TRAINING DAY(S)/ TIME</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Day(s)</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:45 pm – 5:30 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1:20 pm – 4:30 pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>TEACHERS-IN-CHARGE</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Joy Chen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Music and Choir Development)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Shalom Tan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Student Leadership and Publicity)</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
 <details class="isomer-details">
 <summary>List of EXCO Members</summary>
