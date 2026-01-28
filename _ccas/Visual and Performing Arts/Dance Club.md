@@ -293,58 +293,6 @@ Camp</p>
 </div>
 </details>
 </div>
-<h4><strong>CCA TRAINING DAY(S)/ TIME</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Day(s)</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:45 pm – 4:45 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1:30 pm – 3:30 pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>TEACHERS-IN-CHARGE</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Dharani Dinesh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurlesa</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
 <details class="isomer-details">
 <summary>List of EXCO Members</summary>
