@@ -201,64 +201,7 @@ National Day, Youth Day</p>
 </div>
 </details>
 </div>
-<h4><strong>CCA TRAINING DAY(S)/ TIME</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Day(s)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:30 pm – 5:30 pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>TEACHERS-IN-CHARGE</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhd Fadly</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr John Praveen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Yen Ding Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
