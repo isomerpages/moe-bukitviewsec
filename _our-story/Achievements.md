@@ -148,46 +148,6 @@ in 2024. This is Girls’ Brigade’s 17<sup>th</sup> consecutive Gold Award.</p
 Overall Proficiency Award in 2024. This is NPCC’s attainment of the Distinction
 Award for the third consecutive year.</p>
 <hr>
-<h3>O and N Level Achievements</h3>
-<h4>GCE ‘O’ Level 2024</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/O_Level.jpg">
-</div>
-<p>Congratulations to the GCE ‘O’ Level class of 2024 on your outstanding
-achievements.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>66.7% eligible for JC</p>
-</li>
-<li>
-<p>96.7% eligible for Poly</p>
-</li>
-</ul>
-<p>Special Mention</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>16 Bukit Viewans with 6 Distinctions or more</p>
-</li>
-<li>
-<p>32 Bukit Viewans with 4 or more Distinctions</p>
-</li>
-</ul>
-<h4>GCE ‘N’ Level 2024</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/N_Level.jpg">
-</div>
-<p>Congratulations to the GCE ‘N’ level class of 2024 on your outstanding
-achievements.</p>
-<p>Special Mention</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>7 Bukit Viewans qualifying for PFP.</p>
-</li>
-<li>
-<p>16 Bukit Viewans with 3 or more Distinctions</p>
-</li>
-</ul>
-<hr>
 <h4>SCDF Award&nbsp;for saving a man's life</h4>
 <p>We are proud of Darryl Lee (4D 2021) who raced as a first responder to
 someone who just had a heart attack.&nbsp;</p>
