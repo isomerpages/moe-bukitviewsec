@@ -18,7 +18,13 @@ Friday as well as on selected dates during holiday. Emphasis on techniques
 and skills are placed during training with our externally engaged coach.
 Physical fitness and teamwork are also among the other important factors
 the team builds on during training sessions.</p>
-<h4>HIGHLIGHT OF THE YEAR</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>HIGHLIGHT OF THE YEAR</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
+<p></p>
 <p>Every year team players are selected to participate in the West Zone National
 School Games, as part of their exposure to the sports scene and also to
 cultivate sportsmanship and love for learning in conjunction with the Olympic
@@ -69,7 +75,12 @@ every single point.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>EXECUTIVE COMMITTEE MEMBERS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h4>EXECUTIVE COMMITTEE MEMBERS</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -133,17 +144,11 @@ every single point.</p>
 <p>3G</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
+<h4></h4>
 <p></p>
