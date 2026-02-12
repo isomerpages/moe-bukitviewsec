@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Volleyball_Formal.jpg">
 </div>
-<h4><strong>BACKGROUND</strong></h4>
+<h3><strong>BACKGROUND</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/Volleyball-Logo-300x220.jpg">
 </div>
@@ -46,7 +46,7 @@ rigorous training, players cultivate perseverance, teamwork and commitment
 </div>
 </div>
 </div>
-<h4>HIGHLIGHT OF THE YEAR</h4>
+<h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>PARTICIPATION / ACHIEVEMENT(S)</strong>
@@ -64,7 +64,7 @@ persevered and fought hard in every game they played.</p>
 </details>
 </div>
 <hr>
-<h4>EXECUTIVE COMMITTEE MEMBERS</h4>
+<h4><strong>EXECUTIVE COMMITTEE MEMBERS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
