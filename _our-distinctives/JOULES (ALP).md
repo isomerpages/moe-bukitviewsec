@@ -4,13 +4,13 @@ permalink: /our-distinctives/joules-alp/
 description: ""
 variant: tiptap
 ---
-<h2><strong>JOULES (ALP)</strong></h2>
+<h1><strong>JOULES (ALP)</strong></h1>
 <h4>The Junior OUtstanding Leaders in Energy for Sustainability (JOULES) Programme @BVSS</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Distinctives/JOULES1.jpg">
 </div>
-<h4><u>Aim</u></h4>
+<h2><strong>Aim</strong></h2>
 <p>The JOULES (Junior OUtstanding Leaders in Energy for Sustainability) programme
 is a multi-disciplinary environmental Science Programme at Bukit View Secondary
 School. The focus of our programme is on&nbsp;<strong>Clean Energy and Environmental Technology</strong>.</p>
@@ -27,20 +27,22 @@ in the area of environment and sustainable energy and thereby contribute
 to Singapore and the world. We also want Bukit Viewans to be ethical advocates
 who will pursue causes that benefit society, ensuring their values guide
 them as they make a difference beyond their school years.</p>
-<h4><u>Approach</u></h4>
+<hr>
+<h2><strong>Approach</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/Joules-framework-300x300.jpg">
 </div>
 <p>The JOULES programme uses the 4P approach in designing and implementing
 the programmes –&nbsp;<strong>Promote, Participate, Propagate, emPower</strong>
 </p>
-<p><strong>Promote and Participate</strong>&nbsp;– providing students with
-knowledge in environmental issues and experience in design thinking and
-programming. These experiences are infused in the curriculum through school
-wide programmes such as:</p>
+<h3><strong>Promote and Participate</strong>&nbsp;</h3>
+<p>Promote and Participate&nbsp;– providing students with knowledge in environmental
+issues and experience in design thinking and programming. These experiences
+are infused in the curriculum through school wide programmes such as:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1 and 2 JOULES programme</p>
+<p><strong>Secondary 1 and 2 JOULES programme</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -79,7 +81,8 @@ wide programmes such as:</p>
 </table>
 </li>
 <li>
-<p>Secondary 3 JOULES+ programme (one day experience at Ngee Ann Polytechnic)</p>
+<p><strong>Secondary 3 JOULES+ programme </strong>(one day experience at
+Ngee Ann Polytechnic)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -104,9 +107,9 @@ wide programmes such as:</p>
 </table>
 </li>
 <li>
-<p>Experiential learning journeys within the local community designed to
-help lower secondary students understand STEM concepts and sustainable
-practices in real-life applications.</p>
+<p><strong>Experiential learning journeys</strong> within the local community
+designed to help lower secondary students understand STEM concepts and
+sustainable practices in real-life applications.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -131,7 +134,9 @@ practices in real-life applications.</p>
 </table>
 </li>
 </ul>
-<p><strong>Propagate and emPower</strong>&nbsp;– providing student-leaders
+<hr>
+<h4><strong>Propagate and emPower</strong></h4>
+<p><strong>Propagate and emPower</strong>&nbsp;- providing student-leaders
 with the opportunity to pursue their interest in design thinking, programming,
 the environment and sustainable energy.
 <br>Some of these opportunities include:</p>
@@ -171,19 +176,19 @@ and environmental conservation in real-life contexts.</p>
 <li>
 <p>Harnessing the Maker Space to transform their ideas into tangible prototypes.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Distinctives/JOULES2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Distinctives/JOULES2.jpg">
 </div>
 <p></p>
 </li>
 <li>
 <p>Integrating maker education into JOULES (ALP)</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/PScBEdfMCX4?si=gQWr6o74o-MN9IO0"></iframe>
 </div>
 </li>
 </ul>
-<h4><u>Scholarship</u></h4>
+<hr>
+<h2><strong>Scholarship</strong></h2>
 <p>A unique feature of the JOULES programme is the provision of scholarships
 for Bukit Viewans who show a keen interest in environment and sustainable
 energy as well as leadership potential in advocating and pursuing these
