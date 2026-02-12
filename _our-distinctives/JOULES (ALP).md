@@ -4,7 +4,7 @@ permalink: /our-distinctives/joules-alp/
 description: ""
 variant: tiptap
 ---
-<h2>JOULES (ALP)</h2>
+<h2><strong>JOULES (ALP)</strong></h2>
 <h4>The Junior OUtstanding Leaders in Energy for Sustainability (JOULES) Programme @BVSS</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -170,12 +170,21 @@ and environmental conservation in real-life contexts.</p>
 </li>
 <li>
 <p>Harnessing the Maker Space to transform their ideas into tangible prototypes.</p>
-</li>
-</ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Distinctives/JOULES2.jpg">
 </div>
+<p></p>
+</li>
+<li>
+<p>Integrating maker education into JOULES (ALP)</p>
+</li>
+</ul>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/PScBEdfMCX4?si=gQWr6o74o-MN9IO0"></iframe>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <h4><u>Scholarship</u></h4>
 <p>A unique feature of the JOULES programme is the provision of scholarships
 for Bukit Viewans who show a keen interest in environment and sustainable
