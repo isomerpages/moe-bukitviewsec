@@ -177,14 +177,12 @@ and environmental conservation in real-life contexts.</p>
 </li>
 <li>
 <p>Integrating maker education into JOULES (ALP)</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/PScBEdfMCX4?si=gQWr6o74o-MN9IO0"></iframe>
+</div>
 </li>
 </ul>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/PScBEdfMCX4?si=gQWr6o74o-MN9IO0"></iframe>
-</div>
-<p></p>
-<p></p>
-<p></p>
 <h4><u>Scholarship</u></h4>
 <p>A unique feature of the JOULES programme is the provision of scholarships
 for Bukit Viewans who show a keen interest in environment and sustainable
