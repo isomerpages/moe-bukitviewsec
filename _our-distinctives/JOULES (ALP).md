@@ -193,18 +193,25 @@ and environmental conservation in real-life contexts.</p>
 for Bukit Viewans who show a keen interest in environment and sustainable
 energy as well as leadership potential in advocating and pursuing these
 areas.
-<br>There are 2 components to the scholarship structure – Samwoh JOULES scholarship
-and Samwoh JOULES Award (Distinction/ Merit).
+<br>There are 2 components to the scholarship structure – <strong>Samwoh JOULES scholarship</strong> and <strong>Samwoh JOULES Award (Distinction/ Merit)</strong>.
 <br>The scholarship and award are kindly sponsored by Samwoh Corporation.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Samwoh JOULES scholarship</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h4><strong>Samwoh JOULES scholarship</strong></h4>
-<p>Objectives:</p>
+<p><strong>Objectives:</strong>
+</p>
 <p>1 . To attract Primary School students who show keen interest in environment
 and sustainable energy to come to BVSS to further develop their knowledge
 and to contribute as student leaders as they progress in the JOULES programme.
 <br>
 <br>2 . To encourage BVSS students to further develop their knowledge and
 to contribute as student leaders as they progress in the JOULES programme.</p>
-<p>Criteria: For incoming Sec 1 students who</p>
+<p><strong>Criteria: FCriteria: For Sec 2 students whoor incoming Sec 1 students who</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>obtained good grades for Science at PSLE,</p>
@@ -216,7 +223,7 @@ to contribute as student leaders as they progress in the JOULES programme.</p>
 <p>shows keen interest in STEM, the environment and sustainable energy.</p>
 </li>
 </ul>
-<p>Criteria: For Sec 2 students who</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>obtain A1, A2, B3 for Science in Sec 1 or A for Sec 1 Joules,</p>
@@ -225,7 +232,13 @@ to contribute as student leaders as they progress in the JOULES programme.</p>
 <p>show keen interest in environment and sustainable energy.</p>
 </li>
 </ul>
-<h4><strong>Samwoh JOULES Award (Distinction/ Merit)</strong></h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Samwoh JOULES Award (Distinction/ Merit)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>Samwoh JOULES Award </strong><br><strong>(Distinction/ Merit)</strong></h4>
 <p>Objective: To motivate and encourage students who have contributed to
 the JOULES programme and show leadership in environment and sustainable
 energy</p>
@@ -241,4 +254,11 @@ energy</p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/photo_2022-12-24_03-31-30.jpg">
 </div>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<hr>
+<h4></h4>
 <p></p>
