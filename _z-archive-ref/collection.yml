@@ -2,6 +2,7 @@ collections:
   z-archive-ref:
     output: true
     order:
+      - Transfer Request.md
       - Direct School Admission.md
       - DSA Application.md
       - Sec 1 Student Appeal for Transfer.md
