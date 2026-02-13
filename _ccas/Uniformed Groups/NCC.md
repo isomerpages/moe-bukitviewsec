@@ -5,26 +5,51 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h2><strong>NCC</strong></h2>
+<h1><strong>NCC</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Group Photo/NCC_Formal.jpg">
 </div>
-<h4>BACKGROUND</h4>
+<h3><strong>BACKGROUND</strong></h3>
 <p><strong>National Cadet Corps (Land)</strong>&nbsp;is a Uniformed Group
 dedicated to the Cadet Strong Framework.</p>
-<p>The framework focuses on 3 aspects:</p>
-<p>“<strong>Fit Body</strong>”, where cadets train to improve his fitness,
-“<strong>Committed hearts</strong>”, where cadets are given the opportunity
-to volunteer their services to the society and lastly, "<strong>Resilient Mind</strong>”,
-where cadets are taught to make right decisions and persevere through tough
-times.</p>
+<p><strong>The framework focuses on 3 aspects:</strong>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Fit Body</div>
+<div class="isomer-card-description">where cadets train to improve his fitness,</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Committed Hearts</div>
+<div class="isomer-card-description">where cadets are given the opportunity to volunteer their services to
+the society</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Resilient Mind</div>
+<div class="isomer-card-description">where cadets are taught to make right decisions and persevere through
+tough times.</div>
+</div>
+</div>
+</div>
 <p>With the support of HQ NCC, NCC encourages combined training across schools
 of the same cluster, organises fun and engaging activities such as Camps,
 Orienteering Competitions, Freestyle Drill(FSD) Competitions, Sports and
 games under the Unit Recognition(UR) initiative to provide fruitful experiences
 for all cadets across the district.</p>
-<h4>HIGHLIGHTS OF THE YEAR</h4>
-<h5>| <strong>PARTICIPATION</strong></h5>
+<h3><strong>HIGHLIGHTS OF THE YEAR</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>SHOWCASES &amp; EVENTS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
+<h4>|<strong>PARTICIPATION</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The weekly training programme consists of learning foot drills, arm drills,
@@ -43,7 +68,15 @@ activities.</p>
 and Sports Championship.</p>
 </li>
 </ul>
-<h4>AWARDS AND ACHIEVEMENTS</h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>HONORS &amp; RECOGNITION</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4><strong>AWARDS AND ACHIEVEMENTS</strong></h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -79,48 +112,108 @@ and Sports Championship.</p>
 <p>MSG (NCC) THIVESHRAJ SEVA</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/photo_2022-12-24_05-42-07.jpg">
 </div>
-<h5>| <strong>CCA Awareness Day</strong> |</h5>
+<h5></h5>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/CCA Awareness Day.png">
+<img style="width: 100%" height="auto" width="100%" alt="| CCA Awareness Day |" src="/images/CCA Awareness Day.png">
 </div>
-<h5>| <strong>NCC Annual Camp</strong> |</h5>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CCA Awareness Day</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/NCC Annual Camp.png">
+<img style="width: 100%" height="auto" width="100%" alt="NCC Annual Camp" src="/images/NCC Annual Camp.png">
 </div>
-<h5>| <strong>Guardian of The City Card Game</strong> |</h5>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">NCC Annual Camp</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/ncc%202023%20gotc-1.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="| Guardian of The City Card Game |" src="/images/Guardian of The City Card Games.png">
 </div>
-<h5>| <strong>RSAF55 Open House</strong> |</h5>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Guardian of The City Card Game</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/ncc%202023%20rsaf55%20open%20house1.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="RSAF55 Open House" src="/images/CCA Page/Uniformed Groups/ncc 2023 rsaf55 open house1.JPG">
 </div>
-<h5>| <strong>Sports and Physical Activities</strong> |</h5>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">RSAF55 Open House</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Sports and Physical Activities.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sports and Physical Activities" src="/images/Sports and Physical Activities.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/ncc%202023%20kinball.jpeg">
 </div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sports and Physical Activities</div>
+</div>
+</div>
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/ncc%202023%20archery%20tag.jpeg">
 </div>
-<h5>| <strong>NCC Sports Championship</strong> |</h5>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/ncc 2023 kinball.jpeg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h5></h5>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/NCC Sports Championship.jpg">
 </div>
-<h4></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="| NCC Sports Championship |" src="/images/NCC Sports Championship.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">| NCC Sports Championship |</div>
+</div>
+</div>
+</div>
 <p></p>
