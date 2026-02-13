@@ -291,9 +291,6 @@ in various sports and games.</p>
 </div>
 </details>
 </div>
-<p></p>
-<p>*Cadets will be informed of any additional/make-up training days through
-Unit Routine Orders</p>
 <h5><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h5>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
