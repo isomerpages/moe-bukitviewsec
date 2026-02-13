@@ -121,52 +121,48 @@ and Sports Championship.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/photo_2022-12-24_05-42-07.jpg">
 </div>
-<h5></h5>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="| CCA Awareness Day |" src="/images/CCA Awareness Day.png">
+<h4><strong>PHOTO GALLERY</strong></h4>
+<p>Please click to view the photos of event.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>CCA Awareness Day</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
+</details>
+<details class="isomer-details">
+<summary><strong>Guardian of The City Card Game</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">CCA Awareness Day</div>
+</details>
+<details class="isomer-details">
+<summary><strong>RSAF55 Open House</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
+</details>
+<details class="isomer-details">
+<summary><strong>NCC Sports Championship</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NCC Annual Camp" src="/images/NCC Annual Camp.png">
+</details>
 </div>
+<p>
+<br>
+</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">NCC Annual Camp</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="| Guardian of The City Card Game |" src="/images/Guardian of The City Card Games.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Guardian of The City Card Game</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RSAF55 Open House" src="/images/CCA Page/Uniformed Groups/ncc 2023 rsaf55 open house1.JPG">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">RSAF55 Open House</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-</div>
-</div>
+</details>
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -200,10 +196,6 @@ and Sports Championship.</p>
 </tr>
 </tbody>
 </table>
-<h5></h5>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/NCC Sports Championship.jpg">
-</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
