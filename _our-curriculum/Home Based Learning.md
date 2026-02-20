@@ -55,7 +55,7 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>T1W6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 10 Feb</p>
+<p>Mon, 9 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S1 – 2, 4 – 5</p>
@@ -66,7 +66,7 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>T1W8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 26 Feb</p>
+<p>Wed, 25 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S1 – 5</p>
@@ -77,7 +77,7 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>T1W10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 10 Mar</p>
+<p>Mon, 9 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S1 – 5</p>
@@ -85,10 +85,10 @@ is unable to intervene spontaneously during the learning process.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T2W3</p>
+<p>T2W1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 9<sup> </sup>Apr</p>
+<p>Fri, 27<sup> </sup>Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S1 – 5 &nbsp;</p>
@@ -96,29 +96,23 @@ is unable to intervene spontaneously during the learning process.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p>T2W3</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Mon, 6 Apr</p>
+<p></p>
+</td>
+<td rowspan="2" colspan="1">
+<p>S1 – 5</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>T2W5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 24 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Only for S4 Express and S5N</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fri, 25 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Only for S3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T2W6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fri, 2 May</p>
+<p>Thu, 23 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S1 – 5 &nbsp;</p>
@@ -126,14 +120,13 @@ is unable to intervene spontaneously during the learning process.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T2W7</p>
+<p>T2W8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 5 May<strong> (Cancelled)</strong>
-</p>
+<p>Mon, 11 May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School holiday due to polling day. No replacement day.</p>
+<p>S1 – 5 &nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -141,10 +134,10 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>T2W9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 23 May</p>
+<p>To be confirmed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S1 – 5</p>
+<p>S3</p>
 </td>
 </tr>
 <tr>
@@ -166,7 +159,7 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>T3W2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 8 Jul</p>
+<p>Tue, 7 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S1 – 3</p>
@@ -177,10 +170,10 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>T3W3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue – Thu, 15 – 17 Jul</p>
+<p>Tue – Thu, 14 – 16 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S1 – 5</p>
+<p>S1 – 3</p>
 </td>
 </tr>
 </tbody>
