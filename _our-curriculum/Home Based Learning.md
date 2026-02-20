@@ -28,7 +28,7 @@ is unable to intervene spontaneously during the learning process.</p>
 <p>Students’ learning cannot be monitored and evaluated onsite.</p>
 </li>
 </ul>
-<h4>2025 HBL Days</h4>
+<h4>2026 HBL Days</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
