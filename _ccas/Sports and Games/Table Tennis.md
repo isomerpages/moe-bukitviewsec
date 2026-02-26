@@ -18,89 +18,13 @@ Friday as well as on selected dates during holiday. Emphasis on techniques
 and skills are placed during training with our externally engaged coach.
 Physical fitness and teamwork are also among the other important factors
 the team builds on during training sessions.</p>
-<h4>CCA TRAINING DAY(S)/ TIME</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Day(s)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:40pm - 4:25pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3:15pm - 5:30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>HIGHLIGHT OF THE YEAR</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>TEACHER-IN-CHARGE</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Liu Sijian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Wei Chung</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Bai Qiaoling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Neal Warren</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Suhaini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Swee Beng</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>HIGHLIGHT OF THE YEAR</h4>
 <p>Every year team players are selected to participate in the West Zone National
 School Games, as part of their exposure to the sports scene and also to
 cultivate sportsmanship and love for learning in conjunction with the Olympic
@@ -151,7 +75,12 @@ every single point.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>EXECUTIVE COMMITTEE MEMBERS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h4>EXECUTIVE COMMITTEE MEMBERS</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -215,17 +144,11 @@ every single point.</p>
 <p>3G</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
+<h4></h4>
 <p></p>
