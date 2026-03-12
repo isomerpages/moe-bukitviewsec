@@ -125,13 +125,6 @@ and Sports Championship.</p>
 <p>Please click to view the photos of event.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CCA Awareness Day</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
 <summary><strong>Guardian of The City Card Game</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -150,34 +143,18 @@ and Sports Championship.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
-<p>
-<br>
-</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sports and Physical Activities" src="/images/Sports and Physical Activities.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC Sports Championship.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sports and Physical Activities</div>
-</div>
-</div>
-</div>
-<table style="minWidth: 50px">
+</details>
+<details class="isomer-details">
+<summary><strong>CCA Awareness Day</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -193,19 +170,52 @@ and Sports Championship.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCA Page/Uniformed Groups/ncc 2023 kinball.jpeg">
 </div>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Sports and Physical Activities</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="| NCC Sports Championship |" src="/images/NCC Sports Championship.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports and Physical Activities.png">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">| NCC Sports Championship |</div>
+</details>
 </div>
+<p></p>
+<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>List of EXCO Members</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>
+<br><strong><u>List of EXCO Members</u></strong>
+</p>
+<p></p>
 </div>
+</details>
+</div>
+<p></p>
+<h4><strong>Volunteer Adult Leaders/Non-Teachers</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>List of<strong>Volunteer Adult Leaders/Non-Teachers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>
+<br><strong><u>List ofVolunteer Adult Leaders/Non-Teachers</u></strong>
+</p>
+</div>
+</details>
 </div>
 <p></p>
