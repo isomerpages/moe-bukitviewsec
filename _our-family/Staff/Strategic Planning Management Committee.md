@@ -7,9 +7,8 @@ third_nav_title: Staff
 ---
 <h3><strong>Strategic Planning Management Committee (SPMC)</strong></h3>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -17,211 +16,372 @@ third_nav_title: Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Salutation</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Key Personel Photos/Updated/Mrs_Lee_Hui_Xin.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_MAK_YEW_CHONG.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Key Personel Photos/Updated/MRS_ANNA_LING.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_JUSTIN_NEO_KIM_HANG.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MRS_ZANE_TYE.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MISS_SHARMILA_GOPAL.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_SIRAJUTHEEN_B_SHAHUL_HAMEED.jpg">
-</div>
-</th>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MRS_IRNI_PRASAD.jpg">
-</div>
+<p><strong>Designation</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_WAI_KAM_HOA.jpg">
-</div>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MDM_TOH_YEOK_TEE.jpg">
-</div>
+<p>Lee Hui Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_CHIN_WEY_THUR.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_NG_WUAY_BOON.jpg">
-</div>
+<p>Prinicipal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MRS_NALINI_RAM.jpg">
-</div>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_LEE_JIA_HAO.jpg">
-</div>
+<p>Anna Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MS_CHUN_KAI_XIN.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_ELAMARAN_S_O_V_KAMALANATHAN.jpg">
-</div>
+<p>Vice-Principal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_FELIX_WONG_WENG_HAY.jpg">
-</div>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_MUHD_FADLY_BIN_ASMAWI.jpg">
-</div>
+<p>Mak Yew Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MISS_PATRICIA_LYE_MAY_KIN.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/Updated/MISS_KUMUTHA_D_O_MANIAMV3.jpg">
-</div>
+<p>Vice-Principal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/Updated/Mr_Poh_Soon_Ming.jpg">
-</div>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_LEE_JOSHUA.jpg">
-</div>
+<p>Justin Neo</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_VINOD_KUMAR_S_O_RAJASEGARAN.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MDM_ANG_KIM_LENG.jpg">
-</div>
+<p>Vice-Principal (Admin)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_TAN_YI_XUN_KENDRICK.jpg">
-</div>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_CHEW_KAH_HOU_BILLY.jpg">
-</div>
+<p>Zane Tye</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/Updated/Mr_Lim_Swee_Beng.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_ARTHUR_KOK_KUM_CHIEW.jpg">
-</div>
+<p>School Staff Developer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_MOHD_NAZAR_BIN_HJH_MOIDEEN.jpg">
-</div>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MISS_MAY_LOKE_PUAY_YIN.jpg">
-</div>
+<p>Lee Jia Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_STALIN_RAMASAMY.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Personel Photos/2025/MR_LIU_SIJIAN.jpg">
-</div>
+<p>Year Head (Lower Sec)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sirajutheen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Year Head (Upper Sec)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chin Wey Thur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/PE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chun Kai Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/MTL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Irni Prasad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Math</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nalini Ram</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Humanities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Wuay Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharmila Gopal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toh Yeok Tee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/EL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wai Kam Hoa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/C&amp;T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Kim Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Billy Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Math</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elamaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Discipline</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Felix Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kumutha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Joshua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head (Upper Sec)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Swee Beng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/CL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Patricia Lye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Computing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhd Fadly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Lit &amp; Drama</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Poh Soon Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Physics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kendrick Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/EdTech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vinod Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Biology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Arthur Kok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/EL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liu Sijian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/Math</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May Loke</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohd Nazar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/Social Studies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ramasamy Stalin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/TL</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
