@@ -17,11 +17,14 @@ for direct entry to the Secondary 1 Cohort of 2027.&nbsp;</p>
 <p>Students who are successfully admitted to BVSS via DSA are expected to
 honour their commitment to the school by participating in the activities
 related to the talent they are selected for.&nbsp;</p>
-<h3><strong><u>BVSS DSA-Sec Talent Areas</u></strong></h3>
-<h3><strong>L</strong>eadership and <strong>U</strong>niformed <strong>G</strong>roups</h3>
+<h4><strong>BVSS DSA-Sec Talent Areas</strong></h4>
+<blockquote>
+<p><strong>L</strong>eadership and <strong>U</strong>niformed <strong>G</strong>roups</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -39,6 +42,23 @@ related to the talent they are selected for.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4><strong>Leadership&nbsp;</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Programmes, activities and opportunities&nbsp;</strong>&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Students will be equipped with leadership skills, competencies and knowledge.
+They will be developed to serve as student leaders (Student Leader Council
+/ CCA Leader) and be given opportunities and platforms to apply their leadership
+skills. Students may also be selected as ambassadors to represent the school
+during the School Open House, Sec 1 Orientation and Student Environmental
+Leadership Conference.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>For more information, please refer to the&nbsp;<a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/" rel="noopener nofollow" target="_blank">Student Leadership webpage.</a>
+</p>
+</div>
+</details>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will be equipped with leadership skills, competencies and knowledge.
@@ -55,7 +75,9 @@ Leadership Conference.&nbsp;&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>P</strong>erforming <strong>A</strong>rts</h3>
+<blockquote>
+<p><strong>P</strong>erforming <strong>A</strong>rts</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
 </div>
@@ -151,7 +173,7 @@ and workshops with various institutions.&nbsp;&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<h3><strong>S</strong>cience, <strong>T</strong>echnology, <strong>E</strong>ngineering and <strong>M</strong>athematics</h3>
+<h4><strong>S</strong>cience, <strong>T</strong>echnology, <strong>E</strong>ngineering and <strong>M</strong>athematics</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
 </div>
@@ -237,7 +259,7 @@ also exposed to environmental projects organised by external agencies.&nbsp;&nbs
 </tbody>
 </table>
 <hr>
-<h3><strong>S</strong>ports and <strong>G</strong>ames</h3>
+<h4><strong>S</strong>ports and <strong>G</strong>ames</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
 </div>
