@@ -19,23 +19,51 @@ for direct entry to the Secondary 1 Cohort of 2027.&nbsp;</p>
 <p>Students who are successfully admitted to BVSS via DSA are expected to
 honour their commitment to the school by participating in the activities
 related to the talent they are selected for.&nbsp;</p>
-<h4><strong><u>BVSS DSA-Sec Talent Areas</u></strong></h4>
-<h4>Leadership and Uniformed Groups</h4>
-<p><strong>Leadership</strong>
-<br>
-</p>
+<h3><strong><u>BVSS DSA-Sec Talent Areas</u></strong></h3>
+<p></p>
+<h4><strong>L</strong>eadership and <strong>U</strong>niformed <strong>G</strong>roups</h4>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>Leadership&nbsp;</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/37th%20scb%20psl%20exco.jpeg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/DSA/37th%20scb%20psl%20exco.jpeg">
 </div>
-<p><strong><u>Programmes, activities and opportunities</u></strong>
-<br>Students will be equipped with leadership skills, competencies and knowledge.
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students will be equipped with leadership skills, competencies and knowledge.
 They will be developed to serve as student leaders (Student Leader Council
-/ CCA leader), and be given opportunities and platforms to apply their
-leadership skills. Students may also be selected as ambassadors to represent
-the school during the School Open House, Sec 1 Orientation and Student
-Environmental Leadership Conference.</p>
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/" rel="noopener noreferrer nofollow" target="_blank">webpage.</a>
+/ CCA Leader) and be given opportunities and platforms to apply their leadership
+skills. Students may also be selected as ambassadors to represent the school
+during the School Open House, Sec 1 Orientation and Student Environmental
+Leadership Conference.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For more information, please refer to the&nbsp;<a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/" rel="noopener nofollow" target="_blank">Student Leadership webpage.</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <h4>Performing Arts</h4>
 <p><strong>Choir</strong>
