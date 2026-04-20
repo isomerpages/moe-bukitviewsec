@@ -18,246 +18,192 @@ for direct entry to the Secondary 1 Cohort of 2027.&nbsp;</p>
 honour their commitment to the school by participating in the activities
 related to the talent they are selected for.&nbsp;</p>
 <h4><strong>BVSS DSA-Sec Talent Areas</strong></h4>
-<blockquote>
-<p><strong>L</strong>eadership and <strong>U</strong>niformed <strong>G</strong>roups</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
-</div>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>DSA Talent Areas</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Programmes, activities and opportunities&nbsp;</strong>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Leadership&nbsp;</strong></h4>
+<h4><strong>L</strong>eadership<strong> </strong>and<strong> U</strong>niformed<strong> G</strong>roups</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Programmes, activities and opportunities&nbsp;</strong>&nbsp;</summary>
+<summary><strong>Leadership</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Students will be equipped with leadership skills, competencies and knowledge.
-They will be developed to serve as student leaders (Student Leader Council
+<h4><strong>Leadership</strong></h4>
+<p>Students will be equipped with leadership skills, competencies and knowledge.</p>
+<p>They will be developed to serve as student leaders (Student Leader Council
 / CCA Leader) and be given opportunities and platforms to apply their leadership
-skills. Students may also be selected as ambassadors to represent the school
-during the School Open House, Sec 1 Orientation and Student Environmental
-Leadership Conference.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
+skills.</p>
+<p>Students may also be selected as ambassadors to represent the school during:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>School Open House</p>
+</li>
+<li>
+<p>Sec 1 Orientation</p>
+</li>
+<li>
+<p>Student Environmental Leadership Conference</p>
+<p></p>
+</li>
+</ul>
 <p>For more information, please refer to the&nbsp;<a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/" rel="noopener nofollow" target="_blank">Student Leadership webpage.</a>
 </p>
 </div>
 </details>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will be equipped with leadership skills, competencies and knowledge.
-They will be developed to serve as student leaders (Student Leader Council
-/ CCA Leader) and be given opportunities and platforms to apply their leadership
-skills. Students may also be selected as ambassadors to represent the school
-during the School Open House, Sec 1 Orientation and Student Environmental
-Leadership Conference.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>For more information, please refer to the&nbsp;<a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/" rel="noopener nofollow" target="_blank">Student Leadership webpage.</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<blockquote>
-<p><strong>P</strong>erforming <strong>A</strong>rts</p>
-</blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>DSA Talent Areas</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Programmes, activities and opportunities&nbsp;</strong>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Choir&nbsp;</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
+<h4><strong>P</strong>erforming <strong>A</strong>rts</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Choir</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Students will learn how to use their voice for singing, projection and
-presentation effectively. There will be an emphasis on articulation, pronunciation
-and clarity of sound. Listening and ensemble-ship skills will be honed.
-As the Choir is a group activity, it is important for members to listen,
-respond and adapt their singing to achieve an overall blended sound.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
+presentation effectively.</p>
+<p>There will be an emphasis on articulation, pronunciation and clarity of
+sound. Listening and ensemble-ship skills will be honed.</p>
+<p>As the Choir is a group activity, it is important for members to listen,
+respond and adapt their singing to achieve an overall blended sound.</p>
 <p>Students will be given opportunities to express themselves through singing
 songs from different time periods and genres ranging from Renaissance music
-to Contemporary Pop. Students will perform in school for various school-based
-events, attend performances put up by notable local or international choirs,
-sing at public venues such as The Arts House or other performance venues,
-and take part in Singapore Youth Festival (SYF) Arts Presentation for Choir
-bi-annually. There are bi-annual plans for the Choir to travel overseas
-for international exchanges, when the opportunity arises.&nbsp;&nbsp;</p>
-<p>&nbsp;For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/Choir/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Concert Band&nbsp;</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
+to Contemporary Pop.</p>
+<p>Students will perform in school for various school-based events, attend
+performances put up by notable local or international choirs, sing at public
+venues such as The Arts House or other performance venues, and take part
+in Singapore Youth Festival (SYF) Arts Presentation for Choir bi-annually.</p>
+<p>There are bi-annual plans for the Choir to travel overseas for international
+exchanges, when the opportunity arises.
+<br>
+<br>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/Choir/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Concert Band&nbsp;</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Concert Band&nbsp;</strong>
+</p>
 <p>Students will be given opportunities to perform in public concerts and
-the Singapore Youth Festival (SYF) Arts Presentation. They will also be
-given opportunities to hone their leadership and organization skills through
-weekly practices and engaging activities. In school, students get to showcase
-their musical talent during events like Chinese New Year celebrations,
-National Day Parade and Teacher’s Day celebrations.&nbsp;&nbsp;</p>
-<p>
-<br>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/concertb/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>English Drama&nbsp;</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will learn a variety of acting, direction and stage management
-skills. They will have opportunities to apply what they have learnt and
-be part of drama performances for school events and external competitions
-as well as representing the school in the Singapore Youth Festival (SYF)
-Arts Presentation.&nbsp;</p>
-<p>&nbsp;
-<br>As the Drama Club is the 2nd Tier of the school’s Learning for Life Programme
+the Singapore Youth Festival (SYF) Arts Presentation.</p>
+<p>They will also be given opportunities to hone their leadership and organization
+skills through weekly practices and engaging activities.</p>
+<p>In school, students get to showcase their musical talent during events
+like Chinese New Year celebrations, National Day Parade and Teacher’s Day
+celebrations.</p>
+<p></p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/concertb/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>English Drama&nbsp;</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>English Drama&nbsp;</strong>
+<br>Students will learn a variety of acting, direction and stage management
+skills.</p>
+<p>They will have opportunities to apply what they have learnt and be part
+of drama performances for school events and external competitions as well
+as representing the school in the Singapore Youth Festival (SYF) Arts Presentation.</p>
+<p>As the Drama Club is the 2nd Tier of the school’s Learning for Life Programme
 (LLP), students will be given opportunities to participate in events like
 learning journeys to theatres and attending Drama Careers Fair organised
-by institutions of higher learning. Drama Club students will also have
-the opportunity to participate in collaborative workshops or performances
-with other schools that offer Drama LLP.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/drama/" rel="noopener noreferrer nofollow" target="_blank">CCA webpage</a>.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Modern Dance&nbsp;</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will be trained in techniques associated with various dance genres.
-They will have the opportunity to perform at school events such as the
-Chinese New Year concert, school National Day celebrations, Teachers’ Day,
-Open House, Singapore Youth Festival (SYF) Arts Presentation and competitions.
-There will also be opportunities for students to hone their leadership
-skills and further their passion in the arts through immersion programmes
-and workshops with various institutions.&nbsp;&nbsp;</p>
+by institutions of higher learning.</p>
+<p>Drama Club students will also have the opportunity to participate in collaborative
+workshops or performances with other schools that offer Drama LLP.</p>
 <p>
-<br>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/dance/" rel="noopener noreferrer nofollow" target="_blank">CCA webpage.</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h4><strong>S</strong>cience, <strong>T</strong>echnology, <strong>E</strong>ngineering and <strong>M</strong>athematics</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
+<br>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/drama/" rel="noopener noreferrer nofollow" target="_blank">CCA webpage</a>.</p>
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>DSA Talent Areas</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Programmes, activities and opportunities&nbsp;</strong>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Aerospace and Aviation&nbsp;</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
+</details>
+<details class="isomer-details">
+<summary><strong>Modern Dance&nbsp;</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Modern Dance</strong>
+</p>
+<p></p>
+<p>Students will be trained in techniques associated with various dance genres.</p>
+<p>They will have the opportunity to perform at school events such as the
+Chinese New Year concert, school National Day celebrations, Teachers’ Day,
+Open House, Singapore Youth Festival (SYF) Arts Presentation and competitions.</p>
+<p>There will also be opportunities for students to hone their leadership
+skills and further their passion in the arts through immersion programmes
+and workshops with various institutions.
+<br>
+</p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/dance/" rel="noopener noreferrer nofollow" target="_blank">CCA webpage.</a>
+</p>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong>S</strong>cience, <strong>T</strong>echnology, <strong>E</strong>ngineering and <strong>M</strong>athematics</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Aerospace and Aviation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Aerospace and Aviation</strong>
+</p>
+<p></p>
 <p>Students will have opportunities to join the Singapore Youth Flying Club
-and experience a range of aviation related activities, such as:&nbsp;
-<br>&nbsp;</p>
-<ul>
+and experience a range of aviation related activities, such as:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Attending lectures to improve aviation knowledge&nbsp;</p>
+<p>Attending lectures to improve aviation knowledge</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Experiencing joyrides on various RSAF aircraft under the Flight Experience
-Program (FEP)&nbsp;</p>
+Program (FEP)</p>
 </li>
-</ul>
-<ul>
 <li>
-<p>Building and flying of model aircraft&nbsp;</p>
+<p>Building and flying of model aircraft</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>They will also have opportunities to represent the school in aviation
 and aerospace competitions such as Singapore Amazing Flying Machine Competition
-(SAFMC), Aerobot Challenge, and other competitions.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
+(SAFMC), Aerobot Challenge, and other competitions.</p>
+<p></p>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Coding</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will learn computational thinking skills using different programming
-languages including Swift Playgrounds, Figma UI/UX &amp; Vibe Coding,&nbsp;
-Scratch, and Microsoft MakeCode. They will also learn to harness the power
-of the micro:bit by working with accelerometers, temperature sensors, LEDs,
-and other components that form the building blocks of modern Internet of
-Things (IoT) and smart cities. They will have the opportunities to represent
-the school in various competitions like Young Technoprenur Challenge National
-Youth Tech Championship and International Junior Informatics Olympiad.&nbsp;&nbsp;</p>
-<p>
-<br>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a> .</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Environmental Science&nbsp;</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will learn to be environmentally conscious, to be aware of issues
-like sustainability and conservation. Their learning will be supported
-by the school’s outdoor learning facilities such as the Eco Garden and
-Smart Centre. The students will learn to conduct a biodiversity audit in
-the school and develop their capacities as Environmental Ambassadors, able
-to conduct Eco Trails for other schools’ students and visitors. They are
-also exposed to environmental projects organised by external agencies.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Coding</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Coding</strong>
+<br>Students will learn computational thinking skills using different programming
+languages including Swift Playgrounds, Figma UI/UX &amp; Vibe Coding, Scratch,
+and Microsoft MakeCode.</p>
+<p>They will also learn to harness the power of the micro:bit by working
+with accelerometers, temperature sensors, LEDs, and other components.</p>
+<p>Students will have the opportunities to represent the school in various
+competitions like Young Technoprenur Challenge, National Youth Tech Championship
+and International Junior Informatics Olympiad.</p>
+<p></p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a> .</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Environmental Science&nbsp;</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Environmental Science</strong>&nbsp;</p>
+<p>Students will learn to be environmentally conscious and be aware of issues
+like sustainability and conservation.</p>
+<p>Their learning will be supported by the school’s outdoor learning facilities
+such as the Eco Garden and Smart Centre.</p>
+<p>Students will learn to conduct a biodiversity audit in the school and
+develop their capacities as Environmental Ambassadors.</p>
+<p>They will also be able to conduct Eco Trails for other schools’ students
+and visitors and be exposed to environmental projects organised by external
+agencies.</p>
+<p></p>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Clubs-and-Societies/environmental/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+</details>
+</div>
 <hr>
 <h4><strong>S</strong>ports and <strong>G</strong>ames</h4>
 <div class="isomer-image-wrapper">
