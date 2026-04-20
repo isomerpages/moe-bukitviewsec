@@ -18,7 +18,7 @@ for direct entry to the Secondary 1 Cohort of 2027.&nbsp;</p>
 honour their commitment to the school by participating in the activities
 related to the talent they are selected for.&nbsp;</p>
 <h4><strong>BVSS DSA-Sec Talent Areas</strong></h4>
-<h4><strong>L</strong>eadership<strong> </strong>and<strong> U</strong>niformed<strong> G</strong>roups</h4>
+<h4><strong>L</strong>eadership<strong> </strong>and<strong> U</strong>niformed<strong> G</strong>roups<br><em><sub>(Click on each talent area to view details)</sub></em></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Leadership</strong>
@@ -48,7 +48,7 @@ skills.</p>
 </div>
 </details>
 </div>
-<h4><strong>P</strong>erforming <strong>A</strong>rts</h4>
+<h4><strong>P</strong>erforming <strong>A</strong>rts<br><em><sub>(Click on each talent area to view details)</sub></em></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Choir</strong>
@@ -135,7 +135,7 @@ and workshops with various institutions.
 </details>
 </div>
 <p></p>
-<h4><strong>S</strong>cience, <strong>T</strong>echnology, <strong>E</strong>ngineering and <strong>M</strong>athematics</h4>
+<h4><strong>S</strong>cience, <strong>T</strong>echnology, <strong>E</strong>ngineering and <strong>M</strong>athematics<br><em><sub>(Click on each talent area to view details)</sub></em></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Aerospace and Aviation</strong>
@@ -144,7 +144,6 @@ and workshops with various institutions.
 <p></p>
 <p><strong>Aerospace and Aviation</strong>
 </p>
-<p></p>
 <p>Students will have opportunities to join the Singapore Youth Flying Club
 and experience a range of aviation related activities, such as:</p>
 <ul data-tight="true" class="tight">
@@ -204,8 +203,91 @@ agencies.</p>
 </div>
 </details>
 </div>
-<hr>
-<h4><strong>S</strong>ports and <strong>G</strong>ames</h4>
+<h4><strong>S</strong>ports and <strong>G</strong>ames<br><em><sub>(Click on each talent area to view details)</sub></em></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Badminton (Boys)&nbsp;</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>Students will have the opportunity to develop their skills, pursue their
+sporting ambitions and grow as well-rounded individuals.</p>
+<p>Through structured weekly training sessions led by experienced coaches
+and dedicated teachers, students will refine their technical abilities,
+tactical awareness, and physical fitness.</p>
+<p>Students will also have the opportunity to represent the school in the
+annual National School Games (NSG).</p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/badminton/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage.</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Floorball&nbsp;</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Floorball</strong>
+</p>
+<p>Students will develop holistically in the areas of teamwork, discipline,
+and resilience through training sessions, friendlies and competitions during
+weekly CCA training sessions.</p>
+<p>They will gain opportunities to represent their school and participate
+in inter-school tournaments such as the annual National School Games (NSG).</p>
+<p>Students will also be able to develop their leadership skills through
+various platforms including planning for termly bonding sessions.</p>
+<p>&nbsp;For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/floorball/" class="Hyperlink SCXW88066861 BCX0" rel="noreferrer noopener" target="_blank"><u>CCA webpage.</u></a>&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Table Tennis&nbsp;</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Table Tennis</strong>
+</p>
+<p>Students will have the opportunity to hone their table tennis skills under
+experienced teachers and instructors.</p>
+<p>They will be developed holistically in the areas of leadership, sportsmanship
+and teamwork.</p>
+<p>Students will also represent the school in the annual National School
+Games (NSG) Table Tennis Championship.</p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Track and Field&nbsp;</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Track and Field&nbsp;</strong>
+</p>
+<p>Students will have the opportunity to build a strong foundation in fitness
+with running and jumping.</p>
+<p>The programme helps students to foster self-confidence and develop life
+skills such as discipline, teamwork and sportsmanship.</p>
+<p>Selected students will also represent the school in the annual National
+School Games (NSG) Track &amp; Field Championship.</p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/track-n-field/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Volleyball (Girls)&nbsp; </strong>▼ → (content inside)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Volleyball (Girls)&nbsp;</strong>
+</p>
+<p>Students will have a holistic experience through the training program,
+focusing not just on knowledge and skills acquisition of the sport at a
+higher level, but also in the areas of character building, leadership and
+teamwork.</p>
+<p>They will be able to enhance their repertoire of skills during training
+and have the opportunity to participate in friendly matches and National
+School Games (NSG) competitions.</p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/" rel="noopener nofollow" target="_blank">CCA webpage.</a>
+</p>
+</div>
+</details>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
 </div>
@@ -237,7 +319,7 @@ such as leadership, resilience, sportsmanship and teamwork. Students will
 also have the opportunity to represent the school in the annual National
 School Games (NSG), gaining valuable competitive experience and exposure
 at the national level.
-<br>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/badminton/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage.</a>
+<br>
 </p>
 </td>
 </tr>
@@ -253,7 +335,7 @@ their school and participate in inter-school tournaments such as the annual
 National School Games (NSG). They will also be able to develop their leadership
 skills in various platforms including planning for termly bonding sessions.&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/floorball/" class="Hyperlink SCXW88066861 BCX0" rel="noreferrer noopener" target="_blank"><u>CCA webpage.</u></a>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -267,7 +349,7 @@ in the areas of leadership, sportsmanship and teamwork, gaining experience
 in the planning and facilitation of CCA events such as the School Open
 House. Students will also represent the school in the annual National School
 Games (NSG) Table Tennis Championship.&nbsp;</p>
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -284,7 +366,7 @@ school in the annual National School Games (NSG) Track &amp; Field Championship
 Individual and Team events. It is a journey of self-discovery and pushing
 boundaries, while staying active.&nbsp;</p>
 <p>&nbsp;</p>
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/track-n-field/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -300,8 +382,7 @@ teamwork. They will be able to enhance their repertoire of skills during
 training and have the opportunity to participate in friendly matches and
 National School Games (NSG) competitions.&nbsp;</p>
 <p></p>
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/" rel="noopener nofollow" target="_blank">CCA webpage.</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
