@@ -121,6 +121,41 @@ Leadership Conference.</p>
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>Choir</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/BUKIT_VIEW_SECONDARY_SCHOOL_22987.jpg">
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Programmes, activities and opportunities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students will be equipped with leadership skills, competencies and knowledge.
+They will be developed to serve as student leaders (Student Leader Council
+/ CCA Leader) and be given opportunities and platforms to apply their leadership
+skills. Students may also be selected as ambassadors to represent the school
+during the School Open House, Sec 1 Orientation and Student Environmental
+Leadership Conference.</p>
+</div>
+</details>
+</div>
+<p>For more information, please refer to the&nbsp;<a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/" rel="noopener nofollow" target="_blank">Student Leadership webpage.</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>P</strong>erforming <strong>A</strong>rts</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -129,26 +164,16 @@ Leadership Conference.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <h4><strong>Choir</strong></h4>
 </th>
-<td rowspan="1" colspan="1">
-<h4><strong>Concert Band</strong></h4>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/DSA/2026/BUKIT_VIEW_SECONDARY_SCHOOL_22987.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/2026/BUKIT_VIEW_SECONDARY_SCHOOL_22987.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Concert_Band_DSA_Pic_1.jpg">
-</div>
-</td>
-</tr>
-<tr>
+</th>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to use their voice for singing, projection and
 presentation effectively. There will be an emphasis on articulation, pronunciation
@@ -163,7 +188,32 @@ events, attend performances put up by notable local or international choirs,
 sing at public venues such as The Arts House or other performance venues,
 and take part in Singapore Youth Festival (SYF) Arts Presentation for Choir
 bi-annually. There are bi-annual plans for the Choir to travel overseas
-for international exchanges, when the opportunity arises.</p>
+for international exchanges, when the opportunity arises.For more information,
+please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/Choir/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Concert Band</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/2026/Concert_Band_DSA_Pic_1.jpg">
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Programmes, activities and opportunities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will be given opportunities to perform in public concerts and
@@ -172,53 +222,32 @@ given opportunities to hone their leadership and organization skills through
 weekly practices and engaging activities. In school, students get to showcase
 their musical talent during events like Chinese New Year celebrations,
 National Day Parade and Teacher’s Day celebrations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/Choir/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/concertb/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <h4><strong>English Drama</strong></h4>
 </td>
-<td rowspan="1" colspan="1">
-<h4><strong>Modern Dance</strong></h4>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Drama_Club_23.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/2026/Drama_Club_23.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/DSA/2026/Modern_Dance_DSA_5__Can_delete_if_too_blur_23.jpg">
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Programmes, activities and opportunities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
+</details>
+</div>
+<p></p>
+<p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Students will learn a variety of acting, direction and stage management
 skills. They will have opportunities to apply what they have learnt and
@@ -232,6 +261,31 @@ learning journeys to theatres and attending Drama Careers Fair organised
 by institutions of higher learning. Drama Club students will also have
 the opportunity to participate in collaborative workshops or performances
 with other schools that offer Drama LLP.&nbsp;&nbsp;</p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/drama/" rel="noopener noreferrer nofollow" target="_blank">CCA webpage</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Modern Dance</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/DSA/2026/Modern_Dance_DSA_5__Can_delete_if_too_blur_23.jpg">
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Programmes, activities and opportunities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will be trained in techniques associated with various dance genres.
@@ -241,36 +295,20 @@ Open House, Singapore Youth Festival (SYF) Arts Presentation and competitions.
 There will also be opportunities for students to hone their leadership
 skills and further their passion in the arts through immersion programmes
 and workshops with various institutions.&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/drama/" rel="noopener noreferrer nofollow" target="_blank">CCA webpage</a>.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/dance/" rel="noopener noreferrer nofollow" target="_blank">CCA webpage.</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>S</strong>cience, <strong>T</strong>echnology, <strong>E</strong>ngineering and <strong>M</strong>athematics</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h4><strong>Aerospace and Aviation</strong></h4>
 </td>
 </tr>
@@ -279,11 +317,14 @@ and workshops with various institutions.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Yoth_Flying_Club_DSA.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Programmes, activities and opportunities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Students will have opportunities to join the Singapore Youth Flying Club
-and experience a range of aviation related activities, such as:&nbsp;
-<br>&nbsp;</p>
+and experience a range of aviation related activities, such as:&nbsp;</p>
 <ul>
 <li>
 <p>Attending lectures to improve aviation knowledge&nbsp;</p>
@@ -300,15 +341,17 @@ Program (FEP)&nbsp;</p>
 <p>Building and flying of model aircraft&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>They will also have opportunities to represent the school in aviation
 and aerospace competitions such as Singapore Amazing Flying Machine Competition
-(SAFMC), Aerobot Challenge, and other competitions.&nbsp;&nbsp;</p>
+(SAFMC), Aerobot Challenge, and other competitions.</p>
+</div>
+</details>
+</div>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h4><strong>Coding</strong></h4>
 </td>
 </tr>
@@ -317,8 +360,12 @@ and aerospace competitions such as Singapore Amazing Flying Machine Competition
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Coding_Young_Technoprenuerlo.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Programmes, activities and opportunities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Students will learn computational thinking skills using different programming
 languages including Swift Playgrounds, Figma UI/UX &amp; Vibe Coding,&nbsp;
 Scratch, and Microsoft MakeCode. They will also learn to harness the power
@@ -327,22 +374,28 @@ and other components that form the building blocks of modern Internet of
 Things (IoT) and smart cities. They will have the opportunities to represent
 the school in various competitions like Young Technoprenur Challenge National
 Youth Tech Championship and International Junior Informatics Olympiad.&nbsp;&nbsp;</p>
+</div>
+</details>
+</div>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a> .</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h4><strong>Environmental Science</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/ENV_DSA_1.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Programmes, activities and opportunities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Students will learn to be environmentally conscious, to be aware of issues
 like sustainability and conservation. Their learning will be supported
 by the school’s outdoor learning facilities such as the Eco Garden and
@@ -350,20 +403,22 @@ Smart Centre. The students will learn to conduct a biodiversity audit in
 the school and develop their capacities as Environmental Ambassadors, able
 to conduct Eco Trails for other schools’ students and visitors. They are
 also exposed to environmental projects organised by external agencies.&nbsp;</p>
+</div>
+</details>
+</div>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Clubs-and-Societies/environmental/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3><strong>S</strong>ports and <strong>G</strong>ames</h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h4><strong>Badminton (Boys)</strong></h4>
 </td>
 </tr>
@@ -373,8 +428,11 @@ also exposed to environmental projects organised by external agencies.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Badminton_DSA_CCA_Photo_2026.jpg">
 </div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Programmes, activities and opportunities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Students will have the opportunity to develop their skills, pursue their
 sporting ambitions and grow as well-rounded individuals. Through structured
 weekly training sessions led by experienced coaches and dedicated teachers,
@@ -384,12 +442,16 @@ such as leadership, resilience, sportsmanship and teamwork. Students will
 also have the opportunity to represent the school in the annual National
 School Games (NSG), gaining valuable competitive experience and exposure
 at the national level.</p>
+</div>
+</details>
+</div>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/badminton/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage.</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h4><strong>Floorball&nbsp;</strong></h4>
 </td>
 </tr>
@@ -398,20 +460,27 @@ at the national level.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Floorball_DSA_Webpageamall.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Programmes, activities and opportunities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Students will develop holistically in the areas of teamwork, discipline,
 and resilience through training sessions, friendlies and competitions during
 weekly CCA training sessions. They will gain opportunities to represent
 their school and participate in inter-school tournaments such as the annual
 National School Games (NSG). They will also be able to develop their leadership
 skills in various platforms including planning for termly bonding sessions.&nbsp;</p>
+</div>
+</details>
+</div>
 <p></p>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/floorball/" class="Hyperlink SCXW88066861 BCX0" rel="noreferrer noopener" target="_blank"><u>CCA webpage.</u></a>&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h4><strong>Table Tennis&nbsp;</strong></h4>
 </td>
 </tr>
@@ -420,21 +489,27 @@ skills in various platforms including planning for termly bonding sessions.&nbsp
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Table_Tennis_DSA_Small.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Programmes, activities and opportunities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Students will have the opportunity to hone their table tennis skills under
 experienced teachers and instructors. They will be developed holistically
 in the areas of leadership, sportsmanship and teamwork, gaining experience
 in the planning and facilitation of CCA events such as the School Open
 House. Students will also represent the school in the annual National School
-Games (NSG) Table Tennis Championship.&nbsp;
-<br>
-</p>
+Games (NSG) Table Tennis Championship.&nbsp;</p>
+</div>
+</details>
+</div>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h4><strong>Track and Field&nbsp;</strong></h4>
 </td>
 </tr>
@@ -444,8 +519,11 @@ Games (NSG) Table Tennis Championship.&nbsp;
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Track___Field.png">
 </div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Programmes, activities and opportunities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Students will have the opportunity to build a strong foundation in fitness
 with running and jumping, leading to better overall health and coordination.
 Beyond the physical, the programme helps students to foster self-confidence
@@ -453,14 +531,15 @@ through achievement and teaches valuable life skills such as discipline,
 teamwork, and sportsmanship. Selected students will also represent the
 school in the annual National School Games (NSG) Track &amp; Field Championship
 Individual and Team events. It is a journey of self-discovery and pushing
-boundaries, while staying active.&nbsp;
-<br>
-</p>
+boundaries, while staying active.&nbsp;&nbsp;</p>
+</div>
+</details>
+</div>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/track-n-field/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h4><strong>Volleyball (Girls)&nbsp;</strong></h4>
 </td>
 </tr>
@@ -469,17 +548,24 @@ boundaries, while staying active.&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Volleyball_DSA__Team_photo_ActiveSG.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Programmes, activities and opportunities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Students will have a holistic experience through the training program,
 focusing not just on knowledge and skills acquisition of the sport at a
 higher level, but also in the areas of character building, leadership and
 teamwork. They will be able to enhance their repertoire of skills during
 training and have the opportunity to participate in friendly matches and
 National School Games (NSG) competitions.&nbsp;</p>
-<p></p>
+</div>
+</details>
+</div>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/" rel="noopener nofollow" target="_blank">CCA webpage.</a>
 </p>
+<p></p>
 </td>
 </tr>
 </tbody>
