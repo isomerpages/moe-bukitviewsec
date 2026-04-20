@@ -4,24 +4,21 @@ permalink: /admissions/dsa/
 description: ""
 variant: tiptap
 ---
-<h2>Direct School Admission</h2>
-<h4>Information on 2025 Direct School Admission (DSA) to Bukit View Secondary School</h4>
-<p>(For admission to Sec One in 2026)</p>
-<p><strong>Introduction</strong>
-</p>
+<h3><strong>Information on 2026 Direct School Admission (DSA) to Bukit View Secondary School&nbsp;</strong></h3>
+<p>(For admission to Sec One in 2027)</p>
+<h4><strong>Introduction</strong></h4>
 <p>The DSA-Sec Exercise was introduced by the Ministry of Education in 2004.
 It seeks to promote holistic education and provide students an opportunity
 to demonstrate a more diverse range of achievements and talents in seeking
-admission to a secondary school.</p>
-<p><strong>Parents and students are encouraged to choose wisely based on the students’ aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the students’ talents.</strong>
-</p>
-<p>The Bukit View Secondary School (BVSS) DSA Exercise 2025 invites students
-in Primary 6 or equivalent (for overseas students) in 2025 with exceptional
+admission to a secondary school.&nbsp;</p>
+<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>&nbsp;</p>
+<p>The Bukit View Secondary School (BVSS) DSA Exercise 2026 invites students
+in Primary 6 or equivalent (for overseas students) in 2026 with exceptional
 leadership, talent and/or interest in the following talent areas to apply
-for direct entry to the Secondary 1 cohort of 2026.</p>
+for direct entry to the Secondary 1 Cohort of 2027.&nbsp;</p>
 <p>Students who are successfully admitted to BVSS via DSA are expected to
 honour their commitment to the school by participating in the activities
-related to the talent they are selected for.</p>
+related to the talent they are selected for.&nbsp;</p>
 <h4><strong><u>BVSS DSA-Sec Talent Areas</u></strong></h4>
 <h4>Leadership and Uniformed Groups</h4>
 <p><strong>Leadership</strong>
