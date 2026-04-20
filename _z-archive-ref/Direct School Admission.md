@@ -4,7 +4,7 @@ permalink: /admissions/dsa/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Information on 2026 Direct School Admission (DSA) to Bukit View Secondary School&nbsp;</strong><br><em>(For admission to Sec One in 2027)</em><br><br><strong>Introduction</strong></h4>
+<h4><strong>Information on 2026 Direct School Admission (DSA) to Bukit View Secondary School&nbsp;</strong><br><em><sub>(For admission to Sec One in 2027)</sub></em><br><br><strong>Introduction</strong></h4>
 <p>The DSA-Sec Exercise was introduced by the Ministry of Education in 2004.
 It seeks to promote holistic education and provide students an opportunity
 to demonstrate a more diverse range of achievements and talents in seeking
