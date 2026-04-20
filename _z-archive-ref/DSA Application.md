@@ -139,8 +139,7 @@ assessing the potential of the applicants.&nbsp;</p>
 </li>
 </ul>
 </blockquote>
-<h4><strong>Leadership and Uniformed Groups</strong></h4>
-<p>(Click to view criteria)</p>
+<h4><strong>Leadership and Uniformed Groups</strong><br><em><sub>(Click to view criteria)</sub></em></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Leadership <em><sub>(Click to expand)</sub></em></strong>
@@ -178,8 +177,7 @@ and skills through an interview.&nbsp;</p>
 </div>
 </details>
 </div>
-<h4><strong>Performing Arts</strong></h4>
-<p>(Click to view criteria)</p>
+<h4><strong>Performing Arts</strong><br><em><sub>(Click to view criteria)</sub></em></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Choir <em><sub>(Click to expand)</sub></em></strong>
@@ -394,11 +392,10 @@ qualities and potential in Modern Dance through the following criteria:&nbsp;</p
 </div>
 </details>
 </div>
-<h4><strong>Science, Technology, Engineering and Mathematics</strong></h4>
-<p>(Click to view criteria)</p>
+<h4><strong>Science, Technology, Engineering and Mathematics</strong><br><em><sub>(Click to view criteria)</sub></em></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Aerospace and Aviation  <em><sub>(Click to expand)</sub></em></strong>
+<summary><strong>Aerospace and Aviation <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -456,7 +453,7 @@ impairments will not be suitable&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Coding  <em><sub>(Click to expand)</sub></em></strong>
+<summary><strong>Coding <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -560,8 +557,7 @@ and potential in Environmental Science through the following criteria:&nbsp;</p>
 </div>
 </details>
 </div>
-<h4><strong>Sports and Games</strong></h4>
-<p>(Click to view criteria)</p>
+<h4><strong>Sports and Games</strong><br><em><sub>(Click to view criteria)</sub></em></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Badminton (Boys) <em><sub>(Click to expand)</sub></em></strong>
