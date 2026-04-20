@@ -2,7 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - Admissions.md
       - Administrative Matters/.keep
       - Administrative Matters/Sale of Books and Uniforms.md
       - Administrative Matters/BVSS Booklist.md
