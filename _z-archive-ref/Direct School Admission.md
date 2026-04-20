@@ -22,7 +22,6 @@ related to the talent they are selected for.&nbsp;</p>
 <h3><strong><u>BVSS DSA-Sec Talent Areas</u></strong></h3>
 <p></p>
 <h4><strong>L</strong>eadership and <strong>U</strong>niformed <strong>G</strong>roups</h4>
-<h4><strong>Leadership</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Leadership&nbsp;</strong>
@@ -44,6 +43,27 @@ related to the talent they are selected for.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/DSA/37th%20scb%20psl%20exco.jpeg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students will be equipped with leadership skills, competencies and knowledge.
+They will be developed to serve as student leaders (Student Leader Council
+/ CCA Leader) and be given opportunities and platforms to apply their leadership
+skills. Students may also be selected as ambassadors to represent the school
+during the School Open House, Sec 1 Orientation and Student Environmental
+Leadership Conference.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For more information, please refer to the&nbsp;<a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/" rel="noopener nofollow" target="_blank">Student Leadership webpage.</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
