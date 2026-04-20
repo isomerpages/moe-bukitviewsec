@@ -270,28 +270,16 @@ and workshops with various institutions.&nbsp;&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Aerospace and Aviation</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Coding</strong>
-</p>
+<td rowspan="1" colspan="2">
+<h4><strong>Aerospace and Aviation</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Yoth_Flying_Club_DSA.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/2026/Yoth_Flying_Club_DSA.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/DSA/2026/Coding_Young_Technoprenuerlo.jpg">
-</div>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Students will have opportunities to join the Singapore Youth Flying Club
 and experience a range of aviation related activities, such as:&nbsp;
@@ -316,6 +304,20 @@ Program (FEP)&nbsp;</p>
 <p>They will also have opportunities to represent the school in aviation
 and aerospace competitions such as Singapore Amazing Flying Machine Competition
 (SAFMC), Aerobot Challenge, and other competitions.&nbsp;&nbsp;</p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Coding</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/2026/Coding_Young_Technoprenuerlo.jpg">
+</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn computational thinking skills using different programming
@@ -326,52 +328,20 @@ and other components that form the building blocks of modern Internet of
 Things (IoT) and smart cities. They will have the opportunities to represent
 the school in various competitions like Young Technoprenur Challenge National
 Youth Tech Championship and International Junior Informatics Olympiad.&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/infocomm-club/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a> .</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Environmental Science</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<h4><strong>Environmental Science</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/DSA/2026/ENV_DSA_2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/2026/ENV_DSA_2.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Students will learn to be environmentally conscious, to be aware of issues
 like sustainability and conservation. Their learning will be supported
@@ -380,22 +350,12 @@ Smart Centre. The students will learn to conduct a biodiversity audit in
 the school and develop their capacities as Environmental Ambassadors, able
 to conduct Eco Trails for other schools’ students and visitors. They are
 also exposed to environmental projects organised by external agencies.&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Clubs-and-Societies/environmental/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
-<h4><strong>S</strong>ports and <strong>G</strong>ames</h4>
+<h3><strong>S</strong>ports and <strong>G</strong>ames</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -403,166 +363,16 @@ also exposed to environmental projects organised by external agencies.&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Badminton (Boys)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<h4><strong>Badminton (Boys)</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/DSA/2026/ENV_DSA_2.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students will learn to be environmentally conscious, to be aware of issues
-like sustainability and conservation. Their learning will be supported
-by the school’s outdoor learning facilities such as the Eco Garden and
-Smart Centre. The students will learn to conduct a biodiversity audit in
-the school and develop their capacities as Environmental Ambassadors, able
-to conduct Eco Trails for other schools’ students and visitors. They are
-also exposed to environmental projects organised by external agencies.&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/badminton/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Badminton (Boys)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Table Tennis</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/DSA/2026/ENV_DSA_2.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students will learn to be environmentally conscious, to be aware of issues
-like sustainability and conservation. Their learning will be supported
-by the school’s outdoor learning facilities such as the Eco Garden and
-Smart Centre. The students will learn to conduct a biodiversity audit in
-the school and develop their capacities as Environmental Ambassadors, able
-to conduct Eco Trails for other schools’ students and visitors. They are
-also exposed to environmental projects organised by external agencies.&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/badminton/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Track and Field</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Volleyball (Girls)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/DSA/2026/ENV_DSA_2.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students will learn to be environmentally conscious, to be aware of issues
-like sustainability and conservation. Their learning will be supported
-by the school’s outdoor learning facilities such as the Eco Garden and
-Smart Centre. The students will learn to conduct a biodiversity audit in
-the school and develop their capacities as Environmental Ambassadors, able
-to conduct Eco Trails for other schools’ students and visitors. They are
-also exposed to environmental projects organised by external agencies.&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Badminton (Boys)&nbsp;</strong>
-</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Badminton_DSA_CCA_Photo_2026.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will have the opportunity to develop their skills, pursue their
@@ -573,16 +383,18 @@ physical fitness. Beyond the court, they will cultivate important values
 such as leadership, resilience, sportsmanship and teamwork. Students will
 also have the opportunity to represent the school in the annual National
 School Games (NSG), gaining valuable competitive experience and exposure
-at the national level.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>For more information, please refer to the <u>CCA webpage</u>.&nbsp;</p>
+at the national level.</p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/badminton/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage.</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Floorball&nbsp;</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Floorball&nbsp;</strong>
-</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Floorball_DSA_Webpageamall.jpg">
 </div>
@@ -594,15 +406,17 @@ weekly CCA training sessions. They will gain opportunities to represent
 their school and participate in inter-school tournaments such as the annual
 National School Games (NSG). They will also be able to develop their leadership
 skills in various platforms including planning for termly bonding sessions.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/floorball/" class="Hyperlink SCXW88066861 BCX0" rel="noreferrer noopener" target="_blank"><u>CCA webpage.</u></a>&nbsp;</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Table Tennis&nbsp;</strong></h4>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Table Tennis&nbsp;</strong>
-</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Table_Tennis_DSA_Small.jpg">
 </div>
@@ -613,16 +427,19 @@ experienced teachers and instructors. They will be developed holistically
 in the areas of leadership, sportsmanship and teamwork, gaining experience
 in the planning and facilitation of CCA events such as the School Open
 House. Students will also represent the school in the annual National School
-Games (NSG) Table Tennis Championship.&nbsp;</p>
-<p></p>
+Games (NSG) Table Tennis Championship.&nbsp;
+<br>
+</p>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Track and Field&nbsp;</strong></h4>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Track and Field&nbsp;</strong>
-</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Track___Field.png">
 </div>
@@ -636,15 +453,19 @@ through achievement and teaches valuable life skills such as discipline,
 teamwork, and sportsmanship. Selected students will also represent the
 school in the annual National School Games (NSG) Track &amp; Field Championship
 Individual and Team events. It is a journey of self-discovery and pushing
-boundaries, while staying active.&nbsp;</p>
-<p>&nbsp;For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/track-n-field/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+boundaries, while staying active.&nbsp;
+<br>
+</p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/track-n-field/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Volleyball (Girls)&nbsp;</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Volleyball (Girls)&nbsp;</strong>
-</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Volleyball_DSA__Team_photo_ActiveSG.jpg">
 </div>
@@ -656,7 +477,7 @@ higher level, but also in the areas of character building, leadership and
 teamwork. They will be able to enhance their repertoire of skills during
 training and have the opportunity to participate in friendly matches and
 National School Games (NSG) competitions.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/" rel="noopener nofollow" target="_blank">CCA webpage.</a>
 </p>
 </td>
@@ -664,19 +485,6 @@ National School Games (NSG) competitions.&nbsp;</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at </strong>
 <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a><strong>.</strong>
 </p>
