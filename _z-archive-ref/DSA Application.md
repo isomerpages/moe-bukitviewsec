@@ -140,11 +140,11 @@ assessing the potential of the applicants.&nbsp;</p>
 </ul>
 </blockquote>
 <h4><strong>Leadership and Uniformed Groups</strong></h4>
-<p><em>(Click to view selection criteria)</em>
-</p>
+<p>(Click to view criteria)</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Leadership</summary>
+<summary><strong>Leadership <em><sub>(Click to expand)</sub></em></strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Leadership</strong>&nbsp;</p><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/37th scb psl exco.jpeg"></a>
@@ -179,11 +179,10 @@ and skills through an interview.&nbsp;</p>
 </details>
 </div>
 <h4><strong>Performing Arts</strong></h4>
-<p><em>(Click to view selection criteria)</em>
-</p>
+<p>(Click to view criteria)</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Choir</strong>
+<summary><strong>Choir <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -237,7 +236,7 @@ qualities and potential in the Choir through the following criteria:&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Concert Band</strong>
+<summary><strong>Concert Band <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -291,7 +290,7 @@ qualities and potential in the Concert Band through the following criteria:&nbsp
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>English Drama</strong>
+<summary><strong>English Drama <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -340,7 +339,7 @@ qualities and potential in English Drama through the following criteria:&nbsp;</
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Modern Dance</strong>
+<summary><strong>Modern Dance <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -396,11 +395,10 @@ qualities and potential in Modern Dance through the following criteria:&nbsp;</p
 </details>
 </div>
 <h4><strong>Science, Technology, Engineering and Mathematics</strong></h4>
-<p><em>(Click to view selection criteria)</em>
-</p>
+<p>(Click to view criteria)</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Aerospace and Aviation</strong>
+<summary><strong>Aerospace and Aviation  <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -458,7 +456,7 @@ impairments will not be suitable&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Coding</strong>
+<summary><strong>Coding  <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -514,7 +512,7 @@ and potential in coding through the following criteria:&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Environmental Science</strong>
+<summary><strong>Environmental Science <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -563,11 +561,10 @@ and potential in Environmental Science through the following criteria:&nbsp;</p>
 </details>
 </div>
 <h4><strong>Sports and Games</strong></h4>
-<p><em>(Click to view selection criteria)</em>
-</p>
+<p>(Click to view criteria)</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Badminton (Boys)</strong>
+<summary><strong>Badminton (Boys) <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Badminton (Boys)</strong>&nbsp;</p>
@@ -614,7 +611,7 @@ criteria:&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Floorball</strong>
+<summary><strong>Floorball <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -665,7 +662,7 @@ criteria:&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Table Tennis</strong>
+<summary><strong>Table Tennis <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -716,7 +713,7 @@ criteria:&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Track &amp; Field</strong>
+<summary><strong>Track &amp; Field <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -767,7 +764,7 @@ criteria:&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Volleyball (Girls)</strong>
+<summary><strong>Volleyball (Girls) <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
