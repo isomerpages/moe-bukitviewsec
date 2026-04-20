@@ -214,7 +214,7 @@ and workshops with various institutions.&nbsp;&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong> Aerospace and Aviation</strong>
+<p><strong>Aerospace and Aviation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,7 +230,7 @@ and workshops with various institutions.&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/DSA/2026/Coding_Young_Technoprenuerlo.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/DSA/2026/Coding_Young_Technoprenuerlo.jpg">
 </div>
 </td>
 </tr>
