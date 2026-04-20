@@ -22,6 +22,35 @@ related to the talent they are selected for.&nbsp;</p>
 <h3><strong><u>BVSS DSA-Sec Talent Areas</u></strong></h3>
 <p></p>
 <h4><strong>L</strong>eadership and <strong>U</strong>niformed <strong>G</strong>roups</h4>
+<h4><strong>Leadership</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Leadership&nbsp;</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>Leadership&nbsp;</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/DSA/37th%20scb%20psl%20exco.jpeg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
