@@ -277,7 +277,7 @@ and workshops with various institutions.&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/2026/Yoth_Flying_Club_DSA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Yoth_Flying_Club_DSA.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -315,9 +315,8 @@ and aerospace competitions such as Singapore Amazing Flying Machine Competition
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/2026/Coding_Young_Technoprenuerlo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Coding_Young_Technoprenuerlo.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn computational thinking skills using different programming
@@ -338,8 +337,9 @@ Youth Tech Championship and International Junior Informatics Olympiad.&nbsp;&nbs
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/2026/ENV_DSA_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/ENV_DSA_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
