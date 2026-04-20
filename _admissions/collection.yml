@@ -2,8 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - DSA Application.md
-      - Direct School Admission.md
       - Administrative Matters/.keep
       - Administrative Matters/Sale of Books and Uniforms.md
       - Administrative Matters/BVSS Booklist.md
@@ -12,6 +10,8 @@ collections:
       - Administrative Matters/Parents Gateway (PG).md
       - Administrative Matters/Insurance For Students.md
       - Administrative Matters/Leave of Absence (LOA) Scheme.md
+      - Direct School Admission.md
+      - DSA Application.md
       - Returning Singaporeans.md
       - International Students.md
       - More About BVSS.md
