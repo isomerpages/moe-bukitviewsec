@@ -395,96 +395,288 @@ also exposed to environmental projects organised by external agencies.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/aviation%20dsa.jpg">
-</div>
-<p>
-<br><strong><u>Programmes, activities and opportunities</u></strong>
-<br>Students will have opportunities to join the Singapore Youth Flying Club
-and experience a range of aviation related activities, such as:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Attending lectures to improve aviation knowledge</p>
-</li>
-<li>
-<p>Experiencing joyrides on various RSAF aircraft under the Flight Experience
-Program (FEP)</p>
-</li>
-<li>
-<p>Building and flying of model aircraft</p>
-</li>
-</ul>
-<p>They will also have opportunities to represent the school in aviation
-and aerospace competitions such as Singapore Amazing Flying Machine Competition
-(SAFMC), Drone Odyssey Challenge, and other competitions.</p>
-<p></p>
-<p></p>
-<h4>Sports and Games</h4>
+<h4><strong>S</strong>ports and <strong>G</strong>ames</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Badminton (Boys)</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/badminton.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/DSA/2026/ENV_DSA_2.png">
 </div>
-<p>
-<br><strong><u>Programmes, activities and opportunities</u></strong>
-<br>Students will have the platform to develop their passion, interest and
-skills in Badminton. They will be developed holistically in the areas of
-leadership, sportsmanship and teamwork as they undergo weekly CCA training
-sessions under the guidance of experienced coaches and teachers. Students
-will also represent the school in the annual National School Games (NSG)
-Competitions.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students will learn to be environmentally conscious, to be aware of issues
+like sustainability and conservation. Their learning will be supported
+by the school’s outdoor learning facilities such as the Eco Garden and
+Smart Centre. The students will learn to conduct a biodiversity audit in
+the school and develop their capacities as Environmental Ambassadors, able
+to conduct Eco Trails for other schools’ students and visitors. They are
+also exposed to environmental projects organised by external agencies.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/badminton/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton (Boys)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Table Tennis</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/Table_Tennis_DSA.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/DSA/2026/ENV_DSA_2.png">
 </div>
-<p>
-<br><strong><u>Programmes, activities and opportunities</u></strong>
-<br>Students will have the opportunity to hone their table tennis skills under
-experienced teachers and instructors. They will be developed holistically
-in the areas of leadership, sportsmanship and teamwork, gaining experience
-in the planning and facilitation of CCA events such as the Sports Camp
-and the School Open House. Students will also represent the school in the
-annual National School Games (NSG) Table Tennis Championship (Team). Selected
-students would participate in the individual category of the NSG Table
-Tennis Championship.</p>
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students will learn to be environmentally conscious, to be aware of issues
+like sustainability and conservation. Their learning will be supported
+by the school’s outdoor learning facilities such as the Eco Garden and
+Smart Centre. The students will learn to conduct a biodiversity audit in
+the school and develop their capacities as Environmental Ambassadors, able
+to conduct Eco Trails for other schools’ students and visitors. They are
+also exposed to environmental projects organised by external agencies.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/badminton/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Track and Field</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/tracknfield.jpg">
-</div>
-<p>
-<br><strong><u>Programmes, activities and opportunities</u></strong>
-<br>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Volleyball (Girls)</strong>
 </p>
-<p>Student will have the opportunity to build a strong foundation in fitness
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/DSA/2026/ENV_DSA_2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students will learn to be environmentally conscious, to be aware of issues
+like sustainability and conservation. Their learning will be supported
+by the school’s outdoor learning facilities such as the Eco Garden and
+Smart Centre. The students will learn to conduct a biodiversity audit in
+the school and develop their capacities as Environmental Ambassadors, able
+to conduct Eco Trails for other schools’ students and visitors. They are
+also exposed to environmental projects organised by external agencies.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton (Boys)&nbsp;</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Badminton_DSA_CCA_Photo_2026.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will have the opportunity to develop their skills, pursue their
+sporting ambitions and grow as well-rounded individuals. Through structured
+weekly training sessions led by experienced coaches and dedicated teachers,
+students will refine their technical abilities, tactical awareness, and
+physical fitness. Beyond the court, they will cultivate important values
+such as leadership, resilience, sportsmanship and teamwork. Students will
+also have the opportunity to represent the school in the annual National
+School Games (NSG), gaining valuable competitive experience and exposure
+at the national level.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>For more information, please refer to the <u>CCA webpage</u>.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Floorball&nbsp;</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Floorball_DSA_Webpageamall.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will develop holistically in the areas of teamwork, discipline,
+and resilience through training sessions, friendlies and competitions during
+weekly CCA training sessions. They will gain opportunities to represent
+their school and participate in inter-school tournaments such as the annual
+National School Games (NSG). They will also be able to develop their leadership
+skills in various platforms including planning for termly bonding sessions.&nbsp;</p>
+<p>&nbsp;</p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/floorball/" class="Hyperlink SCXW88066861 BCX0" rel="noreferrer noopener" target="_blank"><u>CCA webpage.</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Table Tennis&nbsp;</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Table_Tennis_DSA_Small.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will have the opportunity to hone their table tennis skills under
+experienced teachers and instructors. They will be developed holistically
+in the areas of leadership, sportsmanship and teamwork, gaining experience
+in the planning and facilitation of CCA events such as the School Open
+House. Students will also represent the school in the annual National School
+Games (NSG) Table Tennis Championship.&nbsp;</p>
+<p></p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/table-tennis/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Track and Field&nbsp;</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Track___Field.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will have the opportunity to build a strong foundation in fitness
 with running and jumping, leading to better overall health and coordination.
 Beyond the physical, the programme helps students to foster self-confidence
 through achievement and teaches valuable life skills such as discipline,
 teamwork, and sportsmanship. Selected students will also represent the
 school in the annual National School Games (NSG) Track &amp; Field Championship
-for Individual and Team events. It is a journey of self-discovery and pushing
-boundaries, while staying active.</p>
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/track-n-field/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
-<p><strong>Volleyball (Girls)</strong>
+Individual and Team events. It is a journey of self-discovery and pushing
+boundaries, while staying active.&nbsp;</p>
+<p>&nbsp;For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/track-n-field/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Volleyball (Girls)&nbsp;</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/volleyball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Volleyball_DSA__Team_photo_ActiveSG.jpg">
 </div>
-<p>
-<br><strong><u>Programmes, activities and opportunities</u></strong>
-<br>Students will have a holistic experience through the training program,
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will have a holistic experience through the training program,
 focusing not just on knowledge and skills acquisition of the sport at a
 higher level, but also in the areas of character building, leadership and
 teamwork. They will be able to enhance their repertoire of skills during
-trainings, and have the opportunity to participate in friendly matches
-and National School Games (NSG) competitions.</p>
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+training and have the opportunity to participate in friendly matches and
+National School Games (NSG) competitions.&nbsp;</p>
+<p>&nbsp;</p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/volleyball/" rel="noopener nofollow" target="_blank">CCA webpage.</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at </strong>
 <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a><strong>.</strong>
 </p>
