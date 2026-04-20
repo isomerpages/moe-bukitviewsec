@@ -17,11 +17,10 @@ for direct entry to the Secondary 1 Cohort of 2027.&nbsp;</p>
 <p>Students who are successfully admitted to BVSS via DSA are expected to
 honour their commitment to the school by participating in the activities
 related to the talent they are selected for.&nbsp;</p>
-<h4><strong>BVSS DSA-Sec Talent Areas</strong></h4>
-<h4><strong>L</strong>eadership<strong> </strong>and<strong> U</strong>niformed<strong> G</strong>roups<br><em><sub>(Click on each talent area to view details)</sub></em></h4>
+<h4><strong>BVSS DSA-Sec Talent Areas</strong><br><br><strong>L</strong>eadership<strong> </strong>and<strong> U</strong>niformed<strong> G</strong>roups<br><em><sub>(Click on each talent area to view details)</sub></em></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Leadership  </strong>▼</summary>
+<summary><strong>Leadership </strong>▼</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Leadership Programme </strong>
@@ -54,7 +53,7 @@ skills.
 <h4><strong>P</strong>erforming <strong>A</strong>rts<br><em><sub>(Click on each talent area to view details)</sub></em></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Choir  </strong>▼</summary>
+<summary><strong>Choir </strong>▼</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Choir Programme</strong>
@@ -78,7 +77,7 @@ exchanges, when the opportunity arises.
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Concert Band  </strong>▼</summary>
+<summary><strong>Concert Band </strong>▼</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Concert Band&nbsp; Programme</strong>
@@ -94,7 +93,7 @@ celebrations.
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>English Drama  </strong>▼</summary>
+<summary><strong>English Drama </strong>▼</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>English Drama&nbsp;Programme</strong>
@@ -115,7 +114,7 @@ workshops or performances with other schools that offer Drama LLP.
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Modern Dance  </strong>▼</summary>
+<summary><strong>Modern Dance </strong>▼</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Modern Dance Programme</strong>
@@ -136,7 +135,7 @@ and workshops with various institutions.
 <h4><strong>S</strong>cience, <strong>T</strong>echnology, <strong>E</strong>ngineering and <strong>M</strong>athematics<br><em><sub>(Click on each talent area to view details)</sub></em></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Aerospace and Aviation  </strong>▼</summary>
+<summary><strong>Aerospace and Aviation </strong>▼</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Aerospace and Aviation Programme</strong>
@@ -162,7 +161,7 @@ and aerospace competitions such as Singapore Amazing Flying Machine Competition
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Coding    </strong>▼</summary>
+<summary><strong>Coding </strong>▼</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Coding Programme</strong>
@@ -198,8 +197,7 @@ agencies.</p>
 </div>
 </details>
 </div>
-<h4><strong>S</strong>ports and <strong>G</strong>ames<br><em>(Click on each talent area to view details)</em></h4>
-<p></p>
+<h4><strong>S</strong>ports and <strong>G</strong>ames<br><em><sub>(Click on each talent area to view details)</sub></em></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Badminton (Boys)&nbsp;</strong>▼</summary>
