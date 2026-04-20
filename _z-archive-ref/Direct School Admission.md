@@ -91,12 +91,20 @@ Leadership Conference.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Programmes, activities and opportunities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Students will be equipped with leadership skills, competencies and knowledge.
 They will be developed to serve as student leaders (Student Leader Council
 / CCA Leader) and be given opportunities and platforms to apply their leadership
 skills. Students may also be selected as ambassadors to represent the school
 during the School Open House, Sec 1 Orientation and Student Environmental
 Leadership Conference.</p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 <tr>
