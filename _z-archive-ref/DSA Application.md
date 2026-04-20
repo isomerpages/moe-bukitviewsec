@@ -4,26 +4,30 @@ permalink: /dsa-application/
 variant: tiptap
 description: ""
 ---
-<p><strong>Application Procedure</strong>&nbsp;</p>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 6 May 2026, 11am
-to 2 June 2026, 4.30pm. For more details, please refer to MOE website – 
-<a href="http://www.moe.gov.sg/dsa-sec" class="Hyperlink SCXW59518751 BCX0" rel="noreferrer noopener" target="_blank"><u>www.moe.gov.sg/dsa-sec</u>
-</a>.&nbsp;</p>
-<ul>
-<li>
-<p>You will receive notification from the school by 17 Jul 2026, if your
-child has been shortlisted to undergo Direct School Admission (DSA) selection.&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>All applicants will receive their application outcomes between 17 and
-28 Aug 2026.&nbsp;</p>
-</li>
-</ul>
-<p><strong>BVSS DSA Talent Areas</strong>
+<h3><strong>Application Procedure</strong>&nbsp;</h3>
+<p>Application for DSA-Sec can be submitted via the online DSA-Sec Portal.
+The application is free of charge and will be open from <strong>6 May 2026, 11:00 AM to 2 June 2026, 4:30 PM</strong>.
+<br>For more details, please visit the MOE website: <strong><a class="decorated-link cursor-pointer" rel="noopener" target="_new">www.moe.gov.sg/dsa-sec</a></strong>.</p>
+<p>📌 <strong>Shortlisting &amp; Outcomes</strong>
 </p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">🟦 Shortlisting Notification</div>
+<div class="isomer-card-description">You will receive notification from the school by 17 Jul 2026, if your
+child has been shortlisted to undergo Direct School Admission (DSA) selection.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">🟦 Application Outcome</div>
+<div class="isomer-card-description">All applicants will receive their application outcomes between 17 and
+28 Aug 2026.&nbsp;</div>
+</div>
+</div>
+</div>
+<p></p>
+<h3><strong>BVSS DSA Talent Areas</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -117,8 +121,10 @@ child has been shortlisted to undergo Direct School Admission (DSA) selection.&n
 </tr>
 </tbody>
 </table>
-<p><strong>BVSS DSA Selection Criteria</strong>&nbsp;</p>
-<p>The selection criteria for BVSS DSA Talent Areas are found below:&nbsp;&nbsp;</p>
+<h3><strong>BVSS DSA Selection Criteria</strong></h3>
+<p>The selection criteria for each BVSS DSA Talent Area are outlined below.
+Please expand the sections to view the specific criteria.&nbsp;</p>
+<blockquote>
 <ul>
 <li>
 <p>Meeting all the criteria does not guarantee the students will be shortlisted/given
@@ -132,46 +138,39 @@ will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.&nbsp;</p>
 </li>
 </ul>
+</blockquote>
 <h4><strong>Leadership and Uniformed Groups</strong></h4>
+<p> <em>(Click to view selection criteria)</em>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Leadership</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<table style="minWidth: 75px">
+<p><strong>Leadership</strong>&nbsp;</p><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/37th scb psl exco.jpeg"></a>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>Leadership</strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Prerequisites</strong>
-</p>
+<p><strong>Prerequisites</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
-</p>
-</td>
-<td rowspan="2" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/37th scb psl exco.jpeg"></a>
+<p><strong>Selection Criteria</strong>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Held key appointment in student leadership bodies and/or demonstrated
-leadership in school-related activities.</p>
+leadership in school-related activities.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted candidates will be assessed based on their leadership qualities
-and skills through an interview.</p>
+and skills through an interview.&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -179,232 +178,226 @@ and skills through an interview.</p>
 </div>
 </details>
 </div>
-<h4><strong>&nbsp;Performing Arts</strong></h4>
+<h4><strong>Performing Arts</strong></h4>
+<p><em> (Click to view selection criteria)</em>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Choir</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<table style="minWidth: 75px">
+<p><strong>Choir</strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/BUKIT_VIEW_SECONDARY_SCHOOL_22987.jpg">
+</div>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>Choir</strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Prerequisites</strong>
-</p>
+<p><strong>Prerequisites</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
-</p>
-</td>
-<td rowspan="2" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/choir dsa edited.jpg"></a>
+<p><strong>Selection Criteria</strong>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Demonstrated artistic potential, interest, and motivation in the Performing
-Arts and participated actively in relevant Performing Arts CCAs.</p>
+Arts and participated actively in relevant Performing Arts CCAs.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted candidates will be assessed based on their artistic abilities,
-qualities and potential in the Choir through the following criteria:</p>
-<ol data-tight="true" class="tight">
+qualities and potential in the Choir through the following criteria:&nbsp;</p>
+<ol>
 <li>
-<p>Prepared items for showcase</p>
+<p>Prepared items for showcase&nbsp;</p>
 </li>
+</ol>
+<ol start="2">
 <li>
-<p>Performance tasks</p>
+<p>Performance tasks&nbsp;</p>
 </li>
+</ol>
+<ol start="3">
 <li>
-<p>Interview component</p>
+<p>Interview component&nbsp;</p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Concert Band</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 75px">
+<p></p>
+<p><strong>Concert Band</strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Concert_Band_DSA_Pic_1.jpg">
+</div>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>Concert Band</strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Prerequisites</strong>
-</p>
+<p><strong>Prerequisites</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
-</p>
-</td>
-<td rowspan="2" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/BVSS_23_017.jpg"></a>
+<p><strong>Selection Criteria</strong>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Demonstrated artistic potential, interest, and motivation in the Performing
-Arts and participated actively in relevant Performing Arts CCAs.</p>
+Arts and participated actively in relevant Performing Arts CCAs.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted candidates will be assessed based on their artistic abilities,
-qualities and potential in the Concert Band through the following criteria:</p>
-<ol data-tight="true" class="tight">
+qualities and potential in the Concert Band through the following criteria:&nbsp;</p>
+<ol>
 <li>
-<p>Prepared items for showcase</p>
+<p>Prepared items for showcase&nbsp;</p>
 </li>
+</ol>
+<ol start="2">
 <li>
-<p>Performance tasks</p>
+<p>Performance tasks&nbsp;</p>
 </li>
+</ol>
+<ol start="3">
 <li>
-<p>Interview component</p>
+<p>Interview component&nbsp;</p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>English Drama</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 75px">
+<p></p>
+<p><strong>English Drama</strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Drama_Club_23.jpg">
+</div>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>English Drama</strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Prerequisites</strong>
-</p>
+<p><strong>Prerequisites</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
-</p>
-</td>
-<td rowspan="2" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/drama_edited.jpg"></a>
+<p><strong>Selection Criteria</strong>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Demonstrated artistic potential, interest, and motivation in the Performing
-Arts and participated actively in relevant Performing Arts CCAs.</p>
+Arts and participated actively in relevant Performing Arts CCAs.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted candidates will be assessed based on their artistic abilities,
-qualities and potential in English Drama through the following criteria:</p>
-<ol data-tight="true" class="tight">
+qualities and potential in English Drama through the following criteria:&nbsp;</p>
+<ol>
 <li>
-<p>Prepared items for showcase</p>
+<p>Performance tasks / Script reading&nbsp;</p>
 </li>
+</ol>
+<ol start="2">
 <li>
-<p>Performance tasks</p>
-</li>
-<li>
-<p>Interview component</p>
+<p>Interview component&nbsp;</p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Modern Dance</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 75px">
+<p></p>
+<p><strong>Modern Dance</strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Modern_Dance_DSA_5__Can_delete_if_too_blur_23.jpg">
+</div>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>Modern Dance</strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Prerequisites</strong>
-</p>
+<p><strong>Prerequisites</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
-</p>
-</td>
-<td rowspan="2" colspan="1"><a class="isomer-image-wrapper" href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/modern dance dsa.jpeg"></a>
+<p><strong>Selection Criteria</strong>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <p>Demonstrated artistic potential, interest, and motivation in the Performing
-Arts and participated actively in relevant Performing Arts CCAs.</p>
+Arts and participated actively in relevant Performing Arts CCAs.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted candidates will be assessed based on their artistic abilities,
-qualities and potential in Modern Dance through the following criteria:</p>
-<ol data-tight="true" class="tight">
+qualities and potential in Modern Dance through the following criteria:&nbsp;</p>
+<ol>
 <li>
-<p>Prepared items for showcase</p>
+<p>Prepared items for showcase&nbsp;</p>
 </li>
+</ol>
+<ol start="2">
 <li>
-<p>Performance tasks</p>
+<p>Performance tasks&nbsp;</p>
 </li>
+</ol>
+<ol start="3">
 <li>
-<p>Interview component</p>
+<p>Interview component&nbsp;&nbsp;</p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 </div>
 </details>
 </div>
 <h4><strong>Science, Technology, Engineering and Mathematics</strong></h4>
+<p><em> (Click to view selection criteria)</em>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Aerospace and Aviation</strong>
@@ -570,6 +563,8 @@ and potential in Environmental Science through the following criteria:&nbsp;</p>
 </details>
 </div>
 <h4><strong>Sports and Games</strong></h4>
+<p><em> (Click to view selection criteria)</em>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Badminton (Boys)</strong>
@@ -824,255 +819,7 @@ criteria:&nbsp;</p>
 </details>
 </div>
 <p>&nbsp;</p>
-<p></p>
 <p>&nbsp;</p>
-<p>&nbsp;<strong>BVSS DSA Selection Criteria</strong>&nbsp;</p>
-<p>The selection criteria for BVSS DSA Talent Areas are found below:&nbsp;&nbsp;</p>
-<ul>
-<li>
-<p>Meeting all the criteria does not guarantee the students will be shortlisted/given
-an offer.&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Applicants who do not have prior experience may also apply. The school
-will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants.&nbsp;</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Leadership</strong>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Prerequisites</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>See photo (photo will be deposited in "I:\ST 3 Holistic Development of
-Bukit Viewans\9. DSA Matters\DSA Selection 2026\Website Updates")&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Held key appointment in student leadership bodies and/or demonstrated
-leadership in school-related activities.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shortlisted candidates will be assessed based on their leadership qualities
-and skills through an interview.&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Choir</strong>&nbsp;</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Prerequisites</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>See photo (photo will be deposited in "I:\ST 3 Holistic Development of
-Bukit Viewans\9. DSA Matters\DSA Selection 2026\Website Updates")&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Demonstrated artistic potential, interest, and motivation in the Performing
-Arts and participated actively in relevant Performing Arts CCAs.&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shortlisted candidates will be assessed based on their artistic abilities,
-qualities and potential in the Choir through the following criteria:&nbsp;</p>
-<ol>
-<li>
-<p>Prepared items for showcase&nbsp;</p>
-</li>
-</ol>
-<ol start="2">
-<li>
-<p>Performance tasks&nbsp;</p>
-</li>
-</ol>
-<ol start="3">
-<li>
-<p>Interview component&nbsp;</p>
-</li>
-</ol>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p><strong>Concert Band</strong>&nbsp;</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Prerequisites</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>See photo (photo will be deposited in "I:\ST 3 Holistic Development of
-Bukit Viewans\9. DSA Matters\DSA Selection 2026\Website Updates")&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Demonstrated artistic potential, interest, and motivation in the Performing
-Arts and participated actively in relevant Performing Arts CCAs.&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shortlisted candidates will be assessed based on their artistic abilities,
-qualities and potential in the Concert Band through the following criteria:&nbsp;</p>
-<ol>
-<li>
-<p>Prepared items for showcase&nbsp;</p>
-</li>
-</ol>
-<ol start="2">
-<li>
-<p>Performance tasks&nbsp;</p>
-</li>
-</ol>
-<ol start="3">
-<li>
-<p>Interview component&nbsp;</p>
-</li>
-</ol>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p><strong>Modern Dance</strong>&nbsp;</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Prerequisites</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>See photo (photo will be deposited in "I:\ST 3 Holistic Development of
-Bukit Viewans\9. DSA Matters\DSA Selection 2026\Website Updates")&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Demonstrated artistic potential, interest, and motivation in the Performing
-Arts and participated actively in relevant Performing Arts CCAs.&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shortlisted candidates will be assessed based on their artistic abilities,
-qualities and potential in Modern Dance through the following criteria:&nbsp;</p>
-<ol>
-<li>
-<p>Prepared items for showcase&nbsp;</p>
-</li>
-</ol>
-<ol start="2">
-<li>
-<p>Performance tasks&nbsp;</p>
-</li>
-</ol>
-<ol start="3">
-<li>
-<p>Interview component&nbsp;&nbsp;</p>
-</li>
-</ol>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p><strong>English Drama</strong>&nbsp;</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Prerequisites</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>See photo (photo will be deposited in "I:\ST 3 Holistic Development of
-Bukit Viewans\9. DSA Matters\DSA Selection 2026\Website Updates")&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Demonstrated artistic potential, interest, and motivation in the Performing
-Arts and participated actively in relevant Performing Arts CCAs.&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shortlisted candidates will be assessed based on their artistic abilities,
-qualities and potential in English Drama through the following criteria:&nbsp;</p>
-<ol>
-<li>
-<p>Performance tasks / Script reading&nbsp;</p>
-</li>
-</ol>
-<ol start="2">
-<li>
-<p>Interview component&nbsp;</p>
-</li>
-</ol>
-</td>
-</tr>
-</tbody>
-</table>
 <p>&nbsp;</p>
 <p></p>
 <p>&nbsp;</p>
