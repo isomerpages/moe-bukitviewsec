@@ -140,7 +140,7 @@ assessing the potential of the applicants.&nbsp;</p>
 </ul>
 </blockquote>
 <h4><strong>Leadership and Uniformed Groups</strong></h4>
-<p> <em>(Click to view selection criteria)</em>
+<p><em>(Click to view selection criteria)</em>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -179,7 +179,7 @@ and skills through an interview.&nbsp;</p>
 </details>
 </div>
 <h4><strong>Performing Arts</strong></h4>
-<p><em> (Click to view selection criteria)</em>
+<p><em>(Click to view selection criteria)</em>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -396,7 +396,7 @@ qualities and potential in Modern Dance through the following criteria:&nbsp;</p
 </details>
 </div>
 <h4><strong>Science, Technology, Engineering and Mathematics</strong></h4>
-<p><em> (Click to view selection criteria)</em>
+<p><em>(Click to view selection criteria)</em>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -563,7 +563,7 @@ and potential in Environmental Science through the following criteria:&nbsp;</p>
 </details>
 </div>
 <h4><strong>Sports and Games</strong></h4>
-<p><em> (Click to view selection criteria)</em>
+<p><em>(Click to view selection criteria)</em>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
