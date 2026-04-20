@@ -4,24 +4,25 @@ permalink: /dsa-application/
 variant: tiptap
 description: ""
 ---
-<p><strong>Application Procedure</strong>
-</p>
-<p></p>
+<p><strong>Application Procedure</strong>&nbsp;</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025, 11
-am to 3 June 2025, 3 pm. For more details, please refer to MOE website
-– <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
-<ul data-tight="true" class="tight">
+The application is free-of-charge and will be open from 6 May 2026, 11am
+to 2 June 2026, 4.30pm. For more details, please refer to MOE website – 
+<a href="http://www.moe.gov.sg/dsa-sec" class="Hyperlink SCXW59518751 BCX0" rel="noreferrer noopener" target="_blank"><u>www.moe.gov.sg/dsa-sec</u>
+</a>.&nbsp;</p>
+<ul>
 <li>
-<p>You will receive notification from the school by 18 Jul 2025, if your
-child has been shortlisted to undergo Direct School Admission (DSA) selection.</p>
-</li>
-<li>
-<p>All applicants will receive their application outcomes between 25 Aug
-and 4 Sep 2025.</p>
+<p>You will receive notification from the school by 17 Jul 2026, if your
+child has been shortlisted to undergo Direct School Admission (DSA) selection.&nbsp;</p>
 </li>
 </ul>
-<p><strong>BVSS DSA-Sec Talent Areas</strong>
+<ul>
+<li>
+<p>All applicants will receive their application outcomes between 17 and
+28 Aug 2026.&nbsp;</p>
+</li>
+</ul>
+<p><strong>BVSS DSA Talent Areas</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -64,10 +65,10 @@ and 4 Sep 2025.</p>
 <p>Concert Band</p>
 </li>
 <li>
-<p>Modern Dance</p>
+<p>English Drama</p>
 </li>
 <li>
-<p>English Drama</p>
+<p>Modern Dance</p>
 </li>
 </ul>
 </td>
@@ -79,13 +80,13 @@ and 4 Sep 2025.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
+<p>Aerospace and Aviation</p>
+</li>
+<li>
 <p>Coding</p>
 </li>
 <li>
 <p>Environmental Science</p>
-</li>
-<li>
-<p>STEM - Aerospace and Aviation</p>
 </li>
 </ul>
 </td>
@@ -100,7 +101,7 @@ and 4 Sep 2025.</p>
 <p>Badminton (Boys)</p>
 </li>
 <li>
-<p>Volleyball (Girls)</p>
+<p>Floorball</p>
 </li>
 <li>
 <p>Table Tennis</p>
@@ -108,27 +109,35 @@ and 4 Sep 2025.</p>
 <li>
 <p>Track and Field</p>
 </li>
+<li>
+<p>Volleyball (Girls)</p>
+</li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>BVSS DSA Selection Criteria</strong>
-</p>
-<p>The selection criteria for BVSS DSA Talent Areas are found below.</p>
-<ul data-tight="true" class="tight">
+<p><strong>BVSS DSA Selection Criteria</strong>&nbsp;</p>
+<p>The selection criteria for BVSS DSA Talent Areas are found below:&nbsp;&nbsp;</p>
+<ul>
 <li>
 <p>Meeting all the criteria does not guarantee the students will be shortlisted/given
-an offer.</p>
+an offer.&nbsp;</p>
 </li>
+</ul>
+<ul>
 <li>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants.</p>
+assessing the potential of the applicants.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<h4><strong>Leadership and Uniformed Groups</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Leadership</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -167,6 +176,24 @@ and skills through an interview.</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
+<h4><strong>&nbsp;Performing Arts</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Choir</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
