@@ -20,14 +20,7 @@ for direct entry to the Secondary 1 Cohort of 2027.&nbsp;</p>
 honour their commitment to the school by participating in the activities
 related to the talent they are selected for.&nbsp;</p>
 <h3><strong><u>BVSS DSA-Sec Talent Areas</u></strong></h3>
-<p></p>
-<h4><strong>L</strong>eadership and <strong>U</strong>niformed <strong>G</strong>roups</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Leadership&nbsp;</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<h3><strong>L</strong>eadership and <strong>U</strong>niformed <strong>G</strong>roups</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -42,99 +35,6 @@ related to the talent they are selected for.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/DSA/37th%20scb%20psl%20exco.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students will be equipped with leadership skills, competencies and knowledge.
-They will be developed to serve as student leaders (Student Leader Council
-/ CCA Leader) and be given opportunities and platforms to apply their leadership
-skills. Students may also be selected as ambassadors to represent the school
-during the School Open House, Sec 1 Orientation and Student Environmental
-Leadership Conference.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For more information, please refer to the&nbsp;<a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/" rel="noopener nofollow" target="_blank">Student Leadership webpage.</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4><strong>Leadership&nbsp;</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/DSA/37th%20scb%20psl%20exco.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong><u>Programmes, activities and opportunities</u></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Students will be equipped with leadership skills, competencies and knowledge.
-They will be developed to serve as student leaders (Student Leader Council
-/ CCA Leader) and be given opportunities and platforms to apply their leadership
-skills. Students may also be selected as ambassadors to represent the school
-during the School Open House, Sec 1 Orientation and Student Environmental
-Leadership Conference.</p>
-</div>
-</details>
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For more information, please refer to the&nbsp;<a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/" rel="noopener nofollow" target="_blank">Student Leadership webpage.</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4><strong>Choir</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/BUKIT_VIEW_SECONDARY_SCHOOL_22987.jpg">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -156,77 +56,70 @@ Leadership Conference.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>P</strong>erforming <strong>A</strong>rts</h4>
-<table style="minWidth: 50px">
+<hr>
+<h3><strong>P</strong>erforming <strong>A</strong>rts</h3>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <h4><strong>Choir</strong></h4>
 </th>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/2026/BUKIT_VIEW_SECONDARY_SCHOOL_22987.jpg">
 </div>
-</th>
-<td rowspan="1" colspan="1">
-<p>Students will learn how to use their voice for singing, projection and
-presentation effectively. There will be an emphasis on articulation, pronunciation
-and clarity of sound. Listening and ensemble-ship skills will be honed.
-As the Choir is a group activity, it is important for members to listen,
-respond and adapt their singing to achieve an overall blended sound.</p>
-<p></p>
-<p>Students will be given opportunities to express themselves through singing
-songs from different time periods and genres ranging from Renaissance music
-to Contemporary Pop. Students will perform in school for various school-based
-events, attend performances put up by notable local or international choirs,
-sing at public venues such as The Arts House or other performance venues,
-and take part in Singapore Youth Festival (SYF) Arts Presentation for Choir
-bi-annually. There are bi-annual plans for the Choir to travel overseas
-for international exchanges, when the opportunity arises.For more information,
-please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/Choir/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Programmes, activities and opportunities</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students will be equipped with leadership skills, competencies and knowledge.
+They will be developed to serve as student leaders (Student Leader Council
+/ CCA Leader) and be given opportunities and platforms to apply their leadership
+skills. Students may also be selected as ambassadors to represent the school
+during the School Open House, Sec 1 Orientation and Student Environmental
+Leadership Conference.</p>
+</div>
+</details>
+</div>
+<p>For more information, please refer to the&nbsp;<a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/Co-Curricular/sl/" rel="noopener nofollow" target="_blank">Student Leadership webpage.</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <h4><strong>Concert Band</strong></h4>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/2026/Concert_Band_DSA_Pic_1.jpg">
 </div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong><u>Programmes, activities and opportunities</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Students will be given opportunities to perform in public concerts and
 the Singapore Youth Festival (SYF) Arts Presentation. They will also be
 given opportunities to hone their leadership and organization skills through
 weekly practices and engaging activities. In school, students get to showcase
 their musical talent during events like Chinese New Year celebrations,
-National Day Parade and Teacher’s Day celebrations</p>
+National Day Parade and Teacher’s Day celebrations.</p>
+</div>
+</details>
+</div>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/concertb/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h4><strong>English Drama</strong></h4>
 </td>
 </tr>
@@ -241,14 +134,6 @@ National Day Parade and Teacher’s Day celebrations</p>
 <summary><strong><u>Programmes, activities and opportunities</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Students will learn a variety of acting, direction and stage management
 skills. They will have opportunities to apply what they have learnt and
 be part of drama performances for school events and external competitions
@@ -261,33 +146,27 @@ learning journeys to theatres and attending Drama Careers Fair organised
 by institutions of higher learning. Drama Club students will also have
 the opportunity to participate in collaborative workshops or performances
 with other schools that offer Drama LLP.&nbsp;&nbsp;</p>
+</div>
+</details>
+</div>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/drama/" rel="noopener noreferrer nofollow" target="_blank">CCA webpage</a>.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <h4><strong>Modern Dance</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/DSA/2026/Modern_Dance_DSA_5__Can_delete_if_too_blur_23.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA/2026/Modern_Dance_DSA_5__Can_delete_if_too_blur_23.jpg">
 </div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong><u>Programmes, activities and opportunities</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Students will be trained in techniques associated with various dance genres.
 They will have the opportunity to perform at school events such as the
 Chinese New Year concert, school National Day celebrations, Teachers’ Day,
@@ -295,13 +174,17 @@ Open House, Singapore Youth Festival (SYF) Arts Presentation and competitions.
 There will also be opportunities for students to hone their leadership
 skills and further their passion in the arts through immersion programmes
 and workshops with various institutions.&nbsp;&nbsp;</p>
+</div>
+</details>
+</div>
 <p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/dance/" rel="noopener noreferrer nofollow" target="_blank">CCA webpage.</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>S</strong>cience, <strong>T</strong>echnology, <strong>E</strong>ngineering and <strong>M</strong>athematics</h4>
+<hr>
+<h3><strong>S</strong>cience, <strong>T</strong>echnology, <strong>E</strong>ngineering and <strong>M</strong>athematics</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -317,7 +200,6 @@ and workshops with various institutions.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/Yoth_Flying_Club_DSA.jpg">
 </div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong><u>Programmes, activities and opportunities</u></strong>
@@ -411,6 +293,7 @@ also exposed to environmental projects organised by external agencies.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h3><strong>S</strong>ports and <strong>G</strong>ames</h3>
 <table style="minWidth: 25px">
 <colgroup>
