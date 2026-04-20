@@ -19,6 +19,9 @@ honour their commitment to the school by participating in the activities
 related to the talent they are selected for.&nbsp;</p>
 <h3><strong><u>BVSS DSA-Sec Talent Areas</u></strong></h3>
 <h3><strong>L</strong>eadership and <strong>U</strong>niformed <strong>G</strong>roups</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -52,8 +55,10 @@ Leadership Conference.&nbsp;&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<p></p>
 <h3><strong>P</strong>erforming <strong>A</strong>rts</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -147,6 +152,9 @@ and workshops with various institutions.&nbsp;&nbsp;</p>
 </table>
 <hr>
 <h3><strong>S</strong>cience, <strong>T</strong>echnology, <strong>E</strong>ngineering and <strong>M</strong>athematics</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -230,6 +238,9 @@ also exposed to environmental projects organised by external agencies.&nbsp;&nbs
 </table>
 <hr>
 <h3><strong>S</strong>ports and <strong>G</strong>ames</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
