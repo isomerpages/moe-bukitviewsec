@@ -134,7 +134,6 @@ and workshops with various institutions.
 </div>
 </details>
 </div>
-<p></p>
 <h4><strong>S</strong>cience, <strong>T</strong>echnology, <strong>E</strong>ngineering and <strong>M</strong>athematics<br><em><sub>(Click on each talent area to view details)</sub></em></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -206,45 +205,35 @@ agencies.</p>
 <h4><strong>S</strong>ports and <strong>G</strong>ames<br><em><sub>(Click on each talent area to view details)</sub></em></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Badminton (Boys)&nbsp;</strong>
-</summary>
+<summary><strong>Badminton (Boys)&nbsp;</strong>▼</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>Students will have the opportunity to develop their skills, pursue their
-sporting ambitions and grow as well-rounded individuals.</p>
-<p>Through structured weekly training sessions led by experienced coaches
+<p>Students will have the opportunity to develop their skills, pursue their
+sporting ambitions and grow as well-rounded individuals.
+<br>Through structured weekly training sessions led by experienced coaches
 and dedicated teachers, students will refine their technical abilities,
-tactical awareness, and physical fitness.</p>
-<p>Students will also have the opportunity to represent the school in the
-annual National School Games (NSG).</p>
-<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/badminton/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage.</a>
+tactical awareness, and physical fitness.
+<br>Students will also have the opportunity to represent the school in the
+annual National School Games (NSG).
+<br>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/badminton/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage.</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Floorball&nbsp;</strong>
-</summary>
+<summary><strong>Floorball&nbsp;</strong>▼</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Floorball</strong>
-</p>
 <p>Students will develop holistically in the areas of teamwork, discipline,
 and resilience through training sessions, friendlies and competitions during
-weekly CCA training sessions.</p>
-<p>They will gain opportunities to represent their school and participate
-in inter-school tournaments such as the annual National School Games (NSG).</p>
-<p>Students will also be able to develop their leadership skills through
-various platforms including planning for termly bonding sessions.</p>
-<p>&nbsp;For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/floorball/" class="Hyperlink SCXW88066861 BCX0" rel="noreferrer noopener" target="_blank"><u>CCA webpage.</u></a>&nbsp;</p>
+weekly CCA training sessions.
+<br>They will gain opportunities to represent their school and participate
+in inter-school tournaments such as the annual National School Games (NSG).
+<br>Students will also be able to develop their leadership skills through
+various platforms including planning for termly bonding sessions.
+<br>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/sport-and-games/floorball/" class="Hyperlink SCXW88066861 BCX0" rel="noreferrer noopener" target="_blank"><u>CCA webpage.</u></a>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Table Tennis&nbsp;</strong>
-</summary>
+<summary><strong>Table Tennis&nbsp;</strong>▼</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Table Tennis</strong>
-</p>
 <p>Students will have the opportunity to hone their table tennis skills under
 experienced teachers and instructors.</p>
 <p>They will be developed holistically in the areas of leadership, sportsmanship
@@ -255,8 +244,7 @@ Games (NSG) Table Tennis Championship.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Track and Field&nbsp;</strong>
-</summary>
+<summary><strong>Track and Field&nbsp;</strong>▼</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Track and Field&nbsp;</strong>
@@ -271,7 +259,7 @@ School Games (NSG) Track &amp; Field Championship.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Volleyball (Girls)&nbsp; </strong>▼ → (content inside)</summary>
+<summary><strong>Volleyball (Girls)&nbsp; </strong>▼</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Volleyball (Girls)&nbsp;</strong>
@@ -291,6 +279,13 @@ School Games (NSG) competitions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
 </div>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>🟢<strong>Floorball</strong>
+</p>
+</div>
+</details>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
