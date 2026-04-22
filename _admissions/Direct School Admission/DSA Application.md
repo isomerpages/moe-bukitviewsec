@@ -181,7 +181,7 @@ and skills through an interview.&nbsp;</p>
 <h4><strong>Performing Arts</strong><br><em><sub>(Click to view criteria)</sub></em></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>🎶 Choir<strong> <em><sub>(Click to expand)</sub></em></strong>
+<summary>🎶<strong> Choir <em><sub>(Click to expand)</sub></em></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -516,7 +516,7 @@ and potential in coding through the following criteria:&nbsp;</p>
 <p></p>
 <p><strong>Environmental Science</strong>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/ENV_DSA_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Env_Club_DSA.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
