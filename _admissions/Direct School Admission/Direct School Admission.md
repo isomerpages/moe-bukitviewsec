@@ -90,8 +90,7 @@ skills through weekly practices and engaging activities.</p>
 <p>In school, students get to showcase their musical talent during events
 like Chinese New Year celebrations, National Day Parade and Teacher’s Day
 celebrations.</p>
-<p>
-<br>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/concertb/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/concertb/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
