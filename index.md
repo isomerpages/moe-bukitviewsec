@@ -25,7 +25,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: SF
   - infobar:
       title: Direct School Admission (DSA)
       subtitle: For admission to Sec 1 in 2027
