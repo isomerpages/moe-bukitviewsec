@@ -89,8 +89,8 @@ the Singapore Youth Festival (SYF) Arts Presentation.
 skills through weekly practices and engaging activities.</p>
 <p>In school, students get to showcase their musical talent during events
 like Chinese New Year celebrations, National Day Parade and Teacher’s Day
-celebrations.
-<br>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/concertb/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
+celebrations.</p>
+<p>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/ccas/Visual-and-Performing-Arts/concertb/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -157,7 +157,8 @@ Program (FEP)</p>
 </ul>
 <p>They will also have opportunities to represent the school in aviation
 and aerospace competitions such as Singapore Amazing Flying Machine Competition
-(SAFMC), Aerobot Challenge, and other competitions.
+(SAFMC), Aerobot Challenge, and other competitions.</p>
+<p>
 <br>For more information, please refer to the <a href="https://www.bukitviewsec.moe.edu.sg/our-curriculum/co-curricular/ccas/clubs-and-societies/singapore-youth-flying-club/" rel="noopener noreferrer nofollow" target="_blank">CCA Webpage</a>.&nbsp;</p>
 </div>
 </details>

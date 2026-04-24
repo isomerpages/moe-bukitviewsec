@@ -22,17 +22,20 @@ sections:
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
       variant: image
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Release of GCE N- Level results
-          date: 18 December 2025
-          announcement: 2025 Sec 4NA and 4NT students, please report to school by 1.30
-            pm  and assemble in the canteen. After which, you will proceed to
-            the ISH for a briefing and to collect your results.
-          link_text: ""
-          link_url: ""
+  - infobar:
+      title: Direct School Admission (DSA)
+      subtitle: For admission to Sec 1 in 2027
+      id: infobar
+      description: To find out more, click on the link below
+      button: DSA in Bukit View Secondary School
+      url: https://www.bukitviewsec.moe.edu.sg/admissions/dsa/
+  - infobar:
+      title: Release of 2025 GCE N-Level Results (18 Dec 2025)
+      subtitle: 2025 GCE N-Level Results
+      id: infobar
+      description: Sec 4NA and 4NT students (2025), report to school by 1.30 pm and
+        assemble in the canteen. Proceed to the ISH for briefing and results
+        collection.
   - resources:
       id: resources
   - textcards:

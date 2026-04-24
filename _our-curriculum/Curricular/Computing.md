@@ -42,15 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alexander Chia (HOD Ed-tech)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Sirajutheen (YH)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Lee Poh Tin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur-Illya Nafiza</p>
@@ -58,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Leong Wee Choo</p>
+<p>Miss Lee Poh Tin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Richard Lim Teow Huat</p>
@@ -66,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Leong Wee Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr James Koh</p>
