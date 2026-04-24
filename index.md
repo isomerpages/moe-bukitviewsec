@@ -22,9 +22,6 @@ sections:
           description: ""
           url: https://www.bukitviewsec.moe.edu.sg/our-distinctives/pos-education/
       variant: image
-  - announcements:
-      title: Announcements
-      id: announcements
   - infobar:
       title: Direct School Admission (DSA)
       subtitle: For admission to Sec 1 in 2027
@@ -34,7 +31,7 @@ sections:
       url: https://www.bukitviewsec.moe.edu.sg/admissions/dsa/
   - infobar:
       title: Release of 2025 GCE N-Level Results (18 Dec 2025)
-      subtitle: Announcements
+      subtitle: 2025 GCE N-Level Results
       id: infobar
       description: Sec 4NA and 4NT students (2025), report to school by 1.30 pm and
         assemble in the canteen. Proceed to the ISH for briefing and results
