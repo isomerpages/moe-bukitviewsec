@@ -33,6 +33,11 @@ sections:
             the ISH for a briefing and to collect your results.
           link_text: ""
           link_url: ""
+        - title: Direct School Admission
+          date: 24 April 2026
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
   - resources:
       id: resources
   - textcards:
@@ -58,4 +63,11 @@ sections:
       url: https://www.bukitviewsec.moe.edu.sg/admissions/aboutbvss
       image: /images/Homepage/BVSS_Students_in_4_boxes.png
       alt: Image alt text
+  - infobar:
+      title: Release of 2025 GCE N-Level Results (18 Dec 2025)
+      subtitle: Announcements
+      id: infobar
+      description: Sec 4NA and 4NT students (2025), report to school by 1.30 pm and
+        assemble in the canteen. Proceed to the ISH for briefing and results
+        collection.
 ---
