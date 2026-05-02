@@ -70,6 +70,14 @@ National Day, Youth Day</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SYF 2023 Arts Presentations</p>
 </td>
 <td rowspan="1" colspan="1">
