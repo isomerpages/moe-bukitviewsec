@@ -42,10 +42,9 @@ programmes and provides feedback to the school. The PSG also facilitates
 the school’s communication&nbsp;to parents.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents who are actively involved &nbsp; in the PSG are better able to
-reach out to other parents and involve them. Over time, more parents can
-contribute to make the&nbsp;school environment more&nbsp;conducive for
-learning.</p>
+<p>Parents who are actively involved in the PSG are better able to reach
+out to other parents and involve them. Over time, more parents can contribute
+to make the&nbsp;school environment more&nbsp;conducive for learning.</p>
 </td>
 </tr>
 </tbody>
@@ -99,8 +98,14 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>Parenting Workshops</strong></h4>
+<h4><strong>Parenting Talks/Workshops</strong></h4>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Find your Shine, Boost Your Self-Esteem</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -116,7 +121,7 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Motivating your kid to succeed</strong>
+<p><strong>Connections Through 5 Love Languages</strong>
 </p>
 </td>
 </tr>
@@ -134,7 +139,7 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Connections Through 5 Love Languages</strong>
+<p><strong>Parent - Child Bonding Activity</strong>
 </p>
 </td>
 </tr>
@@ -152,8 +157,7 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Parent - Child Bonding Activity</strong>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
