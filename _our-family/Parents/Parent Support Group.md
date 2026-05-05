@@ -315,7 +315,7 @@ of the PSG. (<em>* PSG members are also part of a PSG WhatsApp chat group where 
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parent/QR_code.png">
 </div>
 <p>Follow us on Facebook:&nbsp;<a href="https://www.facebook.com/BukitViewSecondaryPSG" rel="noopener noreferrer nofollow" target="_blank">Bukit View Secondary PSG</a> 
-<br>Find us on Instagram:&nbsp;<a href="https://www.instagram.com/bukitviewsecpsg" rel="noopener noreferrer nofollow" target="_blank">@bukitviewsecpsg</a> 
+<br>Find us on Instagram:&nbsp;<a href="https://www.instagram.com/bukitviewsecpsg" rel="noopener noreferrer nofollow" target="_blank">@bukitviewsecpsg</a>
 </p>
 <p>Email us:&nbsp;<a href="mailto:psgbvss@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psgbvss@gmail.com</a>
 </p>
