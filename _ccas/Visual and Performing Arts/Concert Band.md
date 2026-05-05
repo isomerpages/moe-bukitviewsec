@@ -253,7 +253,8 @@ National Day, Youth Day</p>
 <h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>List of EXCO Members</summary>
+<summary><strong>List of EXCO Members</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
