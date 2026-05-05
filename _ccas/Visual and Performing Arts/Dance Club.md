@@ -62,10 +62,10 @@ Camp</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SYF 2023 Arts Presentations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 <tr>

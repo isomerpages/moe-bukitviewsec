@@ -42,10 +42,9 @@ programmes and provides feedback to the school. The PSG also facilitates
 the school’s communication&nbsp;to parents.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents who are actively involved &nbsp; in the PSG are better able to
-reach out to other parents and involve them. Over time, more parents can
-contribute to make the&nbsp;school environment more&nbsp;conducive for
-learning.</p>
+<p>Parents who are actively involved in the PSG are better able to reach
+out to other parents and involve them. Over time, more parents can contribute
+to make the&nbsp;school environment more&nbsp;conducive for learning.</p>
 </td>
 </tr>
 </tbody>
@@ -99,24 +98,32 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>Parenting Workshops</strong></h4>
+<h4><strong>Parenting Talks/Workshops</strong></h4>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p><strong>Find your Shine, Boost Your Self-Esteem</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/parenting_WS_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Parent/parenting_WS_1b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_4.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Motivating your kid to succeed</strong>
+<p><strong>Connections Through 5 Love Languages</strong>
 </p>
 </td>
 </tr>
@@ -134,7 +141,7 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Connections Through 5 Love Languages</strong>
+<p><strong>Parent - Child Bonding Activity</strong>
 </p>
 </td>
 </tr>
@@ -152,8 +159,20 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Parent - Child Bonding Activity</strong>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>PSG at BVSS's 40<sup>th</sup> Anniversary Celebrations</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_5.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -167,30 +186,14 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>Teachers' Day Appreciation</strong></h4>
+<h4><strong>Teachers' Day Appreciation Lunch</strong></h4>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/teachers_day1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/teachers_day2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/teachers_day3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/teachers_day4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_1.jpg">
 </div>
 </td>
 </tr>
@@ -206,46 +209,14 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Supporting Our Children</strong></h4>
+<h4><strong>Home-School Collaboration</strong></h4>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Parent/study_night_1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/study_night_2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/study_night_3.jpg">
-</div>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
-<p><strong>Study Night - Supporting our O &amp; N Level Students</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/O_N_Level_encouragement_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/O_N_Level_encouragement_1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent/O_N_Level_encouragement_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2.jpg">
 </div>
 </td>
 </tr>
@@ -253,6 +224,14 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 <td rowspan="1" colspan="3">
 <p><strong>O / N - Level Encouragement Board</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_6.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -274,7 +253,7 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 <p>Parent Engagement Session</p>
 </li>
 <li>
-<p>School Leaders Engagement &amp; Parenting Workshop 1 (Coaching for Parents)</p>
+<p>First Parenting Workshop/Talk</p>
 </li>
 </ul>
 </td>
@@ -284,9 +263,6 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>BVSS Cross Country</p>
-</li>
-<li>
-<p>Parenting Workshop 2 (5 Love Languages)</p>
 </li>
 <li>
 <p>Forward Bound</p>
@@ -301,9 +277,6 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Teachers’ Day Appreciation Lunch</p>
-</li>
-<li>
-<p>Parenting Workshop 3 (Topic to be confirmed)</p>
 </li>
 <li>
 <p>Graduating Cohort Encouragement Board</p>
@@ -321,7 +294,7 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 <p>Study Night Snacks Support</p>
 </li>
 <li>
-<p>Parent-Child Bonding Workshop</p>
+<p>Second Parenting Workshop/Talk</p>
 </li>
 <li>
 <p>BVSS Open House</p>
@@ -333,7 +306,7 @@ the parenting journey. Eg. Workshops, talks, bonding activities etc.</p>
 </table>
 <hr>
 <h4><strong>Join BVSS Parent Support Group (PSG) today!</strong></h4>
-<p>Be part of the team that help bring out the best in your child’s secondary
+<p>Be part of the team that helps bring out the best in your child’s secondary
 school experience. Scan the QR code and complete the form to be a member
 of the PSG. (<em>* PSG members are also part of a PSG WhatsApp chat group where parents can connect with other parents and share resources.)</em>
 </p>
@@ -342,6 +315,7 @@ of the PSG. (<em>* PSG members are also part of a PSG WhatsApp chat group where 
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parent/QR_code.png">
 </div>
 <p>Follow us on Facebook:&nbsp;<a href="https://www.facebook.com/BukitViewSecondaryPSG" rel="noopener noreferrer nofollow" target="_blank">Bukit View Secondary PSG</a> 
-<br>Find us on Instagram:&nbsp;<a href="https://www.instagram.com/bukitviewsecpsg" rel="noopener noreferrer nofollow" target="_blank">@bukitviewsecpsg</a> 
-<br>Email us:&nbsp;<a href="mailto:psgbvss@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psgbvss@gmail.com</a>
+<br>Find us on Instagram:&nbsp;<a href="https://www.instagram.com/bukitviewsecpsg" rel="noopener noreferrer nofollow" target="_blank">@bukitviewsecpsg</a>
+</p>
+<p>Email us:&nbsp;<a href="mailto:psgbvss@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psgbvss@gmail.com</a>
 </p>
