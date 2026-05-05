@@ -15,7 +15,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Media_and_Publicity_Formal.jpg">
 </div>
-<h4>BACKGROUND</h4>
+<h4><strong>BACKGROUND</strong></h4>
 <p>The Media and Publicity Club serves to propagate the interest and appreciation
 for photography and videography through exposure to different media assignments,
 competitions and trainings.</p>
@@ -25,19 +25,12 @@ fieldtrips which incorporates hands-on training as well as practical media-assig
 Different outings were conducted as part of students’ training in framing
 and composing a picture / scene.</p>
 <h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
-<h5><strong>||</strong> Competitions</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Lions Home for the Elders School Video Competition 2022</p>
-</li>
-<li>
-<p>SYFgoesOnline! Pixel Perfect 2022</p>
-</li>
-<li>
-<p>Our Schools, Our Stories 2022</p>
-</li>
-</ul>
-<h5><strong>||</strong> Enrichment Programmes</h5>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>SHOWCASES &amp; EVENTS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>2023 Basic Photography (Event Photography Focus) Workshops</p>
@@ -52,17 +45,40 @@ and composing a picture / scene.</p>
 <p>2022 Learning Journey to TheSmartLocal</p>
 </li>
 </ul>
-<table style="minWidth: 75px">
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>HONORS &amp; RECOGNITION</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lions Home for the Elders School Video Competition 2022</p>
+</li>
+<li>
+<p>SYFgoesOnline! Pixel Perfect 2022</p>
+</li>
+<li>
+<p>Our Schools, Our Stories 2022</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<h4><strong>PHOTO GALLERY</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Please click to view the photos of event.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
@@ -81,18 +97,20 @@ and composing a picture / scene.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%2024.jpeg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%203.jpeg">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-0123.jpeg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01.jpeg">
@@ -107,15 +125,17 @@ and composing a picture / scene.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%20ea3.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%20at%20ea1.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%20ea3.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Clubs%20and%20Societies/Media%20&amp;%20Publicity/whatsapp%20image%202023-05-01%20ea.jpeg">
 </div>
@@ -123,7 +143,15 @@ and composing a picture / scene.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>EXECUTIVE COMMITTEE MEMBERS</strong></h4>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>List of EXCO Members</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -275,4 +303,8 @@ and composing a picture / scene.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>

@@ -62,18 +62,19 @@ National Day, Youth Day</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>International Science Drama Competition 2024 (Science Centre)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Third Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SYF 2025 Arts Presentations</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Science Drama Competition 2024
+<br>(Science Centre)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Third Place</p>
 </td>
 </tr>
 <tr>
