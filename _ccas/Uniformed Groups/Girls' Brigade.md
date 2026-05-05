@@ -25,7 +25,14 @@ in baking, coding, craft or calligraphy provide opportunities for every
 girl to enjoy learning new skills with zest and enthusiasm. Through serving
 the needy and others in the community, our girls learn important values
 of gratitude, respect, responsibility and compassion.</p>
-<h4><strong>HIGHLIGHTS OF THE YEAR</strong></h4>
+<h4></h4>
+<h3><strong>HIGHLIGHTS OF THE YEAR</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>SHOWCASES &amp; EVENTS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Attained GB Gold Award 2022</p>
@@ -47,6 +54,107 @@ Guat Tin Challenge 2022</p>
 <p>GB Friend in Deed @ Jurong East in July 2023</p>
 </li>
 </ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>HONORS &amp; RECOGNITION</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4><strong>AWARDS AND ACHIEVEMENTS</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>GB Company Award </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Achieved Sustained Gold Award for 5 years </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2010-&nbsp; 2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>GB National Drill Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Pioneer Brigader Brooch (PBB) Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2026</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jayaraman Ashmitha (4F)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>2021 - 2022</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Arumugam Girija</p>
+</li>
+<li>
+<p>Grace Soundharya Samuel</p>
+</li>
+<li>
+<p>Ng Yun Nie</p>
+</li>
+<li>
+<p>Vatsala Pachigulla</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>GB Low Guat Tin Challenge 2021</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong> 
+</p>
+<p>Silver Award and Bronze Award</p>
+<p><strong>2022</strong>
+</p>
+<p>Silver Award and Bronze Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -88,9 +196,6 @@ Guat Tin Challenge 2022</p>
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/Slide2.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Slide2.jpg">
-</div>
 <p>
 <br>
 </p>
@@ -115,91 +220,15 @@ Guat Tin Challenge 2022</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/GB/slide5.JPG">
 </div>
-<h4>AWARDS AND ACHIEVEMENTS</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>GB Company Award 2022</strong>
+<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>List of EXCO Members</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br><strong><u>List of EXCO Members</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Achieved Sustained Gold Award for 5 years 2010-&nbsp; 2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>GB Low Guat Tin Challenge 2021</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Award and Bronze Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>GB Low Guat Tin Challenge 2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Award and Bronze Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>GB National Drill Competition</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Pioneer Brigadier Brooch</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Arumugam Girija
-<br>Grace Soundharya Samuel
-<br>Ng Yun Nie
-<br>Vatsala Pachigulla
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>EXECUTIVE COMMITTEE MEMBERS</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -223,7 +252,8 @@ Guat Tin Challenge 2022</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Company Leader</p>
+<p><strong>Company Leader</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Packiaraj Patric Samantha</p>
@@ -234,7 +264,8 @@ Guat Tin Challenge 2022</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Company Leader</p>
+<p><strong>Assistant Company Leader</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ang Jia Yi</p>
@@ -256,7 +287,8 @@ Guat Tin Challenge 2022</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Squad Leader</p>
+<p><strong>Squad Leader</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Anusheka D/O Kumar</p>
@@ -311,4 +343,9 @@ Guat Tin Challenge 2022</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
