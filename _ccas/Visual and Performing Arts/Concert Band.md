@@ -124,7 +124,8 @@ National Day, Youth Day</p>
 <p>Please click to view the photos of event.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Music Exchange</strong> with ACS (Barker road)</summary>
+<summary><strong>Music Exchange with ACS (Barker road)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
