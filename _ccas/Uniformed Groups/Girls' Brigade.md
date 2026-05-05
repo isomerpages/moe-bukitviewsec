@@ -78,7 +78,7 @@ Guat Tin Challenge 2022</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>GB Company Award </strong>
+<p><strong>GB Company Award</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,7 @@ Guat Tin Challenge 2022</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Achieved Sustained Gold Award for 5 years </strong>
+<p><strong>Achieved Sustained Gold Award for 5 years</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,7 +142,7 @@ Guat Tin Challenge 2022</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2021</strong> 
+<p><strong>2021</strong>
 </p>
 <p>Silver Award and Bronze Award</p>
 <p><strong>2022</strong>
@@ -155,6 +155,30 @@ Guat Tin Challenge 2022</p>
 </div>
 </details>
 </div>
+<p></p>
+<h4><strong>PHOTO GALLERY</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Please click to view the photos of event.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/GB/slide1.JPG">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/GB/slide2.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/GB/slide3.JPG">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/GB/slide4.JPG">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/GB/slide5.JPG">
+</div>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -163,6 +187,7 @@ Guat Tin Challenge 2022</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
@@ -185,6 +210,28 @@ Guat Tin Challenge 2022</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Pioneer Brigadier Brooch Winners</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KAROLYN PEY XIN YING and TANIA FONG YAAN KEI.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:49%" height="auto" width="100%" src="/images/Slide2.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:49%" height="auto" width="100%" src="/images/Slide2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,33 +240,10 @@ Guat Tin Challenge 2022</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Slide2.jpg">
 </div>
-<p>
-<br>
-</p>
-<p><strong>Pioneer Brigadier Brooch Winners: KAROLYN PEY XIN YING and TANIA FONG YAAN KEI.</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/GB/slide1.JPG">
+</details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/GB/slide2.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/GB/slide3.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/GB/slide4.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/GB/slide5.JPG">
-</div>
 <h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
