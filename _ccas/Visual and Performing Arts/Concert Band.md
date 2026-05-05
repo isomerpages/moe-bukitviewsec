@@ -32,7 +32,27 @@ the weekly practices and engaging activities such as camps and games. This
 year, the Band was able to showcase their talents and obtain an Accomplishment
 Award at the Singapore Youth Festival Arts Presentation. We look forward
 to an exciting 2023 as we prepare for this year’s programmes.​</p>
-<h4><strong>AWARDS AND ACHIEVEMENTS</strong></h4>
+<h4><br><strong>HIGHLIGHT OF THE YEAR</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>SHOWCASES &amp; EVENTS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Music Exchange</strong> with ACS (Barker road)</p>
+</li>
+<li>
+<p><strong>School Events - </strong><em>Performances for:</em> Teachers’ Day,
+National Day, Youth Day</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>AWARDS AND ACHIEVEMENTS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -97,7 +117,15 @@ to an exciting 2023 as we prepare for this year’s programmes.​</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>HIGHLIGHTS OF THE YEAR</strong></h4>
+</div>
+</details>
+</div>
+<h4><strong>PHOTO GALLERY</strong></h4>
+<p>Please click to view the photos of event.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Music Exchange</strong> with ACS (Barker road)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -115,26 +143,46 @@ to an exciting 2023 as we prepare for this year’s programmes.​</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/cca%20awareness.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/cca%20awareness%202.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/cca%20awareness%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/music%20exchange%20with%20monfort%20sec.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/music%20exchange%20with%20monfort%20sec.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/music%20exchange%20with%20pasir%20ris%20sec.png">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>SYF 2025</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -158,7 +206,55 @@ to an exciting 2023 as we prepare for this year’s programmes.​</p>
 </tr>
 </tbody>
 </table>
-<h4>EXECUTIVE COMMITTEE MEMBERS</h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>CCA Awareness Day</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/cca%20awareness.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>List of EXCO Members</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -176,17 +272,6 @@ to an exciting 2023 as we prepare for this year’s programmes.​</p>
 <th rowspan="1" colspan="1">
 <p>Class</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EXCO Positions</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Full Name</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Class</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -387,4 +472,8 @@ to an exciting 2023 as we prepare for this year’s programmes.​</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
