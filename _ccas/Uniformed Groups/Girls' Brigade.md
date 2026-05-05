@@ -159,7 +159,8 @@ Guat Tin Challenge 2022</p>
 <h4><strong>PHOTO GALLERY</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Please click to view the photos of event.</summary>
+<summary><strong>Please click to view the photos of event.</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/GB/slide1.JPG">
