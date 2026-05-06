@@ -67,26 +67,26 @@ variant: tiptap
 <p>Mr Liu Sijian (Senior Teacher)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Na'im Bin Sa'dollah</p>
+<p>Mr Poh Soon Ming (SH/Physics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mr Joshua Lee (AYH)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kelly Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Leong Wee Choo</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Muhd Na'im Bin Sa'dollah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chin Kwek Siong</p>
@@ -130,21 +130,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joshua Lee (AYH)</p>
+<p>Mrs Leong Wee Choo</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Gopi Krishnan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Faye Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
