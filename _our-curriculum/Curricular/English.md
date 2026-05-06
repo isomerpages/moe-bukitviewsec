@@ -28,7 +28,7 @@ variant: tiptap
 <p>Mrs Zane Tye (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sharmila Gopal (HOD/CCE)</p>
+<p>Miss Sharmila Gopalakrishnan (HOD/CCE)</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ variant: tiptap
 <p>Mr Mohamad Zulkefly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joy Chen</p>
+<p>Mdm Joy Chen Hsiu Cheun</p>
 </td>
 </tr>
 <tr>
