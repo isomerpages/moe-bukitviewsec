@@ -28,7 +28,7 @@ variant: tiptap
 <p>Mrs Zane Tye (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sharmila Gopal (HOD/CCE)</p>
+<p>Miss Sharmila Gopalakrishnan (HOD/CCE)</p>
 </td>
 </tr>
 <tr>
@@ -52,15 +52,39 @@ variant: tiptap
 <p>Mr Mohamad Zulkefly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joy Chen</p>
+<p>Mdm Joy Chen Hsiu Cheun</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Seah Koon Lay</p>
+<p>Miss Nicole Ng Shi Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr John Praveen Raj</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Chelsea Mun Jie Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Seah Koon Lay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Dharani Dinesh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Gen Wong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Magdalene Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alex Yong</p>
 </td>
 </tr>
 </tbody>
@@ -100,53 +124,190 @@ education and life.</p>
 employs a range of pedagogical approaches. These include Process Writing,
 developed in collaboration with the Ministry of Education, Visible Thinking
 routines, and both self-directed and collaborative learning supported by
-Information and Communications Technology (ICT). We also emphasize peer
+Information and Communications Technology (ICT). We also emphasise peer
 assessment to promote metacognition and encourage the responsible use of
 Artificial Intelligence to support learning. Additionally, we leverage
 feedback to drive assessment for learning.</p>
 <hr>
-<h4>Key Programmes</h4>
+<h4>Key Programmes/Activities</h4>
 <p><strong>EL and Lit Week</strong>
 </p>
-<p>Crafting witty captions for interesting photographs, composing Haiku to
-romanticise a scene, or knotting the tongue over Tongue Twisters, our students
-relish the array of out-of-syllabus activities specifically crafted for
-the English Language and Literature Week. It is another platform to showcase
-their proficiency, hone their skills and experience the joy of learning.
-At times, avid readers also gamely step up to share about the books they
-have read with their schoolmates.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/English Dept/EL_and_Lit_week.png">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Mentoring Programme</strong>
 </p>
-<p>Graduating students who require coaching in English Language are identified
-and assigned English teachers to mentor and monitor their progress. This
-weekly programme caters to individual learning needs where students have
-more opportunities to clarify their doubts and bridge their learning gaps.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/English Dept/mentoring_programme.png">
-</div>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Sec 3 Critical Thinking and Presentation Skills Workshop</strong>
 </p>
-<p>Our Secondary 3 students commit an afternoon to honing the 21st Century
-Competency of critical, adaptive and inventive thinking to enhance their
-communication skills. At the end of the workshop, they are ready to present
-their opinions with confidence and make their voices heard.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department photos/English Dept/S3_critical_thinking_and_presentation_ws.png">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-<p><strong>Emcees training</strong>
-</p>
-<p>We train emcees for occasions like the annual Achieve and Excel Awards
-Day. Emcees are selected from the list of students nominated by the English
-teachers. They go through auditions, weekly training and practices, and
-learn to think on their feet and adapt to changes. In the process, students
-hone resilience and commitment to excel.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Student_Emcee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL4.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL5.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Debate &amp; Public Speaking Training</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL6.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>EL Student presenters at Open House EL booth</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL7.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL8.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Oratory Audition</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL9.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Literature NSLF Debate Team</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL10.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Learning Journey Crucible Performance</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL11.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>

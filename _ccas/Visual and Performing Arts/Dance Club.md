@@ -62,7 +62,7 @@ Camp</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2023 Arts Presentations</p>
+<p>SYF 2025 Arts Presentations</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Distinction</p>
@@ -100,7 +100,8 @@ Camp</p>
 <p>Please click to view the photos of event.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>CHOIR &amp; DANCE EXCHANGE</summary>
+<summary><strong>CHOIR &amp; DANCE EXCHANGE</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
@@ -146,7 +147,8 @@ Camp</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>JUMP DANCE 3</summary>
+<summary><strong>JUMP DANCE 3</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
@@ -179,7 +181,8 @@ Camp</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>NATIONAL DAY PERFORMANCE</summary>
+<summary><strong>NATIONAL DAY PERFORMANCE</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -204,7 +207,8 @@ Camp</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>VIA at Vanguard Senior Care</summary>
+<summary><strong>VIA at Vanguard Senior Care</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -243,7 +247,8 @@ Camp</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>SENIOR FAREWELL</summary>
+<summary><strong>SENIOR FAREWELL</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -268,7 +273,8 @@ Camp</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>CCA AWARENESS DAY&nbsp; / CCA TRIAL &amp; INTERVIEW</summary>
+<summary><strong>CCA AWARENESS DAY&nbsp; / CCA TRIAL &amp; INTERVIEW</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -295,7 +301,8 @@ Camp</p>
 </div>
 <h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
 <details class="isomer-details">
-<summary>List of EXCO Members</summary>
+<summary><strong>List of EXCO Members</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>

@@ -97,10 +97,10 @@ and Sports Championship.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold Award
+<p><strong>Gold Award </strong>
 <br>(2011 – 2017)
-<br>Distinction Award
-<br>(2018 – 2024)</p>
+<br><strong>Distinction Award </strong>
+<br>(2018 – 2025)</p>
 </td>
 </tr>
 <tr>

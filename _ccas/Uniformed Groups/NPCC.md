@@ -94,36 +94,48 @@ cooking, to community crime prevention discussions and advocacy.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2024 Unit Overall Proficiency Award</strong>
+<p><strong>Unit Overall Proficiency Award</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Distinction</strong>
-</p>
+<p><strong>Distinction</strong> ( 2022 to 2025)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2025 Promotions to Station Inspector (NPCC):</strong>
+<p><strong>Best Unit Cadet (Female):</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Staff Sergeant (NPCC):</p>
+<p>Neo Yuting (Liang Yuting)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Best Unit Cadet (Male):</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Staff Sergeant (NPCC)
+<br>Gopi Dhiraj</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SPF-NPCC Badge Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2026</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Station Inspector (NPCC) Nur Daniya Ashlynn Binte Muhammad Khalid</p>
-</li>
-<li>
-<p>Station Inspector (NPCC) Dina Qhaisara Khan Binte Hafiz Khan</p>
+<p>Station Inspector (NPCC) Kesha Jelita Binte Mohamed Zainal</p>
+<p></p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2025 SPF-NPCC Badge:&nbsp;</strong>
+<p><strong>2025</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Station Inspector (NPCC) Dina Qhaisara Khan Binte Hafiz Khan</p>
@@ -136,19 +148,31 @@ cooking, to community crime prevention discussions and advocacy.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Best Unit Cadet (Female):</strong>
+<p><strong>Promotions to Station Inspector (NPCC):</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff Sergeant (NPCC): Nur Insyirah Binte Solaiman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Best Unit Cadet (Male):</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Staff Sergeant (NPCC) Gunasekaran Barani Kumar</p>
+<p><strong>2026</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Station Inspector (NPCC) Kesha Jelita Binte Mohamed Zainal</p>
+</li>
+<li>
+<p>Station Inspector (NPCC) Neo Yuting (Liang Yuting)</p>
+<p></p>
+</li>
+</ul>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Station Inspector (NPCC) Nur Daniya Ashlynn Binte Muhammad Khalid</p>
+</li>
+<li>
+<p>Station Inspector (NPCC) Dina Qhaisara Khan Binte Hafiz Khan</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>

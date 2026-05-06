@@ -40,79 +40,78 @@ of singing together.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4><strong>[2025]</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1 Welcome party (February 2025)</p>
+<p>Sec 1 Welcome party&nbsp;</p>
 </li>
 <li>
-<p>Choir exchange with Deyi Secondary School and Hougang Secondary School
-(April 2025)</p>
+<p>Choir exchange with Deyi Secondary School and Hougang Secondary School&nbsp;</p>
 </li>
 <li>
-<p>Singapore Youth Festival Arts Presentation (April 2025)</p>
+<p>Singapore Youth Festival Arts Presentation&nbsp;</p>
 </li>
 <li>
-<p>Choir camp cum Farewell to seniors (June 2025)&nbsp;</p>
+<p>Choir Camp cum Farewell to seniors&nbsp;</p>
 </li>
 <li>
-<p>Sing-a-long session with RN7 residents (Values-In-Action activity) (June
-2025)</p>
+<p>Sing-a-long session with RN7 residents (Values-In-Action activity)&nbsp;</p>
 </li>
 <li>
-<p>Showcase at Dance Studio (VCH) (November 2025)</p>
+<p>Showcase at Dance Studio&nbsp; (VCH)&nbsp;</p>
 </li>
 <li>
-<p>Open House showcase (November 2025)</p>
+<p>Open House showcase&nbsp;</p>
 </li>
 <li>
-<p>Overseas trip to Taiwan, Taipei (November 2025)</p>
-<p></p>
+<p>Overseas Trip to Taiwan, Taipei&nbsp;</p>
 </li>
 </ul>
+<p></p>
 <h4><strong>[2024]</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1 Welcome party (Feb 2024)</p>
+<p>Sec 1 Welcome party&nbsp;</p>
 </li>
 <li>
-<p>Values-In-Action activity (June/ July 2024)</p>
+<p>Values-In-Action activity&nbsp;</p>
 </li>
 <li>
 <p>Choir exchange with Deyi Secondary School</p>
 </li>
 <li>
-<p>SINGSPIRATION! Combined Concert with Deyi Sec at Victoria Concert Hall
-(August 2024)</p>
+<p>SINGSPIRATION! Combined Concert with Deyi Sec at Victoria Concert Hall&nbsp;</p>
 </li>
 <li>
-<p>Open House showcase (Nov 2024)
-<br>
-</p>
+<p>Open House showcase&nbsp;</p>
 </li>
 </ul>
+<p></p>
 <h4><strong>[2023]</strong></h4>
-<ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Sec 1 Welcome party (Feb 2023)</p>
+<p>Sec 1 Welcome party&nbsp;</p>
 </li>
 <li>
-<p>Attended Philippines Madrigal Singers (MADZ) choral workshop and performance
-at the Esplanade (Feb 2023)</p>
+<p>Attended Philippines Madrigal Singers&nbsp;</p>
 </li>
 <li>
-<p>Singapore Youth Festival Arts Presentation (April 2023)</p>
+<p>Singapore Youth Festival Arts Presentation&nbsp;</p>
 </li>
 <li>
-<p>Achieve and Excel live performance (April 2023)</p>
+<p>Achieve and Excel live performance&nbsp;</p>
 </li>
 <li>
-<p>2D1N Camp and Amazing Race (June 2023)</p>
+<p>2D1N Camp and Amazing Race&nbsp;</p>
 </li>
 <li>
-<p>Values-In-Action activity (June/ July 2023)</p>
+<p>Values-In-Action activity&nbsp;</p>
 </li>
 <li>
-<p>Open House showcase (Nov 2023)</p>
+<p>Open House showcase&nbsp;</p>
+<p></p>
 </li>
 </ul>
 </div>
@@ -138,7 +137,8 @@ at the Esplanade (Feb 2023)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2025 Arts Presentations</p>
+<p><strong>SYF 2025 Arts Presentations</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
@@ -146,7 +146,8 @@ at the Esplanade (Feb 2023)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2023 Arts Presentations</p>
+<p><strong>SYF 2023 Arts Presentations</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
@@ -154,7 +155,8 @@ at the Esplanade (Feb 2023)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2021 Arts Presentations</p>
+<p><strong>SYF 2021 Arts Presentations</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
@@ -206,7 +208,8 @@ at the Esplanade (Feb 2023)</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>| <strong>Singapore Youth Festival 2023</strong> |</summary>
+<summary><strong>| Singapore Youth Festival 2023 |</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 50px">
@@ -236,7 +239,8 @@ at the Esplanade (Feb 2023)</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>| <strong>Lee Foundation Theatre Concert Nov 2022</strong> |</summary>
+<summary><strong>| Lee Foundation Theatre Concert Nov 2022 |</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -283,16 +287,12 @@ at the Esplanade (Feb 2023)</p>
 </table>
 </div>
 </details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
+</div>
 <p></p>
-</div>
-</details>
-</div>
 <h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
 <details class="isomer-details">
-<summary>List of EXCO Members</summary>
+<summary><strong>List of EXCO Members</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4></h4>
 <table style="minWidth: 75px">
