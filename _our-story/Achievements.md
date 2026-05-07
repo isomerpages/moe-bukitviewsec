@@ -4,7 +4,243 @@ permalink: /our-story/achievements/
 description: ""
 variant: tiptap
 ---
-<h2>Achievements</h2>
+<h2><strong>Achievements</strong></h2>
+<h3><strong>2026</strong></h3>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">NPCC</div>
+<div class="isomer-card-description">4 Consecutive Distinction Awards from 2022–2025.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Track &amp; Field</div>
+<div class="isomer-card-description">49 athletes represented BVSS, with 17 qualifiers for semi-finals and finals.
+B Division Boys achieved 2nd place in multiple relay events at Evovra Relay
+Championships.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Girls’ Brigade</div>
+<div class="isomer-card-description">15 consecutive Gold Awards since 2010, with students attaining national-level
+recognition through the Pioneer Brigader Brooch Award.</div>
+</div>
+</div>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Academic Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Sorkalam 2026, a National Tamil Debate Competition</strong>
+</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Our team of 4 TL students represented BVSS at Sorkalam 2026, a National
+Tamil Debate Competition.</p>
+</li>
+<li>
+<p>Rajaram Joshika Sri (4G) was awarded Best Speaker in the first round.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>ACJC’s Scholastic Merit Award</strong>
+</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lee Zhi Rui, Shane (2022, 4F) has received ACJC’s Scholastic Merit Award
+for his academic performance for the 2024 GCE A-Level Examination.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>CCA Achievements</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>NPCC</strong>
+</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Uniformed Group</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br><strong>NPCC</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Unit Overall Proficiency Award 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 consecutive Distinction Award from 2022 to 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SPF-NPCC Badge Award 2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Each year, only the top few
+percent of all graduating cadets in NPCC (Singapore) are awarded
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pinnacle national award given
+to graduating cadets
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outstanding leadership performance
+and contributions to the Corps during the term of service
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kesha Jelita Binte Mohamed
+Zainal, 4C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Station Inspector</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pinnacle rank an NPCC cadet can achieve as a student, as a testament to
+their leadership, mentoring capacity and mastery of skills.
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kesha Jelita Binte Mohamed
+Zainal, 4C
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neo Yuting (Liang Yuting),
+4B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Best Unit Cadet</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annual recognition of the best performing cadet who reflect the school,
+corps and unit values and inspires others to do the same.
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neo Yuting (Liang Yuting),
+4B
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gopi Dhiraj, 4F</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Girls’ Brigade</strong>
+</p>
+<p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unit Award since 2010!</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>15 Golds consecutively</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pioneer Brigader Brooch (PBB) Award (the highest national award a GB girl
+in Singapore can attain)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Jayaraman Ashmitha, 4F</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>for the</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+</ul>
+<p></p>
+<p><strong>NCC (Land)</strong>
+</p>
+<p>7 Distinctions and 9 Goldsconsecutively since 2009</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<h4><strong>CCA Achievements</strong></h4>
+<p><strong>NPCC</strong>
+</p>
+<p><strong>Unit Overall Proficiency Award 2025</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4 consecutive Distinction
+Award from 2022 to 2025</p>
+<hr>
+<p><strong>SPF-NPCC Badge Award 2026</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Each year, only the top few
+percent of all graduating cadets in NPCC (Singapore) are awarded
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pinnacle national award given
+to graduating cadets
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outstanding leadership performance
+and contributions to the Corps during the term of service
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kesha Jelita Binte Mohamed
+Zainal, 4C</p>
+<hr>
+<p><strong>Station Inspector</strong> 
+<br>- Pinnacle rank an NPCC cadet can achieve as a student,
+<br>as a testament to their leadership, mentoring capacity and mastery of
+skills.
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kesha Jelita Binte Mohamed
+Zainal, 4C
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neo Yuting (Liang Yuting),
+4B</p>
+<hr>
+<p><strong>Best Unit Cadet</strong>
+<br>- Annual recognition of the best performing cadet who reflect the school,
+<br>corps and unit values and inspires others to do the same.
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neo Yuting (Liang Yuting),
+4B
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gopi Dhiraj, 4F</p>
+<hr>
 <p></p>
 <h3>Yellowren Inter-School Canvas Art Competition</h3>
 <p></p>
@@ -27,28 +263,6 @@ has made the school proud by achieving 3rd placing in the Floorball C Division
 Boys League 3. With the result, Bukit View Secondary school has also been
 promoted to League 2 for 2026.</p>
 <p>Congratulations to the boys!</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Sports &amp; Games/Floorball/Floorball_C_div_2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Sports &amp; Games/Floorball/Floorball_C_div_1.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <hr>
 <h3>Young Technopreneur Challenge 2025</h3>
 <p>The Young Technopreneur Challenge 2025 Finals held on Saturday, 26 July
@@ -97,40 +311,6 @@ Read more about Sai's and Darshan's achievements <a href="https://www.bukitviews
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/track_nsg.png">
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/2025 NSG/Sai.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/2025 NSG/Dharshan.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/2025 NSG/NSG_semis.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/2025 NSG/NSG_school_records.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h3>Singapore Youth Festival 2025 Arts Presentation</h3>
 <p>Congratulations to our Performing Arts Groups!</p>
