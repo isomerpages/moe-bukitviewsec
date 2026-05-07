@@ -91,6 +91,16 @@ across their secondary school journey.</p>
 <p>• E.g. Students can also offer English Language, Mathematics, Science
 and/or Mother Tongue Languages at a more demanding level from Secondary
 1 Semester 2.</p>
+<p><strong>Articles on FSBB</strong>
+</p>
+<p><a href="https://www.straitstimes.com/singapore/i-am-able-to-mix-with-friends-of-other-streams-full-subject-based-banding-ditches-pigeonholing?ref=more-on-this-topic" rel="noopener nofollow" target="_blank">‘I am able to mix with friends of other streams’: Full subject-based banding ditches pigeonholing _The Straits Times</a>
+</p>
+<p><a href="https://www.straitstimes.com/singapore/parenting-education/hear-from-principals-and-students-about-full-subject-based-banding-at-st-forum?ref=inline-article" rel="noopener nofollow" target="_blank">Hear from principals and students&nbsp;about full subject-based banding at ST forum _ The Straits Times</a>
+</p>
+<p><a href="https://www.straitstimes.com/singapore/politics/teachers-students-adapt-to-full-subject-based-banding-say-it-caters-to-diverse-interests-and-strengths?ref=inline-article" rel="noopener nofollow" target="_blank">Teachers, students adapt to full subject-based banding that caters to diverse interests, strengths _ The Straits Times</a>
+</p>
+<p><a href="https://www.straitstimes.com/singapore/politics/secondary-school-students-to-have-one-common-national-exam-period-from-2027" rel="noopener nofollow" target="_blank">Secondary school students to have one common national exam period from 2027 _ The Straits Times</a>
+</p>
 <p>Visit the Full SBB Microsite <a href="https://go.gov.sg/moe-fsbb" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-fsbb</a>
 </p>
 <p></p>
