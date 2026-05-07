@@ -17,9 +17,8 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Track &amp; Field</div>
-<div class="isomer-card-description">49 athletes represented BVSS, with 17 qualifiers for semi-finals and finals.
-B Division Boys achieved 2nd place in multiple relay events at Evovra Relay
-Championships.</div>
+<div class="isomer-card-description">49 athletes represented BVSS, with 17 finalists and semi-finalists. B
+Division Boys attained 2nd place in multiple relay events.</div>
 </div>
 </div>
 <div class="isomer-card">
