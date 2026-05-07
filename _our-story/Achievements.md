@@ -94,6 +94,9 @@ and Bukit View was placed 14th out of these 25 schools.</p>
 </p>
 <p>Congratulations to all our student athletes who participated in the NSG!
 Read more about Sai's and Darshan's achievements <a href="https://www.bukitviewsec.moe.edu.sg/our-family/students/2025/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/track_nsg.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -167,4 +170,5 @@ from baked goods, workout videos, empathetic poems to record-setting origami
 hearts.</p>
 <hr>
 <h4></h4>
+<p></p>
 <p></p>
