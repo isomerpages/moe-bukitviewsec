@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Full Subject-Based Banding</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FSBB_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Student_Informative_FINAL_Handbook_2025_pdf_14x21_cm__140_x_210_mm___140_x_210_mm___2_.png">
 </div>
 <p>• Students will be posted to Secondary 1 through three Posting Groups
 – Posting Group 1, 2, and 3.</p>
@@ -34,7 +34,7 @@ strengths.</p>
 classmates:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FSBB_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Student_Informative_FINAL_Handbook_2025_pdf_14x21_cm.png">
 </div>
 <p>• These subjects take up approximately one-third of curriculum time, giving
 students time to interact with classmates of different strengths and interests.</p>
