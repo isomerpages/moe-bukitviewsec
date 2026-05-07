@@ -22,7 +22,7 @@ and access to post-secondary pathways.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FSBB_2.png">
 </div>
-<p><strong>Mixed Form Classes in Lower Secondary </strong>
+<p><strong>Mixed Form Classes in Lower Secondary</strong>
 </p>
 <p>• Prior to Full SBB implementation, students are arranged in stream-based
 form classes and interact with peers of similar profiles.</p>
@@ -38,7 +38,7 @@ classmates:</p>
 </div>
 <p>• These subjects take up approximately one-third of curriculum time, giving
 students time to interact with classmates of different strengths and interests.</p>
-<p><strong>Subject Levels under Full SBB </strong>
+<p><strong>Subject Levels under Full SBB</strong>
 </p>
 <p>• Students can offer different subjects at different subject levels (i.e.,
 G1, G2 or G3) according to their strengths, interests and learning needs,
@@ -56,7 +56,7 @@ level&nbsp;if they meet the eligibility criteria.</p>
 </div>
 <p>• Students can offer Humanities subjects at a more demanding level from
 Secondary 2 onwards, based on their results in Secondary 1.</p>
-<p><strong>Secondary 1 Mid-Year and End-Year Junctures (Second and Third Intakes)</strong> 
+<p><strong>Secondary 1 Mid-Year and End-Year Junctures (Second and Third Intakes)</strong>
 </p>
 <p>School-based assessment eligibility criteria for offering EL, MTL, MA
 and SCI at a more demanding level</p>
