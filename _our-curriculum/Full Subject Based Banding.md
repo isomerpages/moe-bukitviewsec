@@ -2,38 +2,100 @@
 title: Full Subject Based Banding
 permalink: /our-curriculum/fsbb/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-## Full Subject-Based Banding
-
-![](/images/FSBB_1.png)
-
-•	Students will be posted to Secondary 1 through three Posting Groups – Posting Group 1, 2, and 3. 
-
-•	Posting Groups will only be used for:
-
-Facilitating entry into secondary school. 
-
-Guiding the subject levels students offer at the start of Secondary 1. 
-* They do not define students’ identities, nor influence learning experiences and access to post-secondary pathways.
-
-#### Purpose
-
-With Full SBB, we are moving towards one secondary education with many subject bands to better meet our students’ learning needs. This is part of a broader shift in our education system to&nbsp;**recognise the strengths and interests of our children**&nbsp;and&nbsp;**to help them build their confidence and develop an intrinsic motivation to learn for life**.
-
-By 2024, secondary schools will have implemented the following aspects of Full SBB:  
-
- *   Offering Humanities subjects at a more demanding level from Secondary 2,
- *   Offering Elective subjects at a less demanding level for students from the Express stream (Upper Secondary); and
- *   Having mixed form classes in Lower Secondary with the provision of a common curriculum.
-
-#### Full SBB in 2022
-
-| **Aspect of Full SBB**  | **How will this be implemented in BVSS?**  |
-|---|---|
-|  Offering of Humanities Subjects at a more demanding level for Secondary 2 students | Eligible students from the 2021 Secondary 1 Normal (Academic) cohort who are promoted to the same course in 2022 will be able to offer Geography, History or Literature at a more demanding level. With this increased flexibility in customising our students’ learning experiences, we are better able to recognise their interests and nurture their passion.  <br><br>Students who wish to be considered to offer Geography, History or Literature at a more demanding level will have to meet subject-specific criteria in Secondary 1. They should also possess a positive attitude towards learning and strong commitment to offer the subject at a more demanding level.  |
-|  Mixed form classes in Secondary 1 with the provision of a common curriculum | As part of the pilot, our school will implement mixed form classes at Secondary 1. <br><br>**This is applicable to Secondary 1 students entering our school in 2022.**  <br><br>The 2022 cohort of Secondary 1 students will be grouped in mixed form classes, comprising students from all streams. Students will attend lessons in their form classes for the following subjects: Character and Citizenship Education, Music, Physical Education, Art, Design &amp; Technology, as well as Food and Consumer Education.  <br><br>For the academic subjects, namely English, Mother Tongue Languages, Mathematics, Science, and the Humanities, students will be attending lessons based on their subject classes.&nbsp; The subject classes will be organised based on their respective streams \[N(T), N(A) or Express\]&nbsp;&nbsp; &nbsp;.  <br><br>The common learning experience through the mixed form classes helps to facilitate positive relationships, strengthening the bonds between teachers and students and among peers to establish a strong sense of class identity and belonging to the school community, empowering students to develop a healthy self-concept and grow to the best of their abilities.  |
-| Provision for Express students (Upper Secondary) to offer elective subjects at a less demanding level in Upper Secondary  | From 2021, the school has offered Secondary 3 and Secondary 4 students the option to study one of the following elective subjects at the Normal (Academic) level:<br><br>*   Additional Mathematic<br>*   Full Humanities: Literature in English<br>*   Design &amp; Technology<br>*   Principles of Accounts <br><br>This is to allow our students to pursue their passion and interest in an additional subject and/or to build a stronger foundation in subjects for their tertiary education while calibrating their current academic load. |
-|   |   |
-
-For more information regarding the implementation of the Full SBB in BVSS, please contact us at&nbsp;[bukitview\_ss@moe.edu.sg](mailto:bukitview_ss@moe.edu.sg).
+<h2>Full Subject-Based Banding</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FSBB_1.png">
+</div>
+<p>• Students will be posted to Secondary 1 through three Posting Groups
+– Posting Group 1, 2, and 3.</p>
+<p>• Posting Groups will only be used for:</p>
+<p>Facilitating entry into secondary school.</p>
+<p>Guiding the subject levels students offer at the start of Secondary 1.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>They do not define students’ identities, nor influence learning experiences
+and access to post-secondary pathways.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FSBB_2.png">
+</div>
+<p><strong>Mixed Form Classes in Lower Secondary </strong>
+</p>
+<p>• Prior to Full SBB implementation, students are arranged in stream-based
+form classes and interact with peers of similar profiles.</p>
+<p>• With Full SBB, students will be placed in mixed form classes in lower
+secondary.</p>
+<p>• More opportunities for students to interact with other students of different
+strengths.</p>
+<p>• Students will take six common curriculum subjects with their form class
+classmates:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FSBB_3.png">
+</div>
+<p>• These subjects take up approximately one-third of curriculum time, giving
+students time to interact with classmates of different strengths and interests.</p>
+<p><strong>Subject Levels under Full SBB </strong>
+</p>
+<p>• Students can offer different subjects at different subject levels (i.e.,
+G1, G2 or G3) according to their strengths, interests and learning needs,
+throughout their secondary school journey.</p>
+<p>• These subject levels, G1, G2 or G3, are mapped from the standards of
+N(T), N(A) and Express subject levels respectively.</p>
+<p><strong>Offering&nbsp;Subjects&nbsp;at More Demanding Levels</strong>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For <strong>English Language, Mother Tongue Languages, Mathematics and/or Science</strong>,
+students can offer them&nbsp;at the start of Secondary 1 at a more demanding
+level&nbsp;if they meet the eligibility criteria.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FSBB_4.png">
+</div>
+<p>• Students can offer Humanities subjects at a more demanding level from
+Secondary 2 onwards, based on their results in Secondary 1.</p>
+<p><strong>Secondary 1 Mid-Year and End-Year Junctures (Second and Third Intakes)</strong> 
+</p>
+<p>School-based assessment eligibility criteria for offering EL, MTL, MA
+and SCI at a more demanding level</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FSBB_5.png">
+</div>
+<p>From Secondary Two, students will also be able to offer <strong><u>Humanities sub</u>j<u>ects</u> </strong>(Geography,
+History, and Literature in English) at a more demanding level. The criteria
+for taking Humanities at a more demanding level will be based on students’
+aptitude for and interest in these subjects at Secondary One.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FSBB_6.png">
+</div>
+<p>Students who accept the offer will need to attend bridging sessions to
+help them cope and bridge the gaps in their learning. Students have a choice
+to accept/reject the offer. Offering Subjects at Less Demanding Levels</p>
+<p>• Eligible students may offer some subjects at a less demanding level
+from Secondary 1.</p>
+<p>• Students who offer subjects at a less demanding level may subsequently
+offer the subject at a more demanding level as they gain greater competence
+and confidence in the subject.</p>
+<p>Students can offer to take subjects at a less demanding level based on
+the following considerations:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FSBB_7.png">
+</div>
+<p>Subject Level Flexibility Throughout Secondary Education</p>
+<p>• Beyond the start of Secondary 1, students may adjust their subject levels
+across their secondary school journey.</p>
+<p>• E.g. Students can also offer English Language, Mathematics, Science
+and/or Mother Tongue Languages at a more demanding level from Secondary
+1 Semester 2.</p>
+<p>Visit the Full SBB Microsite <a href="https://go.gov.sg/moe-fsbb" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-fsbb</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FSBB12.png">
+</div>
+<p></p>
+<p></p>
