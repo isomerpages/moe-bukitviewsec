@@ -36,28 +36,17 @@ recognition through the Pioneer Brigader Brooch Award.</div>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Sorkalam 2026, a National Tamil Debate Competition</strong>
+<p><strong>Sorkalam 2026 – National Tamil Debate Competition</strong>
+<br>A team of 4 Tamil Language students represented BVSS at the national competition.
+<br> <strong>Achievement</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rajaram Joshika Sri (4G) was
+awarded Best Speaker in the first round.
+<br>
 </p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Our team of 4 TL students represented BVSS at Sorkalam 2026, a National
-Tamil Debate Competition.</p>
-</li>
-<li>
-<p>Rajaram Joshika Sri (4G) was awarded Best Speaker in the first round.</p>
-</li>
-</ul>
-<p></p>
 <p><strong>ACJC’s Scholastic Merit Award</strong>
-</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Lee Zhi Rui, Shane (2022, 4F) has received ACJC’s Scholastic Merit Award
-for his academic performance for the 2024 GCE A-Level Examination.</p>
-</li>
-</ul>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lee Zhi Rui, Shane (2022, 4F) has
+received ACJC’s Scholastic Merit Award for his academic performance for
+the 2024 GCE A-Level Examination.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -99,7 +88,7 @@ since 2022)</p>
 <p><strong>SPF-NPCC Badge Award 2026</strong>
 <br>National award presented to top graduating NPCC cadets in Singapore for
 outstanding leadership and contributions to the Corps.
-<br> <strong>Recipients</strong>
+<br><strong>Recipients</strong>
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kesha Jelita Binte Mohamed
 Zainal, 4C</p>
 </td>
@@ -108,7 +97,7 @@ Zainal, 4C</p>
 <td rowspan="1" colspan="1">
 <p><strong>Station Inspector</strong>
 <br>Highest student cadet rank attainable in NPCC.
-<br> <strong>Recipients</strong>
+<br><strong>Recipients</strong>
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kesha Jelita Binte Mohamed
 Zainal, 4C
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neo Yuting (Liang Yuting),
@@ -120,7 +109,7 @@ Zainal, 4C
 <p><strong>Best Unit Cadet</strong>
 <br>Annual recognition presented to exemplary cadets who embody the values
 of the school, corps and unit.
-<br> <strong>Recipients</strong>
+<br><strong>Recipients</strong>
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neo Yuting (Liang Yuting),
 4B
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gopi Dhiraj, 4F</p>
@@ -156,7 +145,7 @@ to the award category revision)</p>
 <td rowspan="1" colspan="1">
 <p><strong>Pioneer Brigader Brooch (PBB) Award</strong>
 <br>Highest national award attainable by a GB girl in Singapore.
-<br> <strong>Recipients</strong>
+<br><strong>Recipients</strong>
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jayaraman Ashmitha, 4F</p>
 </td>
 </tr>
