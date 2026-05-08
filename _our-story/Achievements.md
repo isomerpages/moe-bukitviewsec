@@ -4,20 +4,7 @@ permalink: /our-story/achievements/
 description: ""
 variant: tiptap
 ---
-<h3>ACHIEVEMENTS</h3>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h3><strong>2026</strong></h3>
-</th>
-</tr>
-</tbody>
-</table>
+<h3><strong>Achievements</strong> 2026</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -293,19 +280,7 @@ finished 4th in both the 3000m Final and 1500m Final.</p>
 </div>
 </details>
 </div>
-<h4></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h3><strong>2025</strong></h3>
-</th>
-</tr>
-</tbody>
-</table>
+<h3><strong>Achievements</strong> 2025</h3>
 <h4><strong>Academic Achievements</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
