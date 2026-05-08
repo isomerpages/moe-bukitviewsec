@@ -42,8 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alexander Chia
-<br>(HOD Ed-Tech)</p>
+<p>Mr Billy Chew (SH/Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Patricia Lye (SH/Computing)</p>
@@ -54,10 +53,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Jia Hao (YH)</p>
+<p>Mr Lee Jia Hao (Year Head)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Billy Chew (SH/Mathematics)</p>
+<p>Ms Kumutha Maniam (SH/CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Joshua Tan</p>
@@ -65,29 +64,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Liu Sijian (ST)</p>
+<p>Mr Liu Sijian (Senior Teacher)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Na'im Bin Sa'dollah</p>
+<p>Mr Poh Soon Ming (SH/Physics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mr Joshua Lee (AYH)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kelly Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Leong Wee Choo</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kumutha Maniam (AYH)</p>
+<p>Mr Muhd Na'im Bin Sa'dollah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chin Kwek Siong</p>
@@ -131,21 +130,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joshua Lee (AYH)</p>
+<p>Mrs Leong Wee Choo</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Gopi Krishnan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Faye Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
