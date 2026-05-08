@@ -283,10 +283,124 @@ the 2024 GCE A-Level Examination.</p>
 <h4><strong>CCA Achievements</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Uniformed Group</strong>
+<summary><strong>National Police Cadet Corps</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>National Police Cadet Corps</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Unit Overall Proficiency Award</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distinction Award (consecutive
+since 2022)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SPF-NPCC Badge Award 2026</strong>
+<br>National award presented to top graduating NPCC cadets in Singapore for
+outstanding leadership and contributions to the Corps.
+<br><strong>Recipients</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kesha Jelita Binte Mohamed
+Zainal, 4C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Station Inspector</strong>
+<br>Highest student cadet rank attainable in NPCC.
+<br><strong>Recipients</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kesha Jelita Binte Mohamed
+Zainal, 4C
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neo Yuting (Liang Yuting),
+4B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Best Unit Cadet</strong>
+<br>Annual recognition presented to exemplary cadets who embody the values
+of the school, corps and unit.
+<br><strong>Recipients</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neo Yuting (Liang Yuting),
+4B
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gopi Dhiraj, 4F</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>National Cadet Corps (Land)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>National Cadet Corps (Land)</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NCC Unit Recognition Award</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distinction Award (consecutive
+since 2018)
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gold Award (2009–2017, prior
+to the award category revision)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Girls’ Brigade</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Girls’ Brigade</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Company Award</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gold Award (consecutive since
+2010)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Pioneer Brigader Brooch (PBB) Award</strong>
+<br>Highest national award attainable by a GB girl in Singapore.
+<br><strong>Recipients</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jayaraman Ashmitha, 4F</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -372,6 +486,12 @@ to the award category revision)</p>
 </tr>
 </tbody>
 </table>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Uniformed Group</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
