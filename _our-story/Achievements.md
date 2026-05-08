@@ -4,7 +4,7 @@ permalink: /our-story/achievements/
 description: ""
 variant: tiptap
 ---
-<h3> ACHIEVEMENTS</h3>
+<h3>ACHIEVEMENTS</h3>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h3><strong>2026 Achir</strong></h3>
+<h3><strong>2026</strong></h3>
 </th>
 </tr>
 </tbody>
