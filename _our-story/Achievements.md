@@ -85,7 +85,7 @@ the 2024 GCE A-Level Examination.</p>
 </details>
 </div>
 <h3><strong>CCA Achievements</strong></h3>
-<h4>✦  <strong>Uniformed Group</strong></h4>
+<h4>✦ <strong>Uniformed Group</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>National Police Cadet Corps</strong>
@@ -206,7 +206,7 @@ to the award category revision)</p>
 </div>
 </details>
 </div>
-<h4>✦<strong>  Physical Sports</strong></h4>
+<h4>✦<strong> Physical Sports</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Track &amp; Field</strong>
@@ -398,7 +398,7 @@ emerged as one of the winners of LOF 2025 – Essay Competition</p>
 </details>
 </div>
 <h3><strong>CCA Achievements</strong></h3>
-<h4>✦  <strong>Clubs and Societies</strong></h4>
+<h4>✦ <strong>Clubs and Societies</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Infocomm Club</strong>
@@ -438,7 +438,7 @@ and 6 honorable mentions</p>
 </div>
 </details>
 </div>
-<h4>✦  <strong>Uniformed Group</strong></h4>
+<h4>✦ <strong>Uniformed Group</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>National Cadet Corps (Land)</strong>
@@ -585,7 +585,7 @@ of the school, corps and unit.
 </div>
 </details>
 </div>
-<h4>✦  <strong>Physical Sports</strong></h4>
+<h4>✦ <strong>Physical Sports</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Track &amp; Field</strong>
@@ -630,7 +630,7 @@ Read more about Sai's and Darshan's achievements here.</p>
 </div>
 </details>
 </div>
-<h4>✦  <strong>Visual and Performing Arts</strong></h4>
+<h4>✦ <strong>Visual and Performing Arts</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Singapore Youth Festival (SYF) 2025</summary>
