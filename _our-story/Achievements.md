@@ -261,6 +261,7 @@ finished 4th in both the 3000m Final and 1500m Final.</p>
 </details>
 </div>
 <p></p>
+<h4><strong>Academic Achievements</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Academic Achievements</strong>
@@ -278,11 +279,8 @@ received ACJC’s Scholastic Merit Award for his academic performance for
 the 2024 GCE A-Level Examination.</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary><strong>CCA Achievements</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+</div>
+<h4><strong>CCA Achievements</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Uniformed Group</strong>
@@ -477,10 +475,6 @@ finished 4th in both the 3000m Final and 1500m Final.</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
-<p></p>
 </div>
 </details>
 </div>
