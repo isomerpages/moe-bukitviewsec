@@ -396,39 +396,7 @@ emerged as one of the winners of LOF 2025 – Essay Competition</p>
 </div>
 </details>
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <h3><strong>CCA Achievements</strong></h3>
-</td>
-</tr>
-</tbody>
-</table>
-<h3></h3>
 <h4><strong>Clubs and Societies</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -654,6 +622,63 @@ Read more about Sai's and Darshan's achievements here.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/track_nsg.png">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<h4><strong>Visual and Performing Arts</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Singapore Youth Festival (SYF) 2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>SYF 2025 Arts Presentation</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dance Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Drama Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Choir</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Concert Band</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 </tbody>
