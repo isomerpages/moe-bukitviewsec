@@ -5,7 +5,21 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Achievements</strong></h2>
-<h3><strong>2026</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h2><strong>2026</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -71,7 +85,6 @@ the 2024 GCE A-Level Examination.</p>
 </div>
 <h3><strong>CCA Achievements</strong></h3>
 <h4><strong>Uniformed Group</strong></h4>
-<hr>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>National Police Cadet Corps</strong>
@@ -192,12 +205,10 @@ to the award category revision)</p>
 </div>
 </details>
 </div>
-<p></p>
 <h4><strong>Physical Sports</strong></h4>
-<hr>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Track &amp; Field </strong>
+<summary><strong>Track &amp; Field</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 25px">
@@ -207,7 +218,7 @@ to the award category revision)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Track &amp; Field </strong>
+<p><strong>Track &amp; Field</strong>
 </p>
 </td>
 </tr>
@@ -284,9 +295,23 @@ finished 4th in both the 3000m Final and 1500m Final.</p>
 </div>
 </details>
 </div>
-<p></p>
+<h4></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <h2><strong>2025</strong></h2>
-<h4><strong>Academic Achievements</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__12_.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h3><strong>Academic Achievements</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Academic Achievements</strong>
@@ -305,21 +330,330 @@ finished 4th in both the 3000m Final and 1500m Final.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sorkalam 2026 – National Tamil Debate Competition</strong>
-</p>
-<p>A team of 4 Tamil Language students represented BVSS at the national competition.</p>
-<p>Achievement</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rajaram Joshika Sri (4G) was
-awarded Best Speaker in the first round.</p>
+<p><strong>Yellowren Inter-School Canvas Art Competition</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our team of Sec 3 students took part
+in the Yellowren Inter-school Canvas Art Competition held at the Lower
+Seletar Reservoir and achieved the Honorable Mention Award!</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ACJC’s Scholastic Merit Award</strong>
+<p><strong>Singapore Junior Biology Olympiad (SJBO) 2025</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Silver -&nbsp; Tay Kai Yi 4G (top
+10%)
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bronze – Rosie Augusta Samuel, Natalie
+Nata Yew 4G (top 25%)
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Honorable Mention - Ter Jia Xuan
+Sonya, Rebecca Rajan George 4G (top 40%)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Junior Chemistry Olympiad (SJChO) 2025</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bronze award – Ye Wenkai 4G (top
+25%)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Junior</strong>  <strong>Physics Olympiad (SJPO) 2025</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bronze – Tay Kai Yi 4G (top 25%)
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Honorable Mention - Sonali Senapati
+4G (top 40%)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SASMO and SMo</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SASMO - 2 Golds, 2 Silvers, 14 Bronze
+and 8 Honourable Mentions
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SMO - 2 Silvers, 1 Bronze and 5 Honourable
+Mentions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Live On Festival (LOF) 2025 – Design and Essay Competition</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Out of more than 3,500 essays and
+3,000 artworks received from 130 schools, Denzel Lee Kheng Ghee (2A) has
+emerged as one of the winners of LOF 2025 – Essay Competition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Green Schools @ South West 2024</strong>
+<br>5 environmental modules:
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dengue Prevention
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Litter-Free
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clean Eateries
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 Rs – Reduce, Reuse, Recycle
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Energy Conservation</p>
+<p>Attained 3 Stars (highest tier)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<h3><strong>CCA Achievements</strong></h3>
+</td>
+</tr>
+</tbody>
+</table>
+<h3></h3>
+<h4><strong>Clubs and Societies</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Infocomm Club</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Bebras Computational Thinking Challenge</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Infocomm club members achieved
+3 Golds, 3 Silvers, 9 Bronzes &amp; 10 Honorable Mentions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Young Technopreneur Challenge</strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lee Zhi Rui, Shane (2022, 4F) has
-received ACJC’s Scholastic Merit Award for his academic performance for
-the 2024 GCE A-Level Examination.</p>
+<p><strong>First prize </strong>and <strong>Best Presentation</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Infocomm Club - Faheem Ahamed
+(2D), Boddu Chetan Varma (3C), Lee Jung Kye (Ldr, 3F) and Tan Jun Hao Davian
+(3F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Junior Infocomm Olympiad (NJIO)</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4 Gold, 3 Silver, 13 Bronze
+and 6 honorable mentions</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<h4><strong>Uniformed Group</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>National Cadet Corps (Land)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>National Cadet Corps (Land)</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NCC Unit Recognition Award</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distinction Award (consecutive
+since 2018)
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gold Award (2009–2017, prior
+to the award category revision)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Boys’ Brigade</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Boys’ Brigade</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>J M Fraser Award for Excellence </strong>
+<br><strong>Outstanding Cadet Award</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thiveshraj Seva, 4F</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Girls’ Brigade</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Girls’ Brigade</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Company Award</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gold Award (consecutive since
+2010)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Pioneer Brigader Brooch (PBB) Award</strong>
+<br>Highest national award attainable by a GB girl in Singapore.
+<br><strong>Recipients</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selvakumar Sahana Sri, 4G</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>National Police Cadet Corps</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>National Police Cadet Corps</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Unit Overall Proficiency Award</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distinction Award (consecutive
+since 2022)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SPF-NPCC Badge Award 2026</strong>
+<br>National award presented to top graduating NPCC cadets in Singapore for
+outstanding leadership and contributions to the Corps.
+<br><strong>Recipients</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Louanne Goh Han En, 4F</p>
+<p>• Dina Qhaisara Khan Binte Hafiz Khan, 4D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Station Inspector</strong>
+<br>Highest student cadet rank attainable in NPCC.
+<br><strong>Recipients</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nur Daniya Ashlynn Binte Muhammad
+Khalid, 4D
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dina Qhaisara Khan Binte Hafiz
+Khan, 4D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Best Unit Cadet</strong>
+<br>Annual recognition presented to exemplary cadets who embody the values
+of the school, corps and unit.
+<br><strong>Recipients</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuri<u>nsyirah</u> Binte Solaiman,
+4A
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gunasekaran <u>Baranik</u>umar,
+4E</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<h4><strong>Physical Sports</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Track &amp; Field</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Track &amp; Field</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NSG</strong>
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B Division Boys - Out of 102
+secondary schools that participated, only 22 schools appear in the Divisional
+Rankings and Bukit View was placed 11th out of these 22 schools.
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C Division Boys - Out of 102
+secondary schools that participated, only 25 schools appear in the Divisional
+Rankings and Bukit View was placed 14th out of these 25 schools.
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source: <a href="https://nsg.rjcat.com/sectrack_2025/ss_home.php?mypage=divscore.htm" rel="noopener noreferrer nofollow" target="_blank">https://nsg.rjcat.com/sectrack_2025/ss_home.php?mypage=divscore.htm</a>
+</p>
+<p>Congratulations to all our student athletes who participated in the NSG!
+Read more about Sai's and Darshan's achievements here.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/track_nsg.png">
+</div>
 </td>
 </tr>
 </tbody>
