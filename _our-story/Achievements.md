@@ -4,7 +4,7 @@ permalink: /our-story/achievements/
 description: ""
 variant: tiptap
 ---
-<h2>★ ACHIEVEMENTS</h2>
+<h3> ACHIEVEMENTS</h3>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -13,10 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h2><strong>2026</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
-</div>
+<h3><strong>2026 Achir</strong></h3>
 </th>
 </tr>
 </tbody>
@@ -43,7 +40,7 @@ recognition through the Pioneer Brigader Brooch Award.</div>
 </div>
 </div>
 </div>
-<h3><strong>Academic Achievements</strong></h3>
+<h4><strong>Academic Achievements</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Academic Achievements</strong>
@@ -84,7 +81,7 @@ the 2024 GCE A-Level Examination.</p>
 </div>
 </details>
 </div>
-<h3><strong>CCA Achievements</strong></h3>
+<h4><strong>CCA Achievements</strong></h4>
 <h4>✦ <strong>Uniformed Group</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -304,15 +301,12 @@ finished 4th in both the 3000m Final and 1500m Final.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h2><strong>2025</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/Banner and Divider/Untitled_design__14_.png">
-</div>
+<h3><strong>2025</strong></h3>
 </th>
 </tr>
 </tbody>
 </table>
-<h3><strong>Academic Achievements</strong></h3>
+<h4><strong>Academic Achievements</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Academic Achievements</strong>
@@ -397,7 +391,7 @@ emerged as one of the winners of LOF 2025 – Essay Competition</p>
 </div>
 </details>
 </div>
-<h3><strong>CCA Achievements</strong></h3>
+<h4><strong>CCA Achievements</strong></h4>
 <h4>✦ <strong>Clubs and Societies</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
