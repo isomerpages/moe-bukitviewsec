@@ -4,6 +4,33 @@ permalink: /our-story/achievements/
 description: ""
 variant: tiptap
 ---
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/clubs_and_societies__1_.svg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<h2><strong>       2026</strong></h2>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Achievements</strong> 2026</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
