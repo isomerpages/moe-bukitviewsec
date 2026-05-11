@@ -85,10 +85,14 @@ future.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong><u>2. Sembenviro Recycling League</u></strong></h4>
-<p>BVSS actively participates in this competition, <strong>achieving second place in the secondary school category</strong>.
-This initiative encourages students to recycle plastic, paper, metal, and
-e-waste, promoting a zero-waste culture.</p>
+<h4><strong><u>2. CORA School Recycling League</u></strong></h4>
+<p>Bukit View Secondary has clinched the Silver Award in the CORA School
+Recycling League 2025. Our school’s recycling rate has grown tremendously
+— from 187 kg in 2024 to 621.6 kg in 2025! This remarkable improvement
+reflects our collective commitment to sustainability and environmental
+stewardship, with an encouraging increase in both the volume and variety
+of recyclables collected — including metals, e-waste, three types of plastics,
+and paper.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -99,12 +103,13 @@ e-waste, promoting a zero-waste culture.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Distinctives/Environmental/Sembenviro1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycling_volunteers.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Our Distinctives/Environmental/Sembenviro2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CORA_Silver.png">
 </div>
 </td>
 </tr>
