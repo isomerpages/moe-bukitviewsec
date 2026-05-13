@@ -6,14 +6,16 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/3.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/10.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Infocomm_Club_Formal.jpg">
 </div>
+<p></p>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/4.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
 </div>
 <p>We aspire to level up the skills of our students in Infocomm areas including
 Digital Animation, Games Development and Coding.</p>
@@ -41,7 +43,7 @@ communicate ideas in their school work</div>
 </div>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/5.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
 </div>
 <p><strong>Members have the opportunities</strong>
 </p>
@@ -107,7 +109,7 @@ communicate ideas in their school work</div>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/6.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -156,9 +158,8 @@ communicate ideas in their school work</div>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/7.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
 </div>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album__3_.svg">
 </div>
@@ -173,9 +174,8 @@ communicate ideas in their school work</div>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/8.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
 </div>
-<p></p>
 <details class="isomer-details">
 <summary><strong>LIST OF EXECUTIVE COMMITTEE (EXCO) MEMBERS</strong>
 </summary>
