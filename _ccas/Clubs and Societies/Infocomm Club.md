@@ -17,11 +17,9 @@ variant: tiptap
 </div>
 <p>We aspire to level up the skills of our students in Infocomm areas including
 Digital Animation, Games Development and Coding.</p>
-<h4><strong>Student Experience</strong></h4>
-<p>
-<br>
+<p><strong>Student Experience</strong>
 </p>
-<h4>The Infocomm Club aims to :</h4>
+<p>The Infocomm Club aims to :</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -45,22 +43,13 @@ communicate ideas in their school work</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/5.svg">
 </div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/6.svg">
-</div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>SHOWCASES &amp; EVENTS</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Members have the opportunities</p>
+<p><strong>Members have the opportunities</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>To learn computational thinking through coding using the following:</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <ul>
 <li>
 <p>Scratch</p>
@@ -81,8 +70,9 @@ communicate ideas in their school work</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary>To take part in the following competitions/ activities</summary>
+<summary>To take part in the following competitions/ activities:</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <ul>
 <li>
 <p>BBSS X SCOGA Campus Legend Competition</p>
@@ -115,12 +105,10 @@ communicate ideas in their school work</div>
 </div>
 </details>
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/6.svg">
 </div>
-</details>
-<details class="isomer-details">
-<summary><strong>HONORS &amp; RECOGNITION</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -139,7 +127,7 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Bebras</strong>
+<p><strong><em>Bebras</em></strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -148,7 +136,7 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>National Junior Informatics Olympiad</strong>
+<p><strong><em>National Junior Informatics Olympiad</em></strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -157,7 +145,7 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Young Technoprenuer Challenge</strong>
+<p><strong><em>Young Technoprenuer Challenge</em></strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -167,22 +155,29 @@ communicate ideas in their school work</div>
 </tbody>
 </table>
 <p></p>
-</div>
-</details>
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/7.svg">
 </div>
 <h4></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album__3_.svg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album__1_.svg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album.svg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album__2_.svg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/8.svg">
 </div>
 <p></p>
 <details class="isomer-details">
-<summary><strong>LIST OF EXECUTIVE COMMITTEE (EXCO) MEMBERS </strong>
+<summary><strong>LIST OF EXECUTIVE COMMITTEE (EXCO) MEMBERS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
