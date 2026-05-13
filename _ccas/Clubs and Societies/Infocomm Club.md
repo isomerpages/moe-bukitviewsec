@@ -5,11 +5,16 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<h2><strong>Infocomm Club</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/3.svg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Infocomm_Club_Formal.jpg">
 </div>
-<h4><strong>About the CCA</strong></h4>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/4.svg">
+</div>
 <p>We aspire to level up the skills of our students in Infocomm areas including
 Digital Animation, Games Development and Coding.</p>
 <h4><strong>Student Experience</strong></h4>
@@ -37,7 +42,15 @@ communicate ideas in their school work</div>
 </div>
 </div>
 </div>
-<h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/5.svg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/6.svg">
+</div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>SHOWCASES &amp; EVENTS</strong>
@@ -158,22 +171,15 @@ communicate ideas in their school work</div>
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<h4><strong>GALLERY</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Photo_album__1_.svg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Photo_album__3_.svg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Photo_album.svg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Photo_album__2_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/7.svg">
 </div>
 <h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/8.svg">
+</div>
 <details class="isomer-details">
 <summary>List of EXCO Members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -201,7 +207,8 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairperson</p>
+<p><strong>Chairperson</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lau Jun Yu</p>
@@ -212,7 +219,8 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Vice- Chairperson</p>
+<p><strong>Vice- Chairperson</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lee Jung Kye</p>
@@ -231,7 +239,8 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Welfare</p>
+<p><strong>Head of Welfare</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nihal Naushad Bin Mohammed Muzammeen</p>
@@ -242,7 +251,8 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Welfare committee member</p>
+<p><strong>Welfare committee member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boddu Chetan Varma</p>
@@ -253,7 +263,8 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Media and Communications</p>
+<p><strong>Head of Media and Communications</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chua Denise Cristine Billar</p>
@@ -264,7 +275,8 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Media and Communications committee member</p>
+<p><strong>Media and Communications committee member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ayden Soh Yan Qi</p>
@@ -275,7 +287,8 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Tech for Good</p>
+<p><strong>Head of Tech for Good</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kam Siu Haap</p>
@@ -286,7 +299,8 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tech for Good committee member</p>
+<p><strong>Tech for Good committee member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jovie Lim Jun Le</p>
@@ -297,7 +311,8 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Admin and Logistics</p>
+<p><strong>Head of Admin and Logistics</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Jun Hao Davian</p>
@@ -308,7 +323,8 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin and Logistics Committee member</p>
+<p><strong>Admin and Logistics Committee member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tsang Yan Jun Merwin</p>
