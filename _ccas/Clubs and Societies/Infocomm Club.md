@@ -14,30 +14,31 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
 </div>
+<p></p>
+<blockquote>
 <p>We aspire to level up the skills of our students in Infocomm areas including
 Digital Animation, Games Development and Coding.</p>
-<h4><strong>Student Experience</strong></h4>
-<p>The Infocomm Club aims to :</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Excite students about the possibilities of infocomm through a structured
-curriculum;</div>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Expand students’ creative and entrepreneurial spirit through application
-of infocomm in school;</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Equip students with 21st century infocomm skills so that they can creatively
-communicate ideas in their school work</div>
-</div>
-</div>
-</div>
+<p><strong>The Infocomm Club aims to :</strong>
+</p>
+<ul>
+<li>
+<p>Excite students about the possibilities of infocomm through a structured
+curriculum;</p>
+</li>
+<li>
+<p>Expand students’ creative and entrepreneurial spirit through application
+of infocomm in school;</p>
+</li>
+<li>
+<p>Equip students with 21st century infocomm skills so that they can creatively
+communicate ideas in their school work</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
 </div>
@@ -45,7 +46,7 @@ communicate ideas in their school work</div>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>To learn computational thinking through coding using the following:</summary>
+<summary>&gt; To learn computational thinking through coding using the following:</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <ul>
@@ -68,7 +69,7 @@ communicate ideas in their school work</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary>To take part in the following competitions/ activities:</summary>
+<summary>&gt; To take part in the following competitions/ activities:</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <ul>
