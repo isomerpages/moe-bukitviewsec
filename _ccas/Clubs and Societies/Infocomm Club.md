@@ -67,7 +67,6 @@ communicate ideas in their school work</div>
 <details class="isomer-details">
 <summary>To take part in the following competitions/ activities</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>In 2024/2025</p>
 <ul>
 <li>
 <p>BBSS X SCOGA Campus Legend Competition</p>
@@ -128,7 +127,7 @@ communicate ideas in their school work</div>
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>3 Gold, 3 Silver, 9 Bronze and 10 Honorable Mentions</p>
+<p>3 Gold, 1 silver, 9 bronze and 15 honorable mentions</p>
 </td>
 </tr>
 <tr>
@@ -258,66 +257,7 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 </div>
 </div>
 </div>
-<h4><strong>CCA TRAINING DAY(S)/ TIME</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Day(s)</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:45 pm – 5:30 pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>TEACHERS-IN-CHARGE</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Patricia Lye</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Lee Poh Tin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kendrick Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
 <details class="isomer-details">
 <summary>List of EXCO Members</summary>
@@ -352,7 +292,7 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 <p>Lau Jun Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F</p>
+<p>4F</p>
 </td>
 </tr>
 <tr>
@@ -363,7 +303,7 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 <p>Lee Jung Kye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F</p>
+<p>4F</p>
 </td>
 </tr>
 <tr>
@@ -371,7 +311,7 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 <p>Elamaran Neerasree</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E</p>
+<p>4E</p>
 </td>
 </tr>
 <tr>
@@ -382,7 +322,7 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 <p>Nihal Naushad Bin Mohammed Muzammeen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3D</p>
+<p>4D</p>
 </td>
 </tr>
 <tr>
@@ -393,7 +333,7 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 <p>Boddu Chetan Varma</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3C</p>
+<p>4C</p>
 </td>
 </tr>
 <tr>
@@ -404,7 +344,7 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 <p>Chua Denise Cristine Billar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3B</p>
+<p>4B</p>
 </td>
 </tr>
 <tr>
@@ -415,7 +355,7 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 <p>Ayden Soh Yan Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3G</p>
+<p>4G</p>
 </td>
 </tr>
 <tr>
@@ -426,7 +366,7 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 <p>Kam Siu Haap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3G</p>
+<p>4G</p>
 </td>
 </tr>
 <tr>
@@ -437,7 +377,7 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 <p>Jovie Lim Jun Le</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F</p>
+<p>4F</p>
 </td>
 </tr>
 <tr>
@@ -448,7 +388,7 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 <p>Tan Jun Hao Davian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F</p>
+<p>4F</p>
 </td>
 </tr>
 <tr>
@@ -459,7 +399,7 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 <p>Tsang Yan Jun Merwin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3G</p>
+<p>4G</p>
 </td>
 </tr>
 </tbody>
