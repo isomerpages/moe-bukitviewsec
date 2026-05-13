@@ -174,14 +174,16 @@ communicate ideas in their school work</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/7.svg">
 </div>
-<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
+<h4></h4>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Header/8.svg">
 </div>
+<p></p>
 <details class="isomer-details">
-<summary>List of EXCO Members</summary>
+<summary><strong>LIST OF EXECUTIVE COMMITTEE (EXCO) MEMBERS </strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 75px">
