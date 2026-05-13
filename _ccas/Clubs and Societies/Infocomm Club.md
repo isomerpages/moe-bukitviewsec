@@ -40,6 +40,11 @@ communicate ideas in their school work</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/schedule___teacher_info.svg">
+</div>
+<p>🔗<strong><a href="https://www.bukitviewsec.moe.edu.sg/cca-training-timetable/" rel="noopener nofollow" target="_blank">View Training Schedule &amp; Teacher Information</a></strong>
+</p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
 </div>
 <p><strong>Members have the opportunities</strong>
@@ -109,7 +114,7 @@ communicate ideas in their school work</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album__2_.svg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album__2_.svg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -160,14 +165,31 @@ communicate ideas in their school work</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album__3_.svg">
-</div>
+<p>Click to view photos from our CCA activities and training.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Activities</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album__1_.svg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album.svg">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Training</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album__3_.svg">
+</div>
+<p></p>
+</div>
+</details>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
