@@ -9,10 +9,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Infocomm_Club_Formal.jpg">
 </div>
-<h4><strong>BACKGROUND</strong></h4>
+<h4><strong>About the CCA</strong></h4>
 <p>We aspire to level up the skills of our students in Infocomm areas including
 Digital Animation, Games Development and Coding.</p>
-<h4><strong>OBJECTIVES</strong></h4>
+<h4><strong>Student Experience</strong></h4>
+<p>
+<br>
+</p>
 <h4>The Infocomm Club aims to :</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -154,115 +157,27 @@ communicate ideas in their school work</div>
 </div>
 </details>
 </div>
-<h4><strong>PHOTO GALLERY</strong></h4>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
+<p></p>
+<p></p>
+<h4><strong>GALLERY</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Clubs and Societies/Infocomm Club/World_Water_Day.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Photo_album__1_.svg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">World Water Day (WWD)</div>
-<div class="isomer-card-description">1a) Developing games to raise awareness about World Water Day (WWD) 1b)
-Mending the booth during WWD - inviting school mates to play the games
-infocomm club members have created</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Infocomm club/CCA_Awards_Day.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Photo_album__3_.svg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">CCA Awards Day</div>
-<div class="isomer-card-description">Acknowledging individuals who exceed expectations</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Clubs and Societies/Infocomm Club/National_Youth_Tech_Championship__replace_current_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Photo_album.svg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">National Youth Tech Championship</div>
-<div class="isomer-card-description">A competition focused on learning and using drones to stay updated with
-rapidly evolving technology organised by Infocomm Media Development Authority
-(IMDA) hosted at Google Headquarters</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ict" src="/images/CCA Page/Clubs and Societies/Infocomm Club/Young_Technoprenuer.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Photo_album__2_.svg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Young Technopreneur</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="lk" src="/images/CCA Page/Clubs and Societies/Infocomm Club/VIA_teaching_elderly_Google_translate.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">VIA</div>
-<div class="isomer-card-description">Teaching the elderly in the use of Google translate</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Olympiad" src="/images/CCA Page/Clubs and Societies/Infocomm Club/National_Junior_Informatics_Olympiad_Please_replace_DrCT_photo.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">National Junior Informatics Olympiad</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LJ" src="/images/CCA Page/Clubs and Societies/Infocomm Club/Learning_Journey_to_Trueworld_Studios.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Learning Journey to Trueworld Studios</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt=".." src="/images/CCA Page/Clubs and Societies/Infocomm Club/Robotics_with_AI_replace_Robotics_Session_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Robotics with AI</div>
-<div class="isomer-card-description">Learning to programme robots to solve real-world problems</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VR" src="/images/CCA Page/Clubs and Societies/Infocomm Club/VR_Arkio_3D_City_Building_Workshop.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">VR Arkio 3D City Building Workshop</div>
-</div>
-</div>
-</div>
-<h4></h4>
 <h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
 <details class="isomer-details">
 <summary>List of EXCO Members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
