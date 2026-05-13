@@ -47,7 +47,7 @@ communicate ideas in their school work</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
 </div>
-<p><strong>Members have the opportunities</strong>
+<p><strong>Members have opportunities to:</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
