@@ -5,55 +5,75 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h2><strong>Dance Club</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/Dance_Club.svg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Dance_Club_Formal.jpg">
 </div>
-<h4><strong>BACKGROUND</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
+</div>
 <p>The BVSS Dance Club aims to expose members to many forms of dance to develop
 their artistic sensibilities. Various platforms, within the school, at
 the community and national levels, are provided for the members to showcase
 their talents. Members hone their dance skills and deepen their appreciation
 towards the aesthetics. As they become more confident, they are encouraged
 to further develop their passion and discover their full potential. They
-also acquire values of teamwork, discipline and responsibility in the process.</p>
-<p>The instructors work closely with the teachers-in-charge to craft the
+also acquire values of teamwork, discipline and responsibility in the process.
+<br>
+<br>The instructors work closely with the teachers-in-charge to craft the
 dance programme at the start of the year. During regular practice sessions,
 members are trained on the basic moves and dance techniques to build up
 their competencies. Different dance genres are also introduced to allow
 the members to acquire the performance skills. The dance members train
 hard prior to each performance and have been sustaining excellent performances
 over the years.</p>
-<p><strong><em>OBJECTIVES</em></strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
+</div>
+<p><strong>The Dance Club aims to :</strong>
 </p>
-<p>The objectives of BVSS Dance Club are to nurture the love for dance as
-a performing art and to expose the students to various genres of dance
-in order to encourage creativity, resilience and passion for the arts.</p>
-<h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
-<details class="isomer-details">
-<summary><strong>SHOWCASES &amp; EVENTS</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Performed at various school events, e.g. Chinese New Year Celebrations,
-Achieve &amp; Excel Day, National Day Celebrations</p>
+<p>Nurture the love for dance as a performing art</p>
 </li>
 <li>
-<p>Attended Dance Camp organised by JUMP Productions</p>
-</li>
-<li>
-<p>Student leaders attended AMPLIFIED! DanceLab24: Youth Leadership Dance
-Camp</p>
+<p>Expose the students to various genres of dance in order to encourage creativity,
+resilience and passion for the arts.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/schedule___teacher_info.svg">
 </div>
-</details>
-<details class="isomer-details">
-<summary><strong>HONORS &amp; RECOGNITION</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>🔗<strong><a href="https://www.bukitviewsec.moe.edu.sg/cca-training-timetable/" rel="noopener nofollow" target="_blank">View Training Schedule &amp; Teacher Information</a></strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Performed at various school events, including Chinese New Year Celebrations,
+40th Anniversary Combined Concert, National Day Celebrations, and Open
+House.</p>
+</li>
+<li>
+<p>Attended the JUMP Leadership Summit 2025 via Zoom, organised by JUMP Productions.</p>
+</li>
+<li>
+<p>Participated in JumpFest25 Day Camp organised by JUMP Productions.</p>
+</li>
+<li>
+<p>Carried out a Values-in-Action (VIA) project, SG60 National Day Performance
+and Bookmark Distribution.</p>
+<p></p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -62,7 +82,8 @@ Camp</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2025 Arts Presentations</p>
+<p><strong>SYF 2025 Arts Presentations</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Distinction</p>
@@ -70,7 +91,8 @@ Camp</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2023 Arts Presentations</p>
+<p><strong>SYF 2023 Arts Presentations</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
@@ -78,7 +100,8 @@ Camp</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2021 Arts Presentations</p>
+<p><strong>SYF 2021 Arts Presentations</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
@@ -86,7 +109,8 @@ Camp</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2019 Arts Presentations</p>
+<p><strong>SYF 2019 Arts Presentations</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Commendation</p>
@@ -94,10 +118,11 @@ Camp</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
 </div>
-</details>
-<h4><strong>PHOTO GALLERY</strong></h4>
-<p>Please click to view the photos of event.</p>
+<p>Click to view photos from our CCA activities and training.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>CHOIR &amp; DANCE EXCHANGE</strong>
@@ -299,11 +324,16 @@ Camp</p>
 </div>
 </details>
 </div>
-<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
+</div>
+<p></p>
 <details class="isomer-details">
-<summary><strong>List of EXCO Members</strong>
+<summary><strong>LIST OF EXECUTIVE COMMITTEE (EXCO) MEMBERS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -324,85 +354,90 @@ Camp</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>President</p>
+<p><strong>President</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vijayakumar JoylynPrincy</p>
+<p>HO SI HUI, TRINICE A'PRIL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3 -F</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-President</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Catherine Cing Nuam Dim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S2 -C</p>
+<p>S3-A</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secretary</p>
+<p><strong>Vice President</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rainie Ang Hui En</p>
+<p>CHEVELLE AW YUN EN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3 -B</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Group Leader</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ezanne Ho Yu Xin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S3 -D</p>
+<p>S3-D</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Welfare</p>
+<p><strong>Secretary</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tori Tan Hui Qi</p>
+<p>VIJAYAKUMAR AMIRTHA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S2 -H</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wardrobe IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subburaj Mohana Priya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S3 -D</p>
+<p>S3-D</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Lower Sec Group Leader</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loh Chen Ning Jazel</p>
+<p>ONG ZHI NING BERNICE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S2 -D</p>
+<p>S3-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Welfare</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEOW JING CI AMELCIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wardrobe IC</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE YING CHUO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wardrobe IC</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIA JIA XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-H</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h5></h5>
 </div>
 </details>
 <p></p>
