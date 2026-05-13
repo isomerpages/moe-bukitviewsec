@@ -16,8 +16,7 @@ variant: tiptap
 </div>
 <p>We aspire to level up the skills of our students in Infocomm areas including
 Digital Animation, Games Development and Coding.</p>
-<p><strong>Student Experience</strong>
-</p>
+<h4><strong>Student Experience</strong></h4>
 <p>The Infocomm Club aims to :</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
