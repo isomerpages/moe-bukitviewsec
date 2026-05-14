@@ -14,34 +14,34 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
 </div>
-<p>The BVSS Dance Club aims to expose members to many forms of dance to develop
-their artistic sensibilities. Various platforms, within the school, at
-the community and national levels, are provided for the members to showcase
-their talents. Members hone their dance skills and deepen their appreciation
-towards the aesthetics. As they become more confident, they are encouraged
-to further develop their passion and discover their full potential. They
-also acquire values of teamwork, discipline and responsibility in the process.
-<br>
-<br>The instructors work closely with the teachers-in-charge to craft the
-dance programme at the start of the year. During regular practice sessions,
-members are trained on the basic moves and dance techniques to build up
-their competencies. Different dance genres are also introduced to allow
-the members to acquire the performance skills. The dance members train
-hard prior to each performance and have been sustaining excellent performances
-over the years.</p>
+<p>The BVSS Dance Club aims to nurture students’ passion for dance while
+developing their artistic expression, confidence, and teamwork. Members
+are exposed to various dance genres and provided with opportunities to
+perform at school, community, and national platforms. Through regular training
+and performances, students strengthen their dance techniques, creativity,
+discipline, and resilience while deepening their appreciation for the performing
+arts. Guided by dedicated instructors and teachers-in-charge, members are
+encouraged to discover their potential and strive for excellence in every
+performance.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
 </div>
-<p><strong>The Dance Club aims to :</strong>
+<p><strong>The Dance Club aims to:</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Nurture the love for dance as a performing art</p>
+<p>Nurture students’ passion and appreciation for dance as a performing art</p>
 </li>
 <li>
-<p>Expose the students to various genres of dance in order to encourage creativity,
-resilience and passion for the arts.</p>
+<p>Expose students to various dance genres to develop creativity, resilience,
+and confidence</p>
+</li>
+<li>
+<p>Develop teamwork, discipline, and leadership through training and performances</p>
+</li>
+<li>
+<p>Provide opportunities for artistic expression and performance experiences</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -49,28 +49,37 @@ resilience and passion for the arts.</p>
 </div>
 <p>🔗<strong><a href="https://www.bukitviewsec.moe.edu.sg/cca-training-timetable/" rel="noopener nofollow" target="_blank">View Training Schedule &amp; Teacher Information</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
 </div>
+<p><strong>Members have opportunities to:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Performed at various school events, including Chinese New Year Celebrations,
-40th Anniversary Combined Concert, National Day Celebrations, and Open
-House.</p>
+<p>Perform at school events such as Chinese New Year Celebrations, National
+Day Celebrations, Open House, and the 40th Anniversary Combined Concert</p>
 </li>
 <li>
-<p>Attended the JUMP Leadership Summit 2025 via Zoom, organised by JUMP Productions.</p>
+<p>Attend leadership and enrichment programmes such as the JUMP Leadership
+Summit 2025 organised by JUMP Productions</p>
 </li>
 <li>
-<p>Participated in JumpFest25 Day Camp organised by JUMP Productions.</p>
+<p>Participate in dance camps and workshops, including JumpFest25 Day Camp
+organised by JUMP Productions</p>
 </li>
 <li>
-<p>Carried out a Values-in-Action (VIA) project, SG60 National Day Performance
-and Bookmark Distribution.</p>
-<p></p>
+<p>Carry out Values-in-Action (VIA) initiatives such as the SG60 National
+Day Performance and Bookmark Distribution</p>
+</li>
+<li>
+<p>Prepare for performances and competitions through regular training and
+rehearsals</p>
+</li>
+<li>
+<p>Collaborate with peers during performances, workshops, and school events</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
 </div>
@@ -118,7 +127,6 @@ and Bookmark Distribution.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
 </div>
