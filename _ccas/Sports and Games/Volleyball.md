@@ -64,7 +64,34 @@ persevered and fought hard in every game they played.</p>
 </details>
 </div>
 <hr>
-<h4><strong>EXECUTIVE COMMITTEE MEMBERS</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
+</div>
+<p>Click to view photos from our CCA activities and training.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Activities</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Volleyball2.svg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Volleyball.svg">
+</div>
+</div>
+</details>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
+</div>
+<details class="isomer-details">
+<summary><strong>LIST OF EXECUTIVE COMMITTEE (EXCO) MEMBERS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -85,43 +112,48 @@ persevered and fought hard in every game they played.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Level Reps</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Naw Keziah Hsay
-<br>Adeline Ong
-<br>Tsai Min En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3F
-<br>3G
-<br>3E</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 2 Level Reps</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Richelle Hong
-<br>Crystal Ker
-<br>Haruka Chia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2H
-<br>2H
-<br>2G</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Level Reps</p>
+<p><strong>Upper Sec Captain</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Elise Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1C</p>
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Upper Sec Exco</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elynna Tan</p>
+<p>Vera Kung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lower Sec Exco</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Javelle Pey
+<br>Cara Ho</p>
+<p>&nbsp;Marilyn Ye</p>
+<p>Charis Tan&nbsp;</p>
+<p>Vanessa&nbsp; Bong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+<p>3F</p>
+<p>3F</p>
+<p>2H</p>
+<p>2B</p>
 </td>
 </tr>
 <tr>
@@ -137,4 +169,8 @@ persevered and fought hard in every game they played.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+<p></p>
 <p></p>
