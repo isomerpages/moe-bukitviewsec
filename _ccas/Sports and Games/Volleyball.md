@@ -7,64 +7,97 @@ variant: tiptap
 ---
 <h2><strong>Volleyball</strong></h2>
 <div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" src="/images/Volleyball-Logo-300x220.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Volleyball_Formal.jpg">
 </div>
-<h3><strong>BACKGROUND</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/Volleyball-Logo-300x220.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
 </div>
-<p>The Bukit View Secondary School (BVSS) Volleyball team is dedicated to
-fostering a culture that provides our athletes the mental and physical
-training necessary to help them reach their highest potential on the court
-as individuals and team players. We stress the importance of self-discipline,
-positive relationships between athletes and coach, and individual goals
-and aspirations.</p>
-<p>There are two divisions comprising nearly 45 players altogether. Training
-occurs twice a week throughout the year to prepare the girls for various
-competitions, such as the yearly West Zone Inter-school tournaments and
-the Under 14 National Competitions organized by the Volleyball Association
-of Singapore.</p>
-<p>We have many activities that provide the players with the opportunities
-to improve on their skills on court. Trainings can be tough and tiring,
-but it definitely is rewarding when the efforts put in result in good performance
-during competitions.</p>
+<p>The BVSS Volleyball team is committed to cultivating a culture of excellence
+that supports both the mental and physical development of our athletes.
+Through dedicated training, students are encouraged to reach their fullest
+potential — not only as individuals, but also as valuable team players.</p>
+<p>The programme emphasises self-discipline, teamwork and perseverance while
+fostering strong coach–athlete relationships. Through regular training
+and competitions, students develop resilience, responsibility and leadership
+skills that extend beyond the court.</p>
+<p><strong>MISSION</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Developing character through the pursuit of excellence.</p>
+</li>
+</ul>
+<p><strong>VISION</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To create and maintain an environment that develops character while promoting
+leadership, responsibility and accountability among all Volleyball members.</p>
+</li>
+</ul>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">VISION</div>
-<div class="isomer-card-description">To foster a positive environment that develops character, leadership,
-responsibility and accountability among our Volleyball members. Through
-rigorous training, players cultivate perseverance, teamwork and commitment
-— skills essential for success both on the court and in life.</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Weekly training sessions focused on technical and tactical development</p>
+</li>
+<li>
+<p>Participation in the National School Games Volleyball Championships</p>
+</li>
+<li>
+<p>Opportunities to strengthen teamwork, resilience and sportsmanship</p>
+</li>
+<li>
+<p>Exposure to competitive match experiences and game strategies</p>
+</li>
+<li>
+<p>Building confidence, discipline and commitment through sportsk</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/schedule___teacher_info.svg">
 </div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">MISSION</div>
-<div class="isomer-card-description">Developing character through the pursuit of excellence</div>
+<p>🔗<strong><a href="https://www.bukitviewsec.moe.edu.sg/cca-training-timetable/" rel="noopener nofollow" target="_blank">View Training Schedule &amp; Teacher Information</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
 </div>
+<p><strong>Members have opportunities to:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participate in inter-school competitions and friendly matches</p>
+</li>
+<li>
+<p>Develop volleyball techniques and gameplay strategies</p>
+</li>
+<li>
+<p>Build teamwork and communication skills through training sessions</p>
+</li>
+<li>
+<p>Strengthen resilience, discipline and sportsmanship</p>
+</li>
+<li>
+<p>Represent the school in the National School Games Volleyball Championships</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Volleyball3.svg">
 </div>
-<h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>PARTICIPATION / ACHIEVEMENT(S)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>The B Division girls managed to participate in the National School Games
-West Zone Volleyball Championship this year. The playing format was reverted
-to 6v6. Although the girls faced many strong teams in our grouping, they
-persevered and fought hard in every game they played.</p>
-<p></p>
-<p>National School Games - 'B' Division Girls</p>
-<p></p>
-</div>
-</details>
-</div>
-<hr>
-<p></p>
+<p>Both the B and C Division girls participated in the National School Games
+Volleyball Championships this year. Despite facing strong opponents, the
+team demonstrated perseverance, determination and teamwork throughout the
+competition, striving to give their best in every match while growing together
+as a team.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
 </div>
