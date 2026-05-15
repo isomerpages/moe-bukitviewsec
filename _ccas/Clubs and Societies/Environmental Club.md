@@ -5,15 +5,14 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<h2><strong>Environmental Club</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width:25%" height="auto" width="100%" src="/images/club_logo (200 x 195).jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Environmental_Club_Formal.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/club_logo (200 x 195).jpg">
 </div>
 <p>Established in 2005, the Environmental Club aims to nurture environmentally-conscious
 students through sustainability projects, community involvement, and hands-on
@@ -21,8 +20,9 @@ learning experiences. Members apply scientific knowledge and practical
 skills through activities such as urban farming, aquaponics, hydroponics,
 and eco-product creation. Through environmental initiatives and community
 outreach programmes, students develop teamwork, leadership, responsibility,
-and a deeper appreciation for environmental sustainability.</p>
-<h5><strong>MISSION</strong></h5>
+and a deeper appreciation for environmental sustainability.
+<br><strong>MISSION</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>To enrich students’ education through involvement in environmental and
@@ -32,7 +32,8 @@ community activities</p>
 <p>To provide an all-rounded education for students</p>
 </li>
 </ul>
-<h5><strong>VISION</strong></h5>
+<p><strong>VISION</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Leaders for a more sustainable world</p>
