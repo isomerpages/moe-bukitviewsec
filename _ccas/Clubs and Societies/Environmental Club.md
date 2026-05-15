@@ -41,7 +41,7 @@ community activities</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
 </div>
-<p>The Environmental Club aims to:</p>
+<p>The <strong>Environmental Club</strong> aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Develop environmental awareness and sustainability practices</p>
@@ -162,18 +162,24 @@ students</p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="515" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rV2fPgIim0o"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="475" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rV2fPgIim0o"></iframe>
 </div>
 <p>
-<br>
+<br><strong>Our Ecogarden</strong>
 </p>
-<p></p>
-<p></p>
-<h4>Our Ecogarden</h4>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/20160505_082827-1024x576.jpg">
 </div>
-<h4>EXECUTIVE COMMITTEE MEMBERS</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
+</div>
+<p></p>
+<details class="isomer-details">
+<summary><strong>LIST OF EXECUTIVE COMMITTEE (EXCO) MEMBERS</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -227,5 +233,8 @@ students</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<p></p>
 <p><strong>For further information, please visit our&nbsp;<a href="https://www.instagram.com/bvss_envclub?igsh=MnJsYjQxdmhlaXd4" rel="noopener noreferrer nofollow" target="_blank">Environmental Club Instagram Page</a></strong>
 </p>
