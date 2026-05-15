@@ -123,7 +123,7 @@ leadership, responsibility and accountability among all Volleyball members.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Volleyball3.svg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Volleyball3.svg">
 </div>
 <p>Both the B and C Division girls participated in the National School Games
 Volleyball Championships this year. Despite facing strong opponents, the
