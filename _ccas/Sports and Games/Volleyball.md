@@ -136,7 +136,7 @@ as a team.</p>
 <p>Click to view photos from our CCA activities and training.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Activities</strong>
+<summary><strong>Events/Activities</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
