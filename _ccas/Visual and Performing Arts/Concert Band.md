@@ -9,50 +9,85 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Concert_Band_Formal.jpg">
 </div>
-<h4>MISSION</h4>
-<p>The Band seeks to bring out the very best in every student that comes
-under our charge. We, the Bukit View Military Band stand for:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>INTEGRITY</strong>: Doing the right thing all the time</p>
-</li>
-<li>
-<p><strong>UNITY</strong>: Lasting friendships that drive common goals</p>
-</li>
-<li>
-<p><strong>EXCELLENCE</strong>: Exceeding expectations in all endeavours
-in our Musical Journey.</p>
-</li>
-</ul>
-<h4>BACKGROUND</h4>
-<p>The Band seeks to bring out the best in all our members. Our members are
-given opportunities to perform in concerts and school events. We also give
-ample opportunities to hone their leadership and organization skills through
-the weekly practices and engaging activities such as camps and games. This
-year, the Band was able to showcase their talents and obtain an Accomplishment
-Award at the Singapore Youth Festival Arts Presentation. We look forward
-to an exciting 2023 as we prepare for this year’s programmes.​</p>
-<h4><br><strong>HIGHLIGHT OF THE YEAR</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>SHOWCASES &amp; EVENTS</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Music Exchange</strong> with ACS (Barker road)</p>
-</li>
-<li>
-<p><strong>School Events - </strong><em>Performances for:</em> Teachers’ Day,
-National Day, Youth Day</p>
-</li>
-</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
 </div>
-</details>
-<details class="isomer-details">
-<summary><strong>AWARDS AND ACHIEVEMENTS</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>The Concert Band aims to bring out the best in every member through music,
+teamwork, and leadership development. Guided by the values of Integrity,
+Unity, and Excellence, members are given opportunities to develop their
+musical talents and perform at concerts, school events, and national platforms.
+Through regular practices, performances, camps, and collaborative activities,
+students strengthen their discipline, confidence, teamwork, and appreciation
+for music.</p>
+<p><strong>Mission</strong>
+</p>
+<p>The Band seeks to bring out the very best in every student through the
+values of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Integrity</strong> – Doing the right thing all the time</p>
+</li>
+<li>
+<p><strong>Unity </strong>– Building lasting friendships that drive common
+goals</p>
+</li>
+<li>
+<p><strong>Excellence </strong>– Exceeding expectations in all endeavours
+throughout the musical journey</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
+</div>
+<p>The Concert Band aims to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop students’ musical knowledge and performance skills</p>
+</li>
+<li>
+<p>Build confidence, discipline, and teamwork through performances and practices</p>
+</li>
+<li>
+<p>Provide opportunities for leadership and organisational development</p>
+</li>
+<li>
+<p>Encourage appreciation for music through collaborative learning experiences</p>
+</li>
+<li>
+<p>Foster friendships and camaraderie through camps, exchanges, and performances</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/schedule___teacher_info.svg">
+</div>
+<p>🔗<strong><a href="https://www.bukitviewsec.moe.edu.sg/cca-training-timetable/" rel="noopener nofollow" target="_blank">View Training Schedule &amp; Teacher Information</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
+</div>
+<p><strong>Members have opportunities to:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Perform at concerts, school events, and national platforms</p>
+</li>
+<li>
+<p>Participate in music exchanges and collaborative performances</p>
+</li>
+<li>
+<p>Take part in camps, bonding activities, and leadership experiences</p>
+</li>
+<li>
+<p>Prepare for performances and SYF presentations through regular rehearsals</p>
+</li>
+<li>
+<p>Develop musical techniques and ensemble performance skills</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -61,15 +96,15 @@ National Day, Youth Day</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Achievement / Competition</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Details</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2025 Arts Presentations</p>
+<p>SYF 2025 Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
@@ -77,7 +112,7 @@ National Day, Youth Day</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2023 Arts Presentations</p>
+<p>SYF 2023 Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
@@ -85,7 +120,7 @@ National Day, Youth Day</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2021 Arts Presentations (Percussion Ensemble)</p>
+<p>SYF 2021 Arts Presentation (Percussion Ensemble)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Distinction</p>
@@ -93,7 +128,7 @@ National Day, Youth Day</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2021 Arts Presentations (Woodwind Ensemble)</p>
+<p>SYF 2021 Arts Presentation (Woodwind Ensemble)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
@@ -101,46 +136,30 @@ National Day, Youth Day</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2019 Arts Presentations</p>
+<p>SYF 2019 Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
 </div>
-</details>
-</div>
-<h4><strong>PHOTO GALLERY</strong></h4>
-<p>Please click to view the photos of event.</p>
+<p>Click to view photos from our CCA activities and training.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Music Exchange with ACS (Barker road)</strong>
+<summary><strong>Events/Activities</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -152,6 +171,11 @@ National Day, Youth Day</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/music%20exchange%20with%20monfort%20sec.png">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/cca%20awareness.jpg">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -159,33 +183,6 @@ National Day, Youth Day</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/music%20exchange%20with%20pasir%20ris%20sec.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>SYF 2025</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/syf%202023%201.jpg">
@@ -197,66 +194,19 @@ National Day, Youth Day</p>
 </div>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 </div>
 </details>
-<details class="isomer-details">
-<summary><strong>CCA Awareness Day</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Visual%20and%20Performing%20Arts/Concert%20Band/cca%20awareness.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
-<p></p>
-<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>List of EXCO Members</strong>
+<summary><strong>LIST OF EXECUTIVE COMMITTEE (EXCO) MEMBERS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -373,9 +323,7 @@ National Day, Youth Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JOSHVA JOVAN PAUL
-<br>DHARMATILLEKE N AMBAGAHADUWAGE DON SAHAN BUDDHIKA
-<br>
-</p>
+<br>DHARMATILLEKE N AMBAGAHADUWAGE DON SAHAN BUDDHIKA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3C
@@ -441,9 +389,7 @@ National Day, Youth Day</p>
 <br>Euphonium: NG JUN JAY (HUANG JUN)
 <br>Tuba : THANGARAJU PRADEEP
 <br>String Bass : JU HYUNTAE
-<br>Percussion : THO XIN YUE
-<br>
-</p>
+<br>Percussion : THO XIN YUE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4B
@@ -456,26 +402,11 @@ National Day, Youth Day</p>
 <br>3G
 <br>4F
 <br>4F
-<br>4F
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<br>4F</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 </div>
 </details>
-</div>
 <p></p>
