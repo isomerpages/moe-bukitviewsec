@@ -89,7 +89,7 @@ leadership, responsibility and accountability among all Volleyball members.</p>
 <p>Exposure to competitive match experiences and game strategies</p>
 </li>
 <li>
-<p>Building confidence, discipline and commitment through sportsk</p>
+<p>Building confidence, discipline and commitment through sports</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
