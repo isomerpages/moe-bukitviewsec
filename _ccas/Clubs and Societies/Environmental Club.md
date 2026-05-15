@@ -9,31 +9,27 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Environmental_Club_Formal.jpg">
 </div>
-<h4>BACKGROUND</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/club_logo (200 x 195).jpg">
 </div>
-<p>The Environmental Club was formally started in 2005. We are a group of
-students who are involved in protecting the Environment as well as serving
-the Community through VIA. We applied what we have learnt in Science and
-has produced many green products such as organic soap, orange oil, candle
-in the jar and mostly recently hydroponic vegetables. The skills that we
-have learnt were put into good use and we were able to attain the Gold
-Award and the Most Earth-friendly Enterprise at the National Youth Business
-Challenge organised by Fraser Centrepoint Malls and Ngee Ann Polytechnic.
-Our other achievements includes the Lotus Sustained Achievement Award at
-the School Green Awards and the Gold award for the Green Schools @ South
-West CDC. Currently, we are embarking on several projects: Green School
-for Biodiversity organized by NParks, Urban farming and Aquaponics and
-worm-tea making. We also conduct our brand of ecotrail – Ecolibrium to
-Primary School Students.</p>
+<p>Established in 2005, the Environmental Club aims to nurture environmentally-conscious
+students through sustainability projects, community involvement, and hands-on
+learning experiences. Members apply scientific knowledge and practical
+skills through activities such as urban farming, aquaponics, hydroponics,
+and eco-product creation. Through environmental initiatives and community
+outreach programmes, students develop teamwork, leadership, responsibility,
+and a deeper appreciation for environmental sustainability.</p>
 <h5><strong>MISSION</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>To enrich students’ education through involvement in our activities.</p>
+<p>To enrich students’ education through involvement in environmental and
+community activities</p>
 </li>
 <li>
-<p>To provide an all-rounded education for our students</p>
+<p>To provide an all-rounded education for students</p>
 </li>
 </ul>
 <h5><strong>VISION</strong></h5>
@@ -42,7 +38,7 @@ Primary School Students.</p>
 <p>Leaders for a more sustainable world</p>
 </li>
 </ul>
-<h5><strong>OBJECTIVES</strong></h5>
+<h5></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students will be involved in protecting the Environment, as well as serving
@@ -209,11 +205,13 @@ at Gardens By the Bay**</p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="515" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rV2fPgIim0o"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="515" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rV2fPgIim0o"></iframe>
 </div>
 <p>
 <br>
 </p>
+<p></p>
+<p></p>
 <h4>Our Ecogarden</h4>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/20160505_082827-1024x576.jpg">
