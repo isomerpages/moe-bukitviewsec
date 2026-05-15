@@ -38,24 +38,62 @@ community activities</p>
 <p>Leaders for a more sustainable world</p>
 </li>
 </ul>
-<h5></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
+</div>
+<p>The Environmental Club aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students will be involved in protecting the Environment, as well as serving
-the Community through CIP</p>
+<p>Develop environmental awareness and sustainability practices</p>
 </li>
 <li>
-<p>Students will be equipped with basic life skills e.g communication skills,
-team work, leadership skills and ability to plan an event.</p>
+<p>Equip students with teamwork, communication, and leadership skills</p>
 </li>
 <li>
-<p>Students will be learn advanced skills e.g research skills</p>
+<p>Provide opportunities for hands-on scientific learning and research</p>
 </li>
 <li>
-<p>Students will become more aware of the applications of science leadership</p>
+<p>Encourage community involvement through VIA and outreach projects</p>
+</li>
+<li>
+<p>Develop planning and organisational skills through environmental initiatives</p>
 </li>
 </ul>
-<h4>CCA TRAINING DAY(S)/ TIME</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/schedule___teacher_info.svg">
+</div>
+<p>🔗<strong><a href="https://www.bukitviewsec.moe.edu.sg/cca-training-timetable/" rel="noopener nofollow" target="_blank">View Training Schedule &amp; Teacher Information</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
+</div>
+<p><strong>Members have opportunities to:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participate in environmental events such as Singapore World Water Day,
+Earth Hour, and Youth for the Environment Day</p>
+</li>
+<li>
+<p>Attend leadership programmes including the Student Environmental Leadership
+Conference (SELC)</p>
+</li>
+<li>
+<p>Take part in learning journeys to places such as NTU Green Campus and
+Gardens by the Bay</p>
+</li>
+<li>
+<p>Engage in sustainability projects including urban farming, aquaponics,
+and hydroponics</p>
+</li>
+<li>
+<p>Conduct outreach activities such as Ecolibrium ecotrails for primary school
+students</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -64,95 +102,10 @@ team work, leadership skills and ability to plan an event.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Day(s)</p>
+<p>Achievement / Competition</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:40 pm – 5:40 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>TEACHERS-IN-CHARGE</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Johnny Tan Chong Han</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ang Kim Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Vinod Kumar S/O Rajasegaran</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>HIGHLIGHT OF THE YEAR</h4>
-<h5><strong>PARTICIPATION</strong></h5>
-<h5>Opportunities:</h5>
-<p>Student Environmental Leadership Conference (SELC), Presentations at Festival
-of Biodiversity, Singapore World Water Day, Youth for the Environment Day,
-Earth Hour, Green Wave**</p>
-<h5>Learning Journey:</h5>
-<p>NTU Green Campus, Old Police Academy at Fort Road, Singapore Garden Festival
-at Gardens By the Bay**</p>
-<h4>AWARDS AND ACHIEVEMENTS</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<p>Details</p>
 </th>
 </tr>
 <tr>
@@ -201,7 +154,11 @@ at Gardens By the Bay**</p>
 </tr>
 </tbody>
 </table>
-<p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
+</div>
+<p>Click to view photos from our CCA activities and training.
 <br>
 </p>
 <div class="iframe-wrapper">
