@@ -5,7 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h2>In the News</h2>
+<h4>Bukit View Secondary School's Track and Field CCA featured in IN section of the Straits Times</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_15_at_11_17_12__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_15_at_11_17_12.jpg">
+</div>
 <h4>LEAP Award 2025</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -22,7 +30,7 @@ as one of the 20 to be granted this award. Do watch the video below to
 hear her belief and what the students have to say about Ms Joy. (2.39 to
 3.10)</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LJGfBLFzQJM?si=YCNbwM5rpEzOjUC1&amp;start=159"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LJGfBLFzQJM?si=YCNbwM5rpEzOjUC1&amp;start=159"></iframe>
 </div>
 <p>Read more about it here: <a href="https://www.shhk.com.sg/newsroom/leap-award-2025/" rel="noopener noreferrer nofollow" target="_blank">https://www.shhk.com.sg/newsroom/leap-award-2025/</a>
 </p>
