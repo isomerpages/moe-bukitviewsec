@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Sports and Games
 ---
-<h2><strong>Floorball</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/Floorball.svg">
+</div>
 <h5><em>"A team above all. Above all a team."</em></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Floorball_Formal.jpg">
