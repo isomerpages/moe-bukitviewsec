@@ -6,9 +6,12 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Girl_s_Brigade_Formal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/GB.svg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Girl_s_Brigade_Formal.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/GB1.jpg">
 </div>
