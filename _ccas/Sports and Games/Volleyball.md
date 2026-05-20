@@ -5,48 +5,19 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<h2><strong>Volleyball</strong></h2>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<h2></h2>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Volleyball-Logo-300x220.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/Volleyball.svg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Volleyball_Formal.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" src="/images/Volleyball-Logo-300x220.jpg">
 </div>
 <p>The BVSS Volleyball team is committed to cultivating a culture of excellence
 that supports both the mental and physical development of our athletes.
