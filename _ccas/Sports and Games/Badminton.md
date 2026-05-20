@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<h2><strong>BADMINTON</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/Badminton.svg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Group Photo/Badminton_Formal.jpg">
