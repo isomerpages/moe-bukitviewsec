@@ -5,13 +5,11 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h2><strong>Media &amp; Publicity Club</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Mediapub1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/Media___Pub__1_.svg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Media_and_Publicity_Formal.jpg">
 </div>
