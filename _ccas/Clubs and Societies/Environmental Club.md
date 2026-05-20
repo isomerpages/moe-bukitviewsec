@@ -6,22 +6,49 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/club_logo (200 x 195).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/envclub.svg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Environmental_Club_Formal.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
 </div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/club_logo (200 x 195).jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Established in 2005, the Environmental Club aims to nurture environmentally-conscious
 students through sustainability projects, community involvement, and hands-on
 learning experiences. Members apply scientific knowledge and practical
 skills through activities such as urban farming, aquaponics, hydroponics,
 and eco-product creation. Through environmental initiatives and community
 outreach programmes, students develop teamwork, leadership, responsibility,
-and a deeper appreciation for environmental sustainability.
-<br><strong>MISSION</strong>
+and a deeper appreciation for environmental sustainability.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>MISSION</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
