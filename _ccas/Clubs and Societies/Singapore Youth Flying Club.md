@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/YFC.svg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/rwimage_1%20(600%20x%20202).jpg">
 </div>
