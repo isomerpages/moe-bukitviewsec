@@ -6,6 +6,10 @@ third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/Drama_Club__1_.svg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Drama_Club_Formal.jpg">
 </div>
 <p></p>
@@ -239,6 +243,7 @@ elements through regular rehearsals and performances</p>
 </div>
 </details>
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
 </div>
