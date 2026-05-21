@@ -130,8 +130,9 @@ as a team.</p>
 <summary><strong>LIST OF EXECUTIVE COMMITTEE (EXCO) MEMBERS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -140,6 +141,9 @@ as a team.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>EXCO Positions</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>NAME</p>
@@ -154,6 +158,9 @@ as a team.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Elise Tay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,6 +171,9 @@ as a team.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Upper Sec Exco</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Elynna Tan</p>
@@ -178,6 +188,9 @@ as a team.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Lower Sec Exco</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Javelle Pey
@@ -195,6 +208,9 @@ as a team.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
