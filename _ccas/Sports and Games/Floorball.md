@@ -12,7 +12,9 @@ third_nav_title: Sports and Games
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Floorball_Formal.jpg">
 </div>
-<h4>BACKGROUND</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
+</div>
 <p>Through teamwork, floorball aims to instill responsibility, confidence
 and discipline in our students. The team is building up their skills and
 strength through trainings and gaining experiences from tournaments and
@@ -29,7 +31,21 @@ our students to stay healthy and active through sports while learning the
 values of sportsmanship, leadership and zest.</p>
 </li>
 </ul>
-<h4>HIGHLIGHT OF THE YEAR</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/schedule___teacher_info.svg">
+</div>
+<p>🔗<strong><a href="https://www.bukitviewsec.moe.edu.sg/cca-training-timetable/" rel="noopener nofollow" target="_blank">View Training Schedule &amp; Teacher Information</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
+</div>
+<p><strong>Members have opportunities to:</strong>
+</p>
 <h5>| <strong>ACHIEVEMENT(S) &amp; PARTICIPATION</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -39,9 +55,6 @@ values of sportsmanship, leadership and zest.</p>
 <p>National School Games 'C' Division Floorball Championships</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CCA%20Page/Sports%20&amp;%20Games/Floorball/farewell%20for%20sec%204.png">
-</div>
 <p>
 <br>
 </p>
@@ -78,18 +91,10 @@ values of sportsmanship, leadership and zest.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CCA%20Page/Sports%20&amp;%20Games/Floorball/2023%20b%20div%20nsg%202.png">
-</div>
-<p>
-<br>B Div Team</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CCA%20Page/Sports%20&amp;%20Games/Floorball/2023%20b%20div%20nsg.png">
-</div>
-<p>
-<br>B Div NSG Tournament</p>
+<p></p>
 </td>
 </tr>
 <tr>
