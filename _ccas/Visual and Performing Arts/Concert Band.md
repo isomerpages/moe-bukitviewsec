@@ -209,9 +209,10 @@ throughout the musical journey</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
 </div>
+<p><strong>Meet Our Executive Committee (EXCO) Members</strong>
+</p>
 <details class="isomer-details">
-<summary><strong>LIST OF EXECUTIVE COMMITTEE (EXCO) MEMBERS</strong>
-</summary>
+<summary>Click to view members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 75px">
