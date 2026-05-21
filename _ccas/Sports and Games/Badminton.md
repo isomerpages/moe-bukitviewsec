@@ -126,7 +126,11 @@ for their all-round development.</p>
 </tr>
 </tbody>
 </table>
-<h4>EXECUTIVE COMMITTEE MEMBERS</h4>
+<p></p>
+<p></p>
+<p><strong>Meet Our Executive Committee (EXCO) Members</strong>
+</p>
+<p>Click to view members</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
