@@ -15,43 +15,60 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
 </div>
-<p>In Bukit View Secondary School, Badminton Club was established about ten
-years ago. From a small club with only about 10 members, it has been gaining
-from strength to strength. Currently, we have a total of more than 50 badminton
-members.</p>
-<p>In line with our school emphasis on Positive Education, the main aim of
-our club is to inculcate positive purpose and engagement in students. We
-would like the spirit of sportsmanship, zest and perseverance to be internalised
-by our students. Our training is tailored to cater to the students’ well-being
-so that they value the positive engagement with their teammates and coaches
-during the practice sessions. Through the training sessions, Badminton
-Club promotes the awareness of good health and positive emotion during
-the workouts and physical activities.</p>
-<h4>MISSION</h4>
+<p>Established more than ten years ago, the Badminton Club aims to develop
+students’ passion for badminton while promoting sportsmanship, teamwork,
+resilience, and positive well-being. From a small club of about 10 members,
+the club has grown steadily to more than 50 members today.</p>
+<p>In line with the school’s emphasis on Positive Education, the club seeks
+to nurture positive purpose and engagement among students through meaningful
+training experiences and team interactions. Members develop technical badminton
+skills, physical fitness, discipline, and confidence while learning the
+values of perseverance, teamwork, and positive sportsmanship.</p>
+<p><strong>Mission</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Inculcate compassion, integrity, perseverance, respect and responsibility
-among the members.</p>
+<p>Inculcate compassion, integrity, perseverance, respect, and responsibility
+among members</p>
 </li>
 <li>
-<p>Instruct and train our students with the skills and techniques of playing
-badminton competently, and develop a positive spirit of sportsmanship.</p>
+<p>Equip students with badminton skills and techniques while developing a
+positive spirit of sportsmanship</p>
 </li>
 <li>
-<p>Create an awareness about the importance of engaging in physical activities
-in our students’ daily life.</p>
+<p>Promote awareness of the importance of physical activity and healthy living
+in students’ daily lives</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
 </div>
+<p>The <strong>Badminton Club</strong> aims to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop badminton techniques and game strategies through structured training</p>
+</li>
+<li>
+<p>Build sportsmanship, resilience, and teamwork through practices and competitions</p>
+</li>
+<li>
+<p>Promote positive well-being and healthy lifestyles through physical activities</p>
+</li>
+<li>
+<p>Equip students with discipline, confidence, and perseverance</p>
+</li>
+<li>
+<p>Encourage teamwork and positive engagement among members</p>
 <p></p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/schedule___teacher_info.svg">
 </div>
 <p>🔗<strong><a href="https://www.bukitviewsec.moe.edu.sg/cca-training-timetable/" rel="noopener nofollow" target="_blank">View Training Schedule &amp; Teacher Information</a></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
 </div>
@@ -59,33 +76,28 @@ in our students’ daily life.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Every training begins with physical session which includes stretching,
-push-up and agility training. Subsequently, coaches will train the students
-with strokes, drop shot, net play and so on. Training is tailored to each
-student based on their needs and understanding.</p>
+<p>Participate in physical conditioning, agility, and badminton training
+sessions</p>
 </li>
 <li>
-<p>Our training is divided into the senior division and the junior division.
-The seniors have their training every Friday while the juniors have theirs
-on Wednesday. The students are very enthusiastic about the sport. They
-are actively engaged during training. The culture of playing badminton
-is evident in Bukit View Secondary School as many students will play badminton
-in open areas of the school. Our goals is to inculcate the school’s values
-into this sport while engaging the students in meaningful and healthy activities
-for their all-round development.</p>
+<p>Learn badminton techniques such as basic strokes, drop shots, smashes,
+and net play</p>
+</li>
+<li>
+<p>Develop match strategies and gameplay skills through regular practices</p>
+</li>
+<li>
+<p>Represent the school in competitions such as the National School Games
+(NSG) Badminton Championships</p>
+</li>
+<li>
+<p>Build teamwork and resilience through training and competitive experiences</p>
+<p></p>
 </li>
 </ul>
-<h5>| <strong>PARTICIPATION</strong> |</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>B-Division National School Games (West Zone) Boys Badminton Championship
-2023</p>
-</li>
-<li>
-<p>C-Division National School Games (West Zone) Boys Badminton Championship
-2023</p>
-</li>
-</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -93,145 +105,136 @@ for their all-round development.</p>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Achievement / Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Details</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/CCA Page/Sports &amp; Games/Badminton/c_div_badminton_boys.jpeg">
-</div>
-<p>
-<br>C-division Boys</p>
+<p>National School Games (NSG) Boys Badminton Championships 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/picture7.png">
-</div>
-<p>
-<br>B division Boys</p>
+<p>B-Division Participation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/picture2.png">
-</div>
-<p></p>
-<p>Fitness Training</p>
+<p>National School Games (NSG) Boys Badminton Championships 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/picture3.png">
-</div>
-<p>
-<br>In Action During Competitive Match</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/picture4.png">
-</div>
-<p>Getting Ready for Competitive Match</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CCA%20Page/Sports%20&amp;%20Games/Badminton/picture5.png">
-</div>
-<p>
-<br>
-</p>
+<p>C-Division Participation</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
+</div>
+<p>Click to view photos from our CCA activities and training.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Activities / Training</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/CCA_20266__8_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/CCA_20266__6_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/CCA_20266__7_.png">
+</div>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
 </div>
 <p><strong>Meet Our Executive Committee (EXCO) Members</strong>
 </p>
-<p>Click to view members</p>
-<table style="minWidth: 75px">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Click to view members</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>B-Division (Upper Secondary)</strong>
+</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>EXCO Positions</p>
+<p>EXCO Position</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>NAME</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>CLASS</p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="3">
-<p>Upper Secondary</p>
+<p>Name</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Captain (B Division)</p>
+<p>Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raakesh P Naidu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 F</p>
+<p>Lim Jia Jie</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairperson (b Division)</p>
+<p>Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Soon Wei Brandon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 D</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="3">
-<p>Lower Secondary</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Captain (C Division)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dylan Jun Wu Prakash</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 E</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairperson (C Division)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ong Hao En Ethan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 G</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Vuda Pranav</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><strong>C-Division (Lower Secondary)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>EXCO Position</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Li Yijia David</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senthil Harish</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
