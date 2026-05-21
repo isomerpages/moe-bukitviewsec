@@ -154,4 +154,7 @@ every single point.</p>
 </details>
 </div>
 <h4></h4>
+<p><strong>Meet Our Executive Committee (EXCO) Members</strong>
+</p>
+<p>Click to view members</p>
 <p></p>
