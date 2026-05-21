@@ -126,6 +126,7 @@ as a team.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
 </div>
+<p></p>
 <details class="isomer-details">
 <summary><strong>LIST OF EXECUTIVE COMMITTEE (EXCO) MEMBERS</strong>
 </summary>
@@ -214,69 +215,6 @@ as a team.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>IST OF EXECUTIVE COMMITTEE (EXCO) MEMBERS</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>EXCO Positions</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>NAME</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Upper Sec Captain</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Elise Tay 4A</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Upper Sec Exco</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Elynna Tan 4G</p>
-<p>Vera Kung 4G</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Lower Sec Exco</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Javelle Pey 3A
-<br>Cara Ho 3F</p>
-<p>&nbsp;Marilyn Ye 3F</p>
-<p>Charis Tan&nbsp;2H</p>
-<p>Vanessa&nbsp; Bong 2B</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
