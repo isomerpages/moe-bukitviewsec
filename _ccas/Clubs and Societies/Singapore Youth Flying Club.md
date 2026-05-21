@@ -147,9 +147,83 @@ Centre</p>
 </details>
 </div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
+</div>
 <p><strong>Meet Our Executive Committee (EXCO) Members</strong>
 </p>
-<p>Click to view members</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Click to view members</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>EXCO Positions</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Full Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Jia Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President (Training)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Xin Zhe Dave</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice- President (Logistics/ Planning)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rafael Martin Palma Gonzaga</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Safety IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Song Mingkai Cayden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<p></p>
 <p><strong>For further information, please visit <a href="www.syfc.sg" rel="noopener noreferrer nofollow" target="_blank">www.syfc.sg</a></strong>
 </p>
