@@ -17,10 +17,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
 </div>
 <p></p>
-<blockquote>
 <p>We aspire to level up the skills of our students in Infocomm areas including
 Digital Animation, Games Development and Coding.</p>
-</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
@@ -170,26 +168,20 @@ communicate ideas in their school work</p>
 <p>Click to view photos from our CCA activities and training.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Activities</strong>
+<summary><strong>Activities / Training</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album__1_.svg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Infocomm_Club__3_.png">
 </div>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Training</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album__3_.svg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Infocomm_Club__1_.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Infocomm_Club__4_.png">
+</div>
 </div>
 </details>
 </div>
