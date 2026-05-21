@@ -143,7 +143,9 @@ for their all-round development.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
+</div>
 <p><strong>Meet Our Executive Committee (EXCO) Members</strong>
 </p>
 <p>Click to view members</p>
