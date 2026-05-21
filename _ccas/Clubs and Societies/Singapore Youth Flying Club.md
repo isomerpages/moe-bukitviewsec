@@ -147,5 +147,9 @@ Centre</p>
 </details>
 </div>
 <p></p>
+<p></p>
+<p><strong>Meet Our Executive Committee (EXCO) Members</strong>
+</p>
+<p>Click to view members</p>
 <p><strong>For further information, please visit <a href="www.syfc.sg" rel="noopener noreferrer nofollow" target="_blank">www.syfc.sg</a></strong>
 </p>
