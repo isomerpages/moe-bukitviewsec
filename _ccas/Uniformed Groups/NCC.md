@@ -207,8 +207,8 @@ and Sports Championship.</p>
 </div>
 </details>
 </div>
-<p></p>
-<h4><strong>Volunteer Adult Leaders/Non-Teachers</strong></h4>
+<p><strong>Volunteer Adult Leaders/Non-Teachers</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Click to view members</summary>
