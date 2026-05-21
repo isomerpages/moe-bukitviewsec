@@ -12,7 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Group Photo/Badminton_Formal.jpg">
 </div>
-<h4>BACKGROUND</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
+</div>
 <p>In Bukit View Secondary School, Badminton Club was established about ten
 years ago. From a small club with only about 10 members, it has been gaining
 from strength to strength. Currently, we have a total of more than 50 badminton
@@ -40,7 +42,21 @@ badminton competently, and develop a positive spirit of sportsmanship.</p>
 in our students’ daily life.</p>
 </li>
 </ul>
-<h4>HIGHLIGHTS OF THE YEAR</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/schedule___teacher_info.svg">
+</div>
+<p>🔗<strong><a href="https://www.bukitviewsec.moe.edu.sg/cca-training-timetable/" rel="noopener nofollow" target="_blank">View Training Schedule &amp; Teacher Information</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
+</div>
+<p><strong>Members have opportunities to:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Every training begins with physical session which includes stretching,
