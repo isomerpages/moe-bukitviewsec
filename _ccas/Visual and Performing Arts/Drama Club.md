@@ -80,59 +80,29 @@ theatre experiences</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Achievement / Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Details</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2025 Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>International Science Drama Competition 2024 (Science Centre)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Third Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2023 Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2021 Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/CCA_20266__3_.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
 </div>
 <p>Click to view photos from our CCA activities and training.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/CCA_20266__4_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/CCA_20266__10_.png">
+</div>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>International Science Drama Competition</strong>
