@@ -12,7 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Table_Tennis_Formal.jpg">
 </div>
-<h4>BACKGROUND</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
+</div>
 <p>Our Table Tennis Team aims to provide opportunities for students not just
 to achieve excellence but also to develop themselves into well-rounded
 individuals by honing their leadership, sportsmanship and mental toughness.</p>
