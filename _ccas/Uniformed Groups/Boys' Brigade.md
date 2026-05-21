@@ -5,11 +5,17 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h2><strong>Boys' Brigade</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/BB__1_.svg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Boy_s_Brigade_Formal.jpg">
 </div>
-<h4>BACKGROUND</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -226,7 +232,10 @@ Quest.</p>
 </tr>
 </tbody>
 </table>
-<h4>EXECUTIVE COMMITTEE MEMBERS</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
+</div>
 <p><strong>Meet Our Executive Committee (EXCO) Members</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -348,4 +357,6 @@ Quest.</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <p></p>
