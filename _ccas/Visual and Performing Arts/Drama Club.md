@@ -66,16 +66,15 @@ Anniversary Concert</p>
 SYF 2025</p>
 </li>
 <li>
-<p>Participate in performances such as <em>The Life of Lee Kuan Yew</em> for
-the National Day School Celebration (2024)</p>
+<p>Develop acting, scriptwriting, improvisation, and stage production skills
+through rehearsals and performances</p>
 </li>
 <li>
-<p>Take part in competitions such as the International Science Drama Competition
-with performances like <em>The Green Metropolis</em> (2024)</p>
+<p>Build confidence, teamwork, and communication skills through collaborative
+theatre experiences</p>
 </li>
 <li>
-<p>Explore acting techniques, scriptwriting, improvisation, and stage production
-elements through regular rehearsals and performances</p>
+<p>Take part in drama-related performances, showcases, and competitions</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -127,32 +126,9 @@ elements through regular rehearsals and performances</p>
 <p>Certificate of Distinction</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2019 Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2017 Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2015 Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
 </div>
@@ -249,8 +225,9 @@ elements through regular rehearsals and performances</p>
 </div>
 <p><strong>Meet Our Executive Committee (EXCO) Members</strong>
 </p>
+<p>Click to view members</p>
 <details class="isomer-details">
-<summary>Click to view members</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
