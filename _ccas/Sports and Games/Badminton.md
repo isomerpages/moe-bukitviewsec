@@ -98,6 +98,10 @@ and net play</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Black___White_Aesthetic_Photo_Collage_Poster.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
