@@ -111,7 +111,12 @@ values of sportsmanship, leadership and zest.</p>
 </tr>
 </tbody>
 </table>
-<h4>EXECUTIVE COMMITTEE MEMBERS (Girls)</h4>
+<p></p>
+<p><strong>Meet Our Executive Committee (EXCO) Members</strong>
+</p>
+<p>Click to view members</p>
+<p><strong>EXCO Members (Girls)</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -281,7 +286,8 @@ values of sportsmanship, leadership and zest.</p>
 </tr>
 </tbody>
 </table>
-<h4>EXECUTIVE COMMITTEE MEMBERS (Boys)</h4>
+<p><strong>EXCO Members (Boys)</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
