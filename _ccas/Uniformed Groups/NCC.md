@@ -193,11 +193,11 @@ and Sports Championship.</p>
 </details>
 </div>
 <p></p>
-<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
+<p><strong>Meet Our Executive Committee (EXCO) Members</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>List of EXCO Members</strong>
-</summary>
+<summary>Click to view members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>
@@ -211,8 +211,7 @@ and Sports Championship.</p>
 <h4><strong>Volunteer Adult Leaders/Non-Teachers</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>List of<strong>Volunteer Adult Leaders/Non-Teachers</strong>
-</summary>
+<summary>Click to view members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>
