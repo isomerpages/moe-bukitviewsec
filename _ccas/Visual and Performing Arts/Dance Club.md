@@ -86,6 +86,10 @@ rehearsals</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album__4_.svg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
