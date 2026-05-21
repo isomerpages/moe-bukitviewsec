@@ -5,7 +5,10 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h1><strong>NCC</strong></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/NCC__2_.svg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Group Photo/NCC_Formal.jpg">
 </div>
@@ -190,11 +193,14 @@ and Sports Championship.</p>
 </details>
 </div>
 <p></p>
-<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
+</div>
+<p><strong>Meet Our Executive Committee (EXCO) Members</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>List of EXCO Members</strong>
-</summary>
+<summary>Click to view members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>
@@ -204,12 +210,11 @@ and Sports Championship.</p>
 </div>
 </details>
 </div>
-<p></p>
-<h4><strong>Volunteer Adult Leaders/Non-Teachers</strong></h4>
+<p><strong>Volunteer Adult Leaders/Non-Teachers</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>List of<strong>Volunteer Adult Leaders/Non-Teachers</strong>
-</summary>
+<summary>Click to view members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>

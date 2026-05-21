@@ -5,270 +5,175 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<h2><strong>Track &amp; Field</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/Track___Field.svg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Track_and_Field_Formal.jpg">
 </div>
-<h4><strong>BACKGROUND</strong></h4>
-<p><strong><em><u>OBJECTIVES</u></em></strong>
-</p>
-<p>Track &amp; Field aspires to instill in Bukit Viewans a greater appreciation
-for the sport as well as qualities of sportsmanship, teamwork and strength
-of character.</p>
-<p>We train twice a week at the Bukit Gombak Stadium or school and focus
-on various aspects of fitness as well as building the mental capacity of
-the students. The training is physically and mentally challenging, which
-helps develop resilience and tenacity among the athletes.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>The track and field training programme focus on the following:·</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
+</div>
+<p>Track &amp; Field aims to instil in Bukit Viewans a greater appreciation
+for the sport while developing sportsmanship, teamwork, resilience, and
+strength of character. Through physically and mentally challenging training
+sessions conducted at Bukit Gombak Stadium and in school, students build
+fitness, discipline, and perseverance while striving to achieve their personal
+best in their respective events.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
+</div>
+<p>Track &amp; Field aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Strength training·</p>
+<p>Develop sportsmanship, teamwork, and resilience through training and competitions</p>
 </li>
 <li>
-<p>Cardio-vascular training·</p>
+<p>Build physical fitness and mental strength through structured training
+programmes</p>
 </li>
 <li>
-<p>Running drills·</p>
+<p>Equip students with skills and techniques for their respective track and
+field events</p>
 </li>
 <li>
-<p>Team bonding activities through games, camps and excursions</p>
+<p>Provide opportunities for leadership and character development</p>
+</li>
+<li>
+<p>Encourage students to strive for excellence and achieve their personal
+best</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/schedule___teacher_info.svg">
 </div>
-</details>
-<details class="isomer-details">
-<summary><strong>Student Outcomes:</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>🔗<strong><a href="https://www.bukitviewsec.moe.edu.sg/cca-training-timetable/" rel="noopener nofollow" target="_blank">View Training Schedule &amp; Teacher Information</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
+</div>
+<p><strong>Members have opportunities to:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learn the skills and training methods for their respective events.</p>
+<p>Participate in strength, cardio-vascular, and running drill training sessions</p>
 </li>
 <li>
-<p>Excel by improving their personal best in the events for which they are
-representing the school.</p>
+<p>Take part in team bonding activities through games, camps, and excursions</p>
 </li>
 <li>
-<p>Experience leadership and character development through opportunities
-provided during the course of the CCA programme.</p>
+<p>Represent the school in competitions such as NSG Track &amp; Field, NSG
+Cross Country, and Pesta Sukan</p>
+</li>
+<li>
+<p>Develop event-specific skills through regular coaching and training</p>
+</li>
+<li>
+<p>Build resilience, discipline, and teamwork through competitive and collaborative
+experiences</p>
+<p></p>
 </li>
 </ul>
-</div>
-</details>
-</div>
-<h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
-<details class="isomer-details">
-<summary><strong>SHOWCASES &amp; EVENTS</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>48 students were registered for<strong> NSG Track &amp; Field for C &amp; B Divisions</strong>
-</p>
-</li>
-<li>
-<p>27 students were registered for <strong>NSG X-Country for C &amp; B Divisions</strong>
-</p>
-</li>
-<li>
-<p>11 students were registered for <strong>Pesta Sukan</strong>
-</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>HONORS &amp; RECOGNITION</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>NSG Track &amp; Field for C &amp; B Divisions</strong>
-</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Achievements: Team Events</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>B &amp; C Boys &amp; Girls 4x100m Teams qualified for the Semi-Finals.</p>
-</li>
-<li>
-<p>B &amp; C Boys 4x400m Teams qualified for the Finals.</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Achievements: Individual Events</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>B Boys – Dylan Ng Yu Loong (4D) 400m Semi-Finalist, 800m 9th</p>
-</li>
-<li>
-<p>B Boys – Jeyaseelan Sai Hayagreev (3G) 10th in 800m, 13th in 1500m</p>
-</li>
-<li>
-<p>B Boys – Sumedha Dathathri Rao (4B) 200m Semi-Finalist, 8th in 100m</p>
-</li>
-<li>
-<p>C Boys – Anand Praveen (2A) 3rd in 800m, 11th in 1500m</p>
-</li>
-<li>
-<p>C Boys – Jayden Ho (2F) 400m Semi-Finalist</p>
-</li>
-</ul>
-</div>
-</details>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
 </div>
 <p></p>
-<p><strong>NSG X-Country for C &amp; B Divisions</strong>
-</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Achievements:</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Jeyaseelan Sai Hayagreev (3G) – 12th in B Boys Category</p>
-<p>Anand Praveen (2A) – 8th in C Boys Category</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/TrackField__1_.png">
 </div>
-</details>
-</div>
-<p>
-<br><strong>Pesta Sukan</strong>
-</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Achievements:</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Jeyaseelan Sai Hayagreev (3G) - Silver Medal in 1500m Run Boys Race &amp;
-Silver Medal in 1500m Walk Boys Race</p>
-</div>
-</details>
-</div>
-<p></p>
-<p>
-<br>
-</p>
-</div>
-</details>
-<h4><strong>PHOTO GALLERY</strong></h4>
-<p>Please click to view the photos of event.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Pesta Sukan 2024</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="220" width="271" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcf8UIAnngk6YUn8M3uoJwivPrxRuMTidL3ruPm-pIAEWq3tjtWq_u6D2OE2l2XOBqCUhHbOJ5RbQ2n3o8VWTBDCRYx_-fcxD7yg4mnS2tUe63qnOAjrXo2tXlodOVsZ8hgZsAHcsLnxR0ZiJbQhA?key=Gez0scnwGpH2X38p98s5huMP">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="196" width="295" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfkQQ6LCU3qhe_s1o1eBkynAS5ghhvz6fOwQi6tikLGfWUEEnkpl81Vme5iQkUOBnGZxSkLGschhNlYRPVICAVl3nZWfIzol9kaOYtCq1dPrqpF_ieYPRUVAws2MpNa3PpIyxahKgbo9Zaw7z8ZEA?key=Gez0scnwGpH2X38p98s5huMP">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="205" width="309" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdgFqUy7wNXpxgGVA9KlhV_H_RGt3hNwumkXwKf_3UX-wNf0urzQ_MHowyJ148ruqpmrFJC0Iv7pAqCNSEcr93f9KXfqrgxkujJ26-rqMvggiP_HUtRy-XL0754XGl39fqaQhcwjmAFow6L586ndcI?key=Gez0scnwGpH2X38p98s5huMP">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="184" width="277" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcB49iEJhLHtF7NuSIW8BcW-Mx9vB3EkzgXg-5chxDEaVAqHQq3Rg0ez-Yjblk0C5g1rSMMYVzOdHMEjaegSKbozlNv72E2KeZ5XAaA9H_hyWKJuEeDnqBLE1iXJc_5YiHDOBSZAXSLY-OFt92_pMU?key=Gez0scnwGpH2X38p98s5huMP">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:-45.11928030201612px;" height="249.00265067337813" width="200" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-o4LF63UayTW81gH5mahLt8PKZGUgaPG40qnPGKlXlA5l2e7q5bvn1iTdFbLACj9l3LipCt1tqdrlAavcW4oWG5jhvbNqxiyNkuAlVOlhP9A8ynaB3HqBGYJvdScLUlucQhaAwMc2NTM3kciiEkA?key=Gez0scnwGpH2X38p98s5huMP">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="188" width="281" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXedBjzFfVOEzViurOSm8dZG-ukaxR5ZU-r-1wvWHbBnKYiB2GU-H4jqhiMsTibNgaCgxSjyblddr6_JMRAzPJI2jVjr52CipRbrmr8U23WLiUMcGH0CmgbL2e7_UDrcxADB0ukP1v-u83J3WbcQBQ?key=Gez0scnwGpH2X38p98s5huMP">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="182" width="273" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeKP4eRwZJglPmdY4hBqAMDzIuIoq2tZ6Oh3dNHBQeTzM27Au69bUWPQ0bEmqavjyrXqjt5iuSGo5Lre1Ep7b7S5qUoZE4waduDELGJrkwPSM65Smm6OTix4AABGVs9zPnMBWVKGCrCPkASz7Ytdg?key=Gez0scnwGpH2X38p98s5huMP">
-</div>
-</td>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="179" width="400" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdtsrtUsCUW_YRfDUQ2Sy7tPX85CgkF8sFssUhWuhn8t9M4vwfGGwd-6iTTwiPtnBzy-5zr7q5KYDRbMPEX8NQhZEuQ-3F2PmrNeJr6DkY7jnoQYDTVqUsNqux_cJXkIkT3vtv7MwN9uTUHAWg5ZA?key=Gez0scnwGpH2X38p98s5huMP">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>NSG Track &amp; Field for C &amp; B Divisions</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 75px">
-<colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/WhatsApp_Image_2024_11_01_at_15_01_13.jpg">
-</div>
+<p>Event / Competition</p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/WhatsApp_Image_2024_11_01_at_15_01_13__1_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/WhatsApp_Image_2024_11_01_at_15_01_12__1_.jpg">
-</div>
+<p>Achievement</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/WhatsApp_Image_2024_11_01_at_15_01_16.jpg">
-</div>
+<p>NSG Track &amp; Field C Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/WhatsApp_Image_2024_11_01_at_15_01_12__2_.jpg">
-</div>
+<p>Jayden Teo Yu Chen qualified for the 1500m and 3000m Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Track &amp; Field B Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Anand Praveen achieved 4th place in the 800m Final</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Track &amp; Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sridarshan achieved 4th place in both the 1500m and 3000m Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Track &amp; Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chow Cheng Kai achieved 5th place in Long Jump and 6th place in Triple
+Jump</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Track &amp; Field Relay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4x400m Boys Team achieved 7th place in the Finals</p>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
+</div>
+<p>Click to view photos from our CCA activities and training.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Events/Activities</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/TrackField__5_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/TrackField__3_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/TrackField__4_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/TrackField__2_.png">
+</div>
 </div>
 </details>
 </div>
-<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
+</div>
+<p><strong>Meet Our Executive Committee (EXCO) Members</strong>
+</p>
 <details class="isomer-details">
-<summary>List of EXCO Members</summary>
+<summary>Click to view members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -377,4 +282,5 @@ Silver Medal in 1500m Walk Boys Race</p>
 <p></p>
 </div>
 </details>
+<p></p>
 <p></p>

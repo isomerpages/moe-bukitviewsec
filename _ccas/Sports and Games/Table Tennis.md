@@ -5,11 +5,16 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<h2><strong>Table Tennis</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/Table_Tennis__1_.svg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Table_Tennis_Formal.jpg">
 </div>
-<h4>BACKGROUND</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
+</div>
 <p>Our Table Tennis Team aims to provide opportunities for students not just
 to achieve excellence but also to develop themselves into well-rounded
 individuals by honing their leadership, sportsmanship and mental toughness.</p>
@@ -151,4 +156,7 @@ every single point.</p>
 </details>
 </div>
 <h4></h4>
+<p><strong>Meet Our Executive Committee (EXCO) Members</strong>
+</p>
+<p>Click to view members</p>
 <p></p>

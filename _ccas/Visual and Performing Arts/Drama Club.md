@@ -5,125 +5,104 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h2><strong>Drama Club</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/Drama_Club__1_.svg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Drama_Club_Formal.jpg">
 </div>
 <p></p>
-<h4><strong>BACKGROUND</strong></h4>
-<p>The Drama Club provides students with a comprehensive introduction to
-drama, focusing on essential skills like performance techniques, scriptwriting,
-and blocking. We aim to build a solid foundation in dramatic conventions,
-from developing characters and crafting dialogue to mastering stage movement
-and positioning.</p>
-<p>Members work together in ensemble pieces, emphasizing the importance of
-collaboration as they prepare for performances and competitions. Key skills
-such as voice projection, clear diction, and improvisation are cultivated,
-helping students become more confident and effective on stage. Additionally,
-students explore aspects of set design and basic technical elements, gaining
-a broader understanding of theatre production.</p>
-<p>These skills come into play during performances, including the Singapore
-Youth Festival Arts presentation, where students can showcase their abilities.
-Through these experiences, they not only grow as performers but also enhance
-valuable skills in communication, teamwork, and creative problem-solving—qualities
-that will benefit them in various aspects of life.</p>
-<h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>SHOWCASES &amp; EVENTS</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h4><br><br><strong>[2024]</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
+</div>
+<p>The Drama Club provides students with opportunities to develop confidence,
+creativity, and communication skills through theatre and performance. Members
+are introduced to essential drama techniques such as acting, scriptwriting,
+improvisation, stage movement, and voice projection. Through collaborative
+performances, competitions, and production experiences, students strengthen
+teamwork, problem-solving, and self-expression while gaining a deeper appreciation
+for theatre arts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
+</div>
+<p>The<strong> Drama Club</strong> aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>National Day School Celebration - </strong><em>Performance:</em> “The
-Life of Lee Kuan Yew”</p>
+<p>Develop confidence and communication skills through drama and performance</p>
 </li>
 <li>
-<p><strong>International Science Drama Competition- </strong>P<em>erformance:</em> “The
-Green Metropolis”</p>
+<p>Equip students with performance techniques such as improvisation, scriptwriting,
+and stage movement</p>
 </li>
 <li>
-<p><strong>School Events - </strong><em>Performances for:</em> Teachers’ Day,
-National Day, Youth Day</p>
+<p>Encourage creativity, collaboration, and self-expression through ensemble
+work</p>
+</li>
+<li>
+<p>Build teamwork and leadership through performances and productions</p>
+</li>
+<li>
+<p>Develop problem-solving and critical thinking skills through theatre activities</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/schedule___teacher_info.svg">
 </div>
-</details>
+<p>🔗<strong><a href="https://www.bukitviewsec.moe.edu.sg/cca-training-timetable/" rel="noopener nofollow" target="_blank">View Training Schedule &amp; Teacher Information</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
+</div>
+<p><strong>Members have opportunities to:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Perform at school events such as National Day, Open House, and the 40th
+Anniversary Concert</p>
+</li>
+<li>
+<p>Participate in drama performances and productions including <em>The Little Prince</em> for
+SYF 2025</p>
+</li>
+<li>
+<p>Develop acting, scriptwriting, improvisation, and stage production skills
+through rehearsals and performances</p>
+</li>
+<li>
+<p>Build confidence, teamwork, and communication skills through collaborative
+theatre experiences</p>
+</li>
+<li>
+<p>Take part in drama-related performances, showcases, and competitions</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/CCA_20266__3_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
+</div>
+<p>Click to view photos from our CCA activities and training.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>HONORS &amp; RECOGNITION</strong>
-</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2025 Arts Presentations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>International Science Drama Competition 2024
-<br>(Science Centre)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Third Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2023 Arts Presentations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2021 Arts Presentations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2019 Arts Presentations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2017 Arts Presentations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF 2015 Arts Presentations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/CCA_20266__4_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/CCA_20266__10_.png">
+</div>
 </div>
 </details>
 </div>
-<h4><strong>PHOTO GALLERY</strong></h4>
-<p>Please click to view the photos of event.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>International Science Drama Competition</strong>
@@ -210,11 +189,15 @@ National Day, Youth Day</p>
 </div>
 </details>
 </div>
-<h4></h4>
-<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
+</div>
+<p><strong>Meet Our Executive Committee (EXCO) Members</strong>
+</p>
+<p>Click to view members</p>
 <details class="isomer-details">
-<summary>List of EXCO Members</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
@@ -242,40 +225,7 @@ National Day, Youth Day</p>
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YADAV KRINJAL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S3-E</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-President</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LEW JIA HONG (LIAO JIAHONG)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S3-G</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-President</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FARISHA SULAISTIN AGATHA SULAIMAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S3-B</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TANG RUI ' EN</p>
+<p>CELINE POK JIA HUI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3-F</p>
@@ -283,32 +233,10 @@ National Day, Youth Day</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Stage Manager</p>
+<p>Vice-President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SERI NUR ZAFEERAH BINTE SHAIFUL BHARIE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S3-B</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head Admin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>WONG YU LE SKYLER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S3-B</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head Logistics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SIVA SUBRAMANIAN DEVA DARSHINI</p>
+<p>DESIREE HO YONG EN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3-D</p>
@@ -316,109 +244,19 @@ National Day, Youth Day</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S1 Coordinators</p>
+<p>Vice-President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KARNATI SAI EASHAN&nbsp;</p>
 <p>ABDUL AAKIF BIN ABDUL HADI</p>
 </td>
 <td rowspan="1" colspan="1">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S1-G</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S1-H</p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S2 Coordinators</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SANJAY KARTHIGEYAN</p>
-<p>SHEENA YAP LI XUAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S2-C</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S2-F</p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S3 Coordinators</p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MUHAMMAD ISA BIN MUHAMMAD NUR HIDAYAT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>RIDDHYKHA RADJANE</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S3-B</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S3-E</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>S3-A</p>
 </td>
 </tr>
 </tbody>
 </table>
 </div>
 </details>
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

@@ -5,12 +5,17 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h2><strong>NPCC</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/NPCC__2_.svg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/NPCC_Formal.jpg">
 </div>
-<h4></h4>
-<h4><strong>BACKGROUND</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Uniformed%20Groups/NPCC/npcc12.jpg">
 </div>
@@ -315,10 +320,10 @@ in various sports and games.</p>
 </div>
 </details>
 </div>
-<h5><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h5>
+<h5><strong>Meet Our Executive Committee (EXCO) Members</strong></h5>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>List of EXCO Members</summary>
+<summary>Click to view members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Table</p>
 <table style="minWidth: 50px">
@@ -419,8 +424,7 @@ in various sports and games.</p>
 <h4><strong>Volunteer Adult Leaders/Non-Teachers</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>List of <strong>Volunteer Adult Leaders/Non-Teachers</strong>
-</summary>
+<summary>Click to view members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -451,5 +455,5 @@ in various sports and games.</p>
 </div>
 </details>
 </div>
-<h5></h5>
+<p></p>
 <p></p>

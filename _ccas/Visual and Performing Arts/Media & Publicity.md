@@ -5,71 +5,116 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h2><strong>Media &amp; Publicity Club</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Mediapub1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/Media___Pub__1_.svg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Media_and_Publicity_Formal.jpg">
 </div>
-<h4><strong>BACKGROUND</strong></h4>
-<p>The Media and Publicity Club serves to propagate the interest and appreciation
-for photography and videography through exposure to different media assignments,
-competitions and trainings.</p>
-<p>The Club provides training in the various aspect of photography and videography
-(equipment, lenses, composition and transitions) through workshops and
-fieldtrips which incorporates hands-on training as well as practical media-assignments/competitions.
-Different outings were conducted as part of students’ training in framing
-and composing a picture / scene.</p>
-<h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>SHOWCASES &amp; EVENTS</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
+</div>
+<p>The Media &amp; Publicity Club nurtures students’ interest and appreciation
+for photography, videography, and media production through hands-on learning
+experiences and practical assignments. Members are exposed to various aspects
+of media production, including equipment handling, composition, editing,
+and visual storytelling. Through workshops, field trips, competitions,
+and school media coverage opportunities, students develop creativity, teamwork,
+communication, and technical media skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
+</div>
+<p>The <strong>Media &amp; Publicity Club </strong>aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2023 Basic Photography (Event Photography Focus) Workshops</p>
+<p>Develop students’ interest and appreciation for photography and videography</p>
 </li>
 <li>
-<p>2022 Feature Videography Course with EMOStudios</p>
+<p>Equip students with media production and visual storytelling skills</p>
 </li>
 <li>
-<p>2022 Learning Journey to Bloomr.SG</p>
+<p>Build creativity, teamwork, and communication through collaborative projects</p>
 </li>
 <li>
-<p>2022 Learning Journey to TheSmartLocal</p>
+<p>Provide hands-on experiences through workshops, assignments, and competitions</p>
+</li>
+<li>
+<p>Develop confidence and technical competencies in media-related tasks</p>
+<p></p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/schedule___teacher_info.svg">
 </div>
-</details>
-<details class="isomer-details">
-<summary><strong>HONORS &amp; RECOGNITION</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>🔗<strong><a href="https://www.bukitviewsec.moe.edu.sg/cca-training-timetable/" rel="noopener nofollow" target="_blank">View Training Schedule &amp; Teacher Information</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
+</div>
+<p><strong>Members have opportunities to:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Lions Home for the Elders School Video Competition 2022</p>
+<p>Participate in photography and videography workshops and training sessions</p>
 </li>
 <li>
-<p>SYFgoesOnline! Pixel Perfect 2022</p>
+<p>Learn media skills such as composition, framing, transitions, and equipment
+handling</p>
 </li>
 <li>
-<p>Our Schools, Our Stories 2022</p>
+<p>Take part in field trips and practical media assignments</p>
+</li>
+<li>
+<p>Cover school events through photography and videography projects</p>
+</li>
+<li>
+<p>Participate in media-related competitions and collaborative projects</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
 </div>
-</details>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Achievement / Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Details</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Media Competitions &amp; Assignments</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Event Media Coverage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Photography &amp; Videography Projects</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
 </div>
-<h4><strong>PHOTO GALLERY</strong></h4>
+<p>Click to view photos from our CCA activities and training.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Please click to view the photos of event.</strong>
+<summary><strong>Activities / Training</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -147,7 +192,11 @@ and composing a picture / scene.</p>
 </details>
 </div>
 <p></p>
-<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
+</div>
+<p><strong>Meet Our Executive Committee (EXCO) Members</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>List of EXCO Members</summary>

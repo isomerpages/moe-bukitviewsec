@@ -5,46 +5,55 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<h2><strong>Infocomm Club</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/Infocomm_Club.svg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Infocomm_Club_Formal.jpg">
 </div>
-<h4><strong>BACKGROUND</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
+</div>
+<p></p>
 <p>We aspire to level up the skills of our students in Infocomm areas including
 Digital Animation, Games Development and Coding.</p>
-<h4><strong>OBJECTIVES</strong></h4>
-<h4>The Infocomm Club aims to :</h4>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Excite students about the possibilities of infocomm through a structured
-curriculum;</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
 </div>
+<p><strong>The Infocomm Club aims to :</strong>
+</p>
+<ul>
+<li>
+<p>Excite students about the possibilities of infocomm through a structured
+curriculum;</p>
+</li>
+<li>
+<p>Expand students’ creative and entrepreneurial spirit through application
+of infocomm in school;</p>
+</li>
+<li>
+<p>Equip students with 21st century infocomm skills so that they can creatively
+communicate ideas in their school work</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/schedule___teacher_info.svg">
 </div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Expand students’ creative and entrepreneurial spirit through application
-of infocomm in school;</div>
+<p>🔗<strong><a href="https://www.bukitviewsec.moe.edu.sg/cca-training-timetable/" rel="noopener nofollow" target="_blank">View Training Schedule &amp; Teacher Information</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Equip students with 21st century infocomm skills so that they can creatively
-communicate ideas in their school work</div>
-</div>
-</div>
-</div>
-<h4><strong>HIGHLIGHT OF THE YEAR</strong></h4>
+<p><strong>Members have opportunities to:</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>SHOWCASES &amp; EVENTS</strong>
-</summary>
+<summary>&gt; To learn computational thinking through coding using the following:</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Members have the opportunities</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>To learn computational thinking through coding using the following:</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <ul>
 <li>
 <p>Scratch</p>
@@ -65,9 +74,9 @@ communicate ideas in their school work</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary>To take part in the following competitions/ activities</summary>
+<summary>&gt; To take part in the following competitions/ activities:</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>In 2024/2025</p>
+<p></p>
 <ul>
 <li>
 <p>BBSS X SCOGA Campus Legend Competition</p>
@@ -100,12 +109,13 @@ communicate ideas in their school work</div>
 </div>
 </details>
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
 </div>
-</details>
-<details class="isomer-details">
-<summary><strong>HONORS &amp; RECOGNITION</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Photo_album__2_.svg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -124,16 +134,16 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Bebras</strong>
+<p><strong><em>Bebras</em></strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>3 Gold, 3 Silver, 9 Bronze and 10 Honorable Mentions</p>
+<p>3 Gold, 1 silver, 9 bronze and 15 honorable mentions</p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>National Junior Informatics Olympiad</strong>
+<p><strong><em>National Junior Informatics Olympiad</em></strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -142,7 +152,7 @@ communicate ideas in their school work</div>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Young Technoprenuer Challenge</strong>
+<p><strong><em>Young Technoprenuer Challenge</em></strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -152,177 +162,38 @@ communicate ideas in their school work</div>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
+</div>
+<p>Click to view photos from our CCA activities and training.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Activities / Training</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Infocomm_Club__3_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Infocomm_Club__1_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/2026 Webpage/Infocomm_Club__4_.png">
+</div>
 </div>
 </details>
 </div>
-<h4><strong>PHOTO GALLERY</strong></h4>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Clubs and Societies/Infocomm Club/World_Water_Day.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">World Water Day (WWD)</div>
-<div class="isomer-card-description">1a) Developing games to raise awareness about World Water Day (WWD) 1b)
-Mending the booth during WWD - inviting school mates to play the games
-infocomm club members have created</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Infocomm club/CCA_Awards_Day.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">CCA Awards Day</div>
-<div class="isomer-card-description">Acknowledging individuals who exceed expectations</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA Page/Clubs and Societies/Infocomm Club/National_Youth_Tech_Championship__replace_current_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">National Youth Tech Championship</div>
-<div class="isomer-card-description">A competition focused on learning and using drones to stay updated with
-rapidly evolving technology organised by Infocomm Media Development Authority
-(IMDA) hosted at Google Headquarters</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ict" src="/images/CCA Page/Clubs and Societies/Infocomm Club/Young_Technoprenuer.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Young Technopreneur</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="lk" src="/images/CCA Page/Clubs and Societies/Infocomm Club/VIA_teaching_elderly_Google_translate.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">VIA</div>
-<div class="isomer-card-description">Teaching the elderly in the use of Google translate</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Olympiad" src="/images/CCA Page/Clubs and Societies/Infocomm Club/National_Junior_Informatics_Olympiad_Please_replace_DrCT_photo.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">National Junior Informatics Olympiad</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LJ" src="/images/CCA Page/Clubs and Societies/Infocomm Club/Learning_Journey_to_Trueworld_Studios.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Learning Journey to Trueworld Studios</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt=".." src="/images/CCA Page/Clubs and Societies/Infocomm Club/Robotics_with_AI_replace_Robotics_Session_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Robotics with AI</div>
-<div class="isomer-card-description">Learning to programme robots to solve real-world problems</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VR" src="/images/CCA Page/Clubs and Societies/Infocomm Club/VR_Arkio_3D_City_Building_Workshop.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">VR Arkio 3D City Building Workshop</div>
-</div>
-</div>
-</div>
-<h4><strong>CCA TRAINING DAY(S)/ TIME</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Day(s)</strong>
+<p><strong>Meet Our Executive Committee (EXCO) Members</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:45 pm – 5:30 pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>TEACHERS-IN-CHARGE</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Patricia Lye</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Lee Poh Tin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kendrick Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
 <details class="isomer-details">
-<summary>List of EXCO Members</summary>
+<summary>Click to view members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -346,24 +217,26 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairperson</p>
+<p><strong>Chairperson</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lau Jun Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F</p>
+<p>4F</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Vice- Chairperson</p>
+<p><strong>Vice- Chairperson</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lee Jung Kye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F</p>
+<p>4F</p>
 </td>
 </tr>
 <tr>
@@ -371,99 +244,108 @@ rapidly evolving technology organised by Infocomm Media Development Authority
 <p>Elamaran Neerasree</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E</p>
+<p>4E</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Welfare</p>
+<p><strong>Head of Welfare</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nihal Naushad Bin Mohammed Muzammeen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3D</p>
+<p>4D</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Welfare committee member</p>
+<p><strong>Welfare committee member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boddu Chetan Varma</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3C</p>
+<p>4C</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Media and Communications</p>
+<p><strong>Head of Media and Communications</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chua Denise Cristine Billar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3B</p>
+<p>4B</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Media and Communications committee member</p>
+<p><strong>Media and Communications committee member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ayden Soh Yan Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3G</p>
+<p>4G</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Tech for Good</p>
+<p><strong>Head of Tech for Good</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kam Siu Haap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3G</p>
+<p>4G</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tech for Good committee member</p>
+<p><strong>Tech for Good committee member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jovie Lim Jun Le</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F</p>
+<p>4F</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Admin and Logistics</p>
+<p><strong>Head of Admin and Logistics</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Jun Hao Davian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F</p>
+<p>4F</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin and Logistics Committee member</p>
+<p><strong>Admin and Logistics Committee member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tsang Yan Jun Merwin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3G</p>
+<p>4G</p>
 </td>
 </tr>
 </tbody>
 </table>
 </div>
 </details>
+<p></p>
 <p></p>

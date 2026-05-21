@@ -4,6 +4,26 @@ permalink: /our-story/achievements/
 description: ""
 variant: tiptap
 ---
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/clubs_and_societies_4.svg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h3><strong>2026</strong></h3>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Achievements</strong> 2026</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -279,6 +299,15 @@ finished 4th in both the 3000m Final and 1500m Final.</p>
 </table>
 </div>
 </details>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/clubs_and_societies.svg">
+</div>
+<h3></h3>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin Matters/IMG_6108.png">
 </div>
 <h3><strong>Achievements</strong> 2025</h3>
 <h4><strong>Academic Achievements</strong></h4>

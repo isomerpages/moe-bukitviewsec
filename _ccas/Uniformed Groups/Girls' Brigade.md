@@ -5,63 +5,88 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h2><strong>Girls' Brigade</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Banner/GB.svg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Page/Group%20Photo/Girl_s_Brigade_Formal.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/GB1.jpg">
 </div>
-<h4><strong>BACKGROUND</strong></h4>
-<p>In Girls’ Brigade, our mission and objective is to develop each girl and
-officer to her fullest potential by equipping, empowering and enabling
-Every Girl a Leader, Every Officer a Servant Leader.</p>
-<p>Our GB Programmme comprises four aspects – physical, educational, values
-and social. Participating in weekly drills and physical activities like
-kayaking, games or outdoor cooking encourage our girls to work in teams
-with grit and perseverance to give their best. Educational sessions whether
-in baking, coding, craft or calligraphy provide opportunities for every
-girl to enjoy learning new skills with zest and enthusiasm. Through serving
-the needy and others in the community, our girls learn important values
-of gratitude, respect, responsibility and compassion.</p>
-<h4></h4>
-<h3><strong>HIGHLIGHTS OF THE YEAR</strong></h3>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>SHOWCASES &amp; EVENTS</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h4></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
+</div>
+<p>In Girls’ Brigade, our mission is to develop each girl and officer to
+her fullest potential by equipping, empowering, and enabling Every Girl
+a Leader, Every Officer a Servant Leader.</p>
+<p>The BVSS Girls’ Brigade provides opportunities for girls to grow in leadership,
+character, resilience, and teamwork through a holistic programme that focuses
+on physical, educational, values, and social development. Through weekly
+drills, outdoor activities, skills-based learning, and community service,
+members develop grit, responsibility, compassion, and confidence while
+learning to contribute meaningfully to the community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/student_experience.svg">
+</div>
+<p>The <strong>Girls’ Brigade</strong> aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Attained GB Gold Award 2022</p>
+<p>Participate in outdoor and physical activities such as kayaking, games,
+and outdoor cooking</p>
 </li>
 <li>
-<p>Sec 3 Leadership Conference in February</p>
+<p>Develop practical skills through activities such as baking, coding, craft,
+and calligraphy</p>
 </li>
 <li>
-<p>GB National Competition – Silver Award and Bronze Award for GB Dr Low
-Guat Tin Challenge 2022</p>
+<p>Learn teamwork, perseverance, and responsibility through weekly drills
+and group activities</p>
 </li>
 <li>
-<p>GB National Drill Competition 2023 – Bronze Award</p>
+<p>Serve the community through meaningful outreach and service-learning projects</p>
 </li>
 <li>
-<p>Urban Hike &amp; Musical in May 2023 camp</p>
-</li>
-<li>
-<p>GB Friend in Deed @ Jurong East in July 2023</p>
+<p>Build confidence, leadership, and character through shared learning experiences</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/schedule___teacher_info.svg">
 </div>
-</details>
-<details class="isomer-details">
-<summary><strong>HONORS &amp; RECOGNITION</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<h4><strong>AWARDS AND ACHIEVEMENTS</strong></h4>
+<p>🔗<strong><a href="https://www.bukitviewsec.moe.edu.sg/cca-training-timetable/" rel="noopener nofollow" target="_blank">View Training Schedule &amp; Teacher Information</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/programm.svg">
+</div>
+<p><strong>Members have opportunities to:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participate in leadership programmes such as the Sec 3 Leadership Conference
+and HQ Non-Commissioned Officer Training Camp</p>
+</li>
+<li>
+<p>Take part in national events and competitions including the GB National
+Drill Competition and Dr Low Guat Tin Challenge</p>
+</li>
+<li>
+<p>Attend camps, outdoor activities, and learning journeys such as the March
+Camp with SGSecure Learning Journey and Kinball</p>
+</li>
+<li>
+<p>Serve the community through initiatives such as GB Friend-In-Deed and
+Community Service @ Marsiling RC</p>
+</li>
+<li>
+<p>Participate in inter-school bonding and learning experiences including
+the Year-End Combined GBBB Camp and overseas trips</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/achievement.svg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -70,96 +95,67 @@ Guat Tin Challenge 2022</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Achievement / Competition</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Details</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>GB Company Award</strong>
-</p>
+<p>GB Company Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Achieved Sustained Gold Award for 5 years</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2010-&nbsp; 2025</strong>
-</p>
+<p>Gold Award (2010 onwards)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>GB National Drill Competition</strong>
-</p>
+<p>GB Company Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Pioneer Brigader Brooch (PBB) Award</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2026</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Jayaraman Ashmitha (4F)</p>
-</li>
-</ul>
-<p></p>
-<p><strong>2021 - 2022</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Arumugam Girija</p>
-</li>
-<li>
-<p>Grace Soundharya Samuel</p>
-</li>
-<li>
-<p>Ng Yun Nie</p>
-</li>
-<li>
-<p>Vatsala Pachigulla</p>
-</li>
-</ul>
+<p>Sustained Gold Award
+<br>— 15 Consecutive Years</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>GB Low Guat Tin Challenge 2021</strong>
-</p>
+<p>GB National Drill Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2021</strong>
-</p>
-<p>Silver Award and Bronze Award</p>
-<p><strong>2022</strong>
-</p>
-<p>Silver Award and Bronze Award</p>
+<p>Bronze Award (2025)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pioneer Brigader Brooch (PBB) Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jayaraman Ashmitha (2026)
+<br>Arumugam Girija (2021)
+<br>Grace Soundharya Samuel (2021)
+<br>Ng Yun Nie (2022)
+<br>Vatsala Pachigulla (2022)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GB Low Guat Tin Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award &amp; Bronze Award (2021 – 2022)
+<br>Silver Award (2024)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/gallery.svg">
 </div>
-</details>
-</div>
-<p></p>
-<h4><strong>PHOTO GALLERY</strong></h4>
+<p>Click to view photos from our CCA activities and training.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Please click to view the photos of event.</strong>
+<summary><strong>Events/Activities</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
@@ -186,15 +182,6 @@ Guat Tin Challenge 2022</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -231,29 +218,20 @@ Guat Tin Challenge 2022</p>
 </div>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 </div>
 </details>
 </div>
 <p></p>
-<h4><strong>EXECUTIVE COMMITTEE MEMBERS (EXCO)</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>List of EXCO Members</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br><strong><u>List of EXCO Members</u></strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
+</div>
+<p><strong>Meet Our Executive Committee (EXCO) Members</strong>
 </p>
+<details class="isomer-details">
+<summary>Click to view members</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -262,64 +240,39 @@ Guat Tin Challenge 2022</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>EXCO Positions</strong>
+<td rowspan="1" colspan="1">
+<p><strong>EXCO Positions&nbsp;</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Name</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name&nbsp;</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Class</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Company Leader</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Packiaraj Patric Samantha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 E</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Company Leader</strong>
-</p>
+<p>Company Leader&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ang Jia Yi</p>
+<p>CHEAH KA KEI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 G</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Avia Ang Yishan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 A</p>
+<p>3A</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Squad Leader</strong>
-</p>
+<p>Assistant Company Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anusheka D/O Kumar</p>
+<p>SOPHIE TAN EN QI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 A</p>
+<p>3H</p>
 </td>
 </tr>
 <tr>
@@ -327,10 +280,32 @@ Guat Tin Challenge 2022</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fayth Teo En Ning</p>
+<p>SAHANA ARVINDRAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 C</p>
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drill I/C&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEAH KA WAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Squad Leaders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NITHYASHRI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
 </td>
 </tr>
 <tr>
@@ -338,21 +313,10 @@ Guat Tin Challenge 2022</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Peter Benny Chrissy</p>
+<p>SELVASEKARAN PREETI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 E</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wong Charlotte</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 C</p>
+<p>3B</p>
 </td>
 </tr>
 <tr>
@@ -360,17 +324,100 @@ Guat Tin Challenge 2022</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>SRISAINATH HIYAA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>VIGNESHWARAN LAKSHANNAA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Squad Leaders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI XUE YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EZHILVALAVAN DANUSHA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TOH YU CHEN DEIDRE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANG YI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare &amp; Admin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHONG KAI XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SWAMINATHA RAJA MADHUMITHA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </div>
 </details>
-</div>
-<p></p>
 <p></p>
