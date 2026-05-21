@@ -116,10 +116,16 @@ values of sportsmanship, leadership and zest.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/leadership.svg">
+</div>
 <p><strong>Meet Our Executive Committee (EXCO) Members</strong>
 </p>
-<p>Click to view members</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Click to view members</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>EXCO Members (Girls)</strong>
 </p>
 <table style="minWidth: 75px">
@@ -365,4 +371,8 @@ values of sportsmanship, leadership and zest.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
