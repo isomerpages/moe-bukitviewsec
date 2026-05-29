@@ -36,7 +36,7 @@ third_nav_title: Staff
 <p>Lee Hui Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prinicipal</p>
+<p>Principal</p>
 </td>
 </tr>
 <tr>
