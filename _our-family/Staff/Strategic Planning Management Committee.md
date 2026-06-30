@@ -154,10 +154,10 @@ third_nav_title: Staff
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Wuay Boon</p>
+<p>Vinod Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Science</p>
+<p>HOD/Science (Int)</p>
 </td>
 </tr>
 <tr>
@@ -312,17 +312,6 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/EdTech</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vinod Kumar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Biology</p>
 </td>
 </tr>
 <tr>
