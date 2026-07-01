@@ -17,7 +17,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Page/Headers/abt_cca.svg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/Volleyball-Logo-300x220.jpg">
+<img style="width: 25%;" height="auto" width="100%" src="/images/Volleyball-Logo-300x220.jpg">
 </div>
 <p>The BVSS Volleyball team is committed to cultivating a culture of excellence
 that supports both the mental and physical development of our athletes.
