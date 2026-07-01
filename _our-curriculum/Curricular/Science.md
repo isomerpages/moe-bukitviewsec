@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Department photos/Department logo/Science_Department.png">
 </div>
-<h4>Our Teachers</h4>
+<h4><strong>Our Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -18,26 +18,14 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Head of Department:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Mr Ng Wuay Boon</strong>
-</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -55,54 +43,68 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kumutha Maniam (AYH)</p>
+<p><strong>Ms Kumutha Maniam (SH/CCE)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Neal Warren Cooke</p>
+<p><strong>Mr Poh Soon Ming (SH/Physics)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Vinod (SH/Biology &amp; LSS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Foong Bee Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chin Kwek Siong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kendrick Tan (SH/Ed-Tech)</p>
+<p><strong>Mr Vinod (SH/Biology)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chong Han</p>
+<p><strong>Mr Joshua Lee (AYH)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Michael Ho</p>
+<p><strong>Mr Chin Kwek Siong</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shalom Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Joshua Lee (AYH)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Aw Kang Foong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Tse Jiang Russell</p>
+<p><strong>Mr Kendrick Tan (SH/Ed-Tech)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fatimah Begum</p>
+<p><strong>Mr Tan Chong Han</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lin I Chen</p>
+<p><strong>Mr Neal Warren Cooke</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Shalom Tan</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Fatimah Begum</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lin I Chen</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lim Tse Jiang Russell</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Muhd Na'im</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Michael Ho</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -110,10 +112,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Na'im</p>
+<p><strong>Ms Lim Ying Faye</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr Aw Kang Foong</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -121,7 +125,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Ying Faye</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -133,31 +137,29 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<h4>Vision</h4>
-<p>Creative Thinker, Passionate Learner, with a spirit of scientific inquiry
-and empathy for man and nature.</p>
+<h4><strong>Vision</strong></h4>
+<p><strong>Creative Thinker, Passionate Learner, with a spirit of scientific inquiry and empathy for man and nature.</strong>
+</p>
 <hr>
-<h4>Mission&nbsp;</h4>
-<p>To inculcate pupils with relevant knowledge, skills and values through
-providing meaningful and engaging experiences.</p>
+<h4><strong>Mission&nbsp;</strong></h4>
+<p><strong>To inculcate pupils with relevant knowledge, skills and values through providing meaningful and engaging experiences.</strong>
+</p>
 <hr>
-<h4>Curriculum</h4>
-<p>The Science curriculum in Bukit View is aligned to the MOE Science Curriculum
-Framework (Figure 1) which encapsulates the thrust of science education
-in Singapore, providing students with a strong foundation in science for
-life, future learning, citizenry and work.</p>
+<h4><strong>Curriculum</strong></h4>
+<p><strong>The Science curriculum in Bukit View is aligned to the MOE Science Curriculum Framework (Figure 1) which encapsulates the thrust of science education in Singapore, providing students with a strong foundation in science for life, future learning, citizenry and work.</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
-<p>Our department aim to:
+<p><strong>Our department aim to:</strong> 
 <br>1. cultivate student’s perception of Science as a collective effort and
 a way of thinking rather than just a body of facts;
 <br>2 . engage students in Science-related issues that concern their lives
 the society and the environment; and
 <br>3 . help students develop the domains that are integral to the conduct
 of Science inquiry.</p>
-<p>We will achieve that by:
+<p><strong>We will achieve that by:</strong> 
 <br>1. teaching Science as inquiry;
 <br>2. allowing students, through inquiry, to acquire knowledge and understanding
 of their natural and physical world based on their own investigations,
@@ -165,7 +167,7 @@ apply the skills and processes of inquiry and develop attitude and values
 that are essential to the practice of Science; and
 <br>3. nurturing students who enjoy Science and value science as an important
 tool in helping them explore their natural and physical world.</p>
-<p>Students should be able to
+<p><strong>Students should be able to </strong>
 <br>1. use scientific skills in everyday life,
 <br>2. make informed decisions related to Science and technology,
 <br>3. engage in meaningful scientific discourse with others e.g. social and
