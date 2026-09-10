@@ -227,7 +227,7 @@ peak periods.</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">In-Trend Uniforms Pte Ltd</div>
-<div class="isomer-card-description">📍 1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934 🌐 www.intrenduniforms.com |
+<div class="isomer-card-description">📍 7 KAKI BUKIT ROAD 1 #01-05 EUNOS TECHNOLINK SINGAPORE 415937 🌐 www.intrenduniforms.com |
  📞 6741 0930 |  ✉️ sales@itu.com.sg</div>
 </div>
 </div>
