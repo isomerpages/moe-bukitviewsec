@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Felix Wong (DM)</p>
+<p>Mr Felix Wong (HOD/Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Elamaran (DM)</p>
