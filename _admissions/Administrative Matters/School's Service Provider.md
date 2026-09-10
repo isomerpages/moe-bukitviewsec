@@ -184,9 +184,10 @@ this page by clicking here</p>
 <p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Kaki Bukit Road 1
-<br>#01-30/31, Enterprise One
-<br>Singapore 415934</p>
+<p>7 KAKI BUKIT ROAD 1</p>
+<p>#01-05 EUNOS TECHNOLINK</p>
+<p>SINGAPORE 415937</p>
+<p>(DT27 Ubi MRT Station)</p>
 </td>
 </tr>
 <tr>
