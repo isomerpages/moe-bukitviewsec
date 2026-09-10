@@ -195,6 +195,17 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Felix Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -228,17 +239,6 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Felix Wong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Student Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -268,17 +268,6 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/CL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Patricia Lye</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Computing</p>
 </td>
 </tr>
 <tr>
